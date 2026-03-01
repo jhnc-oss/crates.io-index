@@ -18,3 +18,4 @@
 {"name":"t-oc","vers":"6.1.1","deps":[],"cksum":"3c7a70880bbc2e7f415796350cd48908ba8bac275c30c1080d8b947af6efcabb","features":{"test-ext":[]},"yanked":false,"pubtime":"2025-03-09T20:19:27Z"}
 {"name":"t-oc","vers":"7.0.0","deps":[],"cksum":"0ba9e970c2cd5f573bf2041214f0f7de087191363df820cc42d70633ce73f3f7","features":{"test-ext":[]},"yanked":false,"pubtime":"2025-03-25T20:17:01Z"}
 {"name":"t-oc","vers":"7.0.1","deps":[],"cksum":"fda3285cfdf12a88fc04b44b358e9d6bbfc725125e53db6337283feb91c5048a","features":{"test-ext":[]},"yanked":false,"pubtime":"2025-05-11T19:18:40Z"}
+{"name":"t-oc","vers":"8.0.0","deps":[],"cksum":"a4055b794489be0e7a57a79da2d0014d26b91dc890aaf2d6ef23ca91cec59c35","features":{"test-ext":[]},"yanked":false,"pubtime":"2026-03-01T21:15:36Z"}
