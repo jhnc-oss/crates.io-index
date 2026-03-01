@@ -1,0 +1,1 @@
+{"name":"bulge_gcode","vers":"0.1.1","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8243c0059e91c9c9679a1a24aa107f0bbb420763bf388aa07c5fe72fd05bf3b","features":{},"yanked":false,"pubtime":"2026-03-01T18:00:50Z"}
