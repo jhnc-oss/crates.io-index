@@ -1,0 +1,1 @@
+{"name":"goud-engine-sdk","vers":"0.0.818","deps":[{"name":"goud_engine","req":"=0.0.818","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e60f1a6894f6ad2ec97866c9282d6af7f3fb8ec77f138958b558aa6ab66842f","features":{},"yanked":false,"pubtime":"2026-03-01T16:26:50Z"}
