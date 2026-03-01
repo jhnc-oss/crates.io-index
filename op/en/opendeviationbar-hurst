@@ -1,0 +1,1 @@
+{"name":"opendeviationbar-hurst","vers":"12.39.0","deps":[{"name":"linreg","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35495062ea7e7d39fbc15a07be9045e0166df1c56c10a1af8f14f71f832083cd","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-03-01T22:23:19Z"}
