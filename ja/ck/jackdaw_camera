@@ -1,0 +1,1 @@
+{"name":"jackdaw_camera","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.18","features":["experimental_bevy_feathers","serialize","debug","bevy_remote"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79cd4e7e3cf37720e5e70b76ebdbc4d1af5129529dfddd8ea1ba831865072248","features":{},"yanked":false,"pubtime":"2026-03-02T23:34:11Z"}
