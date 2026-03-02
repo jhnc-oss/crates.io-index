@@ -1,0 +1,1 @@
+{"name":"varpulis-simd","vers":"0.5.0","deps":[{"name":"varpulis-core","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"031c9f19e9a91dfe64cd72af60e5b55dd680b6e86c4d4f7ca5eaddd33296c49b","features":{},"yanked":false,"pubtime":"2026-03-02T09:36:23Z"}
