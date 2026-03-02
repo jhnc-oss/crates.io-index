@@ -1,0 +1,1 @@
+{"name":"shell-agent","vers":"0.0.0","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd7ddcbd8b379f3db93f66f56f5cb8d4ea0e344896286f61f4184be8f65474cd","features":{},"yanked":false,"pubtime":"2026-03-02T23:40:48Z"}
