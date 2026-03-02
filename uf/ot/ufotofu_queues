@@ -6,3 +6,4 @@
 {"name":"ufotofu_queues","vers":"0.5.0","deps":[],"cksum":"d903d5bc0e14d24559dac3b9690d004ad3fb08d66f93d87d28f5cb3466b5b55b","features":{"alloc":[],"default":["std"],"nightly":[],"std":[]},"yanked":false,"pubtime":"2024-08-08T18:45:42Z"}
 {"name":"ufotofu_queues","vers":"0.6.0","deps":[],"cksum":"9abd2f0123cc71fa3adf9329b85d9eb863874e489744803f3a41fff59b56968d","features":{"alloc":[],"default":["std"],"nightly":[],"std":[]},"yanked":false,"pubtime":"2024-11-30T09:11:32Z"}
 {"name":"ufotofu_queues","vers":"0.6.1","deps":[],"cksum":"56ceb4bd284eeef9206c4443954bd784c2c5fbbea78e14081a5419f276c71900","features":{"alloc":[],"default":["std"],"nightly":[],"std":[]},"yanked":false,"pubtime":"2025-08-06T13:40:49Z"}
+{"name":"ufotofu_queues","vers":"0.7.0","deps":[],"cksum":"b7694e87bc28b2af11fc9ee6ab36106872ee505f99a5829b85b82b90907fd3a6","features":{},"yanked":false,"pubtime":"2026-03-02T08:54:47Z"}
