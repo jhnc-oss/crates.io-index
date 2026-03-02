@@ -1,0 +1,1 @@
+{"name":"despina","vers":"0.4.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c3f689ac9723c20b79910182eb98c33f7ba513349cac9f8e5475d93a02f3ef0a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-02T22:53:57Z"}
