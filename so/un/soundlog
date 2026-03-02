@@ -6,3 +6,4 @@
 {"name":"soundlog","vers":"0.6.0","deps":[],"cksum":"6b2284e2afaa44ce60e79d15a499ac49cfd0636ea48db3d802ea92c69dbd7467","features":{},"yanked":false,"pubtime":"2026-02-22T15:56:32Z"}
 {"name":"soundlog","vers":"0.7.0","deps":[],"cksum":"2a299224de6f7eab25a3eaa88d470e731b57f264e68883289229ffdf59c5c8a9","features":{},"yanked":false,"pubtime":"2026-02-25T08:55:44Z"}
 {"name":"soundlog","vers":"0.8.0","deps":[],"cksum":"6070ef52d7f76b9a6ebd4e5cfc63d8025dec3ae7c508864da8a1fa9d3d239da1","features":{},"yanked":false,"pubtime":"2026-02-26T23:07:57Z"}
+{"name":"soundlog","vers":"0.9.0","deps":[],"cksum":"33fa2d1895ee6190ba6c9f2536ccb9c68c1f744e68305d302dfcc026e914357b","features":{},"yanked":false,"pubtime":"2026-03-02T05:48:28Z"}
