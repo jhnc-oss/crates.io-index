@@ -7,3 +7,4 @@
 {"name":"oneiros-fs","vers":"0.0.5-rc3","deps":[],"cksum":"c224a7322a06369ae77315c0ca47e8adfbcb10fdc10bfcc572a1eec460972233","features":{},"yanked":false,"pubtime":"2026-02-14T22:53:10Z"}
 {"name":"oneiros-fs","vers":"0.0.5-rc4","deps":[],"cksum":"70cf011b3148ad74b73a423cd13f75ab87a3ca423eb90ec501bd45904d115ea1","features":{},"yanked":false,"pubtime":"2026-02-15T17:58:02Z"}
 {"name":"oneiros-fs","vers":"0.0.5","deps":[],"cksum":"7fbc88a6ec592b4593c14d9e616e45b5bade2cc479056e1d13dea4079a9b9092","features":{},"yanked":false,"pubtime":"2026-02-16T18:00:05Z"}
+{"name":"oneiros-fs","vers":"0.0.6","deps":[],"cksum":"de513a3377d81ac706f0659173bc47ad96310c29e77e3ba084ae844d1750174e","features":{},"yanked":false,"pubtime":"2026-03-02T10:14:36Z"}
