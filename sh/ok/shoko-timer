@@ -3,3 +3,4 @@
 {"name":"shoko-timer","vers":"0.2.1","deps":[],"cksum":"8540cf10066f0d0cece43b591347b0abb035c8c6ad841a032111b1f1261706bc","features":{},"yanked":false,"pubtime":"2026-03-02T04:07:07Z"}
 {"name":"shoko-timer","vers":"1.0.0","deps":[],"cksum":"5cfe8b2372fa0e3a02f452d814d8df3b4645e537374dc8f03561dcf10d4208f4","features":{},"yanked":false,"pubtime":"2026-03-03T05:41:06Z"}
 {"name":"shoko-timer","vers":"1.1.0","deps":[],"cksum":"68040ea410707714df26eaf21ad5a16d90bfcff2b098cb3c4de1562864ee78fb","features":{},"yanked":false,"pubtime":"2026-03-03T05:49:12Z"}
+{"name":"shoko-timer","vers":"1.1.1","deps":[],"cksum":"cd74fb479ed799182b1a4be105f6be1254465d298754abebe880dca5bd61328b","features":{},"yanked":false,"pubtime":"2026-03-03T06:15:52Z"}
