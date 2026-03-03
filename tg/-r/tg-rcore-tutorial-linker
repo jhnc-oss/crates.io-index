@@ -8,3 +8,4 @@
 {"name":"tg-rcore-tutorial-linker","vers":"0.4.2-preview.10","deps":[],"cksum":"96231e7eb1f484dafbb80445279f6bcb19b4b589ecb1beba772cffbf48e8b73a","features":{},"yanked":false,"pubtime":"2026-02-20T06:02:13Z"}
 {"name":"tg-rcore-tutorial-linker","vers":"0.4.3","deps":[],"cksum":"2a055d37b67d5a513d2a5fa7d828afb6679521ba6c5933e35c748e498f2a6016","features":{},"yanked":false,"pubtime":"2026-02-20T08:20:42Z"}
 {"name":"tg-rcore-tutorial-linker","vers":"0.4.4","deps":[],"cksum":"8a95bfe9e5d45b83c60aa0b2571a5c6685232c5fa1e91d9fc54040540afaed9e","features":{},"yanked":false,"pubtime":"2026-02-20T09:31:45Z"}
+{"name":"tg-rcore-tutorial-linker","vers":"0.4.5","deps":[],"cksum":"6af61169c1d6252d3d2124b83ae97791e5407521bd3f2cf06fe62e3f3cc059a8","features":{},"yanked":false,"pubtime":"2026-03-03T02:20:30Z"}
