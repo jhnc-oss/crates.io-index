@@ -36,3 +36,4 @@
 {"name":"maliput-sdk","vers":"0.16.0","deps":[],"cksum":"522b98a1e4d4b4190c26a7a5e94d180c244cb2160d58e121d2857d4907715a27","features":{},"yanked":false,"links":"maliput-sdk","pubtime":"2026-01-21T22:31:11Z"}
 {"name":"maliput-sdk","vers":"0.17.0","deps":[],"cksum":"2bfe413d5641cd32054186495094a0dcd350bb97ef92f4a2c25814347b75ee66","features":{},"yanked":false,"links":"maliput-sdk","pubtime":"2026-01-23T16:09:48Z"}
 {"name":"maliput-sdk","vers":"0.17.1","deps":[],"cksum":"e4394f82981f83d1ac2e0a425fd6618036ac234964a5f586cc48e583bbc0509a","features":{},"yanked":false,"links":"maliput-sdk","pubtime":"2026-01-27T17:23:09Z"}
+{"name":"maliput-sdk","vers":"0.18.0","deps":[],"cksum":"480b44b8f09e5f612fe144b1756a37ebd41ad45da4f888cb0538528589717ccd","features":{"all":["maliput_malidrive","maliput_geopackage"],"default":["maliput_malidrive"],"maliput_geopackage":[],"maliput_malidrive":[]},"yanked":false,"links":"maliput-sdk","pubtime":"2026-03-03T14:59:41Z"}
