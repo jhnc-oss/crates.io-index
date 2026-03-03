@@ -22,3 +22,4 @@
 {"name":"const_fn","vers":"0.4.9","deps":[],"cksum":"fbdcdcb6d86f71c5e97409ad45898af11cbc995b4ee8112d59095a28d376c935","features":{},"yanked":false,"rust_version":"1.31","pubtime":"2022-01-03T09:22:17Z"}
 {"name":"const_fn","vers":"0.4.10","deps":[],"cksum":"373e9fafaa20882876db20562275ff58d50e0caa2590077fe7ce7bef90211d0d","features":{},"yanked":false,"rust_version":"1.31","pubtime":"2024-04-21T04:23:01Z"}
 {"name":"const_fn","vers":"0.4.11","deps":[],"cksum":"2f8a2ca5ac02d09563609681103aada9e1777d54fc57a5acd7a41404f9c93b6e","features":{},"yanked":false,"rust_version":"1.31","pubtime":"2025-01-06T16:47:36Z"}
+{"name":"const_fn","vers":"0.4.12","deps":[],"cksum":"413d67b29ef1021b4d60f4aa1e925ca031751e213832b4b1d588fae623c05c60","features":{},"yanked":false,"rust_version":"1.31","pubtime":"2026-03-03T15:35:19Z"}
