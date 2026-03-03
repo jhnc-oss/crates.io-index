@@ -1,0 +1,1 @@
+{"name":"camel-cli","vers":"0.2.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d7c56c7a3815b29ddc3b8dc92464ab153b6924d99f679188e3637fb279e3c22","features":{},"yanked":false,"pubtime":"2026-03-03T13:39:53Z"}
