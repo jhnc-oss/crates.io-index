@@ -1,0 +1,1 @@
+{"name":"b2c_coffee_shop","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5510b496607ceb1db7b5d54bf5db00b3da926547868e33bc7d4a559767daa9a","features":{},"yanked":false,"pubtime":"2026-03-03T23:22:08Z"}
