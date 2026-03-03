@@ -1,0 +1,1 @@
+{"name":"fermat-core","vers":"0.1.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"36f7a37298164038a28651b3bd75316c31ed8aca6eab0009d153e8e2472b8caa","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-03-03T09:36:15Z"}
