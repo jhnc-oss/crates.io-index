@@ -1,1 +1,0 @@
-{"name":"time_calibrators","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"79dfb37a15be6b2e1120702b6b718a775d2e8af21970fca17dc3a86b1a6abcfc","features":{},"yanked":false,"pubtime":"2026-03-03T15:21:56Z"}
