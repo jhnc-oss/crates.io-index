@@ -1,0 +1,1 @@
+{"name":"zyn","vers":"0.0.0","deps":[{"name":"zyn-derive","req":"^0.0.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae8f632f636d8aced21fe22d47b9fad012c34caaab7a91c04f96fd16c9d8b2d9","features":{"default":[],"derive":["zyn-derive"]},"yanked":false,"pubtime":"2026-03-03T02:11:31Z"}
