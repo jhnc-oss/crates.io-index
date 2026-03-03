@@ -1,0 +1,1 @@
+{"name":"tiders-evm-schema","vers":"0.1.0","deps":[{"name":"arrow","req":"^56","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da7ce316d52c611124166ded21d571545a5d3863e9119d829ab8acf31a377164","features":{},"yanked":false,"pubtime":"2026-03-03T17:19:57Z"}
