@@ -13,3 +13,4 @@
 {"name":"ai4ose-lab1-2026s","vers":"0.1.12","deps":[],"cksum":"cc7f525e8c5a74e2752b939b645ee6907542634489faf834007d672e9c9c6f57","features":{},"yanked":false,"pubtime":"2026-02-13T15:41:30Z"}
 {"name":"ai4ose-lab1-2026s","vers":"0.2.0","deps":[],"cksum":"a1c70dca39effe7ea8cc25da080b474d4f60c86eedb41524113294ca2dfdda59","features":{},"yanked":false,"pubtime":"2026-02-27T06:06:40Z"}
 {"name":"ai4ose-lab1-2026s","vers":"0.2.1","deps":[],"cksum":"b396d26a7900c2fc1c9000ec07da7fbe610dd7300bc751a0c576d48ffc7ca241","features":{},"yanked":false,"pubtime":"2026-03-03T02:33:49Z"}
+{"name":"ai4ose-lab1-2026s","vers":"0.2.2","deps":[],"cksum":"aabb4ffad5f82de6a2ac3807242b0095a780eca385c260fd9e1a38eaa1220140","features":{},"yanked":false,"pubtime":"2026-03-03T02:37:03Z"}
