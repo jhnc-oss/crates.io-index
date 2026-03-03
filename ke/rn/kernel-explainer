@@ -1,0 +1,1 @@
+{"name":"kernel-explainer","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e864c346af93245c79be0d011e87182fb51342f6ecaace210a82bc6d395e0382","features":{},"yanked":false,"pubtime":"2026-03-03T22:19:55Z"}
