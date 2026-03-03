@@ -1,0 +1,1 @@
+{"name":"monstertruck","vers":"0.0.1","deps":[{"name":"monstertruck-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94e512827bd5b864c692940524cf6e5ad595221d0d0ec6a2bad10eb6ca60094d","features":{},"yanked":false,"pubtime":"2026-03-03T12:29:00Z"}
