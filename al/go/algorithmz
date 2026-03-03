@@ -28,3 +28,4 @@
 {"name":"algorithmz","vers":"0.3.8","deps":[],"cksum":"6015c400f450e27a0d7841e9402907df49cc4001dac90b8d393688913aa348c6","features":{},"yanked":false,"pubtime":"2026-03-03T12:54:14Z"}
 {"name":"algorithmz","vers":"0.3.9","deps":[],"cksum":"59994abfd2f02787dca65f00569992fc4c40d98e9574148af2f2c2721c0aef4e","features":{},"yanked":false,"pubtime":"2026-03-03T13:21:01Z"}
 {"name":"algorithmz","vers":"0.4.0","deps":[],"cksum":"b3e034f9044abe6df8fee2a37a4cd792b107641151052f96a0959284c3651bce","features":{},"yanked":false,"pubtime":"2026-03-03T13:42:19Z"}
+{"name":"algorithmz","vers":"0.4.1","deps":[],"cksum":"87360a5934f7caae609cf6e24536c01080ca3f26c8ae5487d5b7e8c62eb59cd3","features":{},"yanked":false,"pubtime":"2026-03-03T13:59:58Z"}
