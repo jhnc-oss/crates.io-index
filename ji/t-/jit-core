@@ -5,3 +5,4 @@
 {"name":"jit-core","vers":"0.1.4","deps":[],"cksum":"fca26d3410ad17dc948c98cbea5c44ab4dd088b68138696b1592712ce6c07f3b","features":{},"yanked":false,"pubtime":"2026-03-03T10:19:54Z"}
 {"name":"jit-core","vers":"0.1.5","deps":[],"cksum":"210fa4ef7797e5c43d2026415c43023883cdffc53017d3e8d806e080d80bf911","features":{},"yanked":false,"pubtime":"2026-03-03T16:35:45Z"}
 {"name":"jit-core","vers":"0.1.6","deps":[],"cksum":"d6d9898da1bac4bee8986b138d4b5918b1458fd417f50e62b828eb21c585485d","features":{},"yanked":false,"pubtime":"2026-03-03T17:38:16Z"}
+{"name":"jit-core","vers":"0.1.7","deps":[],"cksum":"6d19d1c6c9367a8e8e11c8a4138f843942a2dc6f02facad9785a7be2819125a0","features":{},"yanked":false,"pubtime":"2026-03-03T18:15:09Z"}
