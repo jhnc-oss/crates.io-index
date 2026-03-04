@@ -1,1 +1,2 @@
 {"name":"sequence-algo-sdk","vers":"0.1.0","deps":[],"cksum":"6a6ec61f68ae90020cf3a36689b6eb9935212104e5664702de2a64114ada72cd","features":{"default":["std"],"std":[],"wasm":[]},"yanked":false,"pubtime":"2026-02-28T22:23:29Z"}
+{"name":"sequence-algo-sdk","vers":"0.3.0","deps":[],"cksum":"c4ec56a613255bf8ec720492450cd3c710c9377b2ce1e7ab2a8b5bbac7119ee2","features":{"default":["std"],"std":[],"wasm":[]},"yanked":false,"pubtime":"2026-03-04T21:58:21Z"}
