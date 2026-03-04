@@ -1,1 +1,2 @@
 {"name":"evil","vers":"0.0.0-reserved","deps":[],"cksum":"970809f5ce3e7cf96f6696b642fe65871a1ced7fa237f9fb7f2c19a1c42cc99f","features":{},"yanked":false,"pubtime":"2026-03-03T21:01:40Z"}
+{"name":"evil","vers":"0.1.0","deps":[],"cksum":"ed9abc853e97e743b3307ac176695d3e8bf8650e5fa8c7f96b79fe7f383e7551","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-03-04T09:00:52Z"}
