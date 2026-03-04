@@ -5,3 +5,4 @@
 {"name":"branch_allocator","vers":"1.0.4","deps":[],"cksum":"5092b1e79dbf65668e039619a764c9bd066143aa471f13e792261f649dac4efe","features":{},"yanked":false,"pubtime":"2026-02-24T23:11:46Z"}
 {"name":"branch_allocator","vers":"1.0.5","deps":[],"cksum":"a60029cd940acf51bc2a5d8e9b1c11ca83e30d34071795cfdd8aec47589c635d","features":{},"yanked":false,"pubtime":"2026-03-04T08:11:31Z"}
 {"name":"branch_allocator","vers":"1.0.6","deps":[],"cksum":"897213a3b56dcf858bdd614eafd8f36f68d876aaf9a41774c8bcfeecf60d0d08","features":{},"yanked":false,"pubtime":"2026-03-04T08:15:01Z"}
+{"name":"branch_allocator","vers":"1.0.7","deps":[],"cksum":"b3e9e5b3ebbe1408ea548fd8a6ac53005a581ecd3ac604d18104af9d982c864a","features":{},"yanked":false,"pubtime":"2026-03-04T08:17:14Z"}
