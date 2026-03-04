@@ -2,3 +2,4 @@
 {"name":"ultihighlighter","vers":"0.3.1","deps":[],"cksum":"1fe11e1182e86af64c747fffc87bd3e48a7151f91306ce4b2b61ee3658ec4276","features":{},"yanked":false,"pubtime":"2026-03-04T03:03:24Z"}
 {"name":"ultihighlighter","vers":"0.3.2","deps":[],"cksum":"ba6f8fabc9fe5d4314421fa666135203672ed783be349f30bb7c467599a09f5a","features":{},"yanked":false,"pubtime":"2026-03-04T03:07:21Z"}
 {"name":"ultihighlighter","vers":"0.3.3","deps":[],"cksum":"2caf55960e91fdb198fd4507189ef99ba0229ee94a3a2a26554759c08b156ca1","features":{},"yanked":false,"pubtime":"2026-03-04T03:22:01Z"}
+{"name":"ultihighlighter","vers":"0.3.5","deps":[],"cksum":"264771d86e65a8f4e256a55f4417f13129d48120587eb24d45de7a4b8279d794","features":{},"yanked":false,"pubtime":"2026-03-04T05:09:21Z"}
