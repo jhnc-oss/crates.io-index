@@ -1,0 +1,1 @@
+{"name":"ultimd2html","vers":"0.3.0","deps":[{"name":"ultihighlighter","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"868b0cda489fb52a31f5971ee46ac35b792fc8ac0e8070f1cb6b4e06efd54859","features":{},"yanked":false,"pubtime":"2026-03-04T01:30:57Z"}
