@@ -2,3 +2,4 @@
 {"name":"ultijson","vers":"0.3.1","deps":[],"cksum":"ca0603a2dd6cd0883fdcff3b5f085057b72c32aaee61b06ebc8ac4a97a19d425","features":{},"yanked":false,"pubtime":"2026-03-04T03:03:25Z"}
 {"name":"ultijson","vers":"0.3.2","deps":[],"cksum":"27e10b8abbaa9f4a5e9851d2cded4a4a2c8a33fe93fdc2fc947d645611f5ea7a","features":{},"yanked":false,"pubtime":"2026-03-04T03:07:21Z"}
 {"name":"ultijson","vers":"0.3.3","deps":[],"cksum":"b01cf4ec1a5b248963a9d818d5bc9758dbf63962551237b676db60034a22989e","features":{},"yanked":false,"pubtime":"2026-03-04T03:22:01Z"}
+{"name":"ultijson","vers":"0.3.5","deps":[],"cksum":"3a805eaec6c4420c135b22eb7fa3e39e5b65e7280b1892d6af40703eccbdac63","features":{},"yanked":false,"pubtime":"2026-03-04T05:09:22Z"}
