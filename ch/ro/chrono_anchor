@@ -1,0 +1,1 @@
+{"name":"chrono_anchor","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cc480567d082efaaf9423ba7535cdae30a03055d418bbad4314cda02d0bd45fc","features":{},"yanked":false,"pubtime":"2026-03-05T02:56:01Z"}
