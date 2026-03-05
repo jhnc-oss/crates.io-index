@@ -17,3 +17,4 @@
 {"name":"pathgraph","vers":"0.4.0-rc.9","deps":[],"cksum":"57c1d552bd186a7ca78c56c0002806560a0805a3ee47d63dc9c2149c6f718b03","features":{},"yanked":false,"pubtime":"2026-02-16T14:23:23Z"}
 {"name":"pathgraph","vers":"0.4.0-rc.10","deps":[],"cksum":"13cd3e587a5f1cc3be378dc593ba43c56fff0e6d081fa12d6fbe4fc97de4a2d5","features":{},"yanked":false,"pubtime":"2026-02-24T23:12:58Z"}
 {"name":"pathgraph","vers":"0.4.0-rc.11","deps":[],"cksum":"61b580f24a6718c17c93551cd0fb885dcb6cb4df076574e19be1707bcdcc90bf","features":{},"yanked":false,"pubtime":"2026-03-01T14:23:48Z"}
+{"name":"pathgraph","vers":"0.4.0-rc.12","deps":[],"cksum":"788304d1dde4d1beea661c122a6a11197eb2727acfb390e86cfe465de5c4269b","features":{},"yanked":false,"pubtime":"2026-03-05T22:19:45Z"}
