@@ -1,0 +1,1 @@
+{"name":"arrlist","vers":"0.2.0","deps":[{"name":"thiserror-no-std","req":"^2.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0288aab02b21ac8b477ccce70ae3360738ba75931298eee5365f5ee584a4e4dc","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-03-05T09:07:35Z"}
