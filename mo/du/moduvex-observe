@@ -1,0 +1,1 @@
+{"name":"moduvex-observe","vers":"0.1.0","deps":[{"name":"moduvex-runtime","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"032f0593bcd5d8c697704964fb387421bb5d574cefb69b701a8213afc485a42f","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-03-05T15:49:46Z"}
