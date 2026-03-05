@@ -1,0 +1,1 @@
+{"name":"time-sync","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"38cf19bc09847fd321a634db1c96cb12d4649b5ca705df13e757b18f8b54c871","features":{},"yanked":false,"pubtime":"2026-03-05T01:18:41Z"}
