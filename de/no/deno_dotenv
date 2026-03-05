@@ -3,3 +3,4 @@
 {"name":"deno_dotenv","vers":"0.3.0","deps":[],"cksum":"07c188078c32e533021a50d45d19e9d05ce835c6924313903f93129fda360351","features":{},"yanked":false,"pubtime":"2026-02-25T15:52:19Z"}
 {"name":"deno_dotenv","vers":"0.4.0","deps":[],"cksum":"40b7ffc19a6c48e65cb36819220b7cf89a222afc0f49c80062951b1be66a36bb","features":{},"yanked":false,"pubtime":"2026-03-03T14:22:16Z"}
 {"name":"deno_dotenv","vers":"0.5.0","deps":[],"cksum":"8ce8c2e874cc9468dd41e3465d2ce99f5d4cf82b67755a5ec53ee062cec5be2b","features":{},"yanked":false,"pubtime":"2026-03-04T14:35:30Z"}
+{"name":"deno_dotenv","vers":"0.6.0","deps":[],"cksum":"0fa0f602e50f9419247a40030c48293af8a2c0dc6305bded7d709f9a08b798be","features":{},"yanked":false,"pubtime":"2026-03-05T12:20:33Z"}
