@@ -1,0 +1,1 @@
+{"name":"silent-payments-dleq","vers":"0.1.0","deps":[{"name":"bitcoin","req":"^0.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b17f6173015e4b114dd471c9cf19007f72e9cc523404a44422e3ee6ba854b8c","features":{},"yanked":false,"rust_version":"1.81","pubtime":"2026-03-05T22:51:38Z"}
