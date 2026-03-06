@@ -1,0 +1,1 @@
+{"name":"nms-save","vers":"0.0.1","deps":[{"name":"nms-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2548eff78bdf34bca814eb0f0f66d28eba2a2ae03d08df5c435432b42bd6d375","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-06T06:44:41Z"}
