@@ -2,3 +2,4 @@
 {"name":"sinistra","vers":"0.1.0","deps":[],"cksum":"f90ffac24c7340fa6049834f4cdc26961f4d079623b197df82c35ff83a14b967","features":{},"yanked":true,"pubtime":"2026-03-05T12:11:45Z"}
 {"name":"sinistra","vers":"0.1.0-202603052157","deps":[],"cksum":"953dce98b1f1ddb32fb95b56201b9eb1e5284cf7ff586069ea5151ddd8aa8564","features":{},"yanked":false,"pubtime":"2026-03-05T18:59:59Z"}
 {"name":"sinistra","vers":"0.1.0-202603060014","deps":[],"cksum":"c3b89cf95bcdcb2c16856baac455de55f0d1cc0eabe4dcdd3b90a735becf138f","features":{},"yanked":false,"pubtime":"2026-03-05T21:16:26Z"}
+{"name":"sinistra","vers":"0.1.0-202603060803","deps":[],"cksum":"0d2cec83d3965cfad03b89e938fbb5b3a8e366277e1aeca1bfa68c83094964ed","features":{},"yanked":false,"pubtime":"2026-03-06T05:07:31Z"}
