@@ -1,0 +1,1 @@
+{"name":"goud-engine","vers":"0.0.826","deps":[{"name":"goud-engine-core","req":"=0.0.826","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7deab850c18b039d61a789a99442013787801d0936ca6ae1a7d0c4277a3a9a99","features":{"default":["native"],"native":["goud-engine-core/native"]},"yanked":false,"pubtime":"2026-03-06T03:33:25Z"}
