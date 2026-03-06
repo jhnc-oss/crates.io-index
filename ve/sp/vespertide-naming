@@ -33,3 +33,4 @@
 {"name":"vespertide-naming","vers":"0.1.48","deps":[],"cksum":"79e5f3c19df8ac002783e8a83677304257b86ccd13d7c68d343bf13cb4156827","features":{},"yanked":false,"pubtime":"2026-02-23T13:09:03Z"}
 {"name":"vespertide-naming","vers":"0.1.49","deps":[],"cksum":"c0996f94cb3bfb06927e7b3a0fe037b14c0e47787917d39f0c301cb205fb4b74","features":{},"yanked":false,"pubtime":"2026-02-24T02:05:20Z"}
 {"name":"vespertide-naming","vers":"0.1.50","deps":[],"cksum":"6cfe4904eeef034b38fbeb4271d7460042a7a30c6f98f013e5acc4287c628e5e","features":{},"yanked":false,"pubtime":"2026-03-05T08:56:47Z"}
+{"name":"vespertide-naming","vers":"0.1.51","deps":[],"cksum":"7b4f22dd6e98486593904b9380cb0d273a16711816fe4907da8951f922448425","features":{},"yanked":false,"pubtime":"2026-03-06T11:41:31Z"}
