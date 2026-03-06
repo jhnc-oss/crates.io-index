@@ -16,3 +16,4 @@
 {"name":"native_neural_network","vers":"0.2.6","deps":[],"cksum":"e1f7f92d6f9450fa6f6b168391d072ebe19c4d2a73bed6d79c7338cb5e9932af","features":{"default":[]},"yanked":false,"pubtime":"2026-03-01T09:37:06Z"}
 {"name":"native_neural_network","vers":"0.2.7","deps":[],"cksum":"b55be5891d86197a316c4add57aa2c10c1a94d88f957201ef3e93729db44c986","features":{"default":[]},"yanked":false,"pubtime":"2026-03-01T10:19:05Z"}
 {"name":"native_neural_network","vers":"0.2.8","deps":[],"cksum":"cf1b73824c5e587bc569bd598d5b5a34c82ac081e0b3b44aa03089117480a70f","features":{"default":[],"publisher-trust-service":[]},"yanked":false,"pubtime":"2026-03-06T04:19:39Z"}
+{"name":"native_neural_network","vers":"0.3.0","deps":[],"cksum":"56d8b52476ba49151735f67baf2c760f233f69de4065f5dbc7bd5ac99f00bb99","features":{"default":[],"publisher-trust-service":[]},"yanked":false,"pubtime":"2026-03-06T09:16:48Z"}
