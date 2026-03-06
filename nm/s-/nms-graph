@@ -1,0 +1,1 @@
+{"name":"nms-graph","vers":"0.0.1","deps":[{"name":"nms-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8fd499aa933168462faa4fbd4ad4315113cd2a38dcede1fae6f3f8d478ec8813","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-06T06:57:10Z"}
