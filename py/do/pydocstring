@@ -1,1 +1,2 @@
 {"name":"pydocstring","vers":"0.0.1","deps":[],"cksum":"7b0c65773839a1f898d9d5b15b3cdb1e9931d1e9ea2e94c6d57c70d28dfa81d7","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-02-27T06:54:42Z"}
+{"name":"pydocstring","vers":"0.0.2","deps":[],"cksum":"fa96b3e3b3c243f3daab1693d52461970c5038c1ad1bb6a05f82679b7e4870d4","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-06T05:49:51Z"}
