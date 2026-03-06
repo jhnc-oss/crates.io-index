@@ -1,0 +1,1 @@
+{"name":"LazyDLLSideload","vers":"0.1.0","deps":[{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"062726c5efda200dddcab6b5f0ab5f890af949db39992b86047312279a3acaa5","features":{},"yanked":false,"pubtime":"2026-03-06T11:58:23Z"}
