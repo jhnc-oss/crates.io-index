@@ -11,3 +11,4 @@
 {"name":"madbus","vers":"0.7.5","deps":[],"cksum":"894efac3c4844886eeb0064da457990cfb2c95bf1de15a8ce0896da84bc0d5f6","features":{},"yanked":false,"pubtime":"2026-02-05T12:07:23Z"}
 {"name":"madbus","vers":"0.8.0","deps":[],"cksum":"cc3b5aec9f4cffb376dd6262ca834e37a970ed91f569433ed5e0d6b2c8ff65bb","features":{},"yanked":false,"pubtime":"2026-02-06T12:54:10Z"}
 {"name":"madbus","vers":"0.9.0","deps":[],"cksum":"1cbd2c7b2e162b89115fcb59358686482d59c017d16e98816425a0f4fcfdffd3","features":{},"yanked":false,"pubtime":"2026-03-06T09:52:55Z"}
+{"name":"madbus","vers":"0.9.1","deps":[],"cksum":"21bef1c6225812ce4cd4d2cb92300cc0546e63ed64cc287b4033ba7388da5678","features":{},"yanked":false,"pubtime":"2026-03-07T16:09:51Z"}
