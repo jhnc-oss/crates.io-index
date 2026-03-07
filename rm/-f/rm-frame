@@ -1,0 +1,1 @@
+{"name":"rm-frame","vers":"0.1.0","deps":[{"name":"defmt","req":"^1.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f92f9c410a827752edc4eba7352876904c5801938f7f018415185025c13897be","features":{},"features2":{"defmt":["dep:defmt"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-07T13:27:00Z","v":2}
