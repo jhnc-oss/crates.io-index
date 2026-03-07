@@ -1,0 +1,1 @@
+{"name":"gruggers-core","vers":"0.3.0","deps":[{"name":"allocator-api2","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b3e4aecaed53ce07ba454929dd4cdc38afc1caedd5503db6a91c4a4d7af4a3d5","features":{},"yanked":false,"pubtime":"2026-03-07T14:50:05Z"}
