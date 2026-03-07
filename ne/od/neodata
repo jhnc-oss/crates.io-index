@@ -1,0 +1,1 @@
+{"name":"neodata","vers":"0.1.0","deps":[{"name":"blake3","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c822ae9e851861fe9dd23161caf3f4cad34627c5885b0400353e42f380645e99","features":{},"yanked":false,"pubtime":"2026-03-07T01:46:28Z"}
