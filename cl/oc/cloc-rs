@@ -1,0 +1,1 @@
+{"name":"cloc-rs","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b49d681abd067b53b09121d91d792a092a5f1c1316bb5927f85fb28ee4c2953","features":{},"yanked":false,"pubtime":"2026-03-07T22:03:48Z"}
