@@ -1,0 +1,1 @@
+{"name":"pyo3-hyperspec","vers":"0.0.1","deps":[{"name":"pyo3","req":"^0.28","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c1580f18b5e67e4e050d265a3293cfd81a14354e9adac8b8b9b0e6dbb89972e","features":{},"yanked":false,"pubtime":"2026-03-07T05:01:33Z"}
