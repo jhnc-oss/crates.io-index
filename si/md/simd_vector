@@ -4,3 +4,4 @@
 {"name":"simd_vector","vers":"0.2.0","deps":[],"cksum":"2e1212360162396f6bfa12452a953bcc48aca1d18b6abddba95171cfde1953c4","features":{},"yanked":false,"pubtime":"2026-03-07T17:40:43Z"}
 {"name":"simd_vector","vers":"0.2.1","deps":[],"cksum":"defd4b8919929fddb2a519a8c8f0fe1c14ff31407779822b16f8a15a802fa5c2","features":{},"yanked":false,"pubtime":"2026-03-07T17:46:15Z"}
 {"name":"simd_vector","vers":"0.2.2","deps":[],"cksum":"a7d3d58f2b7bfa85432753f73c4c0451f7516c56863551c2342969952c1266e2","features":{},"yanked":false,"pubtime":"2026-03-07T18:24:56Z"}
+{"name":"simd_vector","vers":"0.2.3","deps":[],"cksum":"867c8419f5f740ce90890d6993e89d2d289d963d971b9da6fc788d1bd4085d16","features":{},"yanked":false,"pubtime":"2026-03-07T18:34:52Z"}
