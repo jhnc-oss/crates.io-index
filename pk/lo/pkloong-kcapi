@@ -1,0 +1,1 @@
+{"name":"pkloong-kcapi","vers":"0.1.0","deps":[{"name":"pkloong-kcapi-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0798a72a83716baaf337ec56a5875968aa6e9fe20420273b93f06a58528a2e1","features":{"all":["md"],"md":["pkloong-kcapi-sys/md"]},"yanked":false,"pubtime":"2026-03-07T17:04:36Z"}
