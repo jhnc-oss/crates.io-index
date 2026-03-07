@@ -4,3 +4,4 @@
 {"name":"goof","vers":"0.2.2","deps":[],"cksum":"9ec23f210c76eef4f9a5eb9aa224ef495718bbbe60b98c746ba26e08a9209091","features":{},"yanked":false,"pubtime":"2023-10-31T15:00:31Z"}
 {"name":"goof","vers":"0.2.3","deps":[],"cksum":"93fe495192955eeb2c6bb971573910924e1129611ae3f32a407e4f6931f6aedc","features":{},"yanked":false,"pubtime":"2023-10-31T15:06:08Z"}
 {"name":"goof","vers":"0.3.1","deps":[{"name":"goof-derive","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f99d868375c4c33c6eaef70aa23a4d2488c041cd01741c369e46970e2ee68233","features":{},"yanked":false,"pubtime":"2026-03-06T23:15:26Z"}
+{"name":"goof","vers":"0.3.2","deps":[{"name":"goof-derive","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14f8986735e89ba78499b2045e0cb0fe20e5d2e6c5e0af005888797e1c7f5c52","features":{},"yanked":false,"pubtime":"2026-03-07T00:30:26Z"}
