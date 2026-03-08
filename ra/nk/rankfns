@@ -1,1 +1,2 @@
 {"name":"rankfns","vers":"0.1.0","deps":[],"cksum":"692c3ab5e9539ad633b648c2c06738ee73184a13ba0c75a5c8b4103ef661b35e","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-02-23T18:31:30Z"}
+{"name":"rankfns","vers":"0.1.1","deps":[],"cksum":"78cf54eb1856c3b59ecdc999d95ce40b36db238e1538a7a8782b86c4a374870f","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-03-08T18:24:44Z"}
