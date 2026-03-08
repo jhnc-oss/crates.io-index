@@ -1,0 +1,1 @@
+{"name":"arcbox-error","vers":"0.1.4","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a8d8134cbb04bc7995b291633995c78bcd08ae57b4f14b012969133eaa08902","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-08T14:47:58Z"}
