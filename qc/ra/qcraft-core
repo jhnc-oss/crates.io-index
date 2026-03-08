@@ -1,0 +1,1 @@
+{"name":"qcraft-core","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8d4c1a3996aafffab805522276a2a86f0157451dab5fa2a108e4545d4d3ac73","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-08T18:31:04Z"}
