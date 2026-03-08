@@ -1,0 +1,1 @@
+{"name":"jiminy-distribute","vers":"0.11.0","deps":[{"name":"pinocchio","req":"^0.10","features":["cpi"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c76e3b8fc60d520ea14769bcb6420d19e3870f87f29efd08f7cb0a66533dbea1","features":{"default":[]},"yanked":false,"pubtime":"2026-03-08T17:45:07Z"}
