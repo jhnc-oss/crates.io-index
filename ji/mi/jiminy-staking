@@ -1,0 +1,1 @@
+{"name":"jiminy-staking","vers":"0.11.0","deps":[{"name":"pinocchio","req":"^0.10","features":["cpi"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07a070cd2cd5caac041af0cab7c9c69cf8218d42837f9f661245f12d0a1dfbf0","features":{"default":[]},"yanked":false,"pubtime":"2026-03-08T17:39:40Z"}
