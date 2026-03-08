@@ -4,3 +4,4 @@
 {"name":"uor-foundation","vers":"3.0.0","deps":[],"cksum":"4a3ca8f98d47fcb53e4beec2bc3b5588ff793cb6e43193425350bd847d0e3875","features":{"default":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-03-04T05:31:16Z"}
 {"name":"uor-foundation","vers":"3.5.0","deps":[],"cksum":"d7ca4f68d99f356aba8ebf5d6fae365ebaaf62b84ec05aa4474d171db2f91651","features":{"default":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-03-05T23:19:07Z"}
 {"name":"uor-foundation","vers":"5.0.0","deps":[],"cksum":"334d2f2ff5fba55ca2c4fabdb5181ec6155a7605a6f078eefa97febeb10c64f1","features":{"default":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-03-07T08:37:40Z"}
+{"name":"uor-foundation","vers":"5.1.0","deps":[],"cksum":"a7bb943358f624337ae85519653ae681a48af7196cf1212f0d3d7bcd16d0d859","features":{"default":[]},"yanked":false,"rust_version":"1.70","pubtime":"2026-03-08T03:52:21Z"}
