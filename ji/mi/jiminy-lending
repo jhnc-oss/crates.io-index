@@ -1,0 +1,1 @@
+{"name":"jiminy-lending","vers":"0.11.0","deps":[{"name":"pinocchio","req":"^0.10","features":["cpi"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9ccc9b32af9f11ff3250293b753e0e39e220a3c958c4eaa49b655f4259a51ac","features":{"default":[]},"yanked":false,"pubtime":"2026-03-08T17:39:34Z"}
