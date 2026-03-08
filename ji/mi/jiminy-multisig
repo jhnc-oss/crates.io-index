@@ -1,0 +1,1 @@
+{"name":"jiminy-multisig","vers":"0.11.0","deps":[{"name":"pinocchio","req":"^0.10","features":["cpi"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a094df62004a509d7ae92f2055ffcb5af6829689d0fcd14410414f929de7bfc7","features":{"default":[]},"yanked":false,"pubtime":"2026-03-08T17:39:53Z"}
