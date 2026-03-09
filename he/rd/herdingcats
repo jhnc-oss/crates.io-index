@@ -1,2 +1,3 @@
 {"name":"herdingcats","vers":"0.1.0","deps":[],"cksum":"e694923d397083c0f8fd39e97809a5a87a8ed658ed75535c52b9d51555366a2b","features":{},"yanked":false,"pubtime":"2026-03-08T22:36:59Z"}
 {"name":"herdingcats","vers":"0.1.1","deps":[],"cksum":"b537696f814e79b73d66d1696403ac5ba14c02cbb30654624febb611a3398395","features":{},"yanked":false,"pubtime":"2026-03-08T22:41:29Z"}
+{"name":"herdingcats","vers":"0.2.0","deps":[{"name":"proptest","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"086ea2b5f8a3a88f6dd0dbab3ecfb82de02f189a77d2e3907ea7404de564b9d3","features":{},"yanked":false,"pubtime":"2026-03-09T07:27:25Z"}
