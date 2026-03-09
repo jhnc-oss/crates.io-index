@@ -4,3 +4,4 @@
 {"name":"ultihighlighter","vers":"0.3.3","deps":[],"cksum":"2caf55960e91fdb198fd4507189ef99ba0229ee94a3a2a26554759c08b156ca1","features":{},"yanked":false,"pubtime":"2026-03-04T03:22:01Z"}
 {"name":"ultihighlighter","vers":"0.3.5","deps":[],"cksum":"264771d86e65a8f4e256a55f4417f13129d48120587eb24d45de7a4b8279d794","features":{},"yanked":false,"pubtime":"2026-03-04T05:09:21Z"}
 {"name":"ultihighlighter","vers":"0.3.6","deps":[],"cksum":"5bd546930442e1e7e2fe03b1d566b7c438b8627037c09dae18fbd13975a78ff2","features":{},"yanked":false,"pubtime":"2026-03-04T05:37:30Z"}
+{"name":"ultihighlighter","vers":"0.3.8","deps":[{"name":"ultidocs-macros","req":"^0.3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc39d8e97b088cee125c9b4a8c104450bce0fef85b3a18fff8507984173aa908","features":{},"yanked":false,"pubtime":"2026-03-09T20:00:05Z"}
