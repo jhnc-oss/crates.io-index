@@ -1,0 +1,1 @@
+{"name":"ultidocs-macros","vers":"0.3.7","deps":[{"name":"ultiminify","req":"^0.3.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b082d28f65f50cdb4ea5096c6e140ab3aabc4ae4635f26f798e9da0fb40ee6af","features":{},"yanked":false,"pubtime":"2026-03-09T19:58:07Z"}
