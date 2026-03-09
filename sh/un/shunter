@@ -1,0 +1,1 @@
+{"name":"shunter","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.50.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e36a70331618d4b1664c0fb1e6e6e1af687e20bd104d685473275d24c7db0647","features":{},"yanked":false,"rust_version":"1.93.1","pubtime":"2026-03-09T08:24:34Z"}
