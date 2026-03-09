@@ -661,3 +661,4 @@
 {"name":"cf-colo-hint","vers":"0.1.663","deps":[],"cksum":"83c9875d833be0ccad8b831d9f7f07c5d570d171ec976f7fb87eca76192dc3bb","features":{},"yanked":false,"pubtime":"2026-03-08T18:12:35Z"}
 {"name":"cf-colo-hint","vers":"0.1.664","deps":[],"cksum":"e96ffebcc9891f90280764dab19d888025f25ed996a5a985ab0a494a6430d3c3","features":{},"yanked":false,"pubtime":"2026-03-08T21:09:35Z"}
 {"name":"cf-colo-hint","vers":"0.1.665","deps":[],"cksum":"25dfd74dab2237391d6cc81dd49ed5e8cd9e74f4860a47a929f9330c8c41b2e2","features":{},"yanked":false,"pubtime":"2026-03-09T00:42:32Z"}
+{"name":"cf-colo-hint","vers":"0.1.666","deps":[],"cksum":"8c02c739e57cfe3c40ee8322e32e8d911804388fd57b6baf536fdd405d8012f2","features":{},"yanked":false,"pubtime":"2026-03-09T03:52:38Z"}
