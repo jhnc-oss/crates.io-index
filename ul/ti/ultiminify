@@ -5,3 +5,4 @@
 {"name":"ultiminify","vers":"0.3.5","deps":[],"cksum":"41c74de7530caca62cf9b4ab699c5c66475c1d12a9829212df099b71b7be3d4a","features":{},"yanked":false,"pubtime":"2026-03-04T05:09:22Z"}
 {"name":"ultiminify","vers":"0.3.6","deps":[],"cksum":"88364ddda12efa78d4cb2673371f82f0cd9369c4b149966aff8f1dc00e1028c8","features":{},"yanked":false,"pubtime":"2026-03-04T05:37:31Z"}
 {"name":"ultiminify","vers":"0.3.7","deps":[],"cksum":"eb36a71d5053309059c3142af97e4c45c44400d494a03bdc8c7be68295913bca","features":{},"yanked":false,"pubtime":"2026-03-09T19:56:36Z"}
+{"name":"ultiminify","vers":"0.3.8","deps":[],"cksum":"34e00790d7300855aa0ed687083e6d5a4b455dea024a972ee58ddafc8d4dea8f","features":{},"yanked":false,"pubtime":"2026-03-09T20:00:02Z"}
