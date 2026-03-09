@@ -1,0 +1,1 @@
+{"name":"typewriter-python","vers":"0.1.0","deps":[{"name":"typewriter-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c46102e1febe94911af1db7aacc03a0dfa165ec3b87759533c5c9481fa0ea467","features":{},"yanked":false,"pubtime":"2026-03-09T11:38:56Z"}
