@@ -1,0 +1,1 @@
+{"name":"thread-delay","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e21d19444b5e4c0e8f6e567360efa6928bf13527e255f0edfd3d1f499b09a4f1","features":{},"yanked":false,"pubtime":"2026-03-09T22:42:14Z"}
