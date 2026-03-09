@@ -1,0 +1,1 @@
+{"name":"rcomb","vers":"0.1.0","deps":[{"name":"rayon","req":"^1.11.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dfe63056d914be70caa30c4fe9f4c2c7780329eb9446dc6e50735a25809b7215","features":{},"yanked":false,"pubtime":"2026-03-09T17:27:15Z"}
