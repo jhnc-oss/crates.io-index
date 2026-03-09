@@ -11,3 +11,4 @@
 {"name":"packedit","vers":"1.1.9","deps":[],"cksum":"c4eaf6031a57aaa1cdd6d90d7127cf51014a84c4f4667d99c93e4556dc2a9e5a","features":{"advanced":["advanced-arp"],"advanced-arp":[],"default":[]},"yanked":false,"pubtime":"2025-09-23T15:11:21Z"}
 {"name":"packedit","vers":"1.2.0","deps":[],"cksum":"b017977c1aa8bc857c32d53d805a637feefb72752c09794953f2da1703e09ae6","features":{"advanced":["advanced-arp"],"advanced-arp":[],"default":[]},"yanked":false,"pubtime":"2025-09-24T19:43:44Z"}
 {"name":"packedit","vers":"1.2.1","deps":[],"cksum":"5d5828eea252af83f9e10e54bda31cb96324ea0a3ce901738e3a5e61a3fc0741","features":{"advanced":["advanced-arp"],"advanced-arp":[],"default":[]},"yanked":false,"pubtime":"2025-09-25T16:18:35Z"}
+{"name":"packedit","vers":"2.0.0","deps":[],"cksum":"6238979e5c16c43d3610449f6dd15eb3a2c868513900d598677639456d00cc34","features":{"custom-types":[],"default":[]},"yanked":false,"pubtime":"2026-03-09T08:49:13Z"}
