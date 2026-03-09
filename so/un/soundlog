@@ -15,3 +15,4 @@
 {"name":"soundlog","vers":"0.10.2","deps":[],"cksum":"b069fef44f102e287c1f1ba9d579e6b4658cdd112e8da410fe01f552120ff0ba","features":{},"yanked":false,"pubtime":"2026-03-07T08:03:03Z"}
 {"name":"soundlog","vers":"0.10.3","deps":[],"cksum":"e7a9764e8961aef686c526e0c9b873c3aff2b0ba45cb3a3588d081a814242a50","features":{},"yanked":false,"pubtime":"2026-03-08T15:19:25Z"}
 {"name":"soundlog","vers":"0.10.4","deps":[],"cksum":"07ac83d9c9df9479cacd2a6a08884733e9b3dc013211ba7921978244c95387a8","features":{},"yanked":false,"pubtime":"2026-03-09T06:40:43Z"}
+{"name":"soundlog","vers":"0.11.0","deps":[],"cksum":"40557558ac036c45a4fa49f839397221ab6e318f5edf44178b56bebfd587fbf8","features":{},"yanked":false,"pubtime":"2026-03-09T14:40:00Z"}
