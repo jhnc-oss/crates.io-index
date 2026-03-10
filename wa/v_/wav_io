@@ -13,3 +13,4 @@
 {"name":"wav_io","vers":"0.1.13","deps":[],"cksum":"771e02809f10f2c322126c9b286386aae5af80e38eaf24e782013a96d0e692d6","features":{},"yanked":false,"pubtime":"2024-02-11T14:14:57Z"}
 {"name":"wav_io","vers":"0.1.14","deps":[],"cksum":"b3236ffff9f79a92caa694bbad1cbbd3e13958993f3f983c1066414d487a1d33","features":{},"yanked":false,"pubtime":"2024-02-16T02:54:41Z"}
 {"name":"wav_io","vers":"0.1.15","deps":[{"name":"thiserror","req":"^1.0.57","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8da73fea006d63a207a7606a9f74732bf9558d1033eea1927fcc2071fd39df82","features":{},"yanked":false,"pubtime":"2024-12-07T06:40:34Z"}
+{"name":"wav_io","vers":"0.1.16","deps":[{"name":"thiserror","req":"^2.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53daacc751a8a086cbc7d4887df25f86eb608d638aa001677ff585f16e47f170","features":{},"yanked":false,"pubtime":"2026-03-10T13:20:54Z"}
