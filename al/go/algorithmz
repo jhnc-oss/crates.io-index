@@ -42,3 +42,4 @@
 {"name":"algorithmz","vers":"0.5.2","deps":[],"cksum":"e2e16bd660204be7654d2b13e9c4812a7f00d00090eb72abfab2233254453d3c","features":{},"yanked":false,"pubtime":"2026-03-09T16:14:32Z"}
 {"name":"algorithmz","vers":"0.5.3","deps":[],"cksum":"1dca57538a47330f2bb67fc252b8b6881eadd27fbc8bd23d63c51c7a6eed2566","features":{},"yanked":false,"pubtime":"2026-03-09T18:23:46Z"}
 {"name":"algorithmz","vers":"0.5.4","deps":[],"cksum":"e832ce71c779922bf59954837d2ef906592ec52c01fe6b838a6b7ec9f5f90d58","features":{},"yanked":false,"pubtime":"2026-03-10T17:35:15Z"}
+{"name":"algorithmz","vers":"0.5.5","deps":[],"cksum":"12ba11fb84e95be13f6cf340a61f6b99e35486d8dbedeb2f05c68498c06bfc72","features":{},"yanked":false,"pubtime":"2026-03-10T18:16:08Z"}
