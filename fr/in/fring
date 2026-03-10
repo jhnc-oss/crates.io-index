@@ -9,3 +9,4 @@
 {"name":"fring","vers":"0.3.1","deps":[],"cksum":"d642bb703ed4189b69156b653a706a2c8c8f72ac618bb09ad6a3dfb0fbe7f5bf","features":{},"yanked":false,"pubtime":"2023-08-21T20:44:55Z"}
 {"name":"fring","vers":"0.3.2","deps":[],"cksum":"446f58ccad0a8767b817ff858d7b11148503088a6daa4630a4aee3661d4e417d","features":{},"yanked":false,"pubtime":"2023-08-22T17:18:21Z"}
 {"name":"fring","vers":"0.3.3","deps":[],"cksum":"e06b84bb6b33dcf1df4068dcfac63524657282f91d846957568fbb6e671fa9ec","features":{},"yanked":false,"pubtime":"2023-08-28T14:56:01Z"}
+{"name":"fring","vers":"0.4.0","deps":[],"cksum":"b02d60f94c239eb9d2b98b1c031df38981aca7395a67cf6f4942c059f32fbf77","features":{},"yanked":false,"pubtime":"2026-03-10T12:32:12Z"}
