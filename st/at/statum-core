@@ -44,3 +44,4 @@
 {"name":"statum-core","vers":"0.3.14","deps":[],"cksum":"23606f7aeeb8e7d754c560b45491151143c4c77414d0c56af1d94dccead58c4e","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-03-10T00:55:37Z"}
 {"name":"statum-core","vers":"0.3.15","deps":[],"cksum":"9cea1e2dbedc1eb2f69e1327261925fa1705f6d45dd5e7c81958a5f8e2180e79","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-03-10T01:03:19Z"}
 {"name":"statum-core","vers":"0.3.16","deps":[],"cksum":"8113e5eef7e8f04c1536a44396e01cd1f093f11b6c219a59b38ea9ee6b594d2e","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-03-10T05:31:40Z"}
+{"name":"statum-core","vers":"0.3.17","deps":[],"cksum":"1cf53f719256db188d5b8023ef2586428b6c12db591fbfa350ea8e358eb21f9a","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-03-10T17:38:31Z"}
