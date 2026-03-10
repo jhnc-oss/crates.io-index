@@ -1,0 +1,1 @@
+{"name":"datacollect-rs","vers":"0.1.0","deps":[{"name":"libloading","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd41048ef03305ac15f4d2287e444a378be637fc5a8e182593854c039c60e4e9","features":{},"yanked":false,"pubtime":"2026-03-10T08:56:55Z"}
