@@ -1,0 +1,1 @@
+{"name":"blat","vers":"0.0.0","deps":[{"name":"bluer","req":"^0.17.4","features":["l2cap"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01100a8eb866d0c33a306d86c098ca368f19d26c3ae0c553dfae323d7397c9fe","features":{},"yanked":false,"pubtime":"2026-03-10T13:22:12Z"}
