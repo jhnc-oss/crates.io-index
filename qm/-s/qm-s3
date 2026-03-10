@@ -62,3 +62,4 @@
 {"name":"qm-s3","vers":"0.0.69","deps":[],"cksum":"3530ef2719cae3b1c0132258dc195b9f2a8f7bbf8cb44b8b5b9e3bba63a5d6ac","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-02-24T13:41:21Z"}
 {"name":"qm-s3","vers":"0.0.70","deps":[],"cksum":"c01782595b261668a06ed39bf5b0df8b5ef8d35a70333d552f6a58ae62dbc94d","features":{},"yanked":false,"rust_version":"1.90.0","pubtime":"2026-02-24T14:02:51Z"}
 {"name":"qm-s3","vers":"0.0.71","deps":[],"cksum":"b7afd4be051eb18f4a39b7276d671c6d49f45a096aeff67a6bd2d5d6672b04fc","features":{},"yanked":false,"rust_version":"1.90.0","pubtime":"2026-02-24T21:29:58Z"}
+{"name":"qm-s3","vers":"0.0.72","deps":[],"cksum":"ff26e16fe2126522b36ac6d7d61eeda7405f43184e34af04b430d31f9afa92e0","features":{},"yanked":false,"rust_version":"1.90.0","pubtime":"2026-03-10T11:39:49Z"}
