@@ -1,1 +1,0 @@
-{"name":"rumoca-ir-core","vers":"0.8.0","deps":[{"name":"serde","req":"^1.0","features":["derive","rc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75a670538d833d4653d744f56364391a51d8b4ed5aea188e771e0529a981a09b","features":{},"yanked":false,"pubtime":"2026-03-10T02:33:26Z"}
