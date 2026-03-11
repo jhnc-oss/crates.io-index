@@ -1,1 +1,2 @@
 {"name":"oa-forge-formatter","vers":"0.1.0","deps":[],"cksum":"1df8fecad1a7123252816e6cb75f4202470de69a0c82adc7f168c9e8f52b5b5d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-10T14:34:04Z"}
+{"name":"oa-forge-formatter","vers":"0.1.1","deps":[],"cksum":"ccd60e8ebb60965aac4c9e60233bf654dfe5a231f7268a60c754d067325e5ec8","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-11T03:03:39Z"}
