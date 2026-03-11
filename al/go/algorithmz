@@ -45,3 +45,4 @@
 {"name":"algorithmz","vers":"0.5.5","deps":[],"cksum":"12ba11fb84e95be13f6cf340a61f6b99e35486d8dbedeb2f05c68498c06bfc72","features":{},"yanked":false,"pubtime":"2026-03-10T18:16:08Z"}
 {"name":"algorithmz","vers":"0.5.6","deps":[],"cksum":"3e79e4b8c6a9872d4ab8d4602406f49dc449139448c74167770a7529937b193a","features":{},"yanked":false,"pubtime":"2026-03-11T16:40:45Z"}
 {"name":"algorithmz","vers":"0.5.7","deps":[],"cksum":"55acf16c2feb1347010aff0ccdb53a5d21651f613588c9de5f7b46e3128e9c32","features":{},"yanked":false,"pubtime":"2026-03-11T17:03:20Z"}
+{"name":"algorithmz","vers":"0.5.8","deps":[],"cksum":"7d026e3da48c55ba7460e546a413e7c30678181ccce1771facbfeff39cefbd04","features":{},"yanked":false,"pubtime":"2026-03-11T18:51:50Z"}
