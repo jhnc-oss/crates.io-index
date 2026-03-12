@@ -26,3 +26,4 @@
 {"name":"completest","vers":"0.4.1","deps":[],"cksum":"e6cda99a94266124c2cce3d239973ef8ce3160c83a3f426a314285d9bf6422d1","features":{},"yanked":false,"rust_version":"1.70.0","pubtime":"2024-06-29T17:48:02Z"}
 {"name":"completest","vers":"0.4.2","deps":[],"cksum":"410de1ffe61368aa040f599747584e9e3d19235cf4045be6159edb167ef45ddb","features":{},"yanked":false,"rust_version":"1.70.0","pubtime":"2024-07-25T13:43:12Z"}
 {"name":"completest","vers":"1.0.0","deps":[],"cksum":"3f13fc557d0eaec78038039fb9fcfa75739534293b5d6626b14994ef79a6808a","features":{},"yanked":false,"rust_version":"1.70.0","pubtime":"2026-02-11T13:33:09Z"}
+{"name":"completest","vers":"1.1.0","deps":[],"cksum":"dea8f71e372b5a4f9a52c6365e0731b1ff34c3e6068ae64422412a8f45ab898e","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-03-12T20:12:04Z"}
