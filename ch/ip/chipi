@@ -5,3 +5,5 @@
 {"name":"chipi","vers":"0.4.0","deps":[],"cksum":"a0b1c8f88248e1712bda8e8b64ae1359bb01e953abd5f76c53ddabf32be88fa1","features":{},"yanked":false,"pubtime":"2026-02-21T11:56:02Z"}
 {"name":"chipi","vers":"0.5.0","deps":[],"cksum":"c792c84712dc5a8c1b82364f2f294284656b75c447bee811c2c400bc2a9090b8","features":{},"yanked":false,"pubtime":"2026-02-23T09:23:18Z"}
 {"name":"chipi","vers":"0.5.1","deps":[],"cksum":"804b48113bfcabe42a604d0db98786210fe860c0b7ced8b9bb85aa7c74f86b85","features":{},"yanked":false,"pubtime":"2026-02-23T16:34:13Z"}
+{"name":"chipi","vers":"0.5.2","deps":[],"cksum":"d6f9cba4e5437c22ff9f898fb06bfa88c616cc908ea69b634c53497b2d5b50e8","features":{},"yanked":false,"pubtime":"2026-03-12T12:34:08Z"}
+{"name":"chipi","vers":"0.5.3","deps":[],"cksum":"a7d2ab3ac8eccf8652db81b52914ee4822e03efb764d16e72791a46366071032","features":{},"yanked":false,"pubtime":"2026-03-12T12:56:55Z"}
