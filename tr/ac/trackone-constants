@@ -4,3 +4,4 @@
 {"name":"trackone-constants","vers":"0.1.0-alpha.6","deps":[],"cksum":"8057155a8d58b06f97d1c9d96a4d19000ae0d3f471cef825a4979ce69ca0af14","features":{},"yanked":false,"pubtime":"2026-03-01T17:29:04Z"}
 {"name":"trackone-constants","vers":"0.1.0-alpha.7","deps":[],"cksum":"4acfab150da7efa251739b9cc7cee0d25945f6c3bd033f50d180a47aa69107bd","features":{},"yanked":false,"pubtime":"2026-03-09T23:41:11Z"}
 {"name":"trackone-constants","vers":"0.1.0-alpha.8","deps":[],"cksum":"b8e198ec8ac2c453bf2b991d361a68fedc0fa75a78ca6a8fd3134c67f3a44947","features":{},"yanked":false,"pubtime":"2026-03-12T01:50:23Z"}
+{"name":"trackone-constants","vers":"0.1.0-alpha.9","deps":[],"cksum":"e1672b31877cbdac76d456129a1a94ee6c38c8d6595c759786119a1e4cc43bde","features":{},"yanked":false,"pubtime":"2026-03-12T23:06:12Z"}
