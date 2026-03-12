@@ -1,0 +1,1 @@
+{"name":"brakoll","vers":"0.1.5","deps":[{"name":"walkdir","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ced90356a7f9249ad1daec0d94b637e2522dad273a95c7e1afad0172b86cb5be","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-03-12T21:35:48Z"}
