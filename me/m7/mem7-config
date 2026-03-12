@@ -1,0 +1,1 @@
+{"name":"mem7-config","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7df76997ae2052094c586b53237a8ed0ee17d1e9d91df93b205dc57999e2d2af","features":{},"yanked":false,"pubtime":"2026-03-12T06:05:56Z"}
