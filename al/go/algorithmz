@@ -47,3 +47,4 @@
 {"name":"algorithmz","vers":"0.5.7","deps":[],"cksum":"55acf16c2feb1347010aff0ccdb53a5d21651f613588c9de5f7b46e3128e9c32","features":{},"yanked":false,"pubtime":"2026-03-11T17:03:20Z"}
 {"name":"algorithmz","vers":"0.5.8","deps":[],"cksum":"7d026e3da48c55ba7460e546a413e7c30678181ccce1771facbfeff39cefbd04","features":{},"yanked":false,"pubtime":"2026-03-11T18:51:50Z"}
 {"name":"algorithmz","vers":"0.5.9","deps":[],"cksum":"15b565d2f9ec76db853bc558379e33aac071b62325e87f203f55697ae7450765","features":{},"yanked":false,"pubtime":"2026-03-12T15:42:44Z"}
+{"name":"algorithmz","vers":"0.6.0","deps":[],"cksum":"090264a61160ebbc15260fc17a60fcf5a13efa21d8e21a22e4323cbafebb92e0","features":{},"yanked":false,"pubtime":"2026-03-12T17:28:11Z"}
