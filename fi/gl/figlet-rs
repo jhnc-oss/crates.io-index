@@ -5,3 +5,4 @@
 {"name":"figlet-rs","vers":"0.1.4","deps":[],"cksum":"01af5c4fc8506204d2280509e9d57d1b41e54e587c185ac09baef30d21ae63ed","features":{},"yanked":false,"pubtime":"2022-10-02T15:54:36Z"}
 {"name":"figlet-rs","vers":"0.1.5","deps":[],"cksum":"4742a071cd9694fc86f9fa1a08fa3e53d40cc899d7ee532295da2d085639fbc5","features":{},"yanked":false,"pubtime":"2023-02-14T15:35:24Z"}
 {"name":"figlet-rs","vers":"0.2.0","deps":[],"cksum":"8a2e5432cd349c86d2c36d2322bcfdb82628826f9e436f16b48700453957a2dd","features":{},"yanked":false,"rust_version":"1.56","pubtime":"2026-03-12T11:58:25Z"}
+{"name":"figlet-rs","vers":"1.0.0","deps":[{"name":"zip","req":"^0.6","features":["deflate"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"aad4cf7e378685c1af30f41b4832c29700325524c648d47752cabd5b97e7b09b","features":{},"yanked":false,"rust_version":"1.56","pubtime":"2026-03-12T15:18:17Z"}
