@@ -1,0 +1,1 @@
+{"name":"rigsql-i18n","vers":"0.5.0","deps":[{"name":"rust-i18n","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b83eded3e49d506cf200ba07757723975d4ea8003cb244b84e112ff7f9ae4ea","features":{},"yanked":false,"pubtime":"2026-03-12T03:43:14Z"}
