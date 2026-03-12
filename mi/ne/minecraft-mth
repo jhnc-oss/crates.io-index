@@ -1,2 +1,2 @@
-{"name":"minecraft-mth","vers":"0.1.0","deps":[],"cksum":"7459c4dee3aedafe0cfdfe840140ed050fbf9c872a6f3af8c68462ce03336dd0","features":{},"yanked":false,"pubtime":"2026-03-11T19:26:55Z"}
-{"name":"minecraft-mth","vers":"0.1.1","deps":[],"cksum":"97d868fd6e227d88a835360ca0ac793faeeebe1eb0f81dc03a5aa40a3abb08a6","features":{},"yanked":false,"pubtime":"2026-03-11T19:34:20Z"}
+{"name":"minecraft-mth","vers":"0.1.0","deps":[],"cksum":"7459c4dee3aedafe0cfdfe840140ed050fbf9c872a6f3af8c68462ce03336dd0","features":{},"yanked":true,"pubtime":"2026-03-11T19:26:55Z"}
+{"name":"minecraft-mth","vers":"0.1.1","deps":[],"cksum":"97d868fd6e227d88a835360ca0ac793faeeebe1eb0f81dc03a5aa40a3abb08a6","features":{},"yanked":true,"pubtime":"2026-03-11T19:34:20Z"}
