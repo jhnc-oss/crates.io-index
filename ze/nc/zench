@@ -1,1 +1,2 @@
 {"name":"zench","vers":"0.1.0","deps":[],"cksum":"c0619c3561ab323249fdf3b5931f3079c2e7339fc640f0739fcb3338892c4da7","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-03-10T01:42:44Z"}
+{"name":"zench","vers":"0.1.1","deps":[],"cksum":"7270921a3ade15d1d12e7fcdf3179c67c7ced7177121868de6a55fbc8f76c754","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-03-13T01:43:43Z"}
