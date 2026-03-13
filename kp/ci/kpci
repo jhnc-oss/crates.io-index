@@ -1,1 +1,0 @@
-{"name":"kpci","vers":"0.1.0","deps":[{"name":"virtio-drivers","req":"^0.7.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"774a354330b20fb6514d470e888b484de38d0cae46941c2caa5b118f58ad955d","features":{},"yanked":false,"pubtime":"2026-03-13T08:45:34Z"}
