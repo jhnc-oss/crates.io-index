@@ -60,3 +60,4 @@
 {"name":"geiserx_ts_dns_wire","vers":"0.36.0","deps":[],"cksum":"6267aa68ead237edfa73f1f84fea69373dfde1d658da43a2cbd579bee5b85a26","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-06-14T04:55:46Z"}
 {"name":"geiserx_ts_dns_wire","vers":"0.37.0","deps":[],"cksum":"f8cda23e5889284455abc74b320bd2d560e93ea3593e303fb166048dffd11365","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-06-14T05:25:41Z"}
 {"name":"geiserx_ts_dns_wire","vers":"0.37.1","deps":[],"cksum":"f0223af62e03008481570887375f5f59a4f958e04cb8982a1c0fb4eca900646b","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-06-14T05:44:24Z"}
+{"name":"geiserx_ts_dns_wire","vers":"0.37.2","deps":[],"cksum":"1616c10486072d11588fba6f15ccc375ff3466b3dac9b76875b0458a480626f8","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-06-14T06:15:11Z"}
