@@ -1,0 +1,1 @@
+{"name":"sley-pathspec","vers":"0.0.1","deps":[{"name":"sley-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d80a6da97e0ee5ecb76ca10847975f9b7db5cb6e78c1386e66bbdb62eed66556","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-14T14:28:11Z"}
