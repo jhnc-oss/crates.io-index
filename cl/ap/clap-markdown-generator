@@ -1,0 +1,1 @@
+{"name":"clap-markdown-generator","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5","features":["derive","env"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0f59c7b39d6fdbeee0deb8b99801c1ddfe75bb11f97a6e5d6cb43015c96da6e","features":{},"yanked":false,"pubtime":"2026-06-14T14:13:07Z"}
