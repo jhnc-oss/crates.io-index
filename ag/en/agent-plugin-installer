@@ -1,0 +1,1 @@
+{"name":"agent-plugin-installer","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"003ac253fa926a819a7f10f6b460c04053c09760226237c158c3dd64a00021f9","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-06-14T22:29:06Z"}
