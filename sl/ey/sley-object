@@ -1,0 +1,1 @@
+{"name":"sley-object","vers":"0.0.1","deps":[{"name":"sley-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec5ca342353c112ffca77ee1aa702940a26fa9c05d705ad31bb0498d8722fbf5","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-14T13:57:15Z"}
