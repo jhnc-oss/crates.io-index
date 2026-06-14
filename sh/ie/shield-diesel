@@ -2,3 +2,4 @@
 {"name":"shield-diesel","vers":"0.2.1","deps":[],"cksum":"9bf11984792bd9795afd97eecca22413c5417c3c658860c898a0a8bd948ba419","features":{},"yanked":false,"pubtime":"2026-03-13T10:55:19Z"}
 {"name":"shield-diesel","vers":"0.2.2","deps":[],"cksum":"8072d25b645559aacf1cca9cba63e390a05a826b81a453360b7b99906260637b","features":{},"yanked":false,"pubtime":"2026-03-13T11:49:41Z"}
 {"name":"shield-diesel","vers":"0.2.5","deps":[],"cksum":"17290f3c3eada3c870be41dccf7481f6e33353dc4cb8f44e32876a1524dd8184","features":{},"yanked":false,"pubtime":"2026-06-13T14:24:47Z"}
+{"name":"shield-diesel","vers":"0.3.0","deps":[],"cksum":"09c194be96918969dd0e1a1da8d142044fd68333ce4cbe1ae5cc0fea2e37db52","features":{},"yanked":false,"pubtime":"2026-06-14T13:42:11Z"}
