@@ -1,0 +1,1 @@
+{"name":"sley-mmap","vers":"0.0.1","deps":[{"name":"memmap2","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44a922559f5bef1e1b48db5b5025afdb9b83c406ee9a4ca586f8172360eae6b2","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-14T13:57:13Z"}
