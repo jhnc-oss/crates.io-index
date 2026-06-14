@@ -1,0 +1,1 @@
+{"name":"sley-config","vers":"0.0.1","deps":[{"name":"sley-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28078eb09cfddc1112f936a8a09405495cb8c3b92f41825907bf81e3920b3a74","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-14T13:57:09Z"}
