@@ -1,0 +1,1 @@
+{"name":"librasm","vers":"0.0.0","deps":[{"name":"rasm-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"070f20c0ad891343976f798093bb0f14d4279748e54fab809b3d479c2fe6e3cd","features":{},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-06-14T09:51:23Z"}
