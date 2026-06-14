@@ -1,0 +1,1 @@
+{"name":"samlrs","vers":"0.1.1","deps":[{"name":"opensaml","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2c2959d31c9f79a1a6696331a7c1a319ca2ce5f9376f5c576845741ec53197a","features":{"crypto-bergshamra":["opensaml/crypto-bergshamra"],"default":["crypto-bergshamra"]},"yanked":false,"pubtime":"2026-06-14T08:06:58Z"}
