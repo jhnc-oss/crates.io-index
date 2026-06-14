@@ -20,3 +20,4 @@
 {"name":"kevy-resp","vers":"1.14.0","deps":[],"cksum":"5cf98af48adea8a7d37822a81165f9bee032d3a89c43bbe7785578863c69e4ed","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-10T14:50:36Z"}
 {"name":"kevy-resp","vers":"1.15.0","deps":[],"cksum":"717ee58e6b5ae16aeb46bc3efe45353f8056293e89dfa0581a5aed7bab3bf823","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-10T21:44:22Z"}
 {"name":"kevy-resp","vers":"1.16.0","deps":[],"cksum":"a5711e137f528a34addd324e2dcd525ce790bc0af3c664a12b120398e6847858","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-11T03:25:06Z"}
+{"name":"kevy-resp","vers":"1.17.0","deps":[],"cksum":"4e4191829139316561019822aa1e984f069f45bacadd471ee6f348f1262269c6","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-14T14:24:55Z"}
