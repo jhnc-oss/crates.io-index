@@ -5,3 +5,4 @@
 {"name":"integral-math","vers":"0.1.4","deps":[],"cksum":"8027fde791bae8e78ffce963869e78bfce2ef3f60eb3356dad136b41ccd87da8","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-06-11T09:16:25Z"}
 {"name":"integral-math","vers":"0.1.5","deps":[],"cksum":"3b3331d400184e7ad88bb0db0defc35eee474d12ceaf5a1104359543728bf225","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-06-11T11:29:09Z"}
 {"name":"integral-math","vers":"0.1.6","deps":[],"cksum":"49cf5654b795a787cedbfd97e42c68d61f064cdafbc53f841124d3cb6a68370c","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-06-13T03:00:52Z"}
+{"name":"integral-math","vers":"0.2.0","deps":[],"cksum":"39ee962b9e9fa7c653364afe97abc33120c741e000e47175d4dd0c06d7468699","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-06-15T07:45:42Z"}
