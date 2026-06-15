@@ -5,3 +5,4 @@
 {"name":"hc32f448_driver_sys","vers":"0.2.2","deps":[],"cksum":"1121d956c5c30feaea6194cb67fe981ddc54b1dc28b1af2c919ebcae7860401c","features":{},"yanked":false,"pubtime":"2026-06-11T11:58:17Z"}
 {"name":"hc32f448_driver_sys","vers":"0.3.0","deps":[],"cksum":"a630fe1784016e39739817f8a5bf8eb638735f623f520c1bc655afb6598256bd","features":{},"yanked":false,"pubtime":"2026-06-15T01:12:28Z"}
 {"name":"hc32f448_driver_sys","vers":"0.4.0","deps":[],"cksum":"6bbb00acb91cd398b196a0d3ea986361de1b18d22c09ecf77868ee3793d213d3","features":{},"yanked":false,"pubtime":"2026-06-15T07:36:38Z"}
+{"name":"hc32f448_driver_sys","vers":"0.4.1","deps":[],"cksum":"42545f96f0db3c54c5846a1ddf26773eebe2268609ef1125ba545043b9b514c1","features":{},"yanked":false,"pubtime":"2026-06-15T11:25:25Z"}
