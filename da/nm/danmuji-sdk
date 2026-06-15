@@ -1,1 +1,2 @@
 {"name":"danmuji-sdk","vers":"0.1.0","deps":[],"cksum":"ac760bc80bdd40cac7824ea70510817e50023962758c403e68829e6682196ea4","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-06-15T14:05:56Z"}
+{"name":"danmuji-sdk","vers":"0.1.1","deps":[],"cksum":"820a41850efaec3eeac292bd21864645688343393655c84e68ff0dba90c3593e","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-06-15T14:43:47Z"}
