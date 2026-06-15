@@ -1,0 +1,1 @@
+{"name":"el-memory","vers":"0.3.3","deps":[{"name":"el-core","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b91b9a8884ad1a78d3f0c389ea36f9596575fbdc4bc713a32b6d1f2a2fd96f7","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-15T05:52:15Z"}
