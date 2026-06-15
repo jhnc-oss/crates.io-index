@@ -19,3 +19,4 @@
 {"name":"rialo-s-native-token","vers":"0.9.0","deps":[],"cksum":"4ae35e669c39f6383220c4ad203c6a9a77c9542981299d33b2f7d5789ec4dcce","features":{},"yanked":false,"pubtime":"2026-06-08T15:32:35Z"}
 {"name":"rialo-s-native-token","vers":"0.10.1","deps":[],"cksum":"f79e78282da1ebc6d1cb901c661ebf860746544f453e89f2b596cb490fd4f125","features":{},"yanked":false,"pubtime":"2026-06-10T15:55:11Z"}
 {"name":"rialo-s-native-token","vers":"0.10.2","deps":[],"cksum":"7001563e3914bc9318c6916c14ffc3a6932adcef4be627d2231511d0622a0022","features":{},"yanked":false,"pubtime":"2026-06-15T11:23:27Z"}
+{"name":"rialo-s-native-token","vers":"0.11.0-alpha.0","deps":[],"cksum":"e98e441554adcdffbefdfc4921f03494535b9b90c141decf6aa485bab7186ab7","features":{},"yanked":false,"pubtime":"2026-06-15T16:28:49Z"}
