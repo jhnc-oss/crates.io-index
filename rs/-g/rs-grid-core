@@ -1,0 +1,1 @@
+{"name":"rs-grid-core","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b3d800e27650d0a2afd781b6d999ff4581f0a1938c4fe2124814f5e3ddf9ff5d","features":{},"yanked":false,"pubtime":"2026-06-15T07:03:19Z"}
