@@ -41,3 +41,4 @@
 {"name":"icydb-diagnostic-code","vers":"0.182.6","deps":[],"cksum":"121bd1b890b908ea39e4b4e22c37dd6360a4ffdeed280668b8506efb0494a69b","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-06-13T20:52:25Z"}
 {"name":"icydb-diagnostic-code","vers":"0.182.7","deps":[],"cksum":"8339e5f68026c3fe2729e225ab2013bf15169287331d929b6129497264965013","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-06-14T11:50:36Z"}
 {"name":"icydb-diagnostic-code","vers":"0.182.18","deps":[],"cksum":"925b72761821d0cfb37792557deaa27601798e21f6ca152781e318667c90bf4d","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-06-15T10:58:03Z"}
+{"name":"icydb-diagnostic-code","vers":"0.184.0","deps":[],"cksum":"1e46505e31ed0ff86ff2cc56b9914a55c117f3a9707d5c7c7dea4737e43d8f38","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-06-15T17:27:45Z"}
