@@ -1,0 +1,1 @@
+{"name":"termboy-gba","vers":"0.3.0","deps":[{"name":"termboy-core","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"431986c0db54ab63d436c97eeecf7c7bdd2d186190449fa9b96cf1f4ed278f45","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-15T22:52:52Z"}
