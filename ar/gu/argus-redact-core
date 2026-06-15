@@ -1,0 +1,1 @@
+{"name":"argus-redact-core","vers":"0.7.0","deps":[{"name":"fancy-regex","req":"^0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6886c54519c6e841fd6a3ea3add6664e07d0ec06cc5d06b822b724471e891841","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-15T14:01:56Z"}
