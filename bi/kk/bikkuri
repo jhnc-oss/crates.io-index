@@ -16,3 +16,4 @@
 {"name":"bikkuri","vers":"0.2.0-rc18","deps":[],"cksum":"aeea6950a40fc1b9582c7610b31042818841f49721225166966faf2dd04b49e3","features":{},"yanked":false,"pubtime":"2026-06-12T08:31:48Z"}
 {"name":"bikkuri","vers":"0.2.0-rc19","deps":[],"cksum":"f8e431e272e9b7a2166507ebd83c8ce245b1d173cfd7896a8eb43827ac2335ea","features":{},"yanked":false,"pubtime":"2026-06-15T06:56:35Z"}
 {"name":"bikkuri","vers":"0.2.0-rc20","deps":[],"cksum":"a6fcaf074e8ad263c4286fef1e6c19d4e4d6bfb2afbea5a03168b73d20316c3e","features":{},"yanked":false,"pubtime":"2026-06-15T07:05:12Z"}
+{"name":"bikkuri","vers":"0.2.0-rc21","deps":[],"cksum":"00ff27f8f5f88381d0bfb4f5acd8a556f53b7e56f3c5745fba93a16f338a7845","features":{},"yanked":false,"pubtime":"2026-06-15T07:13:43Z"}
