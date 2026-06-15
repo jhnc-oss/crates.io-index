@@ -1,0 +1,1 @@
+{"name":"pamoja-codec","vers":"0.1.0","deps":[{"name":"pamoja-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1f82bffa59058dff9419fd0f7d97dca4125af1bb56f83d14546d98d1e1fd3cf","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-15T05:46:19Z"}
