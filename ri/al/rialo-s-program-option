@@ -18,3 +18,4 @@
 {"name":"rialo-s-program-option","vers":"0.8.0-alpha.0","deps":[],"cksum":"af44859b108b70ede6ac210a392dc58c89655a17e15fdf2bdf5c799ff39a959e","features":{},"yanked":false,"pubtime":"2026-06-01T15:30:33Z"}
 {"name":"rialo-s-program-option","vers":"0.9.0","deps":[],"cksum":"e70299afdbe8d0ff25e5f058421b2972ad6e80e7f7e72aaa60640d5c05ec4dc6","features":{},"yanked":false,"pubtime":"2026-06-08T15:32:42Z"}
 {"name":"rialo-s-program-option","vers":"0.10.1","deps":[],"cksum":"756dace085b69e05a3465dab2f06213867cc27d2e237351e36c899dee9abdc84","features":{},"yanked":false,"pubtime":"2026-06-10T15:55:18Z"}
+{"name":"rialo-s-program-option","vers":"0.10.2","deps":[],"cksum":"066f26d88118719ee425a048d96d5bf23b196a491c68c6e944dca5b7ae7772e6","features":{},"yanked":false,"pubtime":"2026-06-15T11:23:33Z"}
