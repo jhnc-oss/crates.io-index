@@ -1,0 +1,1 @@
+{"name":"uldren-loom-ffi","vers":"0.0.0","deps":[{"name":"loom-core","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"uldren-loom-core"}],"cksum":"74437de1471c45d4034f87ecab9983c0045264ead82d83831b11230520b8848b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-15T08:21:58Z"}
