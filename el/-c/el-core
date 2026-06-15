@@ -1,1 +1,2 @@
 {"name":"el-core","vers":"0.3.3","deps":[],"cksum":"4069e08e83507a296d9ccffa369c1fe85004c54b5b588be35e55aec21abe7236","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-15T05:52:12Z"}
+{"name":"el-core","vers":"0.3.4","deps":[],"cksum":"a9fa7c85e6cb6d5fa16971346c88281e44451d5af71708fbb269173b6899b35b","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-15T06:27:28Z"}
