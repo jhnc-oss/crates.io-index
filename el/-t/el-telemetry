@@ -1,0 +1,1 @@
+{"name":"el-telemetry","vers":"0.3.3","deps":[{"name":"el-core","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ded432d11f3163f13594e56fe8cced98086b325dc3842515e84d81d249796ab","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-15T05:52:17Z"}
