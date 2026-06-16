@@ -14,3 +14,4 @@
 {"name":"devup-editor-hotkey","vers":"1.0.14","deps":[],"cksum":"d40cc68a70b7d54b402bf6915422d1d6a8bfb2f1f824701bec686bd37aee7751","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-11T01:54:53Z"}
 {"name":"devup-editor-hotkey","vers":"1.0.16","deps":[],"cksum":"be28bf030975538e6fbef29079d89061e565df0edc7583e51b359ed28db69049","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-12T07:09:28Z"}
 {"name":"devup-editor-hotkey","vers":"1.0.17","deps":[],"cksum":"f77eeebc0c15a1d18b17bd15b6fb3ccf2979d0e9319ea2c377d96afff844cd1d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-15T01:55:50Z"}
+{"name":"devup-editor-hotkey","vers":"1.0.18","deps":[],"cksum":"87fa3eb59310b9a67507185452c129612f9f80e6feb11e8d999504ca7f77f93e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-16T03:10:12Z"}
