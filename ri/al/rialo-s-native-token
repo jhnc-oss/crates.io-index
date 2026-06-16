@@ -21,3 +21,4 @@
 {"name":"rialo-s-native-token","vers":"0.10.2","deps":[],"cksum":"7001563e3914bc9318c6916c14ffc3a6932adcef4be627d2231511d0622a0022","features":{},"yanked":false,"pubtime":"2026-06-15T11:23:27Z"}
 {"name":"rialo-s-native-token","vers":"0.11.0-alpha.0","deps":[],"cksum":"e98e441554adcdffbefdfc4921f03494535b9b90c141decf6aa485bab7186ab7","features":{},"yanked":false,"pubtime":"2026-06-15T16:28:49Z"}
 {"name":"rialo-s-native-token","vers":"0.11.0","deps":[],"cksum":"6ade31371eeb301716dfdd7e4082f0a8522486f6e8e5a310ced396080ac2df91","features":{},"yanked":false,"pubtime":"2026-06-16T10:07:27Z"}
+{"name":"rialo-s-native-token","vers":"0.11.1","deps":[],"cksum":"fe2f4846d90b727f355cd9d5f8147f5901a2bf197e2e28027821425cdf7ddc9b","features":{},"yanked":false,"pubtime":"2026-06-16T11:33:50Z"}
