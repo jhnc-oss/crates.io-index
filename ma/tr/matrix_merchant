@@ -1,0 +1,1 @@
+{"name":"matrix_merchant","vers":"0.1.0","deps":[{"name":"num-complex","req":"=0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcae099513c722f68114804b427ac3a69686bcdc178385026cc186ccf7ed0442","features":{},"yanked":false,"pubtime":"2026-06-16T23:12:23Z"}
