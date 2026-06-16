@@ -11,3 +11,4 @@
 {"name":"bomboni_fs","vers":"0.2.0","deps":[],"cksum":"670cad6b1891d2bf6dcc7bea2e5b09cb900b9c0d9ee77a4f5bbd250ecca02370","features":{},"yanked":false,"pubtime":"2025-11-10T12:52:53Z"}
 {"name":"bomboni_fs","vers":"0.3.0","deps":[],"cksum":"2a97e0a52c01ad153f786c89c6e72d4a5a092916102050db0524b91be68cf092","features":{},"yanked":false,"pubtime":"2026-05-11T12:03:58Z"}
 {"name":"bomboni_fs","vers":"0.3.1","deps":[],"cksum":"2002620f5bb1e40419825bdd228b1523e2183e4f5dff4b26d7af0e78aba51363","features":{},"yanked":false,"pubtime":"2026-05-11T13:09:23Z"}
+{"name":"bomboni_fs","vers":"0.4.0","deps":[],"cksum":"2bec981d4a18ba1727f1da3656c6c1ebcbe8bbec38e090ff118df7f3fb17cd2d","features":{},"yanked":false,"pubtime":"2026-06-16T22:59:57Z"}
