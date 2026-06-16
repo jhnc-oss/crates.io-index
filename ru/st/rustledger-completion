@@ -1,2 +1,3 @@
 {"name":"rustledger-completion","vers":"0.15.0","deps":[],"cksum":"a2d79d6128a6f1febaa027b26709bb53de1f19555d73d5a64ba9937b11d04a38","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-12T16:34:23Z"}
 {"name":"rustledger-completion","vers":"0.16.0","deps":[],"cksum":"1b2b1a34ac3c6cb49c0c8bdbbecce6f9e478de2b764f99a0fc2b56ad6e150745","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-15T19:23:52Z"}
+{"name":"rustledger-completion","vers":"0.16.1","deps":[],"cksum":"cd98ce166b90dccf50e654b81dc73edd3533e7a5cb2078fd6cab8682a884b21a","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-16T19:36:22Z"}
