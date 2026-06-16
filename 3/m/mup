@@ -2,3 +2,4 @@
 {"name":"mup","vers":"0.1.1","deps":[],"cksum":"844862a9900c0086f1111e25c5cc85570f1e98f137a94d47532b96022a3c555b","features":{},"yanked":false,"pubtime":"2026-06-15T21:17:16Z"}
 {"name":"mup","vers":"0.2.0","deps":[],"cksum":"c5a4775c4765883a22c493d313992312defc780f6f00c7dec2998a03ea14616d","features":{},"yanked":false,"pubtime":"2026-06-16T06:36:46Z"}
 {"name":"mup","vers":"0.3.0","deps":[],"cksum":"2c3041d59dca9d14feeed643f992e388f01be61f46a8a5cebf1c5ff68c78aa37","features":{},"yanked":false,"pubtime":"2026-06-16T08:43:03Z"}
+{"name":"mup","vers":"0.4.0","deps":[],"cksum":"390ba75972721caf06bed771d8404cc5747fcf88458ab182257f614c0aa5b1cf","features":{},"yanked":false,"pubtime":"2026-06-16T13:49:00Z"}
