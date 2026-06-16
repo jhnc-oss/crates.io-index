@@ -7,3 +7,4 @@
 {"name":"endf-mat","vers":"0.1.6","deps":[],"cksum":"3340859032998287adffd9628a88f1d21f83711d4d8283901c1c6d80cb2f6775","features":{},"yanked":false,"pubtime":"2026-03-23T23:57:36Z"}
 {"name":"endf-mat","vers":"0.1.7","deps":[],"cksum":"93727f68d71ecbbea6269cf13ee22f5e912e52dc563c3c6416410815495a84ff","features":{},"yanked":false,"pubtime":"2026-04-05T03:44:27Z"}
 {"name":"endf-mat","vers":"0.1.8","deps":[],"cksum":"4c5822ea50f19d51092df393ec498fb940594c3d90dd695afac3ad17ee3d63f2","features":{},"yanked":false,"pubtime":"2026-04-27T20:25:55Z"}
+{"name":"endf-mat","vers":"0.2.0","deps":[],"cksum":"5e73761066624bf63daff5bf89626193f7dfa9e2a4d0c79dd70a6283b2e1f3c0","features":{},"yanked":false,"pubtime":"2026-06-16T20:22:50Z"}
