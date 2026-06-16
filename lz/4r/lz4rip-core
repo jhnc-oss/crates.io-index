@@ -1,0 +1,1 @@
+{"name":"lz4rip-core","vers":"0.5.0","deps":[],"cksum":"c0fc56919983a2e2f9a54030d1f841f26ea6e786da2ab0a5c2507671c9fac2a4","features":{"default":["std"],"nightly":[],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-16T21:36:18Z"}
