@@ -1,1 +1,2 @@
 {"name":"daml-parser","vers":"0.1.0","deps":[],"cksum":"6c7645218ec249341319c2dd189da5b50c2948a3d0ffcdc9ff885f72a413310c","features":{},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-06-16T18:33:43Z"}
+{"name":"daml-parser","vers":"0.2.0","deps":[],"cksum":"3bfa2c4f72971d28a02cb42998bc057e990d6e0905741b189f70336f3ee1ab44","features":{},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-06-16T20:54:23Z"}
