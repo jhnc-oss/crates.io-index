@@ -1,0 +1,1 @@
+{"name":"foundation_conditional","vers":"0.1.0","deps":[],"cksum":"14e95bb516b319fd2aef14a29736684afebe7e7fdb368748cdd35644e655e1b0","features":{"debug_block":[],"default":[],"test_utils":[],"trace_block":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-06-16T05:50:01Z"}
