@@ -1,0 +1,1 @@
+{"name":"bunny-num","vers":"0.4.0","deps":[{"name":"wasm-bindgen-test","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4e1e529e78264717292bb9dc13028c86528081e9294607ecd6cce6485fc41873","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-16T22:09:34Z"}
