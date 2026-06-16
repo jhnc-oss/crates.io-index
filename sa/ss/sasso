@@ -8,3 +8,4 @@
 {"name":"sasso","vers":"0.5.2","deps":[],"cksum":"cd0695e62b0b86e3ac26ddb5a02b2341dbb150438514c6744840ffeadffb6c85","features":{"default":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-14T19:34:39Z"}
 {"name":"sasso","vers":"0.5.3","deps":[],"cksum":"c3a6ad160fc4c310e7bcfa5494c3be21588c28c564d66365f1429781bf4c5214","features":{"default":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-15T05:06:28Z"}
 {"name":"sasso","vers":"0.6.0","deps":[],"cksum":"83097b3d397d2788442c22b10a20a173a771808342e595cef26241bac803eb07","features":{"default":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-15T16:35:51Z"}
+{"name":"sasso","vers":"0.6.1","deps":[],"cksum":"08bf394355deb596478bb5bf81cdec3d1544469c4faf6edb8e471643f7b4c65a","features":{"default":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-16T00:59:31Z"}
