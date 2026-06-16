@@ -1,0 +1,1 @@
+{"name":"xdoc-cli","vers":"0.1.0","deps":[{"name":"xdoc","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"xdoc-rs"}],"cksum":"d0625a9f201316ff67dfc085ba61daca96f6579525245ca996aad6e0ecf3e4bf","features":{},"yanked":false,"pubtime":"2026-06-16T21:31:12Z"}
