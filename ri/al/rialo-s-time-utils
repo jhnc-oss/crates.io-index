@@ -21,3 +21,4 @@
 {"name":"rialo-s-time-utils","vers":"0.10.2","deps":[],"cksum":"cd9265cc68fe09822f38e7a8258750796dc9f31956b1e1424b82f6873ad417b8","features":{},"yanked":false,"pubtime":"2026-06-15T11:23:52Z"}
 {"name":"rialo-s-time-utils","vers":"0.11.0-alpha.0","deps":[],"cksum":"965d3aa02abccfe319e181dceb260088df806670402d9b27a32077a2a4c0cc97","features":{},"yanked":false,"pubtime":"2026-06-15T16:29:15Z"}
 {"name":"rialo-s-time-utils","vers":"0.11.0","deps":[],"cksum":"df83ea1f695a82e35879902e09e15ee08b1ded61ae1dc4f9231d624d9e15af95","features":{},"yanked":false,"pubtime":"2026-06-16T10:07:53Z"}
+{"name":"rialo-s-time-utils","vers":"0.11.1","deps":[],"cksum":"e97e9a062108c53b5f6da445b74be90a32b21d8ba5f4332c9ded3cbe3dd6cbee","features":{},"yanked":false,"pubtime":"2026-06-16T11:34:15Z"}
