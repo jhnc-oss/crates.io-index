@@ -62,3 +62,4 @@
 {"name":"gnucobol-rs","vers":"0.7.82","deps":[],"cksum":"461c87cc67f203c267f73effb14b5c3d2b9b11936fd69d648809ca6f83d79332","features":{"default":[],"fuzzing":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-15T20:08:51Z"}
 {"name":"gnucobol-rs","vers":"0.7.83","deps":[],"cksum":"8531d1b035fe4bb9fb19bf3c8d307c57f0de3efca7c1af7232803cbb282ae53e","features":{"default":[],"fuzzing":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-16T09:10:51Z"}
 {"name":"gnucobol-rs","vers":"0.7.84","deps":[],"cksum":"d723a7c88833dc676ecf42defab3d34511580cc2baa41f868e280fd453267ba4","features":{"default":[],"fuzzing":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-16T09:29:02Z"}
+{"name":"gnucobol-rs","vers":"0.7.85","deps":[],"cksum":"994d6bbe9467df914af41a5ab610c3f9f9587228c172ae0d271ab7d41d8fb74b","features":{"default":[],"fuzzing":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-16T09:45:45Z"}
