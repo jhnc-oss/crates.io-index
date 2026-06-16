@@ -1,1 +1,2 @@
 {"name":"termboy-core","vers":"0.3.0","deps":[],"cksum":"fcbccc41a8567e455b8fe52f15bdeb546063612a937013ec268cc655504c06ec","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-15T22:52:47Z"}
+{"name":"termboy-core","vers":"0.4.0","deps":[],"cksum":"fdd3fb5320d2b3f73b21adfd72310525dbad46cdd56c8ba1970fa98efb3dba2b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-16T02:46:24Z"}
