@@ -1,0 +1,1 @@
+{"name":"daml-fmt","vers":"0.1.0","deps":[{"name":"daml-parser","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32256f20187441bb7e59f21b4721ff297b9455f16119616f74fff441a79d2fec","features":{"dev-tools":[]},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-06-16T18:34:18Z"}
