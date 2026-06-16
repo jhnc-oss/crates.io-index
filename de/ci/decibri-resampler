@@ -1,0 +1,1 @@
+{"name":"decibri-resampler","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f34188d60c80ccb7cf4b43cd7f4b59db2ea4f82fdc11e4cfc346fd94ef4a7920","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-16T13:31:19Z"}
