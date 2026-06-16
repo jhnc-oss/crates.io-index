@@ -1,0 +1,1 @@
+{"name":"sqlite-core","vers":"0.1.0","deps":[{"name":"forensicnomicon","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d780828123f614ac4c4a0b047d185d437bec24b974e1a4e43a6d4162f6e8eee","features":{},"yanked":false,"pubtime":"2026-06-16T05:35:01Z"}
