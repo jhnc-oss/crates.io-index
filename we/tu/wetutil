@@ -2,3 +2,4 @@
 {"name":"wetutil","vers":"0.1.1","deps":[],"cksum":"108882571eccf74fe958771134d332255b9265090cbb4b10df22ae6777a1fc90","features":{},"yanked":false,"pubtime":"2026-06-11T07:01:57Z"}
 {"name":"wetutil","vers":"0.1.2","deps":[],"cksum":"360033cf8d5013a51707a2f8f0ab760af5faf56678d0db55a08189134aad19bb","features":{},"yanked":false,"pubtime":"2026-06-11T17:08:26Z"}
 {"name":"wetutil","vers":"0.2.0","deps":[],"cksum":"591eb27a4aa54d68fe33ec063d4ef7a28ec28cda5b3081825af3bc34559a8b3e","features":{},"yanked":false,"rust_version":"1.76","pubtime":"2026-06-11T18:32:05Z"}
+{"name":"wetutil","vers":"0.3.0","deps":[],"cksum":"e158262c6c1dfe4d55110d73d79babdc876fe3174d4b399709783cfb40d47183","features":{},"yanked":false,"rust_version":"1.76","pubtime":"2026-06-16T16:55:22Z"}
