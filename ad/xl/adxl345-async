@@ -1,0 +1,1 @@
+{"name":"adxl345-async","vers":"0.2.0","deps":[{"name":"embedded-hal-async","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a565eda132c2d7ec67caeaf7c65955d06b0fbf870eaf339bcd87538f5dd384fa","features":{},"yanked":false,"pubtime":"2026-06-16T13:09:53Z"}
