@@ -27,3 +27,4 @@
 {"name":"key-paths-core","vers":"2.0.1","deps":[],"cksum":"678b96e1896cd4f351360180e544214c4facf01140f0a678d3d802931575f5b8","features":{},"yanked":false,"pubtime":"2026-05-27T04:17:39Z"}
 {"name":"key-paths-core","vers":"2.0.2","deps":[],"cksum":"b255f9aadbc95950e4ef225b40bed6f251dbe3c06024e270444222f9d8b673c1","features":{},"yanked":false,"pubtime":"2026-06-13T19:16:17Z"}
 {"name":"key-paths-core","vers":"2.0.4","deps":[],"cksum":"c5cb3d6adda2e32f7d4f7df3e100ca571f7ba64f853ddc9e004287ee158cb6fc","features":{},"yanked":false,"pubtime":"2026-06-15T02:44:30Z"}
+{"name":"key-paths-core","vers":"2.1.0","deps":[],"cksum":"ccb07cbbfb2417e64679eb972eb409ada65f7c1731a92053aa2b310a33586175","features":{},"yanked":false,"pubtime":"2026-06-16T23:00:11Z"}
