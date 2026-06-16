@@ -5,3 +5,4 @@
 {"name":"nvg-bounce","vers":"1.0.4","deps":[],"cksum":"2947e9428b6577342842584cb1037549e41539151b4519b33e09cf82e18abae4","features":{},"yanked":false,"pubtime":"2026-06-12T04:27:11Z"}
 {"name":"nvg-bounce","vers":"1.0.5","deps":[],"cksum":"0c07b8132a46d5a688ebdbefbc6345c7b95e649fb43973a4283d6fd43614bfd4","features":{},"yanked":false,"pubtime":"2026-06-16T11:12:12Z"}
 {"name":"nvg-bounce","vers":"1.0.6","deps":[],"cksum":"594ec714f32fdc6c80fe56fe5dab32bbb780eda6d67a4471e787227755050589","features":{},"yanked":false,"pubtime":"2026-06-16T11:24:10Z"}
+{"name":"nvg-bounce","vers":"1.0.7","deps":[],"cksum":"c4381f7c961720ff103ef5a3be5d6cf96798b400da64cfe985f75a9e10718837","features":{},"yanked":false,"pubtime":"2026-06-16T17:26:32Z"}
