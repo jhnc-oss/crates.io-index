@@ -2,3 +2,4 @@
 {"name":"jokycrypt","vers":"0.2.0","deps":[],"cksum":"e82057a324479316aafd183e067ff42db8cb63b5d9e8512d21dfa6f2e6709abd","features":{},"yanked":false,"pubtime":"2026-06-16T20:44:39Z"}
 {"name":"jokycrypt","vers":"0.3.0","deps":[],"cksum":"c5105aa7260dcfcbd85040fdaa6fb129484ae06c190a40410209eae444c0f84c","features":{},"yanked":false,"pubtime":"2026-06-16T22:02:10Z"}
 {"name":"jokycrypt","vers":"0.3.1","deps":[],"cksum":"862c70129735e291a43d72617d113514a13ee071ce14181265eee20a4886ffc3","features":{},"yanked":false,"pubtime":"2026-06-16T22:25:58Z"}
+{"name":"jokycrypt","vers":"0.4.0","deps":[],"cksum":"736f41f72596e750fd9b3dc26e9edd26ff97fea80a77a88a6aaa8dd3b9fb4169","features":{},"yanked":false,"pubtime":"2026-06-16T22:56:10Z"}
