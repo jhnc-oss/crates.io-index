@@ -9,3 +9,4 @@
 {"name":"ydb-grpc-helpers","vers":"0.0.8","deps":[],"cksum":"83c0a5a796cf669cd2421debeb1514c778795902322ac94bf0ee5c300362c6e3","features":{},"yanked":false,"pubtime":"2022-07-23T22:39:55Z"}
 {"name":"ydb-grpc-helpers","vers":"0.0.9","deps":[],"cksum":"72b7229816c8da2fb676c0cf385319dc16ac91cf9b7a9171ed656aa67b07db81","features":{},"yanked":false,"pubtime":"2022-07-23T23:27:52Z"}
 {"name":"ydb-grpc-helpers","vers":"0.0.10","deps":[],"cksum":"07d1f292d18b6e0565bf4ae81768993531b9f9f553694744fa76343adf3fc70e","features":{},"yanked":false,"pubtime":"2022-07-23T23:49:14Z"}
+{"name":"ydb-grpc-helpers","vers":"0.0.11","deps":[],"cksum":"d047ecc9a64bce245b332f955c73cefd33b2aa8446d63dd04d23c283f99a9ceb","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-17T02:55:29Z"}
