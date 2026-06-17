@@ -1,0 +1,1 @@
+{"name":"volas-compute","vers":"1.1.0","deps":[{"name":"ndarray","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ddaa3844e8750787845d47bf591553cea9de6ab964d8a916fb609bdd8ef1920e","features":{},"yanked":false,"pubtime":"2026-06-17T14:23:38Z"}
