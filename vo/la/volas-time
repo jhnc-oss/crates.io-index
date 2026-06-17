@@ -1,0 +1,1 @@
+{"name":"volas-time","vers":"1.1.0","deps":[{"name":"volas-core","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73b7206b8fa5e5a7a88cca7c6d859fd6b45a8eba423c52c0bb64e0889d99a8b4","features":{},"yanked":false,"pubtime":"2026-06-17T14:23:47Z"}
