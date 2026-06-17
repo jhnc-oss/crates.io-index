@@ -1,0 +1,1 @@
+{"name":"brust-fasta","vers":"0.1.0","deps":[{"name":"brust-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55f4c516d6715e49ff5459a927b0491a5b39e530b1eacf4dbb6a38e95cf6e01e","features":{},"yanked":false,"pubtime":"2026-06-17T15:06:52Z"}
