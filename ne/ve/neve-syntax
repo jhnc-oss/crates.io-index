@@ -1,0 +1,1 @@
+{"name":"neve-syntax","vers":"4.0.1","deps":[{"name":"neve-common","req":"^4.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"459781d7bcea99ac74c64b52ae85412f6d1820a92fd0f9edb43090d4e57a5f56","features":{},"yanked":false,"pubtime":"2026-06-17T12:44:38Z"}
