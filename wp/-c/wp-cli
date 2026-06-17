@@ -1,0 +1,1 @@
+{"name":"wp-cli","vers":"0.1.1","deps":[{"name":"clap","req":"^4","features":["derive","cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1225dc99475afa58eb8e0bbaff84202c150b3d81619e75385aaa32e24072235c","features":{},"yanked":false,"pubtime":"2026-06-17T16:23:52Z"}
