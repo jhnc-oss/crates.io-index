@@ -1,3 +1,4 @@
 {"name":"reliary-dead","vers":"0.4.2","deps":[],"cksum":"e679981f531b5e61b2792541a01143213075fc9fd9cd83eb28c2f30a31b1c526","features":{},"yanked":false,"pubtime":"2026-06-16T18:15:11Z"}
 {"name":"reliary-dead","vers":"0.5.1","deps":[],"cksum":"c227ba33aa99742909ea20809e5fe78a94ef3b51ca916734f38719eb293a5873","features":{},"yanked":false,"pubtime":"2026-06-17T12:33:05Z"}
 {"name":"reliary-dead","vers":"0.5.2","deps":[],"cksum":"373f87fb622a89b634ed6e13dbb648332053892be32ccaee4298196ed6eb1443","features":{},"yanked":false,"pubtime":"2026-06-17T13:49:47Z"}
+{"name":"reliary-dead","vers":"0.5.3","deps":[],"cksum":"eb99387d473b515fb489ba0e79a3fc05d60f2f4a366dd4eab00e10e2cd70b1d1","features":{},"yanked":false,"pubtime":"2026-06-17T14:41:22Z"}
