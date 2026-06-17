@@ -1,0 +1,1 @@
+{"name":"lzvn-core","vers":"0.1.0","deps":[],"cksum":"48db7a2992202475d35c358a6a11a14c0a8ffb2d97ea2adae5766482243db356","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-17T04:26:11Z"}
