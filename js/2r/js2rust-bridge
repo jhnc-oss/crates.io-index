@@ -1,0 +1,1 @@
+{"name":"js2rust-bridge","vers":"0.1.0","deps":[{"name":"js2rust-bridge-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c14b75029d10f35b1a9c52101baa4949df72d1c303a9a1d0271caa1b95c3b267","features":{},"yanked":false,"pubtime":"2026-06-18T23:59:14Z"}
