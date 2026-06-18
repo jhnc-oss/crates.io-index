@@ -1,1 +1,2 @@
 {"name":"zerodds-security","vers":"1.0.0-rc.1","deps":[],"cksum":"b536e81ac32f27a19690f586364476f4212d25a9684d011a6efb30e0e873c783","features":{"alloc":[],"default":["std"],"safety":[],"std":["alloc"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-08T07:25:58Z"}
+{"name":"zerodds-security","vers":"1.0.0-rc.3","deps":[],"cksum":"3e7b58b994cd982c671cad9125af5e5ee403af61892a5da4f57e4c9f11b72a87","features":{"alloc":[],"default":["std"],"safety":[],"std":["alloc"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-18T23:48:01Z"}
