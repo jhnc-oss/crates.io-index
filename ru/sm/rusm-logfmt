@@ -1,2 +1,3 @@
 {"name":"rusm-logfmt","vers":"0.1.0","deps":[],"cksum":"c4d7d833d82cbeebe0baefaec6eb456545ce87e4855d5028098e5446bc52f834","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-06-15T06:26:04Z"}
 {"name":"rusm-logfmt","vers":"0.1.1","deps":[],"cksum":"5ea09540fe0ba6ae4e63d86103ebd2fce22036b872fc4338a8e5fb8821e8d5b1","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-06-16T17:54:10Z"}
+{"name":"rusm-logfmt","vers":"0.2.0","deps":[],"cksum":"6779a21625446ac5dfbe7c84681d6faaa5cb3d165e34d36305c14e79e7f1cb5c","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-06-18T22:33:12Z"}
