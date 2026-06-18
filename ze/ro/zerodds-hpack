@@ -1,1 +1,2 @@
 {"name":"zerodds-hpack","vers":"1.0.0-rc.1","deps":[],"cksum":"d5e01653b54498269a0d87e202d61e3bc2537603d7ffb6c74cbd28ff71e6a1ab","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-08T04:35:18Z"}
+{"name":"zerodds-hpack","vers":"1.0.0-rc.3","deps":[],"cksum":"0c7878d383d08879cee7d1b3a087d47ba368389f47f8d05ef214284052b41268","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-18T22:51:20Z"}
