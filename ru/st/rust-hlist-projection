@@ -1,0 +1,1 @@
+{"name":"rust-hlist-projection","vers":"0.1.0","deps":[{"name":"frunk","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f01e2d722a75e47010cbc96a1974d9b96c8d2d1ff26c7caed3134e26143b720","features":{},"yanked":false,"pubtime":"2026-06-18T07:44:55Z"}
