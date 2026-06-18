@@ -19,3 +19,4 @@
 {"name":"gdextension-api","vers":"0.3.3","deps":[],"cksum":"5383f33a2772746bbc83e5b0480862dd1eedfd0518b976f37f3db11c81e71a6a","features":{},"yanked":false,"pubtime":"2026-01-27T22:47:36Z"}
 {"name":"gdextension-api","vers":"0.4.0","deps":[],"cksum":"dc3f5ee7225378fbfc0c709e66b3f972e317183a0ff1d5ad0aa351b9f1cce1d6","features":{},"yanked":false,"pubtime":"2026-04-19T17:40:43Z"}
 {"name":"gdextension-api","vers":"0.5.0","deps":[],"cksum":"58ad9a3d877c77834a2d1d92842ebd56928f61bd52e0fac4f04fc8b3731b0437","features":{},"yanked":false,"pubtime":"2026-05-19T20:55:38Z"}
+{"name":"gdextension-api","vers":"0.5.1","deps":[],"cksum":"3489a9e7463353467db3cfe3eb12de31c9b6200e4f928bde4959bf5db5b31d2f","features":{},"yanked":false,"pubtime":"2026-06-18T21:17:46Z"}
