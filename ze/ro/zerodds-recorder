@@ -1,1 +1,2 @@
 {"name":"zerodds-recorder","vers":"1.0.0-rc.1","deps":[],"cksum":"0fa30e534a0ec7fbc10416453a267b76d7983a5f797e6cff2110eac989615678","features":{"alloc":[],"default":["std"],"safety":[],"std":["alloc"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-08T06:51:30Z"}
+{"name":"zerodds-recorder","vers":"1.0.0-rc.3","deps":[],"cksum":"e7ec68c8cfb4cd1d18626d83355063cfc728316b1f9022271cd99b4a241becda","features":{"alloc":[],"default":["std"],"safety":[],"std":["alloc"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-18T23:43:43Z"}
