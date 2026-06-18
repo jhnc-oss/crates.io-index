@@ -13,3 +13,4 @@
 {"name":"drasi-ffi-primitives","vers":"0.8.4","deps":[],"cksum":"a5e7ef53dd89f7c54b363fe565d587f7b6748d42e6a3b57fb612e544fc6b7f9b","features":{},"yanked":false,"pubtime":"2026-05-22T20:36:51Z"}
 {"name":"drasi-ffi-primitives","vers":"0.8.5","deps":[],"cksum":"9027f781d6e711b54bca04960c153c34ff7b112bf3f429a4a1281cffff0894d5","features":{},"yanked":false,"pubtime":"2026-06-08T02:42:30Z"}
 {"name":"drasi-ffi-primitives","vers":"0.9.0","deps":[],"cksum":"b9c98eeebe186018c6ad4c7051d149779bfcc31e00c27eab0193626c3b2288dc","features":{},"yanked":false,"pubtime":"2026-06-16T16:37:43Z"}
+{"name":"drasi-ffi-primitives","vers":"0.9.1","deps":[],"cksum":"0cf6703142e81a5319bf0f36a79278a0eeaa2a1da0aa8b5ae44fa10d4d4d4eb7","features":{},"yanked":false,"pubtime":"2026-06-18T23:34:17Z"}
