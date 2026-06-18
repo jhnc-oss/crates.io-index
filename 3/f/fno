@@ -1,1 +1,2 @@
 {"name":"fno","vers":"0.0.0","deps":[],"cksum":"ed2e49d14f851bc48c47317dc85d34fbd63e1221ea9f1a1ef69938c81a0ab973","features":{},"yanked":false,"pubtime":"2026-06-11T23:44:03Z"}
+{"name":"fno","vers":"0.1.0","deps":[],"cksum":"fa159915811ce25884b532450ed279caba568ca04a450e1526f1559a04f1f19c","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-18T22:46:34Z"}
