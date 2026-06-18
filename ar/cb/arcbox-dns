@@ -1,0 +1,1 @@
+{"name":"arcbox-dns","vers":"0.4.9","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae6eb80a1b929c941fd2ff7b347ef3894c27acb1c6bc9bbba4f553549ff7db3b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-18T05:37:28Z"}
