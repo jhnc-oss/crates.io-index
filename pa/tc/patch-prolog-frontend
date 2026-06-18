@@ -1,0 +1,1 @@
+{"name":"patch-prolog-frontend","vers":"0.2.0","deps":[{"name":"plg-shared","req":"=0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"patch-prolog-shared"}],"cksum":"d9493cb0b469e108a573d8cf0934d545e2b2388993aa717fcabfc28e440dcdcd","features":{},"yanked":false,"pubtime":"2026-06-18T23:31:47Z"}
