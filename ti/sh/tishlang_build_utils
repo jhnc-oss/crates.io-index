@@ -46,3 +46,4 @@
 {"name":"tishlang_build_utils","vers":"2.2.5","deps":[],"cksum":"823c79e42b0068dd0e04fdc59892e6d87453d6bac146d277250fa0834f673b30","features":{},"yanked":false,"pubtime":"2026-06-13T10:26:50Z"}
 {"name":"tishlang_build_utils","vers":"2.2.7","deps":[],"cksum":"dd507db8f1672b6c4fe96179dc06607fda4604e157b4320deb14efcf739a1bd6","features":{},"yanked":false,"pubtime":"2026-06-13T21:35:29Z"}
 {"name":"tishlang_build_utils","vers":"2.8.0","deps":[],"cksum":"6f3c5ebaa36281ced537936a03f516911bbbc695864b4ef121122aba6b7e53a8","features":{},"yanked":false,"pubtime":"2026-06-17T18:41:48Z"}
+{"name":"tishlang_build_utils","vers":"2.9.0","deps":[],"cksum":"a767f179f261f3e84a62484443ac7b20964f1e81912c097eb7239d6832f0e17d","features":{},"yanked":false,"pubtime":"2026-06-18T22:51:09Z"}
