@@ -1,0 +1,1 @@
+{"name":"dxc-converter","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0fc71b3d2938b0767bc55aa6dda50cf822f7ffb82a4e0faffe63eb8803fc9337","features":{},"yanked":false,"pubtime":"2026-06-18T23:25:38Z"}
