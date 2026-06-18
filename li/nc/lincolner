@@ -1,2 +1,2 @@
-{"name":"lincolner","vers":"0.1.0","deps":[],"cksum":"17709153082bb9f1bc62f14c9509fa511d143b820e5d6a2a91d66d15766516fe","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-06-18T12:49:04Z"}
+{"name":"lincolner","vers":"0.1.0","deps":[],"cksum":"17709153082bb9f1bc62f14c9509fa511d143b820e5d6a2a91d66d15766516fe","features":{},"yanked":true,"rust_version":"1.95.0","pubtime":"2026-06-18T12:49:04Z"}
 {"name":"lincolner","vers":"0.1.1","deps":[],"cksum":"3cd1a0b773a8ecfe975cce154a72b73869780ca47187e69afcda5ad02de01683","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-06-18T12:55:43Z"}
