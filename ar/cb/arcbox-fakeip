@@ -1,0 +1,1 @@
+{"name":"arcbox-fakeip","vers":"0.4.9","deps":[{"name":"tracing","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f15f6b2b2463734b33f67cc76f3fa24fefc9a04d99c8d4c529f04f42915a3a6","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-18T05:37:29Z"}
