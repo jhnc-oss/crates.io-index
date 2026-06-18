@@ -1,0 +1,1 @@
+{"name":"patch-prolog-runtime","vers":"0.2.0","deps":[{"name":"plg-shared","req":"=0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"patch-prolog-shared"}],"cksum":"cb346a05f0674beb1b0332bb47dd5d2a830a3325f5f49fbef5ab81a5d3435410","features":{},"yanked":false,"pubtime":"2026-06-18T23:33:49Z"}
