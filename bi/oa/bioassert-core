@@ -1,0 +1,1 @@
+{"name":"bioassert-core","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d283f5880474f23799bcbc7b861f2604e141a78ca0a4a96ae8207b0fe02d935","features":{},"yanked":false,"pubtime":"2026-06-18T07:09:03Z"}
