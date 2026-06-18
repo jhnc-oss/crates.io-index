@@ -1,0 +1,1 @@
+{"name":"zerodds-corba-cos-trading","vers":"1.0.0-rc.3","deps":[],"cksum":"7f0b513131f5421396e939e2546af6aaacb1551c8b44b612fb132f2d0037720b","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-18T22:35:01Z"}
