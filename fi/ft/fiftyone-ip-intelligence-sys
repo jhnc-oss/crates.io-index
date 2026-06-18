@@ -1,0 +1,1 @@
+{"name":"fiftyone-ip-intelligence-sys","vers":"4.5.1","deps":[{"name":"cc","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e59ca19f69deb3687613f123c1ee8ad395f3a5f5f4ef657cf08b5eaf0a26077a","features":{},"yanked":false,"links":"fiftyone-ip-intelligence-c","rust_version":"1.94","pubtime":"2026-06-18T07:23:03Z"}
