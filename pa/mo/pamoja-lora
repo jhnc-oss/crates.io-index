@@ -1,1 +1,2 @@
 {"name":"pamoja-lora","vers":"0.1.7","deps":[],"cksum":"1b1c21da3e9b0d2a97323257fa634d95e647bb8d37a46ddcbef9067117b727e4","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-18T13:15:47Z"}
+{"name":"pamoja-lora","vers":"0.1.8","deps":[],"cksum":"e7af03842728e5723e24c9664f95bdde44206672f3d81d9c16b189afaa4ed2b0","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-19T20:35:01Z"}
