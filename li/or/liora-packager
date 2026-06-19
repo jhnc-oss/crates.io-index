@@ -1,0 +1,1 @@
+{"name":"liora-packager","vers":"0.1.1","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb380c91fa16e5fcb038221eb4b2f000cdb17321ccef8dd92f1f1eca031d80cb","features":{},"yanked":false,"pubtime":"2026-06-19T01:16:03Z"}
