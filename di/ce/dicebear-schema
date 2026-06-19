@@ -1,3 +1,4 @@
 {"name":"dicebear-schema","vers":"1.1.0","deps":[],"cksum":"c732085910895ddcf7925f0e5ef52a8e47657e13213847bd143d977abb6f6527","features":{},"yanked":false,"pubtime":"2026-06-07T13:26:22Z"}
 {"name":"dicebear-schema","vers":"1.2.0","deps":[],"cksum":"a47bb7088b91c6585fcb5fee561a350340f337bb36dc7f876430860ed060740a","features":{},"yanked":false,"pubtime":"2026-06-08T19:13:22Z"}
 {"name":"dicebear-schema","vers":"1.3.0-rc.1","deps":[],"cksum":"061ce5130391a1874bf42fa7bff926d1cddb5ed8b0b7dd89ba7d02d45f0fdb81","features":{},"yanked":false,"pubtime":"2026-06-19T06:46:09Z"}
+{"name":"dicebear-schema","vers":"1.3.0","deps":[],"cksum":"7848f7ff7fce2c61f8a0ff75a83d9959a3c1ba199f6385ce1618c79bca2da1a1","features":{},"yanked":false,"pubtime":"2026-06-19T19:48:29Z"}
