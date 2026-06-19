@@ -1,1 +1,2 @@
 {"name":"pamoja-gpio","vers":"0.1.7","deps":[],"cksum":"21bac04c865278b8a8f5f49974f76bdb41f37af198050bfffb083d33a24ae18d","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-19T19:43:32Z"}
+{"name":"pamoja-gpio","vers":"0.1.8","deps":[],"cksum":"872691485f9e4a3b1c9d3e3cb2c2e48cee870e46b65168ef47bc7001236600cf","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-19T20:35:27Z"}
