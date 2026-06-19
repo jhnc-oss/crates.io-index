@@ -1,0 +1,1 @@
+{"name":"shigoto-rank","vers":"0.1.8","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"864fee8ab6ee2f082125ba630002ec59511765ba6362acfc2c620ea9d6caca99","features":{},"yanked":false,"pubtime":"2026-06-19T20:50:37Z"}
