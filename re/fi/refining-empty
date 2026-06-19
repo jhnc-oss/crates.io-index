@@ -1,0 +1,1 @@
+{"name":"refining-empty","vers":"0.1.0","deps":[{"name":"refining-core","req":"^0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"08af5595cb58961250381f4f35335c88fba11f13337e336aa57cd24ea1d02780","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-19T14:24:41Z"}
