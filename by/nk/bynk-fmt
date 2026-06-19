@@ -1,0 +1,1 @@
+{"name":"bynk-fmt","vers":"0.55.0","deps":[{"name":"bynkc","req":"^0.55.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9525294ed15c973ec1abe6ecc6911f1fd103c7c471513ce1ee9778b9f97417d1","features":{},"yanked":false,"pubtime":"2026-06-19T11:02:04Z"}
