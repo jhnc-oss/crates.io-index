@@ -1,0 +1,1 @@
+{"name":"ivo-validators","vers":"0.0.2","deps":[{"name":"regex","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0956a1cc56eb863bed98c83bcf5984e281d5ff0ee8b479bcd50535fb9188c05","features":{},"yanked":false,"rust_version":"1.71","pubtime":"2026-06-19T12:54:45Z"}
