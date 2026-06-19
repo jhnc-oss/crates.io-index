@@ -1,0 +1,1 @@
+{"name":"m4-rs-core","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"676eb8d2a57f80a52ee682683ad2b73f61e7426eed954a44776ee01a33163ec8","features":{},"yanked":false,"pubtime":"2026-06-19T02:39:06Z"}
