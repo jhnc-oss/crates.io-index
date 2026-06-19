@@ -1,2 +1,3 @@
 {"name":"vox-rt-macros","vers":"0.0.0","deps":[],"cksum":"a6223329eb4e97f754c5991bb601cf108a27ac1cd0f52d13295afc13b7cea95b","features":{},"yanked":false,"pubtime":"2026-06-18T07:24:31Z"}
 {"name":"vox-rt-macros","vers":"0.10.0-rc.0","deps":[],"cksum":"1a882da2efef63c01bd80d8e97425e8ca033a5573d247c10d8b8ff5938a73259","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-06-18T07:57:00Z"}
+{"name":"vox-rt-macros","vers":"0.10.0-rc.1","deps":[],"cksum":"791b9357a7ca719d80ae16371962f66ae82118965e391c1ca4ce92672ee4ad5d","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-06-19T12:00:28Z"}
