@@ -1,0 +1,1 @@
+{"name":"mercs2_formats","vers":"1.0.0","deps":[{"name":"flate2","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32bf7ccb992ef0882ec686e4d7f1b5916d6ac94178a74e7260d9760dce8ceaf2","features":{},"yanked":false,"pubtime":"2026-06-19T04:39:13Z"}
