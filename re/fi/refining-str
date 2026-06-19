@@ -1,0 +1,1 @@
+{"name":"refining-str","vers":"0.1.0","deps":[{"name":"refining-core","req":"^0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"de1a7dc36c63331cc9c427c5cb3d570558ebc83591f335a23141f9d41b44d4e8","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-19T15:17:29Z"}
