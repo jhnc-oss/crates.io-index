@@ -1,0 +1,1 @@
+{"name":"refining-char","vers":"0.1.0","deps":[{"name":"refining-core","req":"^0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bc510718247e777d4fc0a9ff91f8b926b08ed14c19d5c2555745a6ba6139b49b","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-19T14:24:41Z"}
