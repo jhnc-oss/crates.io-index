@@ -1,0 +1,1 @@
+{"name":"graphitesql","vers":"0.0.0","deps":[],"cksum":"ea628cd9396b07c3c7c6a59a19d38b925e0157451522cc7a4a90a457031d4af3","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-19T12:42:12Z"}
