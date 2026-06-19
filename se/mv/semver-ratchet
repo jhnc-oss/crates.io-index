@@ -1,1 +1,2 @@
 {"name":"semver-ratchet","vers":"1.0.0","deps":[],"cksum":"0466d0b1333692e15e103204b78ba1ae57bf97879175edcb63f3155651c6ccc7","features":{},"yanked":false,"pubtime":"2026-06-17T14:19:34Z"}
+{"name":"semver-ratchet","vers":"1.1.0","deps":[],"cksum":"101040f47c979c95d186a05db11b2288fa74ccdf91753f6b3713c90da3175f07","features":{},"yanked":false,"pubtime":"2026-06-19T00:44:24Z"}
