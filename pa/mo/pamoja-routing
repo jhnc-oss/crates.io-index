@@ -1,1 +1,2 @@
 {"name":"pamoja-routing","vers":"0.1.7","deps":[],"cksum":"77668d4d0b5e978522a4345feaca004b5d74bd441555d8bbb4a7a4b43c0da15e","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-18T13:48:56Z"}
+{"name":"pamoja-routing","vers":"0.1.8","deps":[],"cksum":"d4f851cc246bf7c2142cf6ea0397f2ca4b99023f1b6e5396637c7be6784da1c8","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-19T20:35:15Z"}
