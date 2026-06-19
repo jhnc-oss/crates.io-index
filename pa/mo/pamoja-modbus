@@ -1,1 +1,2 @@
 {"name":"pamoja-modbus","vers":"0.1.7","deps":[],"cksum":"a62547bf16c23721b60f9f9ee8248d4b3f33e8a5e62845bb10982b31d9249339","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-18T13:26:49Z"}
+{"name":"pamoja-modbus","vers":"0.1.8","deps":[],"cksum":"2ff9bcb09bad84c51f42e979af8d703f1042a84c39adf55a8563faabacad7e46","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-19T20:35:04Z"}
