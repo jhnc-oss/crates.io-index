@@ -1,1 +1,2 @@
 {"name":"pamoja-telemetry","vers":"0.1.7","deps":[],"cksum":"1995f9bbbf566fa958c2f8b43055d4aa0ef6aabd433fbbfefddcf31b9df4dfdf","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-18T13:04:45Z"}
+{"name":"pamoja-telemetry","vers":"0.1.8","deps":[],"cksum":"f21f97965284f73d2c588b67f23785e7af5fc6529d53b73eca22c5f014ffd0e2","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-19T20:34:57Z"}
