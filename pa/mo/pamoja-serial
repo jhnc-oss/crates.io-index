@@ -1,1 +1,2 @@
 {"name":"pamoja-serial","vers":"0.1.7","deps":[],"cksum":"7d594c07fb81fb9d699a05d12d9ae85e042e8695684382a67e498ae0cbb8200b","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-18T14:11:00Z"}
+{"name":"pamoja-serial","vers":"0.1.8","deps":[],"cksum":"71523a8fa6366546891a51fda09883bfbcd7d8478a60eb3d353ea9b93840ac02","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-19T20:35:23Z"}
