@@ -1,1 +1,2 @@
 {"name":"arcbox-packet","vers":"0.4.9","deps":[],"cksum":"f19481360feac3c811d4af673c98df5d761877591714c732a040d0dae5c2c34c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-18T07:01:56Z"}
+{"name":"arcbox-packet","vers":"0.4.10","deps":[],"cksum":"eb0a83f1e94fa5b1815b5865cc27c2af3d7e9b1b65e0cdb7d008c9c887df8ec7","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-19T17:08:09Z"}
