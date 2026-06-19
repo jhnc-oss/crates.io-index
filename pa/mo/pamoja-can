@@ -1,1 +1,2 @@
 {"name":"pamoja-can","vers":"0.1.7","deps":[],"cksum":"2cfc3061f258d1631082eaa1f95319d378620cbeda67d76a192cd297612a5ac5","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-18T13:59:58Z"}
+{"name":"pamoja-can","vers":"0.1.8","deps":[],"cksum":"4207b079a2bce5ac0d19cf793c80321cc926f9dfce238634b8d7c3d49ad67d38","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-19T20:35:19Z"}
