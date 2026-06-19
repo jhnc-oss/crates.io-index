@@ -1,0 +1,1 @@
+{"name":"bynk-grammar","vers":"0.55.0","deps":[{"name":"serde_json","req":"^1","features":["preserve_order"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5afe311f4ad782cff7f417511d9c9c808985984443627d089cfa61b92938d29f","features":{},"yanked":false,"pubtime":"2026-06-19T11:01:25Z"}
