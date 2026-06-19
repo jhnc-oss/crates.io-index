@@ -2,3 +2,4 @@
 {"name":"oneTenCubed-hey","vers":"0.1.1","deps":[],"cksum":"8f7e37430cf03110acdf89036960ca32fe29b292e9b37cfe21bb2cae1795c56f","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-11T10:30:54Z"}
 {"name":"oneTenCubed-hey","vers":"0.2.0","deps":[],"cksum":"c52d840e67c50478b0c27232f64179eab05fc4e87e4e05cc1a5137cf3c6bf140","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-12T11:12:03Z"}
 {"name":"oneTenCubed-hey","vers":"0.2.1","deps":[],"cksum":"c2c875bbec6bdeb99374166a4e3d06a4e16b19ac48bf1c85615427ee5e7eea1f","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-12T11:28:01Z"}
+{"name":"oneTenCubed-hey","vers":"0.3.0","deps":[{"name":"dirs","req":"^6.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d7ea1d66bbe29c07b551d156ae657177c5ab4230b02f59d5a03f7f364137fa9","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-19T11:09:38Z"}
