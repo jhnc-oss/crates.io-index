@@ -3,3 +3,4 @@
 {"name":"bail","vers":"0.2.0","deps":[],"cksum":"34d6ad9dc7dd28f5459ec62dbc9f907abed3ebe8a4912c1ef377b4005a281ef2","features":{},"yanked":false,"pubtime":"2026-06-16T07:24:00Z"}
 {"name":"bail","vers":"0.2.1","deps":[],"cksum":"45ee1e6673d53ed5d500b1ec18f22f6ed24d5681dda7c11e31bb97746bdd300a","features":{},"yanked":false,"pubtime":"2026-06-17T14:13:02Z"}
 {"name":"bail","vers":"0.2.2","deps":[],"cksum":"eaddeadf061603bfa6a6349856565b4f7c43575de64dab995cbff8ce204519aa","features":{},"yanked":false,"pubtime":"2026-06-17T14:29:35Z"}
+{"name":"bail","vers":"0.2.3","deps":[],"cksum":"3306b9cbefe5d2d2cf4044fb21519bda6b14a499dccd29adbce49eceebe3b987","features":{},"yanked":false,"pubtime":"2026-06-19T10:56:06Z"}
