@@ -1,0 +1,1 @@
+{"name":"bcx-model","vers":"0.1.0","deps":[{"name":"bcx-core","req":"^0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"74674b2f8b0d99b2b8684b8e6f41df0e4bcc6752e9c2bd3db89aced79118465b","features":{"alloc":[],"default":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-19T11:01:06Z"}
