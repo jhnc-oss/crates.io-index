@@ -3,3 +3,4 @@
 {"name":"holocron","vers":"0.1.4","deps":[],"cksum":"eb26a5fb8c9249f27aad67dd5e25b7962ebeea14a92c6e08c2273ed8c09c2551","features":{},"yanked":false,"pubtime":"2026-06-19T18:49:21Z"}
 {"name":"holocron","vers":"0.1.5","deps":[],"cksum":"e81db2b7604f9a232e9e347f74b006a5c2238b7d8eb12ddd291711288a83e099","features":{},"yanked":false,"pubtime":"2026-06-19T18:56:45Z"}
 {"name":"holocron","vers":"0.1.6","deps":[],"cksum":"791fc18cb009d72e30bc4228ed30d956edded90e1540737c3d46eddeb1e324e7","features":{},"yanked":false,"pubtime":"2026-06-19T19:05:40Z"}
+{"name":"holocron","vers":"0.1.7","deps":[],"cksum":"79e5513b88bc65c8fc03184b6ffdea421ed19730ea62b0dba4800322903b997f","features":{},"yanked":false,"pubtime":"2026-06-19T19:08:37Z"}
