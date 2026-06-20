@@ -1,2 +1,3 @@
 {"name":"kevy-scope","vers":"1.22.0","deps":[],"cksum":"2b994b88aaeaefc559d7a1f396b855f6e4ce201c57fc4ec6d33c7730c49480e8","features":{},"yanked":false,"pubtime":"2026-06-19T17:04:54Z"}
 {"name":"kevy-scope","vers":"1.23.0","deps":[],"cksum":"8a86fd427a6cfecde2182f7f0d710f1c4036e22c59d7ea250decc04ecfc6fae1","features":{},"yanked":false,"pubtime":"2026-06-20T04:43:02Z"}
+{"name":"kevy-scope","vers":"1.24.0","deps":[],"cksum":"7e0f858f2ce2fc05a42bce41e5a7691198d0907199f11d5152733876f993dec4","features":{},"yanked":false,"pubtime":"2026-06-20T06:20:30Z"}
