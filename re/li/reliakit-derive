@@ -5,3 +5,4 @@
 {"name":"reliakit-derive","vers":"1.0.0","deps":[],"cksum":"4ed29a3f798e7c59b7519ac9b8cacd5fd25860f12ef979ba2d61146b3b1e388c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-15T16:28:29Z"}
 {"name":"reliakit-derive","vers":"1.0.1","deps":[],"cksum":"99f62744452b261c0a6229324e88c1bad0936d151290f0ce3ba3ab2eb965fd28","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-19T00:15:16Z"}
 {"name":"reliakit-derive","vers":"1.0.2","deps":[],"cksum":"e616b61aa752153872efee5514243bdf29043050fde646e576c52355e5ca5260","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-19T00:42:30Z"}
+{"name":"reliakit-derive","vers":"1.1.0","deps":[],"cksum":"a75223a5b103660d092dfd6f1a1e5391691c7499cad70b4da9937deca631643e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-20T15:39:07Z"}
