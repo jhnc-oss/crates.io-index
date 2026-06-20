@@ -1,1 +1,2 @@
 {"name":"j2k-types","vers":"0.5.0","deps":[{"name":"signinum-j2k-types","req":"=0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f60169cca40d4f5df2518f7e08e69faee6e80ff953419e1f513f66ed81c4c1f","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-20T18:14:49Z"}
+{"name":"j2k-types","vers":"0.6.0","deps":[],"cksum":"3c85cb45167068749fef9b35e686da20b66b4c66e9da6286c9034f0ca594f9b3","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-20T22:45:19Z"}
