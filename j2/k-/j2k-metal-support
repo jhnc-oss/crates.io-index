@@ -1,0 +1,1 @@
+{"name":"j2k-metal-support","vers":"0.5.0","deps":[{"name":"signinum-metal-support","req":"=0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7ab4bede315e954189a5452d529a40db5386b50c00c8412802af74f1cdf687c","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-20T18:36:38Z"}
