@@ -1,1 +1,2 @@
 {"name":"eth-valkyoth-reth","vers":"0.2.0","deps":[],"cksum":"28b36823c4faf2ecb9323de71c5ac78baf29a6f1947756ce6a1d6dd8b1f57715","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-19T13:08:43Z"}
+{"name":"eth-valkyoth-reth","vers":"0.3.0","deps":[],"cksum":"e32d101dac69354b74b08d66b3000924b24141a085505b7db04287ad4f0b668e","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-20T07:09:54Z"}
