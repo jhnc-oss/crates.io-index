@@ -1,1 +1,2 @@
 {"name":"eth-valkyoth-codec","vers":"0.2.0","deps":[],"cksum":"2603935f4ec878a574b092fe2bf6818e14dfadff96c9853932a1b3be8b3ed795","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-19T12:47:44Z"}
+{"name":"eth-valkyoth-codec","vers":"0.3.0","deps":[],"cksum":"649194303df57a642875e91a5da0c7e09b103e29c7627934fafc5e04da23070b","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-20T07:07:22Z"}
