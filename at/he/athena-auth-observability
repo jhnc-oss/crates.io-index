@@ -1,0 +1,1 @@
+{"name":"athena-auth-observability","vers":"1.9.1","deps":[{"name":"prometheus","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c8649cda2cb4f953088ed80c3785399d9255328a227803402a71d00b407e28a","features":{},"yanked":false,"pubtime":"2026-06-20T10:15:09Z"}
