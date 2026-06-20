@@ -1,1 +1,2 @@
 {"name":"weavy","vers":"0.0.0","deps":[],"cksum":"914b2cd2dbe864876281bd015fab1cc753c64adaa079074b295a4229e08c4978","features":{},"yanked":false,"pubtime":"2026-06-20T13:57:29Z"}
+{"name":"weavy","vers":"0.1.0","deps":[],"cksum":"7f61a79ca0a6377446c3dfc34fd1e4894005efa88105404ed5eda796f37672a1","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-06-20T14:00:12Z"}
