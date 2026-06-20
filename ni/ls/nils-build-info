@@ -2,3 +2,4 @@
 {"name":"nils-build-info","vers":"1.0.0","deps":[],"cksum":"e9d7ff2fe5745878dcec02298e856675bc35b311ca913c60317de88c2bd5ca7a","features":{},"yanked":false,"pubtime":"2026-05-31T18:56:18Z"}
 {"name":"nils-build-info","vers":"1.0.7","deps":[],"cksum":"2217d9856d96d96c4dc11f9454754c5e7d1b8ed2198b4efe96de2863de5afb77","features":{},"yanked":false,"pubtime":"2026-06-03T14:17:45Z"}
 {"name":"nils-build-info","vers":"1.9.5","deps":[],"cksum":"141c4a3020dfafc3165329bff780337e772fdb5e5eb78b95601e0e6d13df7579","features":{},"yanked":false,"pubtime":"2026-06-18T06:52:14Z"}
+{"name":"nils-build-info","vers":"1.12.0","deps":[],"cksum":"a6df493f60c69d3aa3233b9cf599f56600844e18828d11d02dbfd1a2bedc7c1a","features":{},"yanked":false,"pubtime":"2026-06-20T04:45:31Z"}
