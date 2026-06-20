@@ -1,0 +1,1 @@
+{"name":"base64-ng-derive","vers":"1.0.9","deps":[{"name":"base64-ng","req":"^1.0.9","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"c6612b243597bdf5e6a53c57b5a75da98b0a229c631d4f16f13224ce77e02988","features":{"default":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-20T10:38:02Z"}
