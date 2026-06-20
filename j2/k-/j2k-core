@@ -1,0 +1,1 @@
+{"name":"j2k-core","vers":"0.5.0","deps":[{"name":"signinum-core","req":"=0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4d8e432425f0b274ae2811fee8d4eb5bba5f3661f304e0bbc35d531e84c414c","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-20T18:14:45Z"}
