@@ -1,0 +1,1 @@
+{"name":"infinitier_common","vers":"0.0.8","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"637d765248e0415b08e7a5f3566f076fc51d3cbeeae6344280c8e83ae552fe31","features":{},"yanked":false,"pubtime":"2026-06-20T17:32:04Z"}
