@@ -1,2 +1,3 @@
 {"name":"zerodds-web","vers":"1.0.0-rc.1","deps":[],"cksum":"365712a3b63780f4fb36d3a99015ef36febf3265612e7f82d16538de68d6e585","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-08T13:57:20Z"}
 {"name":"zerodds-web","vers":"1.0.0-rc.3","deps":[],"cksum":"25e3146c55a58ea1da078069bac04f051b620cd22427cdbc87ff9c41246c92b2","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-19T01:10:51Z"}
+{"name":"zerodds-web","vers":"1.0.0-rc.3.1","deps":[],"cksum":"659c2800400a05e7bca37e1e3a09e02cfd59fc64325b7e4cc77a4910f38bb135","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-20T18:21:19Z"}
