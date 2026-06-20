@@ -1,0 +1,1 @@
+{"name":"wicked-estate-memory-api","vers":"0.11.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bef17d5d672f9dfa06b1120bbf74b0e707da5acfb9e335d70fe227d12b80b23d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-20T11:50:15Z"}
