@@ -1,1 +1,2 @@
 {"name":"intent-audit-harness","vers":"1.2.2","deps":[],"cksum":"135383a48051a5d833eb1039303d901fcdc3b6c278d29061479b3e71e2840d80","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-06-16T18:59:47Z"}
+{"name":"intent-audit-harness","vers":"1.2.3","deps":[],"cksum":"cd520dc2cb0483d9fde51208317ff0c3bacfe50ef0cf8bf8aba421f8347f8e20","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-06-20T16:28:41Z"}
