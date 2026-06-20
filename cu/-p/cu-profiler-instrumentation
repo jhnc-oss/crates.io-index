@@ -1,1 +1,2 @@
 {"name":"cu-profiler-instrumentation","vers":"0.1.0","deps":[],"cksum":"e121f473c23c252afaa82ef92c935dc1e24271762df3ffe4f108280251ec78c0","features":{"default":[],"instrumentation":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-19T22:35:44Z"}
+{"name":"cu-profiler-instrumentation","vers":"0.1.1","deps":[],"cksum":"642db60de2aec8949c27f1b429f208a0545501edc1273523160f2d8869011354","features":{"default":[],"instrumentation":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-20T06:27:07Z"}
