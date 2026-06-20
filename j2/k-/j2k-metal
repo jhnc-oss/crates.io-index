@@ -1,0 +1,1 @@
+{"name":"j2k-metal","vers":"0.5.0","deps":[{"name":"signinum-j2k-metal","req":"=0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"342b7521ce33cdd0d956630f5b16ce27dd64206b3ab16f05ca372a40682ed691","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-20T18:14:51Z"}
