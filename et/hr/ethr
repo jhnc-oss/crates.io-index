@@ -1,0 +1,1 @@
+{"name":"ethr","vers":"0.1.1","deps":[{"name":"clap","req":"^4.6.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a73fcc777565c23f6ec5c92518fe5853b7a08dde2d4923a0ac116b40d018e816","features":{},"yanked":false,"pubtime":"2026-06-20T14:38:34Z"}
