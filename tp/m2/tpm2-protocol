@@ -101,3 +101,4 @@
 {"name":"tpm2-protocol","vers":"0.20.0","deps":[],"cksum":"ac6af193566df92a6d8ae662782749e7a6f8e4b2dd815f058cb9dd8475be00b9","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-17T18:37:33Z"}
 {"name":"tpm2-protocol","vers":"0.20.1","deps":[],"cksum":"4ca11f542e48e75161a77e1a3f93f257a687f3744c4ae46ff4df73ccb44b3503","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-18T01:09:05Z"}
 {"name":"tpm2-protocol","vers":"0.20.2","deps":[],"cksum":"264f0c30b02816f1ea9f393082da30a31bb91a391cb763f9a199930b12058067","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-19T14:56:28Z"}
+{"name":"tpm2-protocol","vers":"1.0.0","deps":[],"cksum":"c6c291259420303eaf5ccedf24e933fa552fc9aef14db7be3786c2fa49199cbb","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-20T18:31:49Z"}
