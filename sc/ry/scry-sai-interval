@@ -1,2 +1,3 @@
 {"name":"scry-sai-interval","vers":"1.10.0","deps":[],"cksum":"af4f30acbc3c30aed6d8ab02c3567e056d296dde7b627525c6ad8def7da40f6d","features":{},"yanked":false,"pubtime":"2026-06-17T06:44:42Z"}
 {"name":"scry-sai-interval","vers":"1.11.0","deps":[],"cksum":"fe0618fc71a9499e0c03bc06890acf8f5d5916ef8fca4756b50ff926f0a5e3bc","features":{},"yanked":false,"pubtime":"2026-06-17T19:59:41Z"}
+{"name":"scry-sai-interval","vers":"1.12.0","deps":[],"cksum":"671f099b30046a1e90d6a49d8ea792f2b70359f431c312fba3f9f67ab2643920","features":{},"yanked":false,"pubtime":"2026-06-20T11:49:07Z"}
