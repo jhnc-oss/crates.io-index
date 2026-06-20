@@ -1,1 +1,2 @@
 {"name":"eth-valkyoth-testkit","vers":"0.2.0","deps":[],"cksum":"8b6c386ba46ea075085cd93c06a92e7a4619ad6597b70cf48710fd33c4fecb5d","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-19T13:14:41Z"}
+{"name":"eth-valkyoth-testkit","vers":"0.3.0","deps":[],"cksum":"5e6104254f295de029416927343f63fade8921acdc730f415c7f717eb695864f","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-20T07:10:16Z"}
