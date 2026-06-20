@@ -1,0 +1,1 @@
+{"name":"zlib-bitexact-rs","vers":"0.131.0","deps":[{"name":"cc","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"54f4515d95508101b7c7b14f1807d5e7bb2b2a1debb75b2f9d3d95fb376e3f42","features":{"cref":[],"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-20T00:28:37Z"}
