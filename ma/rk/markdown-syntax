@@ -1,1 +1,2 @@
 {"name":"markdown-syntax","vers":"0.1.0","deps":[],"cksum":"e5f7a366e1cd75a81d3d1fb0371d360d3d36c026409e0b82a1e5dbe7d4d4d428","features":{"default":[],"html":[]},"yanked":false,"rust_version":"1.82","pubtime":"2026-06-20T13:09:47Z"}
+{"name":"markdown-syntax","vers":"0.1.1","deps":[],"cksum":"31f6b448874d3ff0ad771639b08a38c85498ca3ed0291722437075bf42518902","features":{"default":[],"html":[]},"yanked":false,"rust_version":"1.82","pubtime":"2026-06-20T13:45:30Z"}
