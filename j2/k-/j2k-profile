@@ -1,0 +1,1 @@
+{"name":"j2k-profile","vers":"0.5.0","deps":[{"name":"signinum-profile","req":"=0.5.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8027b7bcb42176c1b1868f26a926480185997226378f21fbf8f3b602d96ee363","features":{"default":["std"],"std":["signinum-profile/std"]},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-20T18:46:42Z"}
