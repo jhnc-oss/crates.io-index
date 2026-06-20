@@ -1,2 +1,3 @@
 {"name":"zerodds-chaos","vers":"1.0.0-rc.1","deps":[],"cksum":"0e8d5c9cd0d1a41f1a8426ae63ed18ce731df7459e5e50b66bb0ce8be4cb1537","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-08T01:10:52Z"}
 {"name":"zerodds-chaos","vers":"1.0.0-rc.3","deps":[],"cksum":"5d713cb4bd33f5aa21e71045e04648e08faca574c66a4a776e2733c92dce217b","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-18T22:31:48Z"}
+{"name":"zerodds-chaos","vers":"1.0.0-rc.3.1","deps":[],"cksum":"7581dd82fd07620f7d40bae8693715067bb21564ba7feac66773afd43496f788","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-20T14:57:00Z"}
