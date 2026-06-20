@@ -2,3 +2,4 @@
 {"name":"scry-sai-provenance","vers":"1.11.0","deps":[],"cksum":"b3937bb8468802fbb063c140e59a78c1989e8f89ec5b6104ac94fb7914aef6e8","features":{},"yanked":false,"pubtime":"2026-06-17T19:59:47Z"}
 {"name":"scry-sai-provenance","vers":"1.12.0","deps":[],"cksum":"a2b4a57106fa4bdff9483459b5347438d36119e296898392913c563dbf8696bb","features":{},"yanked":false,"pubtime":"2026-06-20T11:49:13Z"}
 {"name":"scry-sai-provenance","vers":"1.13.0","deps":[],"cksum":"e70f55c6868a3d60f8f0d8900aeaea42bce3ea0c26b7b279b42d90b267a86f17","features":{},"yanked":false,"pubtime":"2026-06-20T20:11:37Z"}
+{"name":"scry-sai-provenance","vers":"1.14.0","deps":[],"cksum":"fcbb4781fcf23502b6ebb5ccf070e5f3e7a3531f1ed67abe5b25824085ed51ed","features":{},"yanked":false,"pubtime":"2026-06-20T20:51:27Z"}
