@@ -1,0 +1,1 @@
+{"name":"persona-exporter-types","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57f31ddcb3da4684eb8b0140ca25592cfa8da9a38868f03c18f8a909a70fd32f","features":{},"yanked":false,"pubtime":"2026-06-20T06:16:29Z"}
