@@ -1,0 +1,1 @@
+{"name":"j2k-native","vers":"0.5.0","deps":[{"name":"signinum-j2k-native","req":"=0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c28d8071b5d72893fccb17eadea847f62506a8c7a6efa86ba8c9db17593cb3e3","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-20T18:14:47Z"}
