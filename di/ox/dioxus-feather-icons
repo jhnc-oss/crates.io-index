@@ -6,3 +6,4 @@
 {"name":"dioxus-feather-icons","vers":"0.2.2","deps":[],"cksum":"b8e6e7e938b138dc67c7935a823cedb5750c970cbe7f4d5a4e23463cad9d9c70","features":{},"yanked":false,"pubtime":"2025-05-11T15:06:03Z"}
 {"name":"dioxus-feather-icons","vers":"0.2.3","deps":[],"cksum":"4906119a35bdf4d1d46d516b8a89779574ab58b5e47a02b51f58f3e7a91aab01","features":{},"yanked":false,"pubtime":"2025-05-11T15:40:18Z"}
 {"name":"dioxus-feather-icons","vers":"0.2.4","deps":[],"cksum":"d80d6c180f509df34b6f6e9229f1cff02d3f69fed651519c387899b037b8d96a","features":{},"yanked":false,"pubtime":"2025-10-30T21:40:26Z"}
+{"name":"dioxus-feather-icons","vers":"0.2.5","deps":[],"cksum":"d924be3ca57d121dd01741eea81c17db4806df8c11105e2ae3c06c9bbc6f1b87","features":{},"yanked":false,"pubtime":"2026-06-20T20:27:24Z"}
