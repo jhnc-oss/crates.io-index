@@ -1,0 +1,1 @@
+{"name":"propaga-domains","vers":"0.1.0","deps":[{"name":"propaga-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c972d90472c2eb3eaa33f9d33362c2420e4decbe59e31f54ad7da8bb70fb6dec","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-21T22:28:00Z"}
