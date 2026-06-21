@@ -1,0 +1,1 @@
+{"name":"telegramify-markdown","vers":"1.0.2","deps":[{"name":"pulldown-cmark","req":"^0.13","features":["html"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4c4b770031564e4fc730e2a258b87710f88a140e6a2dfd8db48cccda818f872c","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-06-21T14:46:01Z"}
