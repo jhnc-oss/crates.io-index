@@ -6,3 +6,4 @@
 {"name":"infinity_rs_sdk","vers":"0.2.5","deps":[],"cksum":"db8bfc9076cd2ab498f1be42f3b261627c2d4b553af2aa4aeddbb771ceed1b76","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-01T18:40:03Z"}
 {"name":"infinity_rs_sdk","vers":"0.2.6","deps":[],"cksum":"5eb4eb907d2fad1b87e89e99f0de3be97d67cb4e8f9da39257f2b888ba0669e3","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-04T23:54:18Z"}
 {"name":"infinity_rs_sdk","vers":"0.2.7","deps":[],"cksum":"ef67da180c6c81392057784f2beeb98d048745b069a8f4cbc3115fc1a618f474","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-18T11:38:49Z"}
+{"name":"infinity_rs_sdk","vers":"0.2.8","deps":[],"cksum":"59b0390100aff6cd2144afe19824f2706cb0347e805527fc46a74f7e21de8efe","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-21T00:23:32Z"}
