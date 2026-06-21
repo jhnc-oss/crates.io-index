@@ -1,0 +1,1 @@
+{"name":"cvkg-telemetry","vers":"0.2.13","deps":[{"name":"cvkg-core","req":"^0.2.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b566d4b1fce07d9ea6229ca4047650c47668835cd47a8d403997349327832e96","features":{"default":[],"telemetry":[]},"yanked":false,"pubtime":"2026-06-21T01:24:28Z"}
