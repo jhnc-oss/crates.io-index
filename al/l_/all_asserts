@@ -13,3 +13,4 @@
 {"name":"all_asserts","vers":"2.3.1","deps":[],"cksum":"ca77caf0ca1057c274cda103cda1363d892b7cad5f2e646afde4df0697bea100","features":{},"yanked":false,"pubtime":"2022-03-02T07:37:08Z"}
 {"name":"all_asserts","vers":"2.3.2","deps":[],"cksum":"714f6af048b504f57d548484fed55a7993b4cc9f474ddee4d26ba89d08d806c1","features":{},"yanked":false,"pubtime":"2024-12-14T07:25:13Z"}
 {"name":"all_asserts","vers":"2.3.3","deps":[],"cksum":"514ce16346f9fc96702fd52f2ae7e383b185516ee6f556efd7c3176be8fe7bea","features":{},"yanked":false,"pubtime":"2024-12-28T06:49:06Z"}
+{"name":"all_asserts","vers":"2.3.4","deps":[],"cksum":"62ec8a4dbfbd8acfe181f030be8174b00d3d7dc3447f7dc53ead6cc96e89fe52","features":{},"yanked":false,"pubtime":"2026-06-21T05:36:57Z"}
