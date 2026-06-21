@@ -1,0 +1,1 @@
+{"name":"simd-rs63","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bd9f400ed2419494cb41f7757d7ebe1a124b24acb3bb968cc26d0cb73bddc17c","features":{},"yanked":false,"pubtime":"2026-06-21T20:00:37Z"}
