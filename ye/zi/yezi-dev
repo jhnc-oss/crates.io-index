@@ -1,1 +1,0 @@
-{"name":"yezi-dev","vers":"0.1.0","deps":[{"name":"bpaf","req":"^0.9","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7469bd9afdfbbc27a0ab903b4c3c1f1f33e3a2ae4eac5deff9d2d3563d1426aa","features":{},"yanked":false,"pubtime":"2026-06-21T09:27:35Z"}
