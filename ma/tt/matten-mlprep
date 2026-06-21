@@ -1,0 +1,1 @@
+{"name":"matten-mlprep","vers":"0.19.0","deps":[{"name":"matten","req":"^0.19","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ae99fe6071bc18a62becaf7b93fa63b78f64180e16c50b4d962010e893544297","features":{"dynamic":["matten/dynamic"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-21T09:07:52Z"}
