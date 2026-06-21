@@ -1,0 +1,1 @@
+{"name":"lc3as","vers":"0.6.0","deps":[{"name":"lc3core","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aca8614436f0f4d72323ad679e0c7c3ee6b4bbdcb48c539f5155cef30c86dc96","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-21T16:34:18Z"}
