@@ -1,0 +1,1 @@
+{"name":"pmcp-workbook-dialect","vers":"0.1.0","deps":[{"name":"pmcp-workbook-runtime","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07601a9bb9bc7c755d1770780750f9a896f25ff916edc61d8dd88f5064a703cb","features":{},"yanked":false,"pubtime":"2026-06-21T17:39:41Z"}
