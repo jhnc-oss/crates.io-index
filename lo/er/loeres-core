@@ -1,1 +1,2 @@
 {"name":"loeres-core","vers":"0.3.0","deps":[],"cksum":"ee2a79dd25e3d92d5afd72674201cc03323f6e978b7702f3cd49fce482c63b14","features":{"default":[],"fixed-point-hooks":[],"libm":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-21T08:03:28Z"}
+{"name":"loeres-core","vers":"0.4.0","deps":[],"cksum":"6d6c272b110a53a0d5bc1e2bae2a4bff37c51b5c54ece1011a3065b990b55e0d","features":{"default":[],"fixed-point-hooks":[],"libm":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-21T08:25:35Z"}
