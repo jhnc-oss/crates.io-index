@@ -2,3 +2,4 @@
 {"name":"keyroost-proto","vers":"0.5.0","deps":[],"cksum":"f6f8051ea6f50289f92216af3d51f16c329d1d6fedfb981dc6bf5bc31d108071","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-14T14:12:32Z"}
 {"name":"keyroost-proto","vers":"0.5.1","deps":[],"cksum":"ade2c29d17fa655e2994b4e2d50a02f7ccdcf2e35943cd46bcc758bb9a321ce6","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-15T02:53:26Z"}
 {"name":"keyroost-proto","vers":"0.6.0","deps":[],"cksum":"6d4497ebe4eabe37c8dfd4d83dfc3d1d82c409acb64718d96a15da89d62243e1","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-18T04:07:08Z"}
+{"name":"keyroost-proto","vers":"0.7.0","deps":[],"cksum":"dc33cf8e1cf90238f3e59eb587b137910e638700850941b96ad0d743b2fcafc3","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-21T00:56:27Z"}
