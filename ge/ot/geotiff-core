@@ -10,3 +10,4 @@
 {"name":"geotiff-core","vers":"0.5.0","deps":[],"cksum":"2dd976b33911a63913a0f4ce4c5d5e8643c072437a22911733e112f2559fdcb9","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-05-17T17:40:58Z"}
 {"name":"geotiff-core","vers":"0.6.0","deps":[],"cksum":"0953a6b16831809521856d51e0c6e0e78bfd98245ef84b824d2e65e412b85abe","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-06-08T04:46:49Z"}
 {"name":"geotiff-core","vers":"0.6.1","deps":[],"cksum":"cef56931c6f091ef55dae5cf62e8f7a5b33a05705183ea65ba8bc67083d40a8e","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-06-11T03:43:57Z"}
+{"name":"geotiff-core","vers":"0.7.0","deps":[],"cksum":"00b6a72346d60112fc3dca193993e55df4da32e56dcf9f1bf6653334324a8cea","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-06-21T03:10:49Z"}
