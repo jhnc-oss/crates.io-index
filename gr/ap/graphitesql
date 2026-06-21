@@ -4,3 +4,4 @@
 {"name":"graphitesql","vers":"0.0.3","deps":[],"cksum":"9025d4f3e9f25dcab8262d1488e2aca983e68e6ac955ae0040d63b1c6581a010","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-19T15:03:04Z"}
 {"name":"graphitesql","vers":"0.0.4","deps":[],"cksum":"5939461391069d72ab026b9b1cb2ff960f5591d3d327d0f7528939cfb9a62e4d","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-19T23:06:01Z"}
 {"name":"graphitesql","vers":"0.0.5","deps":[],"cksum":"5cd1d90b04f99ac2f9222a18076e309c76dc7bd32ada9d6dbd32ab68707f2b84","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-20T18:27:11Z"}
+{"name":"graphitesql","vers":"0.0.6","deps":[],"cksum":"cbe8b3769515be3be068ad84e0aadd41b15726c7cca4ff0ca7bb95513ee13408","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-21T10:22:54Z"}
