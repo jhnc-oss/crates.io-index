@@ -1,0 +1,1 @@
+{"name":"yezi","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0","features":["backtrace"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3aa3ee173e46ca8e2ca269d2124856f72d1a8e54de3454b3f99718088adc85e0","features":{},"yanked":false,"pubtime":"2026-06-21T09:27:30Z"}
