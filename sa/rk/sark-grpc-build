@@ -1,0 +1,1 @@
+{"name":"sark-grpc-build","vers":"0.2.0","deps":[{"name":"prost-build","req":"^0.14.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9b6f10d8d15c5efd3afc2637dc6d09f52f2db518ffb96ca6ff7b7afd0748f64","features":{},"yanked":false,"pubtime":"2026-06-22T11:54:41Z"}
