@@ -29,3 +29,4 @@
 {"name":"kevy-hash","vers":"1.26.2","deps":[],"cksum":"171a306164add710494865e0dc21c3d80775d6d33b6acf812db1b55e9297cbd2","features":{},"yanked":false,"pubtime":"2026-06-22T14:01:22Z"}
 {"name":"kevy-hash","vers":"1.26.3","deps":[],"cksum":"c4fb49e90c5aa6f0e5d4ae3eb148f4be520a00b8e60bec4e4882823fcc8f9a9e","features":{},"yanked":false,"pubtime":"2026-06-22T14:09:11Z"}
 {"name":"kevy-hash","vers":"1.26.4","deps":[],"cksum":"260be1ba873ac277592c5ab3b16f71ca3369a1b86e0f4eea1daeff093c912f1b","features":{},"yanked":false,"pubtime":"2026-06-22T14:15:55Z"}
+{"name":"kevy-hash","vers":"1.26.5","deps":[],"cksum":"cbc2a4884769f93af1dfad89f05e3995649dcaa383f03ce5f6c2ac80b58a3fac","features":{},"yanked":false,"pubtime":"2026-06-22T14:28:12Z"}
