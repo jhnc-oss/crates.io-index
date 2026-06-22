@@ -1,0 +1,1 @@
+{"name":"observatory-xliff12","vers":"0.0.1","deps":[{"name":"observatory-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16980efaa309609a35e99d3bdabd1f2b6c0d5a5bb9358b724df65539097422ed","features":{},"yanked":false,"pubtime":"2026-06-22T16:11:55Z"}
