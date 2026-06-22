@@ -4,3 +4,4 @@
 {"name":"scry-sai-interval","vers":"1.13.0","deps":[],"cksum":"3c6877b820568c9a781f3fa862e75d3d61f050ad712df2d787bdc1292e4bdd94","features":{},"yanked":false,"pubtime":"2026-06-20T20:11:32Z"}
 {"name":"scry-sai-interval","vers":"1.14.0","deps":[],"cksum":"f832ce220626400bcb251cb5370561f231457366ee8b1ca772afdd8423af2dcf","features":{},"yanked":false,"pubtime":"2026-06-20T20:51:20Z"}
 {"name":"scry-sai-interval","vers":"1.15.0","deps":[],"cksum":"0bd1f752af57879d1b096c0579eafc42fd63e17ed6b8a2b9455274cfcced8907","features":{},"yanked":false,"pubtime":"2026-06-21T16:41:12Z"}
+{"name":"scry-sai-interval","vers":"1.16.0","deps":[],"cksum":"2e1b09c6df3c0a39d84b6cda9b1485eda9a65f31dc47c95bd4bb4b89f68aa8f7","features":{},"yanked":false,"pubtime":"2026-06-22T18:58:29Z"}
