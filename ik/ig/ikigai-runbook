@@ -1,0 +1,1 @@
+{"name":"ikigai-runbook","vers":"0.1.0","deps":[{"name":"ikigai-core","req":"^0.1.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e4e7b65d333edc731cdc997646a0b9e7d6b8e4fb6a92b19d815cecc46708e20e","features":{},"yanked":false,"pubtime":"2026-06-22T20:04:14Z"}
