@@ -1,1 +1,2 @@
 {"name":"lc3core","vers":"0.6.0","deps":[],"cksum":"0cbd606bbe4d601d7be94e3ff5bf78b34a62d7d5776782011f060552ed814e37","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-21T16:32:04Z"}
+{"name":"lc3core","vers":"0.7.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e534e57c62c5e731d2493f1a474f6c1cd69cc9063a4b76d74c9ab06b9f370e1e","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-22T23:01:20Z"}
