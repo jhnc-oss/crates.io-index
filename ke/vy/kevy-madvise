@@ -27,3 +27,4 @@
 {"name":"kevy-madvise","vers":"1.23.0","deps":[],"cksum":"8be47c4e2a8f88d4ba451cf6425a0fdd99069570646ab77756410dd94b1282e8","features":{},"yanked":false,"pubtime":"2026-06-20T04:42:36Z"}
 {"name":"kevy-madvise","vers":"1.24.0","deps":[],"cksum":"f3fa06b352d8cfc4298dd814f8cd678f83aef074f8cf7f0a0ec56d1ef03ab85a","features":{},"yanked":false,"pubtime":"2026-06-20T06:19:59Z"}
 {"name":"kevy-madvise","vers":"1.26.2","deps":[],"cksum":"bb4572179a819731c7145945178a4f61ff7b737054dadfac245e631e016b6416","features":{},"yanked":false,"pubtime":"2026-06-22T14:01:17Z"}
+{"name":"kevy-madvise","vers":"1.26.3","deps":[],"cksum":"e94f3cba9526e751c723cda52d1820858c0b343bdfc3957125c6c903240fc81a","features":{},"yanked":false,"pubtime":"2026-06-22T14:09:06Z"}
