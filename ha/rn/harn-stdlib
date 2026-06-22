@@ -138,3 +138,4 @@
 {"name":"harn-stdlib","vers":"0.8.131","deps":[],"cksum":"9c28b7ac0756b5df21b294c64a19029cce2f16103afedd3a6f378b83f45d3b3f","features":{},"yanked":false,"pubtime":"2026-06-21T18:47:26Z"}
 {"name":"harn-stdlib","vers":"0.8.132","deps":[],"cksum":"4d08ba8e92e22bd11cc8a31924ae3f0fc9bc36136d3a0ac37b9288fd94477c7a","features":{},"yanked":false,"pubtime":"2026-06-21T19:53:59Z"}
 {"name":"harn-stdlib","vers":"0.8.133","deps":[],"cksum":"aac0bd41ba7409e783594d54392fe25fdcf25f754107764a76be15e8da1544ca","features":{},"yanked":false,"pubtime":"2026-06-22T07:50:05Z"}
+{"name":"harn-stdlib","vers":"0.8.134","deps":[],"cksum":"8a9ac885a3dd1a3c69ae2c50dc7a3cc52fd63ddf0a4953ebe499841513ef266e","features":{},"yanked":false,"pubtime":"2026-06-22T12:19:31Z"}
