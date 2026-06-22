@@ -1,0 +1,1 @@
+{"name":"grust-postgres","vers":"0.9.1","deps":[{"name":"grust-postgres-core","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c190a9162a7080224b9f7922f19621168db0e3cb46af042ee8f1593664cbc905","features":{},"yanked":false,"pubtime":"2026-06-22T22:07:19Z"}
