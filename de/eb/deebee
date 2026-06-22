@@ -1,0 +1,1 @@
+{"name":"deebee","vers":"0.2.0","deps":[{"name":"uuid","req":"^1.23.1","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7345e2d7ca073c866bba0c5a595afb7b2ab1a8b2ec3e448e8299dcbb0a9d00af","features":{},"yanked":false,"pubtime":"2026-06-22T22:32:25Z"}
