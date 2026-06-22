@@ -38,3 +38,4 @@
 {"name":"chematic-core","vers":"0.4.13","deps":[],"cksum":"540067997748a0557c07b0dbd1a197be98c9c77281f40e198c84bde6193c699b","features":{},"yanked":false,"pubtime":"2026-06-21T01:55:40Z"}
 {"name":"chematic-core","vers":"0.4.14","deps":[],"cksum":"37876b32fdab0742fa995e49db565d093698e7d67cb7f34537cb79719a03a28b","features":{},"yanked":false,"pubtime":"2026-06-21T03:37:50Z"}
 {"name":"chematic-core","vers":"0.4.15","deps":[],"cksum":"a6e76011486aaec3cb8418a0a90ef793aa0ac57cc8e10cdd7b6f92ee896367b7","features":{},"yanked":false,"pubtime":"2026-06-21T10:37:29Z"}
+{"name":"chematic-core","vers":"0.4.16","deps":[],"cksum":"7091de17ab3a400827b49f2240d891c5e2328ab46929a9677bf41afddf13d436","features":{},"yanked":false,"pubtime":"2026-06-22T13:45:18Z"}
