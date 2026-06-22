@@ -1,0 +1,1 @@
+{"name":"autoconf-rs-cli","vers":"0.1.0","deps":[{"name":"autoconf-rs-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e99dcb05ff6708e36764d51888d173e4e4ccd20aa0c15e1efcdf89beeb3c2ea8","features":{},"yanked":false,"pubtime":"2026-06-22T14:37:03Z"}
