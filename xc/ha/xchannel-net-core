@@ -1,0 +1,1 @@
+{"name":"xchannel-net-core","vers":"0.0.1","deps":[{"name":"xchannel","req":"^4.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9b8fb52280d4555761cbda31537fa0bfd1635f06737406432d3dd6c38011af3","features":{},"yanked":false,"pubtime":"2026-06-22T01:34:50Z"}
