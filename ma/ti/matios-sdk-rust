@@ -6,3 +6,4 @@
 {"name":"MatiOS-SDK-Rust","vers":"0.1.5","deps":[],"cksum":"e26fb936d60ffb6d79fa81716a52ae0402ac253e41dd737a8c950be7a135e273","features":{},"yanked":false,"pubtime":"2026-06-22T19:46:47Z"}
 {"name":"MatiOS-SDK-Rust","vers":"0.1.6","deps":[],"cksum":"816b2d53244f430752f7083058e09039995c3b473d26524fe825db99a8d25432","features":{},"yanked":false,"pubtime":"2026-06-22T20:48:55Z"}
 {"name":"MatiOS-SDK-Rust","vers":"0.1.7","deps":[],"cksum":"e1784d55433ed1f4ec5c7a4f6355acdf8cd5dc821cc5168455157da6f6aaf348","features":{},"yanked":false,"pubtime":"2026-06-22T22:48:12Z"}
+{"name":"MatiOS-SDK-Rust","vers":"0.1.8","deps":[],"cksum":"58d4a3e10bcb5fed798161cade9cc5cd2e30f28e5641db993f03c171dc62efd1","features":{},"yanked":false,"pubtime":"2026-06-22T22:52:00Z"}
