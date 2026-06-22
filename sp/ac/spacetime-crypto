@@ -1,0 +1,1 @@
+{"name":"spacetime-crypto","vers":"1.0.0","deps":[],"cksum":"324c38d786a0dd88f355988fc3f28b604d0d59bc54fe506b51980eab94bc27f1","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"pubtime":"2026-06-22T21:18:52Z"}
