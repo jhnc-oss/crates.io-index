@@ -3,3 +3,4 @@
 {"name":"daml-parser","vers":"0.2.1","deps":[],"cksum":"85ac695aa8cb4319ddee828107ef75a39e291eb986d732d28af29ef76f8960d8","features":{},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-06-17T18:41:02Z"}
 {"name":"daml-parser","vers":"0.2.2","deps":[],"cksum":"e77e3d767ac48895f71e9eaa8cf437bd90c0f1fda3b46d21a04a24767636f813","features":{},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-06-19T02:18:44Z"}
 {"name":"daml-parser","vers":"0.2.3","deps":[],"cksum":"d52d9182f9c9ebe3e9a8fd2a3f77772fbc48001f4536c6ef970c492f75ba9cc1","features":{},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-06-19T02:55:17Z"}
+{"name":"daml-parser","vers":"0.2.4","deps":[],"cksum":"74c08ff3e4ecf2df4f115761a8ab41ab2e4ea06e3d90b8f26d61e71182f6e4fb","features":{},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-06-22T22:38:03Z"}
