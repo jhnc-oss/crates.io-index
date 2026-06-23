@@ -1,0 +1,1 @@
+{"name":"airframe_log_api","vers":"1.0.0","deps":[{"name":"once_cell","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b7d968d13e6398abf9c0ceb14251fb2f87a6857df13cbab897d4cca7410c8987","features":{"default":[]},"yanked":false,"pubtime":"2026-06-23T01:38:53Z"}
