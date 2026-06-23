@@ -1,1 +1,2 @@
 {"name":"pamoja-sensors","vers":"0.1.9","deps":[],"cksum":"48185500161af50b7df11cd11b21eef3016f81c3834db85f7cc8da9d65e85db2","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-21T00:13:45Z"}
+{"name":"pamoja-sensors","vers":"0.1.10","deps":[],"cksum":"d613eb3c94df4dfe165b4b97988afef574675822c1e666514502d41e9cf1f781","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-23T10:03:22Z"}
