@@ -1,0 +1,1 @@
+{"name":"composer-php-json","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":["preserve_order"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42bd2f3650870b0552fe7d88b6b309141beaa724aacf889e5fd6a4049cff31f9","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-23T20:10:42Z"}
