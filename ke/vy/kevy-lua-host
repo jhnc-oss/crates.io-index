@@ -1,0 +1,1 @@
+{"name":"kevy-lua-host","vers":"1.27.0","deps":[{"name":"kevy-lua","req":"=1.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f9b61c47ddd65a9deb5a55e71db2d6cd6ba3646c098c10962662cf1f8ec1b29","features":{},"yanked":false,"pubtime":"2026-06-23T12:56:29Z"}
