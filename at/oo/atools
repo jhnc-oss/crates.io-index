@@ -11,3 +11,4 @@
 {"name":"atools","vers":"0.1.10","deps":[],"cksum":"b3dc7edbf411ccc4efc88a9538f0d1f22820fb5a62e1789dc07c0e75cfc861c8","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2025-10-21T20:42:16Z"}
 {"name":"atools","vers":"0.1.11","deps":[],"cksum":"bcc2cfb4538afbd2b92b2d67e64e57340d7e531c6ad0da7de5f5c105f8a191c6","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2025-11-08T15:35:23Z"}
 {"name":"atools","vers":"0.1.12","deps":[],"cksum":"59fdfa9d3089fc0aa2676b7b3fe46484581faeef796d7b19b6eb1b908664efc3","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2025-11-17T10:48:30Z"}
+{"name":"atools","vers":"0.1.13","deps":[],"cksum":"a202c69bbe7151ab3d8f31d1fad5f2ab94e4086670dca26b9bf4522a25d6a515","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-06-23T20:03:09Z"}
