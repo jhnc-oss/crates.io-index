@@ -33,3 +33,4 @@
 {"name":"kevy-uring","vers":"1.26.6","deps":[],"cksum":"cb59f24f6607ba51fa57dfc1b9f9882571a674420c034ef7b8ded209a1e5809a","features":{},"yanked":false,"pubtime":"2026-06-22T14:46:06Z"}
 {"name":"kevy-uring","vers":"1.27.0","deps":[],"cksum":"6fadc8ea272462b3a8d1f1d2e07f4b0a61f2c18fe128e3df46fdfc28144b3d13","features":{},"yanked":false,"pubtime":"2026-06-23T12:47:05Z"}
 {"name":"kevy-uring","vers":"1.27.2","deps":[],"cksum":"eb97b1c708430d796aad009d68183b4e5dcb933fb8e44feb3a3784e635331c16","features":{},"yanked":false,"pubtime":"2026-06-23T20:36:08Z"}
+{"name":"kevy-uring","vers":"1.27.3","deps":[],"cksum":"f8af8fba179397eaf972425c349a97ed6848a6cefc955c0ebb061f6482815cd7","features":{},"yanked":false,"pubtime":"2026-06-23T22:40:12Z"}
