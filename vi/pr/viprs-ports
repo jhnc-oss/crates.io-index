@@ -1,0 +1,1 @@
+{"name":"viprs-ports","vers":"0.1.1","deps":[{"name":"viprs-core","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e5c15992668c7cb4c17f67ea63064bc6af53e8020623429a96eb79a9567dc2f","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-06-23T21:40:59Z"}
