@@ -5,3 +5,4 @@
 {"name":"el-core","vers":"0.3.7","deps":[],"cksum":"3a0a88bbb34b70697af8f035eee72ede357a5d4b41710c9a5855a70af30928e3","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-15T07:33:06Z"}
 {"name":"el-core","vers":"0.3.8","deps":[],"cksum":"32406c2488ab0bdad587603d448e2e6e305c599bf3ee995b17bbf64b7d5a264c","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-21T09:21:57Z"}
 {"name":"el-core","vers":"0.3.9","deps":[],"cksum":"ab746662d96386d342340604a1a6c8f583d19f356a6ccf1548cb6e9006909564","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-22T16:55:09Z"}
+{"name":"el-core","vers":"0.3.10","deps":[],"cksum":"15e90cd6ff9e118c92424e248027b365da05686d0a0bb1a0dc843b034eb03076","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-23T11:21:05Z"}
