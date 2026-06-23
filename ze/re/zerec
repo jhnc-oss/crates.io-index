@@ -1,0 +1,1 @@
+{"name":"zerec","vers":"0.1.0","deps":[{"name":"glam","req":"^0.33","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"25f2446a1a64bebd3bb5f36ae9963e194550c04c2485126a2b75eb7bea6eddac","features":{"default":[]},"features2":{"glam":["dep:glam"]},"yanked":false,"pubtime":"2026-06-23T19:18:54Z","v":2}
