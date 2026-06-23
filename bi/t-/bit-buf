@@ -9,3 +9,4 @@
 {"name":"bit-buf","vers":"0.1.8","deps":[],"cksum":"97a20cf7a100e3064b8d2aaa7276e95df2eb03a71de18e2d006f543e1290d0ea","features":{},"yanked":false,"pubtime":"2026-06-18T08:30:03Z"}
 {"name":"bit-buf","vers":"0.1.9","deps":[],"cksum":"61a80e99862ceb8b5d6f2adfcfebb910daf09033120cf0d7dec57bb1860e61c9","features":{},"yanked":false,"pubtime":"2026-06-18T11:41:26Z"}
 {"name":"bit-buf","vers":"0.2.0","deps":[],"cksum":"ec9e9d389dcd538784caa043e7a163bd045484b94175aa241c7505365b464a69","features":{},"yanked":false,"pubtime":"2026-06-18T13:43:48Z"}
+{"name":"bit-buf","vers":"0.3.0","deps":[],"cksum":"476a99fe6180784f5d1c0743040db141e6f03db616f6d3c474f9212ceff3e398","features":{},"yanked":false,"pubtime":"2026-06-23T10:30:02Z"}
