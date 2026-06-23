@@ -1,0 +1,1 @@
+{"name":"merman-elk-layered","vers":"0.8.0-alpha.2","deps":[{"name":"thiserror","req":"^2.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"086c5f77dda4f466a007f7a896a56f8966802a7e8d572536faf1d0c38d28b520","features":{"default":["layered"],"layered":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-23T04:37:42Z"}
