@@ -34,3 +34,4 @@
 {"name":"kevy-sys","vers":"1.27.0","deps":[],"cksum":"8477ab07b34cda73c9fe7d6de392d7a749296d2868a181f9898b18dc50c6f0a7","features":{},"yanked":false,"pubtime":"2026-06-23T12:45:13Z"}
 {"name":"kevy-sys","vers":"1.27.2","deps":[],"cksum":"9940b7e9089a1c9cca7fc24117c5589558dffa4baa6e2ca7db7e5c52cc91bc94","features":{},"yanked":false,"pubtime":"2026-06-23T20:34:16Z"}
 {"name":"kevy-sys","vers":"1.27.3","deps":[],"cksum":"fe250562dd4ff9b0a5a9d0c960953c4a84a9cc124c1e90a697f188a180eff8fe","features":{},"yanked":false,"pubtime":"2026-06-23T22:38:20Z"}
+{"name":"kevy-sys","vers":"1.27.4","deps":[],"cksum":"0144e86d96fc6912883248fb128fb214b1c55e42f010f89a0d0a6c703c5d2cec","features":{},"yanked":false,"pubtime":"2026-06-23T22:54:04Z"}
