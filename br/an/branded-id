@@ -1,1 +1,2 @@
 {"name":"branded-id","vers":"0.1.0","deps":[],"cksum":"7fa46c6579e61985a25adc0a9fdf25227399c75ad09086f7eeb9ba77c2fa8848","features":{"default":["extends","soa"],"extends":[],"soa":[]},"yanked":false,"pubtime":"2026-06-23T17:15:02Z"}
+{"name":"branded-id","vers":"0.1.1","deps":[],"cksum":"1e35ee69ec890639fd415b7d576d7d20de69eec8a955b1f79d01e6adbb4f8805","features":{"default":["extends","soa"],"extends":[],"soa":[]},"yanked":false,"pubtime":"2026-06-23T18:41:38Z"}
