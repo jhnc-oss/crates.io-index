@@ -1,1 +1,2 @@
 {"name":"serial-uint","vers":"0.1.0","deps":[],"cksum":"f06f7f947d0f250d8278584bc25ea731cf1f2f64871b630e13aa4b2be0954e3f","features":{},"yanked":false,"pubtime":"2026-06-22T10:50:48Z"}
+{"name":"serial-uint","vers":"0.1.1","deps":[],"cksum":"80ecd6ba26ba561ea610c56daa22bdc4a588d9c155ecc8859a1051f02ee5ad88","features":{},"yanked":false,"pubtime":"2026-06-23T10:38:25Z"}
