@@ -1,0 +1,1 @@
+{"name":"empyrean-sys","vers":"0.7.0-rc.0","deps":[{"name":"bindgen","req":"^0.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"533151b2ebd68c690042c92c0e730d9d55820ba9f3c29603b130265591ebea45","features":{},"yanked":false,"links":"empyrean","rust_version":"1.90.0","pubtime":"2026-06-23T14:09:46Z"}
