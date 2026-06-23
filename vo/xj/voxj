@@ -1,0 +1,1 @@
+{"name":"voxj","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3eaccd247a7b885eb53d25a9943ea9d5cc450fa83c5e77c73b120e252cfa1d69","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"pubtime":"2026-06-23T14:18:28Z","v":2}
