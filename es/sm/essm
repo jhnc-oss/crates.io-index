@@ -1,1 +1,2 @@
 {"name":"essm","vers":"0.1.0","deps":[],"cksum":"c3ce0145aff1ce6b8304afb7f003cecd263ac428bc636adae73374b0371173ad","features":{},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-06-22T23:29:17Z"}
+{"name":"essm","vers":"0.2.0","deps":[],"cksum":"8fc8afd30a20bb5241e92b55745dfe5a3ce8095a1b4a8f4a86c69c31617cfb3c","features":{},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-06-23T16:53:57Z"}
