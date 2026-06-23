@@ -1,1 +1,2 @@
 {"name":"zaparoo-update-runtime-linux-x86_64","vers":"0.1.0","deps":[],"cksum":"75cdf5dc7586829ccc7288491f1275b2ff00362e27b4ae5379b701fef5ccbe1c","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-23T12:55:59Z"}
+{"name":"zaparoo-update-runtime-linux-x86_64","vers":"0.1.1","deps":[],"cksum":"b051a2d8121d40edd7f1ab8147d610af7f48adca0dfa334729bca93febfe7904","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-23T13:05:38Z"}
