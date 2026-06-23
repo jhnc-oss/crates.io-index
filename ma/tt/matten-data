@@ -1,0 +1,1 @@
+{"name":"matten-data","vers":"0.20.0","deps":[{"name":"matten","req":"^0.20","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c96c1b9beb8a4c47c15d80aa7a7ce02d3325a5ba673df8c2f56517861ddaf60b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-23T01:13:43Z"}
