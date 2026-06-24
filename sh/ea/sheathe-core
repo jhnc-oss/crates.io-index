@@ -1,0 +1,1 @@
+{"name":"sheathe-core","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"adeff92fbb89143afedf972e16fa08ede7d0ebf9059a8e319db0fa80bfa73c4d","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-06-24T04:25:26Z"}
