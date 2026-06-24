@@ -8,3 +8,4 @@
 {"name":"wasmtime-internal-gdbstub-component-artifact","vers":"44.0.3","deps":[],"cksum":"6e9df959d6b2f3e5cd6ada71189abb7d7deaeea36c2b7f656676bfb56c0c2799","features":{},"yanked":false,"pubtime":"2026-06-15T16:56:21Z"}
 {"name":"wasmtime-internal-gdbstub-component-artifact","vers":"46.0.0","deps":[],"cksum":"1a6899ef30333504b49bf682a8194018c427d65b375509240581ee6d92b7851e","features":{},"yanked":false,"pubtime":"2026-06-22T17:54:44Z"}
 {"name":"wasmtime-internal-gdbstub-component-artifact","vers":"46.0.1","deps":[],"cksum":"e9a79419d605e224be30beb0599e9d2c2b2bf4edc08b0dc01fea4f0be5039563","features":{},"yanked":false,"pubtime":"2026-06-24T18:48:01Z"}
+{"name":"wasmtime-internal-gdbstub-component-artifact","vers":"45.0.3","deps":[],"cksum":"5ba3b67ab64f3db697bb62bab2154dc69566dde4f8d00db4d027fdeff55feb2e","features":{},"yanked":false,"pubtime":"2026-06-24T19:10:36Z"}
