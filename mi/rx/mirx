@@ -6,3 +6,4 @@
 {"name":"mirx","vers":"0.32.2","deps":[],"cksum":"5e564601629644290c47f46570cdb2102f600ecbe1510b98f042bb619d48fde2","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-06-23T02:02:40Z"}
 {"name":"mirx","vers":"0.32.3","deps":[],"cksum":"c23512a158de20959d62b3cb6cdd468838aea538674abee7ed4be0cd4eef67dd","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-06-23T02:10:44Z"}
 {"name":"mirx","vers":"0.33.0","deps":[],"cksum":"a6ce04064a27932782231c4171c323e88b86be1ccb78814ed6e5306d7b5ba7be","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-06-24T12:40:41Z"}
+{"name":"mirx","vers":"0.33.1","deps":[],"cksum":"688a495e6671c418468b99224a76f40a9959e208a718c801265db8def2f5fbad","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-06-24T20:02:00Z"}
