@@ -1,0 +1,1 @@
+{"name":"hjkl-quickfix","vers":"0.33.2","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2c0352dad530550e2952019b195f9caf4190cef3da7023a8f7212d25ae290e8","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-24T22:34:26Z"}
