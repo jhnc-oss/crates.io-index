@@ -47,3 +47,4 @@
 {"name":"wasmtime-slab","vers":"24.0.8","deps":[],"cksum":"68d906e8996903238d2b36e7b11ecfa51ad740c71f7e229044efa5b77815e190","features":{},"yanked":false,"pubtime":"2026-04-30T15:10:48Z"}
 {"name":"wasmtime-slab","vers":"24.0.9","deps":[],"cksum":"b1844b6cf500d740def615a196dfe0aea7918365b380c6da5705fbce25ad5e70","features":{},"yanked":false,"pubtime":"2026-05-21T17:59:46Z"}
 {"name":"wasmtime-slab","vers":"24.0.10","deps":[],"cksum":"45354af1fba1b5a30d801e2c3986756648e7b5048e96395f4ad09828dab42e09","features":{},"yanked":false,"pubtime":"2026-06-15T16:57:21Z"}
+{"name":"wasmtime-slab","vers":"24.0.11","deps":[],"cksum":"5b260921ec17cf6f480488a51debb8d66046c5f9e0e60b4ce326719b6d8f6b04","features":{},"yanked":false,"pubtime":"2026-06-24T18:11:01Z"}
