@@ -5,3 +5,4 @@
 {"name":"rusm-logfmt","vers":"0.4.0","deps":[],"cksum":"aa65fe40b1753af7e8375107f899ea93833807547075c85dc207e8e5aaf06c58","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-06-22T14:37:39Z"}
 {"name":"rusm-logfmt","vers":"0.4.1","deps":[],"cksum":"ca9e6087bf1e9d91f9da235b42dee0af8abfd4e22031d7b669555bff290ba676","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-06-22T22:34:46Z"}
 {"name":"rusm-logfmt","vers":"0.4.2","deps":[],"cksum":"efcaf66f364f1dc96172c066342a97594dfd9153d7cf6eca2b9dd9d1e498d150","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-06-23T06:57:57Z"}
+{"name":"rusm-logfmt","vers":"0.5.0","deps":[],"cksum":"653ab3dab9ddfc40d649e04c72481b3d3a5400a9cdbe343b5d3e9e847a9a63dd","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-06-24T20:38:33Z"}
