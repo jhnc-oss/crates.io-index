@@ -1,0 +1,1 @@
+{"name":"awsm-renderer-tangents","vers":"0.3.3","deps":[{"name":"bevy_mikktspace","req":"^0.15.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"361156577898d858b35bad70ac6b307e91c04d65d8a4e9da46e7b9276b49eb35","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-06-24T11:05:43Z"}
