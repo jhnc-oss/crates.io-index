@@ -1,0 +1,1 @@
+{"name":"corus-syscall","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"558de5ecd45cd100fbbaae66427e21a793ce40bf71c11dd5985661b2bb48056c","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-24T15:38:18Z"}
