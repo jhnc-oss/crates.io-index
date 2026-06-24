@@ -7,3 +7,4 @@
 {"name":"semver-ratchet","vers":"1.1.5","deps":[],"cksum":"60df91a3b038a0af16c72d4545ee5e86ff03304dc434e34225b1d34cdafeec18","features":{},"yanked":false,"pubtime":"2026-06-19T03:59:32Z"}
 {"name":"semver-ratchet","vers":"1.1.6","deps":[],"cksum":"c09609e783c7be4a0f4c864a6dad52624f2850097e7de517920c925a501abd54","features":{},"yanked":false,"pubtime":"2026-06-19T04:11:04Z"}
 {"name":"semver-ratchet","vers":"1.1.7","deps":[],"cksum":"77f0181ffb6d5ec3b752c166ced76ec4440bf00f0435ea63ead768f4f546ebd3","features":{},"yanked":false,"pubtime":"2026-06-22T14:26:45Z"}
+{"name":"semver-ratchet","vers":"1.2.0","deps":[],"cksum":"35d51acdbad8c7b2813cf8f6ecdb4ddf1f99a3bff44930bca07021848ba9f36c","features":{},"yanked":false,"pubtime":"2026-06-24T20:11:00Z"}
