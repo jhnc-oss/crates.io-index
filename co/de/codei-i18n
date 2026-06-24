@@ -3,3 +3,4 @@
 {"name":"codei-i18n","vers":"0.0.3","deps":[],"cksum":"f831ec8bb3779211bd962ef7050df457d44bda601701403aa41f4ddb624abecc","features":{},"yanked":false,"pubtime":"2026-06-05T05:31:23Z"}
 {"name":"codei-i18n","vers":"0.0.4","deps":[],"cksum":"db6036b6501f487c36a0aedac3ed41127596294e358eba25ac36caf8a1267002","features":{},"yanked":false,"pubtime":"2026-06-05T06:06:35Z"}
 {"name":"codei-i18n","vers":"0.0.5","deps":[],"cksum":"c16d523a2681941f6a006fe5b041f8f56e33c0f32c6bdd3d17a12c3a4b363ba5","features":{},"yanked":false,"pubtime":"2026-06-05T06:36:19Z"}
+{"name":"codei-i18n","vers":"0.0.7","deps":[{"name":"rust-i18n","req":"^4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"814e5b49b301f7fdb9200d4121e5a29ef0b0c4227bdceb5f83f95e818ac8a01f","features":{},"yanked":false,"pubtime":"2026-06-24T02:02:08Z"}
