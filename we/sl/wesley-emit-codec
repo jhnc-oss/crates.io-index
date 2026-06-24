@@ -1,0 +1,1 @@
+{"name":"wesley-emit-codec","vers":"0.1.0","deps":[{"name":"wesley-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e68a918549b20ea82b37c5ebe7dfbbdb1de712949b5c4d763a790e1ef2f135e","features":{},"yanked":false,"pubtime":"2026-06-24T15:39:15Z"}
