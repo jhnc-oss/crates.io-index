@@ -1,0 +1,1 @@
+{"name":"bitflags2","vers":"0.1.0","deps":[{"name":"bitflags2-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"abc79db955f00d25bbd66729a072485f34096fe9b93c1e2e1aaaf30767f0da78","features":{},"yanked":false,"pubtime":"2026-06-24T15:25:08Z"}
