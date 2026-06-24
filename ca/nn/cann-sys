@@ -1,1 +1,2 @@
 {"name":"cann-sys","vers":"0.1.0","deps":[],"cksum":"bff2e6ba0e6471b31fc8b4f13260455c2745ec96ab8db308779097ff804f5ddd","features":{"default":[],"ffi":[]},"yanked":false,"links":"ascendcl","pubtime":"2026-06-24T07:12:27Z"}
+{"name":"cann-sys","vers":"0.1.1","deps":[],"cksum":"da52862d63bfcaa11bfdf480fc19fba92eeac138f99eb04a156c97512045fcc1","features":{"default":[],"ffi":[]},"yanked":false,"links":"ascendcl","pubtime":"2026-06-24T07:16:45Z"}
