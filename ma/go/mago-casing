@@ -180,3 +180,4 @@
 {"name":"mago-casing","vers":"1.30.0","deps":[{"name":"cruet","req":"^0.15.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b26477b41fc33d85048bec8693a41333b8137edf874bcec060daa60a8927b9f3","features":{},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-06-04T15:47:22Z"}
 {"name":"mago-casing","vers":"1.40.0","deps":[],"cksum":"b80a3cbd4a68bda122dbf6150ca847b3a2d1567700c88d4857b7a7b656b778b4","features":{},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-06-24T07:33:56Z"}
 {"name":"mago-casing","vers":"1.40.1","deps":[],"cksum":"100d00d92d5867bdc8784405005ebe9067f0fd909ec855faf44b4c45c535ce26","features":{},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-06-24T12:02:18Z"}
+{"name":"mago-casing","vers":"1.40.2","deps":[],"cksum":"f4dc6cc088c9fbfabcbf3725e18f919396e22e6d0c829e7508c7acea163b0c4d","features":{},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-06-24T23:45:35Z"}
