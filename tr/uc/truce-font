@@ -45,3 +45,4 @@
 {"name":"truce-font","vers":"0.61.0","deps":[],"cksum":"1fee07b00f025b635d5e70cbac82e4020562cda3a29a8d91d84bf9991d84a8de","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-06-21T09:21:04Z"}
 {"name":"truce-font","vers":"0.62.0","deps":[],"cksum":"2c4ded78990c79be87b28cccbdc7080bc9f76680318d3578bd2ee2f71b3cd998","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-06-23T11:23:22Z"}
 {"name":"truce-font","vers":"0.63.0","deps":[],"cksum":"1e221b0288cd3f3cb780b18ffea6a4d794fe0a84b79b1d1ef7c78f732d161585","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-06-23T21:14:19Z"}
+{"name":"truce-font","vers":"0.63.1","deps":[],"cksum":"0f774ecc0267c694d3a2078c4e3bff5d8b123f78021614388c67b46153d9d822","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-06-24T03:20:04Z"}
