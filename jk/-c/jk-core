@@ -5,3 +5,4 @@
 {"name":"jk-core","vers":"0.2.4","deps":[],"cksum":"c186a5a9b8842e75c20a6b219df575f47d23b5adf9ace156ddbff93451ffc8b5","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-06-21T05:50:09Z"}
 {"name":"jk-core","vers":"0.2.5","deps":[],"cksum":"61b586375c8556cf887a301f41c950c475dc1c9130c17f06a8c5e0a49395c571","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-06-21T06:04:42Z"}
 {"name":"jk-core","vers":"0.2.6","deps":[],"cksum":"f78e7a0a991e211c5a4b6839b91f76e81fe8bf70fe138d7c3caa9d9946022baa","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-06-23T21:43:44Z"}
+{"name":"jk-core","vers":"0.2.7","deps":[],"cksum":"6950820a326dc2bd5c1f17449f146971634e4fc924d258356cff5543e314f297","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-06-24T08:20:19Z"}
