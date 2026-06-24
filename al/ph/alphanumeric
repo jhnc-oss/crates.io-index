@@ -1,0 +1,1 @@
+{"name":"alphanumeric","vers":"0.1.0","deps":[{"name":"to_segments","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a21a0066d750514c22a5d560e6c90022a0a2e4782a6f95dc5b9369435cd6b74c","features":{"cell_analysis":[],"default":[]},"yanked":false,"pubtime":"2026-06-24T23:38:31Z"}
