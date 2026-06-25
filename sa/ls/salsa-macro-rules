@@ -15,3 +15,4 @@
 {"name":"salsa-macro-rules","vers":"0.26.2","deps":[],"cksum":"58e354cbac6939b9b09cd9c11fb419a53e64b4a0f755d929f56a09f4cc752e41","features":{"accumulator":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-03T11:29:10Z"}
 {"name":"salsa-macro-rules","vers":"0.27.0","deps":[],"cksum":"67dad477a3e3a484a7c2311c1d25160fb270214981be24022de7de8a206a3300","features":{"accumulator":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-04T07:15:45Z"}
 {"name":"salsa-macro-rules","vers":"0.27.1","deps":[],"cksum":"536f8ea9f7cbcf2e58872bae5a78c95839021facafdab8462324337f89f6d1eb","features":{"accumulator":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-24T07:18:18Z"}
+{"name":"salsa-macro-rules","vers":"0.27.2","deps":[],"cksum":"de6872462ac73d39969a836273c24163e6a26a4e08f5114fcd80e25af30ea9c6","features":{"accumulator":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-25T06:55:41Z"}
