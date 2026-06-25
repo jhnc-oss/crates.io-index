@@ -1,0 +1,1 @@
+{"name":"yog-cli","vers":"0.1.0","deps":[{"name":"zip","req":"^0.6","features":["deflate"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5cdfb10d72a5b5fa9f573a918e88813f03f50e5b458c2063fc8367f37dd97cc9","features":{},"yanked":false,"pubtime":"2026-06-25T16:22:35Z"}
