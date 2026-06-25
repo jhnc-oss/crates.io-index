@@ -1,0 +1,1 @@
+{"name":"rprop","vers":"0.1.0","deps":[{"name":"rprop_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57f8ba0e5d90b24d240ee64e710244c5c09efb27f47d88815b2fd5cc8c5adbc8","features":{},"yanked":false,"pubtime":"2026-06-25T20:50:20Z"}
