@@ -1,0 +1,1 @@
+{"name":"quay-vm","vers":"0.0.1","deps":[{"name":"proptest","req":"^1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"83efeea45d7a33d1f48975ef691bf64c0cbb8bac39a2d2496f91251834f2f42d","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-06-25T23:51:35Z"}
