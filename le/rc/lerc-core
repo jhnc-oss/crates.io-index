@@ -4,3 +4,4 @@
 {"name":"lerc-core","vers":"0.4.0","deps":[],"cksum":"5486e6b59aeb128889ce2f50c43104a833145a47b66b668c30ebcf317c618b90","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-05-17T00:20:33Z"}
 {"name":"lerc-core","vers":"0.4.1","deps":[],"cksum":"9a2197bab80c3a8ee40237ac41660a2204998084eb2d2add84ba5113b3b41e12","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-05-17T05:15:05Z"}
 {"name":"lerc-core","vers":"0.4.2","deps":[],"cksum":"a5fb652a10fb68b3fa04025c56bb1ff85ef4f13685ec895a22feb48e4e412e9d","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-05-17T14:57:27Z"}
+{"name":"lerc-core","vers":"0.4.3","deps":[],"cksum":"2c52050f983cb85074a1b9107a6db8b3c8242e9261f42c3e319ada57b2acca2e","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-06-25T06:14:44Z"}
