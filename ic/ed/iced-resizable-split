@@ -1,0 +1,1 @@
+{"name":"iced-resizable-split","vers":"0.2.0","deps":[{"name":"iced_core","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75ca8f2c904e73437d15c43600037635c99fbd92a58f06077f7d4c4ed7b837de","features":{},"yanked":false,"pubtime":"2026-06-25T00:36:58Z"}
