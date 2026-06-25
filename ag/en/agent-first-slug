@@ -1,0 +1,1 @@
+{"name":"agent-first-slug","vers":"0.1.0","deps":[{"name":"unicode-general-category","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b034be1d1bba7567f37ff1c793d2f4c50dcf2bc851cb322b4db9e39fe5223a55","features":{},"yanked":false,"pubtime":"2026-06-25T14:29:04Z"}
