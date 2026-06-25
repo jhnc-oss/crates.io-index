@@ -20,3 +20,4 @@
 {"name":"runmat-gc-api","vers":"0.5.0","deps":[],"cksum":"f61aaf425eca0f19aa2c49ed45f4e6b8126c1b105f369448ed48602f6062a2f7","features":{},"yanked":false,"pubtime":"2026-06-04T16:01:14Z"}
 {"name":"runmat-gc-api","vers":"0.5.2","deps":[],"cksum":"1f4e43ee4107f791da8b520c098528dfbc8aaa3a96fd37377fa44e624d475ea8","features":{},"yanked":false,"pubtime":"2026-06-13T17:06:17Z"}
 {"name":"runmat-gc-api","vers":"0.5.3","deps":[],"cksum":"bf76278abcf8e260365ea243985ec998871808cdf5e62011538559ff43dc6d68","features":{},"yanked":false,"pubtime":"2026-06-17T13:38:18Z"}
+{"name":"runmat-gc-api","vers":"0.5.4","deps":[],"cksum":"f0a1bd8d569ade4ddd14b60d5fc45304242c2edd9f6ab866188bb6a3e5d7050d","features":{},"yanked":false,"pubtime":"2026-06-25T23:03:55Z"}
