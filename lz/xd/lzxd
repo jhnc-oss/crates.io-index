@@ -10,3 +10,4 @@
 {"name":"lzxd","vers":"0.2.4","deps":[],"cksum":"de4f63439849f7b5b322d122eb28f057997537a458b8ea9af929733c078d996c","features":{},"yanked":false,"pubtime":"2023-12-26T09:56:09Z"}
 {"name":"lzxd","vers":"0.2.5","deps":[],"cksum":"5de7336a183103429ad66d11d56d8bdc9c4a2916f6b85a8f11e5b127bde12001","features":{},"yanked":false,"pubtime":"2023-12-27T12:31:12Z"}
 {"name":"lzxd","vers":"0.2.6","deps":[],"cksum":"7b29dffab797218e12e4df08ef5d15ab9efca2504038b1b32b9b32fc844b39c9","features":{},"yanked":false,"pubtime":"2024-12-17T22:14:47Z"}
+{"name":"lzxd","vers":"0.2.7","deps":[],"cksum":"c17f346186eccb574ba5581acefc514f0c70a642db4f96e245034a0a158a7168","features":{},"yanked":false,"pubtime":"2026-06-25T15:28:10Z"}
