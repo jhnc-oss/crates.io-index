@@ -1,0 +1,1 @@
+{"name":"miaw","vers":"0.1.0","deps":[{"name":"fuzzies","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2e568ef8914fa47e8c87b2e591513413425a105cf1c07a343451551fe7a8917","features":{},"yanked":false,"pubtime":"2026-06-25T04:47:15Z"}
