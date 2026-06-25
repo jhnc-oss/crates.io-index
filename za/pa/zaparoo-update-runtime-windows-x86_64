@@ -7,3 +7,4 @@
 {"name":"zaparoo-update-runtime-windows-x86_64","vers":"0.1.6","deps":[],"cksum":"7b47acf67d49860b31a546bf9190575d335f75a3dab13a0d7a1e3f3f77eef6a1","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-25T00:45:35Z"}
 {"name":"zaparoo-update-runtime-windows-x86_64","vers":"0.1.7","deps":[],"cksum":"4f67e90d59bab3bea214f28819e86db3b9ecaba88fef0308b7d7e151838903db","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-25T16:56:32Z"}
 {"name":"zaparoo-update-runtime-windows-x86_64","vers":"0.1.8","deps":[],"cksum":"9e860be0bda1f717ecbbc68e89a12c254770888c77fb7148a613c90e43eb7141","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-25T21:00:01Z"}
+{"name":"zaparoo-update-runtime-windows-x86_64","vers":"0.1.9","deps":[],"cksum":"02269bc771d948536572bb4ec1ae31d596a0cac42b9552d58c49d3df6fdfaf8b","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-25T21:37:41Z"}
