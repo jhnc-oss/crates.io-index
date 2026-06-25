@@ -1,0 +1,1 @@
+{"name":"yog-book","vers":"0.1.0","deps":[{"name":"yog-registry","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"769e368fb70fef1090edce2fc5bb30adac4a14b46354112c1af801e9433a1f14","features":{},"yanked":false,"pubtime":"2026-06-25T16:07:02Z"}
