@@ -5,3 +5,4 @@
 {"name":"aa-ebpf-common","vers":"0.0.1-beta.2","deps":[],"cksum":"faca5e3e9fdbcefe67fb63f260982cd1c3f63f135d49557fcb38f2d5a1a71b40","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-06-15T09:45:34Z"}
 {"name":"aa-ebpf-common","vers":"0.0.1-beta.3","deps":[],"cksum":"e3619e8009045273b6c0182ff80057d8c1d9fc4e543ca1fb02bc328e3cfdc810","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-06-20T05:44:19Z"}
 {"name":"aa-ebpf-common","vers":"0.0.1-beta.4","deps":[],"cksum":"56b0192cc7f22d41d0ada1b00ea7dbaa8884f4e6f269292e4e7ebc07786aed5c","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-06-25T03:27:04Z"}
+{"name":"aa-ebpf-common","vers":"0.0.1-rc.1","deps":[],"cksum":"f5e49cfbf23ffa352b6459262ad88117b4a0606c9780d2a1da8a33107718ad20","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-06-25T19:05:43Z"}
