@@ -1,0 +1,1 @@
+{"name":"ontoindex-robot","vers":"0.7.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e910bcffbf81bf68bfc6058521385f642fd9e56165fd993b20d2e21c1c64241","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-25T17:27:32Z"}
