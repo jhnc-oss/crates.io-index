@@ -2,3 +2,4 @@
 {"name":"eth-valkyoth-codec","vers":"0.3.0","deps":[],"cksum":"649194303df57a642875e91a5da0c7e09b103e29c7627934fafc5e04da23070b","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-20T07:07:22Z"}
 {"name":"eth-valkyoth-codec","vers":"0.4.0","deps":[],"cksum":"2caa5e211d9e85f95e5128a9129a7d79548a7922b795e0accfea1822830ed8ef","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-20T08:40:16Z"}
 {"name":"eth-valkyoth-codec","vers":"0.5.0","deps":[],"cksum":"a5dd1444ced6b3fc5cdd10f1165e07495031cc323230d140ec2bbff9a82f0fbd","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-21T06:27:53Z"}
+{"name":"eth-valkyoth-codec","vers":"0.6.0","deps":[],"cksum":"a59fe408d506592e276c4fcb97cdaa92587fd7c83bb349692bf40e2a3705d480","features":{"default":[],"std":[],"testing":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-25T08:19:13Z"}
