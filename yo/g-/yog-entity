@@ -1,0 +1,1 @@
+{"name":"yog-entity","vers":"0.1.0","deps":[{"name":"yog-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8288095aa79f8063328d80c86034dc86e374cd2bc17a7e27b11bd8f5e4db2ebe","features":{},"yanked":false,"pubtime":"2026-06-25T16:26:48Z"}
