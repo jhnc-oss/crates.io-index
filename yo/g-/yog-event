@@ -1,0 +1,1 @@
+{"name":"yog-event","vers":"0.1.0","deps":[{"name":"yog-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f6f1f553aa768403a0e552402c84d9845987c5dd4a3bc7a4f4fff99214643b6","features":{},"yanked":false,"pubtime":"2026-06-25T16:37:07Z"}
