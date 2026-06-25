@@ -1,0 +1,1 @@
+{"name":"meon-json","vers":"0.1.0","deps":[{"name":"meon","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4646eef99c8c26b7d01bb4add9b985b62425e91a110964c503c718e9d9c8f7dd","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-06-25T21:49:24Z"}
