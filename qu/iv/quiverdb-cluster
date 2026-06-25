@@ -1,0 +1,1 @@
+{"name":"quiverdb-cluster","vers":"0.25.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81cdf7ffbb38ead9cd09db4662998de09a7ba787f0351038492a750228f43d1b","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-25T15:58:11Z"}
