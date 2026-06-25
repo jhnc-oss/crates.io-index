@@ -1,1 +1,2 @@
 {"name":"xberg","vers":"5.0.0-rc.32","deps":[{"name":"kreuzberg","req":"=5.0.0-rc.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"deb25dd57bcf86fa5a27c7a37eb11c2dba6203564538a6202d62c872a255fe05","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-06-23T16:25:38Z"}
+{"name":"xberg","vers":"0.0.1","deps":[],"cksum":"b800cdc4dd70b99ba9f8f4d4e4994279744d280a8b958b6b8fd5a832f2d6253e","features":{},"yanked":false,"pubtime":"2026-06-25T17:29:24Z"}
