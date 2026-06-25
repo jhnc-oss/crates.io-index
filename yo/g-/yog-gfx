@@ -1,0 +1,1 @@
+{"name":"yog-gfx","vers":"0.1.0","deps":[{"name":"yog-abi","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19ba1e0207e0e660cf00c1d446ece66c98236620f514b23533bbbfffe1411eec","features":{},"yanked":false,"pubtime":"2026-06-25T16:57:08Z"}
