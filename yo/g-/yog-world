@@ -1,0 +1,1 @@
+{"name":"yog-world","vers":"0.1.0","deps":[{"name":"yog-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a70e106eaaf4e78bad2bfa7bb984add066fc966c96b6c9471b18ce666faf57f1","features":{},"yanked":false,"pubtime":"2026-06-25T17:10:27Z"}
