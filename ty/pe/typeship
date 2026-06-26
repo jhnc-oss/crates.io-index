@@ -1,1 +1,2 @@
 {"name":"typeship","vers":"0.1.0","deps":[],"cksum":"be4298ebb6b64c9521efb46e19cf7c85cc929fa9ba84000c5a1429e4fb53ab51","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-26T10:33:56Z"}
+{"name":"typeship","vers":"0.1.1","deps":[],"cksum":"01df95ca6732e4681480643fea41aec60071aa29219cb9c10dd0759ab8325a3e","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-26T11:38:34Z"}
