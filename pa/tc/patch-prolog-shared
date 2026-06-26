@@ -2,3 +2,4 @@
 {"name":"patch-prolog-shared","vers":"0.3.0","deps":[],"cksum":"a702f835f7d59afdea5a2b74659e4f4793e68461ad092b90745abd43f1dc7ee6","features":{},"yanked":false,"pubtime":"2026-06-21T03:28:33Z"}
 {"name":"patch-prolog-shared","vers":"0.3.1","deps":[],"cksum":"5e10226794da039b9693ef90eb8d758a61a554211879f70115c880f861f1d8ce","features":{},"yanked":false,"pubtime":"2026-06-23T20:29:13Z"}
 {"name":"patch-prolog-shared","vers":"0.3.2","deps":[],"cksum":"c70ba4160c6c4e62b278addb102bfcc24b11a9b0f985481bd5aa81b49bcd0586","features":{},"yanked":false,"pubtime":"2026-06-23T22:55:55Z"}
+{"name":"patch-prolog-shared","vers":"0.3.3","deps":[],"cksum":"f4125b7046d1a8be1647ac22acd8e8ff0170e1d732235ed4e4980eb8ff027f31","features":{},"yanked":false,"pubtime":"2026-06-26T05:09:59Z"}
