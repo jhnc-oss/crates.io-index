@@ -1,0 +1,1 @@
+{"name":"keyroost-token2prog","vers":"0.7.2","deps":[{"name":"keyroost-proto","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7eef06a3be9fb90bd9f9d174bdcb03086948263d1f9b46adb66468efd46805ba","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-26T18:41:45Z"}
