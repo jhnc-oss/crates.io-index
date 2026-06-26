@@ -5,3 +5,4 @@
 {"name":"x-post","vers":"0.1.4","deps":[],"cksum":"5666bcc5ff64610943e82c6d0d49b57df5f405ac06d65a4236f2b7eadf699e4a","features":{},"yanked":false,"pubtime":"2026-06-26T03:03:36Z"}
 {"name":"x-post","vers":"0.2.0","deps":[],"cksum":"1c9f7cce9e5b46a07c689d04984732a0c50341739d74eec8a2f4d57ddeba1b79","features":{},"yanked":false,"pubtime":"2026-06-26T04:31:11Z"}
 {"name":"x-post","vers":"0.2.1","deps":[],"cksum":"22c7748f401edfcf2b113a40b9a94eb1087f790f3ec9a28501315e4e79c49888","features":{},"yanked":false,"pubtime":"2026-06-26T11:23:21Z"}
+{"name":"x-post","vers":"0.2.2","deps":[],"cksum":"13fe93c8acf750c509fde8b828f40c3415d732b36b7f08c32df4b891ab2a8fa6","features":{},"yanked":false,"pubtime":"2026-06-26T23:26:32Z"}
