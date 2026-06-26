@@ -1,0 +1,1 @@
+{"name":"mantra-macros","vers":"0.8.0-rc1","deps":[{"name":"mantra-procm","req":"^0.8.0-rc1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6deb7890d0ede55f0471193eba418d928eb4083033711ac04d4fa301499d6f1f","features":{},"yanked":false,"pubtime":"2026-06-26T14:33:49Z"}
