@@ -1,0 +1,1 @@
+{"name":"helix-refranges","vers":"0.1.1","deps":[{"name":"helix-provenance","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc21d07be28d2e622deb1c67e28215bcaf4145ba10b9caad4bdbd09ed40ecd18","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-06-26T21:07:18Z"}
