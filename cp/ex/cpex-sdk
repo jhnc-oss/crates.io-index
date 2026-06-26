@@ -1,0 +1,1 @@
+{"name":"cpex-sdk","vers":"0.2.0-alpha.5","deps":[{"name":"cpex-core","req":"^0.2.0-alpha.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de84a6cf996e23686a73884e664234a74ad412d3e62734f35f985c6b86ff6495","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-26T03:01:15Z"}
