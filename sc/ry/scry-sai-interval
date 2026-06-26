@@ -10,3 +10,4 @@
 {"name":"scry-sai-interval","vers":"2.0.0","deps":[],"cksum":"8b562abdc282c200e4f6156dbce23c2584583053cae87fbb675b8849dcc598b4","features":{},"yanked":false,"pubtime":"2026-06-26T04:57:16Z"}
 {"name":"scry-sai-interval","vers":"2.1.0","deps":[],"cksum":"f41284c23a48423e1db537f37526d514f69246442e9384cdee1ac4659c1b28a6","features":{},"yanked":false,"pubtime":"2026-06-26T18:14:36Z"}
 {"name":"scry-sai-interval","vers":"2.1.1","deps":[],"cksum":"22ee62de20cbea901fd8861075948d26f02ce9906e2ea4f5275769ed297cabe6","features":{},"yanked":false,"pubtime":"2026-06-26T18:42:59Z"}
+{"name":"scry-sai-interval","vers":"2.2.0","deps":[],"cksum":"412e0ff5b7f6e51d1e6b31e1c8168ac053731482134938f2fff4cfcf9533dad7","features":{},"yanked":false,"pubtime":"2026-06-26T19:34:48Z"}
