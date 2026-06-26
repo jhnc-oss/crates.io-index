@@ -31,3 +31,4 @@
 {"name":"gribberish-types","vers":"1.1.0","deps":[],"cksum":"54e5ca1886d30201dca85cbd76ac8eaf5215a11afb512be3f26dfb9558eec1cf","features":{},"yanked":false,"pubtime":"2026-06-12T20:39:20Z"}
 {"name":"gribberish-types","vers":"1.1.1","deps":[],"cksum":"ca9cd2125d939df43ffd9d305343f29affbeb92ce7f019756a196734508269ae","features":{},"yanked":false,"pubtime":"2026-06-17T14:12:28Z"}
 {"name":"gribberish-types","vers":"1.2.0","deps":[],"cksum":"ac5a8626141f01f3e50e3074e8152e27c39d641a9dbbd82406273fb0724a5f00","features":{},"yanked":false,"pubtime":"2026-06-22T14:51:38Z"}
+{"name":"gribberish-types","vers":"1.3.0","deps":[],"cksum":"8dc09c76f3258ca0af9f142608fa09f4c08590d4414fd0d8d56e367a5724af73","features":{},"yanked":false,"pubtime":"2026-06-26T14:15:33Z"}
