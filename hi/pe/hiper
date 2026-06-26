@@ -1,0 +1,1 @@
+{"name":"hiper","vers":"0.1.0","deps":[{"name":"maud","req":"^0.27.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"54c304967b8ace0c5dda6f7de24d2410ef2ab2c2846d38b6ae9e66a1122581ae","features":{},"yanked":false,"pubtime":"2026-06-26T12:05:39Z"}
