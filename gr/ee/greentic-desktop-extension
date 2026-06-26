@@ -1,0 +1,1 @@
+{"name":"greentic-desktop-extension","vers":"0.1.2","deps":[{"name":"greentic-desktop-adapter","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39172641e51838eb3f7d5aa9858779e4e47b36104135e886840c1e8009964b3c","features":{},"yanked":false,"pubtime":"2026-06-26T07:20:48Z"}
