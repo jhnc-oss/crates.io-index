@@ -27,3 +27,4 @@
 {"name":"lucide-icon-name","vers":"3.13.0","deps":[],"cksum":"9b1200a3efb80314d9f21fc0189ff60de7ad35bcfe7e2f040b85248aa70c0ca5","features":{},"yanked":false,"pubtime":"2026-06-26T18:46:51Z"}
 {"name":"lucide-icon-name","vers":"3.14.0","deps":[],"cksum":"db14f94dee2f45ec37f1be4d1e07d0ca189767e37c73f8697fa70482a23b7356","features":{},"yanked":false,"pubtime":"2026-06-26T20:25:53Z"}
 {"name":"lucide-icon-name","vers":"3.15.0","deps":[],"cksum":"cbc904f695e049da6fae4392ddf5cdb69d59ec66304566d274cbdf5be6a9f691","features":{},"yanked":false,"pubtime":"2026-06-26T20:40:46Z"}
+{"name":"lucide-icon-name","vers":"3.16.0","deps":[],"cksum":"a57c0909b417970ff833a40f71deea31554d199be27bf16e9ac3929a69f440ac","features":{},"yanked":false,"pubtime":"2026-06-26T20:50:13Z"}
