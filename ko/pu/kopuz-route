@@ -1,1 +1,2 @@
 {"name":"kopuz-route","vers":"0.7.0","deps":[],"cksum":"a02c445b42b6d86dcefe654e24d9d4bc344ec64c55e691ec947260b9278a9143","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-06-25T14:44:47Z"}
+{"name":"kopuz-route","vers":"0.8.0","deps":[],"cksum":"2050502cb94fb81607c05b18b48fcc100b8743bfbfb6066aec50277b14d1ec8a","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-06-26T14:35:17Z"}
