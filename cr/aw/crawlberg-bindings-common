@@ -1,1 +1,2 @@
 {"name":"crawlberg-bindings-common","vers":"0.0.1","deps":[],"cksum":"039b56a4f6bbf67935a48131faa1fcf50a98cc93a588d11f604e3f8bdf9d0cd2","features":{},"yanked":false,"pubtime":"2026-06-26T09:27:27Z"}
+{"name":"crawlberg-bindings-common","vers":"1.0.0-rc.1","deps":[{"name":"crawlberg","req":"^1.0.0-rc.1","features":["native-runtime"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a2f6a58fa447a74717cb8ee95e7804bd45d143613d0d8718cb71c52a4c32cf6","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-06-26T13:45:54Z"}
