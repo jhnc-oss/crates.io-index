@@ -6,3 +6,4 @@
 {"name":"pi_ordmap","vers":"0.3.1","deps":[],"cksum":"d73a89c78b80fe9434398033ec9cc003520c0c2024d26d85516e0ecde1389df9","features":{},"yanked":false,"pubtime":"2025-07-14T03:30:49Z"}
 {"name":"pi_ordmap","vers":"0.3.2","deps":[],"cksum":"98639e428913a1d0e72d6bdf88e434a7594cc4445aac9991278b4dc4bf1d0f79","features":{},"yanked":false,"pubtime":"2025-09-25T08:04:41Z"}
 {"name":"pi_ordmap","vers":"0.3.3","deps":[],"cksum":"fbed2e79264f7e52802cb30cfc966f749d154175507ccb9bade682043f597dc6","features":{},"yanked":false,"pubtime":"2026-01-07T07:11:45Z"}
+{"name":"pi_ordmap","vers":"0.5.0","deps":[],"cksum":"08d3692288b0a3d5f1be54a4ee316a3978bd04713eac50e18306c89b4efb1509","features":{},"yanked":false,"pubtime":"2026-06-26T09:24:12Z"}
