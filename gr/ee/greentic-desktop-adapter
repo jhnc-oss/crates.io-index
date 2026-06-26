@@ -1,0 +1,1 @@
+{"name":"greentic-desktop-adapter","vers":"0.1.2","deps":[{"name":"greentic-desktop-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25562fa0a927625753f230c4c1756180d5ff96cc306485f3ab1bb823faff0829","features":{},"yanked":false,"pubtime":"2026-06-26T07:20:22Z"}
