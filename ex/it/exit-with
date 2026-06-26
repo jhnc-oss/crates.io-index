@@ -1,0 +1,1 @@
+{"name":"exit-with","vers":"0.1.0","deps":[{"name":"cli-assert","req":"^0.1.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"aeafe5345a8f1460f10b8f2fa5679938508644bcc37f6c257bf6f4a32457c7be","features":{},"yanked":false,"pubtime":"2026-06-26T16:17:28Z"}
