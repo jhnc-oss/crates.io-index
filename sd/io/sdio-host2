@@ -1,0 +1,1 @@
+{"name":"sdio-host2","vers":"0.1.0","deps":[{"name":"dma-api","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4dec7b99b412637089f34c72aacabe42d3db12ba9873b2274e4696b82dfe94d","features":{},"yanked":false,"pubtime":"2026-06-26T05:35:21Z"}
