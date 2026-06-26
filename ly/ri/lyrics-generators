@@ -1,0 +1,1 @@
+{"name":"lyrics-generators","vers":"0.1.0","deps":[{"name":"lyrics-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e46c3f73eccb2cadb6015072157f2dfddde3c801d6d557e4133e7d42d4b65fc","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-26T04:31:08Z"}
