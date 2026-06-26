@@ -1,3 +1,4 @@
 {"name":"x-post","vers":"0.1.0","deps":[],"cksum":"106092e5b5fd37dcfb44772c03e08f71711e3fe4972762c3a6d7b372932b3051","features":{},"yanked":false,"pubtime":"2026-06-26T00:36:43Z"}
 {"name":"x-post","vers":"0.1.1","deps":[],"cksum":"7362a253fa21b224ab6cf6959776e8e061be13befac944c51173cfe574b3b0da","features":{},"yanked":false,"pubtime":"2026-06-26T00:46:26Z"}
 {"name":"x-post","vers":"0.1.2","deps":[],"cksum":"991709aaa5649e1f893e6150ae9acf2ddbf6c2dd8bc181fa96c0ed0f5737e8dd","features":{},"yanked":false,"pubtime":"2026-06-26T01:18:16Z"}
+{"name":"x-post","vers":"0.1.3","deps":[],"cksum":"dcee76ebaabdd18686cfe220d0ba7172b25e4c67c3261d1830f79a4521d3f8cd","features":{},"yanked":false,"pubtime":"2026-06-26T02:21:55Z"}
