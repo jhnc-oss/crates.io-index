@@ -1,0 +1,1 @@
+{"name":"zova","vers":"0.17.0","deps":[{"name":"zova-sys","req":"^0.17.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a8fb0a3a7ca0fef420a4c4e1bd31bb519e7bc697553f541e249163cf866ef56","features":{},"yanked":false,"rust_version":"1.79","pubtime":"2026-06-27T13:52:53Z"}
