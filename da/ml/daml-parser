@@ -16,3 +16,4 @@
 {"name":"daml-parser","vers":"0.8.0","deps":[],"cksum":"dee13b1032505d9121846a16e9f786777914544fbb123dfe463c7d078f19b8dc","features":{},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-06-24T12:33:52Z"}
 {"name":"daml-parser","vers":"0.9.0","deps":[],"cksum":"a76a0d9548ec90d0b93ed81787fa7f6065ed2e35359e2e34949dda0b4c538fa3","features":{},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-06-25T19:53:33Z"}
 {"name":"daml-parser","vers":"0.9.1","deps":[],"cksum":"93a5fb8190f7bb502cae6e28b28c96b8a98ed277a6e9d3d84d8f43f0c9cb6ce1","features":{},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-06-25T21:04:03Z"}
+{"name":"daml-parser","vers":"0.10.0","deps":[],"cksum":"5bbc281fccb4375b62793c25d47a5bbd12e1a507d9bc5d784a29dc00199336c7","features":{},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-06-27T02:27:19Z"}
