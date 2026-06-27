@@ -1,0 +1,1 @@
+{"name":"sql-dialect-fmt-syntax","vers":"0.1.0","deps":[{"name":"rowan","req":"^0.15","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"120637b0c5ca422ecaa9164b9dbbc4cfc415f0729c1cc751452da3e8d6e3b787","features":{"default":[]},"features2":{"rowan":["dep:rowan"]},"yanked":false,"pubtime":"2026-06-27T09:37:48Z","v":2}
