@@ -9,3 +9,4 @@
 {"name":"shellharden","vers":"4.2.0","deps":[],"cksum":"643bfca21df5c79da86f2ab595d126dd8d9dc76d72e3cbc9add582aa4c98af18","features":{},"yanked":false,"pubtime":"2022-03-11T00:00:54Z"}
 {"name":"shellharden","vers":"4.3.0","deps":[],"cksum":"f1218a08095b138c0db1104794e03fed0e31aa6f9281c3b6fb3911d555e108a6","features":{},"yanked":false,"pubtime":"2022-06-26T15:56:49Z"}
 {"name":"shellharden","vers":"4.3.1","deps":[],"cksum":"53ecb604d876456ff05cb58bc0e60925b2f851b9ae807011459568d380cc8271","features":{},"yanked":false,"pubtime":"2024-03-24T16:08:15Z"}
+{"name":"shellharden","vers":"4.3.2","deps":[],"cksum":"3314a0d9051fe21f4b2c356ff7711eabff56460938d0c1c81f9cad916f74245c","features":{},"yanked":false,"pubtime":"2026-06-27T14:38:12Z"}
