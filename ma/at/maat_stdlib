@@ -10,3 +10,4 @@
 {"name":"maat_stdlib","vers":"0.16.0","deps":[],"cksum":"d03da2a1f9380a62c2c807fe97cd9ba54c3e05ff3183da8df86558492ff0e848","features":{},"yanked":false,"pubtime":"2026-05-26T10:38:01Z"}
 {"name":"maat_stdlib","vers":"0.17.0","deps":[],"cksum":"5b16da55c00358625ff4f406854faab0e62faa5b991a1c0b61cf8f4ddf803b79","features":{},"yanked":false,"pubtime":"2026-06-02T13:45:15Z"}
 {"name":"maat_stdlib","vers":"0.18.0","deps":[],"cksum":"83fee524b7fa3bff851902c33892e0a63982a691a2c683242edebfce266eab66","features":{},"yanked":false,"pubtime":"2026-06-05T12:13:13Z"}
+{"name":"maat_stdlib","vers":"0.19.0","deps":[],"cksum":"464daefca79fc7f9501428bd6be013c8827a0e09a9757d18a7451eb39dc2724b","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-06-27T11:18:51Z"}
