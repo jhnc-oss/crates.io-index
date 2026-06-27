@@ -8,3 +8,4 @@
 {"name":"x-post","vers":"0.2.2","deps":[],"cksum":"13fe93c8acf750c509fde8b828f40c3415d732b36b7f08c32df4b891ab2a8fa6","features":{},"yanked":false,"pubtime":"2026-06-26T23:26:32Z"}
 {"name":"x-post","vers":"0.2.3","deps":[],"cksum":"cdee3982dd0a733624549f357b88cadabbba8a062522f7b3de58915690a7518d","features":{},"yanked":false,"pubtime":"2026-06-27T00:32:59Z"}
 {"name":"x-post","vers":"0.2.4","deps":[],"cksum":"31b546317696d85cfb609ee662203409191350a4382c4a86906bc3a0048fa6a7","features":{},"yanked":false,"pubtime":"2026-06-27T00:38:47Z"}
+{"name":"x-post","vers":"0.2.5","deps":[],"cksum":"95c4f07943493a0e3b95ea0ed3d54450c057e321158d0298c71e45d6bb81aa60","features":{},"yanked":false,"pubtime":"2026-06-27T01:24:36Z"}
