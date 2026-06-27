@@ -1,0 +1,1 @@
+{"name":"noise-cli","vers":"0.1.1","deps":[{"name":"noise-core","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eaeb91d8826bc022993f99fc1377183def85a2896eacdb5ae57b74ddc6104c45","features":{},"yanked":false,"pubtime":"2026-06-27T00:19:07Z"}
