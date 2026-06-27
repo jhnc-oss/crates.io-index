@@ -2,3 +2,4 @@
 {"name":"test-fork-core","vers":"0.1.1","deps":[],"cksum":"aecb11eebdcb206deb3705096c26c24bf409d1aee101312eb2d194413592b0c0","features":{},"yanked":false,"pubtime":"2025-02-16T23:31:02Z"}
 {"name":"test-fork-core","vers":"0.1.2","deps":[],"cksum":"c5ef2a7a1a638b19e0e5470ad9c0e4b11956553ec02cc5856563987fc281e22e","features":{},"yanked":false,"pubtime":"2025-02-20T05:40:18Z"}
 {"name":"test-fork-core","vers":"0.1.3","deps":[],"cksum":"d5ffda5a1ceaccc77ec98edbbb372e26d64fda679b3c5763e03f6d949be5cb99","features":{},"yanked":false,"pubtime":"2025-02-26T15:55:53Z"}
+{"name":"test-fork-core","vers":"0.1.4","deps":[],"cksum":"379ef7638b5aa3288117520a8825dfd3ca8ce9254347b54b7a73d9efe859f60d","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2026-06-27T20:20:04Z"}
