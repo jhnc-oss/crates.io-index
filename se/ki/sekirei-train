@@ -1,0 +1,1 @@
+{"name":"sekirei-train","vers":"0.1.0","deps":[{"name":"sekirei-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc39b1efb7ec31b9127098bbf0a4e69f3df1ebf25eeeda6b016b3b93ac2a1f92","features":{},"yanked":false,"pubtime":"2026-06-27T23:05:05Z"}
