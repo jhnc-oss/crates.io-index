@@ -1,1 +1,2 @@
 {"name":"sql-dialect-fmt-encoding","vers":"0.1.0","deps":[],"cksum":"4f1e8400cbe74d2fa502fd499f4ed2b6a6e180695d9279d2f931e56a780c7c86","features":{},"yanked":false,"pubtime":"2026-06-27T09:40:04Z"}
+{"name":"sql-dialect-fmt-encoding","vers":"1.0.0","deps":[],"cksum":"04d0a65c9c833993035c63719d58f1a90f17caa8d5944915fe812ef81411e079","features":{},"yanked":false,"pubtime":"2026-06-27T13:39:35Z"}
