@@ -1,2 +1,3 @@
 {"name":"rars-crc32","vers":"0.1.0","deps":[],"cksum":"a93840010743de5a1022858f3600ad0d9e57cff18fd575ee948ca9432df9a6e5","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-05-13T19:18:09Z"}
 {"name":"rars-crc32","vers":"0.2.0","deps":[],"cksum":"e70e4a25e4b09acc0351bb57d3b847900778eddff9429b1f7a75b1ebba0614ba","features":{"fast":[],"parallel":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-05-26T23:24:25Z"}
+{"name":"rars-crc32","vers":"0.3.0","deps":[],"cksum":"5c6cd940e558bb687eefaec04c4f7ec37a9b5c7a0b24abf47b3eabaa5b37ca27","features":{"fast":[],"parallel":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-06-27T07:30:33Z"}
