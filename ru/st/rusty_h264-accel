@@ -1,0 +1,1 @@
+{"name":"rusty_h264-accel","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ec0ef37c1f2ea907e011842a6e82e7da058525d5f744fad3af4e7784066762d5","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-06-27T16:48:51Z"}
