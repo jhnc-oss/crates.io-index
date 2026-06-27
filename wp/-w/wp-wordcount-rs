@@ -1,0 +1,1 @@
+{"name":"wp-wordcount-rs","vers":"0.1.0","deps":[{"name":"regex","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e434b032985ced8e160e9f00ef2affcb3f3bfa01202b3ec4267ed19fe9a3f2fc","features":{},"yanked":false,"pubtime":"2026-06-27T02:32:42Z"}
