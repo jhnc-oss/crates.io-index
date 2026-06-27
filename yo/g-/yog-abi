@@ -1,3 +1,4 @@
 {"name":"yog-abi","vers":"0.1.0","deps":[],"cksum":"4110d8fe8e6aefeed1e96acafa65ec8ebb82ad368025ac9e172e231e29f1e61a","features":{},"yanked":false,"pubtime":"2026-06-25T15:47:42Z"}
 {"name":"yog-abi","vers":"0.2.0","deps":[],"cksum":"e6b2f2d2f3624314d44a529e55326eee3a1ba03b7a9345c8122cc689de57fbe3","features":{},"yanked":false,"pubtime":"2026-06-26T18:36:34Z"}
 {"name":"yog-abi","vers":"0.3.0","deps":[],"cksum":"95a5410b9f3cb19a66ca96f84c2e7faba00929945594ec3f186c6ad7da4274cb","features":{},"yanked":false,"pubtime":"2026-06-26T18:40:30Z"}
+{"name":"yog-abi","vers":"0.4.0","deps":[],"cksum":"e584665bbf1341abb71908256f04ae3a41a5865b9f57a14c975771f8a2fb1fb0","features":{},"yanked":false,"pubtime":"2026-06-27T04:00:04Z"}
