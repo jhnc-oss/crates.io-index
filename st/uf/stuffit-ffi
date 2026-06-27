@@ -1,0 +1,1 @@
+{"name":"stuffit-ffi","vers":"0.1.6","deps":[{"name":"stuffit","req":"^0.1.6","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"db9a14f740716bd3c55dc3924a346aa46bd0f3ff2a5b31fb56aec01849167f06","features":{},"yanked":false,"pubtime":"2026-06-27T03:24:24Z"}
