@@ -1,3 +1,4 @@
 {"name":"rustebra","vers":"0.1.0","deps":[],"cksum":"5e5895c33c5ab0bf05cd11096c7df605e57cd6a5d67c96e5e56bf2df4f1af3e4","features":{"alloc":[]},"yanked":false,"pubtime":"2026-06-21T23:19:26Z"}
 {"name":"rustebra","vers":"0.2.0","deps":[],"cksum":"0ba65895d384bcbec2e9771d598715afa9080ab3dcccf1500b887e417f2efebf","features":{"alloc":[]},"yanked":false,"pubtime":"2026-06-23T11:18:35Z"}
 {"name":"rustebra","vers":"0.2.1","deps":[],"cksum":"566565343a75c4946c32c18df1cd985b751149e843f64b2e4b95bfc3f73dcfb7","features":{"alloc":[]},"yanked":false,"pubtime":"2026-06-25T12:03:18Z"}
+{"name":"rustebra","vers":"0.3.0","deps":[],"cksum":"e256dad629f4fdb700d917b5fc95c3990a205a2af31928c737254315ed97f7c7","features":{"alloc":[]},"yanked":false,"pubtime":"2026-06-28T16:01:35Z"}
