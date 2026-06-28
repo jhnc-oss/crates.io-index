@@ -1,0 +1,1 @@
+{"name":"wren-isis","vers":"0.0.1","deps":[{"name":"wren-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0239991a880bbf35a6cf2e9e0764378ecf1db52a4654cf95a153017b2106ae7","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-28T12:09:42Z"}
