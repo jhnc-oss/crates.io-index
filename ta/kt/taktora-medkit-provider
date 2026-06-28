@@ -1,0 +1,1 @@
+{"name":"taktora-medkit-provider","vers":"0.1.0","deps":[{"name":"taktora-medkit-model","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d439a45ceeb67966b15b949f3ecc07400a3a240e260b1e49cd244262b9e09da","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-28T15:39:22Z"}
