@@ -1,0 +1,1 @@
+{"name":"shogiesa-pack","vers":"0.3.0","deps":[{"name":"shogiesa-core","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"488f5f1b84c1a60e04e4871777b59ddd4a2e744525db1a169054b56ed31b2f31","features":{},"yanked":false,"pubtime":"2026-06-28T08:15:34Z"}
