@@ -1,0 +1,1 @@
+{"name":"wren-bgp","vers":"0.0.1","deps":[{"name":"wren-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66e2c2b0cc7d94925b2a0df508582750e65355ed63388bf343c42194eea5b32b","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-28T12:09:51Z"}
