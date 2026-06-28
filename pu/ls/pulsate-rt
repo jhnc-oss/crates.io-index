@@ -1,0 +1,1 @@
+{"name":"pulsate-rt","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["rt","rt-multi-thread","net","time","macros","sync"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"afb2ef2366c6181ce4d42f9ae9bdcdef66b76bb0936fb3ecb0fc285fe69130f9","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-06-28T15:35:28Z"}
