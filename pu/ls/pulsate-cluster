@@ -1,0 +1,1 @@
+{"name":"pulsate-cluster","vers":"0.1.0","deps":[{"name":"pulsate-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"edaf3061e545f07547e210798f1a796faafcf03bb8886e17cb74ebeafe91d500","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-06-28T18:45:49Z"}
