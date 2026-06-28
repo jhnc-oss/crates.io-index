@@ -1,0 +1,1 @@
+{"name":"wren-filter","vers":"0.0.1","deps":[{"name":"wren-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f81def8d6f990b16daf1845a29a30f6dfbb65366f74fb60fad5933ca3c1242b","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-28T09:11:41Z"}
