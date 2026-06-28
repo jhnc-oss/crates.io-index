@@ -4,3 +4,4 @@
 {"name":"taktora-stats","vers":"0.1.3","deps":[],"cksum":"47d26c954d9cb93650ed6c9534e48c9965dbdd79284e62aa6f13973215afb654","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-09T07:53:12Z"}
 {"name":"taktora-stats","vers":"0.1.4","deps":[],"cksum":"58a1ca61659e74dd657a539d6feb4b223faf2888287fb1af03d8452e7bed15da","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-10T05:53:38Z"}
 {"name":"taktora-stats","vers":"0.1.5","deps":[],"cksum":"9d0ad87b677750d9e80349c2c61cb37d8e1ff9f2f0e8e6dc3cfcdaf7ebd7dcf8","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-27T23:29:25Z"}
+{"name":"taktora-stats","vers":"0.1.6","deps":[],"cksum":"85f8a1d5ad61def3b35204ad113f4622b5ca953dd7ed61e4d3de67696c325dd7","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-28T02:03:34Z"}
