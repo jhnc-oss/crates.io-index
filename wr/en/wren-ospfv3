@@ -1,0 +1,1 @@
+{"name":"wren-ospfv3","vers":"0.0.1","deps":[{"name":"wren-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c72adf24d5258c4fb3c38514c8a91933b0d2431ba261f896cab7d7e61f63cc36","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-28T12:09:32Z"}
