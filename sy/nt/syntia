@@ -1,0 +1,1 @@
+{"name":"syntia","vers":"0.1.0","deps":[],"cksum":"7f05074509a7e6ae28d854c49061fe40a176701ff50840cb7dc464da28586147","features":{"default":["lexer","parser"],"lexer":[],"parser":[]},"yanked":false,"pubtime":"2026-06-28T10:45:30Z"}
