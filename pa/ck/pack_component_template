@@ -152,3 +152,4 @@
 {"name":"pack_component_template","vers":"1.1.0-dev.28225476293","deps":[],"cksum":"f6153a6c1dc1025f7a752ca379774a584754fad7d4d1853a947089e52eff3e51","features":{},"yanked":false,"pubtime":"2026-06-26T08:18:18Z"}
 {"name":"pack_component_template","vers":"1.1.0-dev.28323248391","deps":[],"cksum":"16fc75295e6f78957ef0bf3ef7c8ad2079fc5321d448e127fee18320825b670e","features":{},"yanked":false,"pubtime":"2026-06-28T13:22:18Z"}
 {"name":"pack_component_template","vers":"1.1.0-dev.28339014752","deps":[],"cksum":"0499aa57ed5bbc3c4949633c2c193f9e94f7443d8cd3147028ea83bc48d42e46","features":{},"yanked":false,"pubtime":"2026-06-28T23:20:52Z"}
+{"name":"pack_component_template","vers":"1.1.0","deps":[],"cksum":"7bc2b68978a6e4ab2584a2aa8d265cc54fac85a4b0e28ff616ef634238bbffce","features":{},"yanked":false,"pubtime":"2026-06-28T23:42:46Z"}
