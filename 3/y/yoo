@@ -1,1 +1,2 @@
 {"name":"yoo","vers":"0.1.0","deps":[],"cksum":"b725daeeae28f61e3d783fd91a64a1e2da11ad1da16a5035bdf8120f4aa28141","features":{},"yanked":false,"pubtime":"2026-06-26T14:33:13Z"}
+{"name":"yoo","vers":"0.2.0","deps":[],"cksum":"f9e879ca8d54798e3771cce8862b865c3c9759d02537561353997a25785bbaab","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-28T04:25:54Z"}
