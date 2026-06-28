@@ -1,0 +1,1 @@
+{"name":"louke","vers":"0.1.0","deps":[{"name":"xuanji","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06ec293650681a178bafff7592862057ea7b3f2e8efc6224a9cef9972d57c5e8","features":{"audit":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-28T18:19:14Z"}
