@@ -3,3 +3,4 @@
 {"name":"stem-branch","vers":"0.3.0","deps":[],"cksum":"e8a8dad47840e3980babcb76d30bc73e770ed1c278d4a6ad0092a9339723c08a","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-29T07:52:12Z"}
 {"name":"stem-branch","vers":"0.4.0","deps":[],"cksum":"d6359b4f4bbc07680d63a49cac8991d2e0acced7d24b5624aad174e5a8629cfd","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-29T08:23:38Z"}
 {"name":"stem-branch","vers":"0.5.0","deps":[],"cksum":"058598492bcfc9bf82603d061ca81c48d8ffe5eea1f77499b624e524eaa2555c","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-29T10:10:40Z"}
+{"name":"stem-branch","vers":"0.6.0","deps":[],"cksum":"a3664615a8dbe7eab3a090f67ff91f1eac0fa467c5be05a4b87b8f6878fdf404","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-29T10:52:12Z"}
