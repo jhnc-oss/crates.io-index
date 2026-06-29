@@ -1,0 +1,1 @@
+{"name":"tinyxml2-capi","vers":"0.1.3","deps":[{"name":"tinyxml2","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01f3d5db51aa7471c8992878765f9fea43d3c3e7466418b6be7ca8a315762803","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-06-29T11:10:52Z"}
