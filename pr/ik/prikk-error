@@ -1,1 +1,2 @@
 {"name":"prikk-error","vers":"0.0.1","deps":[],"cksum":"5ac6d0e44f73de6419488b176f06ff706a6e09b8619ecedfd00d7008a8be8ffd","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-27T01:42:33Z"}
+{"name":"prikk-error","vers":"0.1.0","deps":[],"cksum":"3ad2bd9e0aad9b5b01f32d9f24ae569de93541fe0b1006a5d6419f6e8fe58c42","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-29T00:54:09Z"}
