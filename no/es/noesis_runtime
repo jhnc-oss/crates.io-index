@@ -1,0 +1,1 @@
+{"name":"noesis_runtime","vers":"0.9.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b82f0640b641a443cd3d3ad0634c83b995a007dabebfe885c0c833cb39c25c40","features":{"default":[],"test-utils":[]},"yanked":false,"links":"Noesis","rust_version":"1.85","pubtime":"2026-06-29T00:03:55Z"}
