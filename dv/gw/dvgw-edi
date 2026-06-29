@@ -1,1 +1,2 @@
 {"name":"dvgw-edi","vers":"0.2.0","deps":[],"cksum":"eb92eeac9fcf2213778283b4f1aaf165cccc27f0538204e840a61d6ec85edbff","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-29T00:14:06Z"}
+{"name":"dvgw-edi","vers":"0.2.1","deps":[],"cksum":"f29ac1d4fa4d99e3e5f8df9fd4ededbcb3bea87dcc3c7957d084e2c2a6ae73f1","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-29T04:51:04Z"}
