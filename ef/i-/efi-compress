@@ -1,1 +1,2 @@
 {"name":"efi-compress","vers":"0.1.0","deps":[],"cksum":"597bfc92ddf4cb9fc0a6b84fdc3fce99555f724d57c5ab4a5334a62166a65c5c","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-24T11:40:20Z"}
+{"name":"efi-compress","vers":"0.1.1","deps":[],"cksum":"2010676aff49fad33f1386189b4ea75abdda85fa3385189cc6b1354b348420b0","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-29T18:42:52Z"}
