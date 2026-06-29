@@ -17,3 +17,4 @@
 {"name":"kevy-scope","vers":"1.31.1","deps":[],"cksum":"dd2f9b4a45f0ef404b0ccbd0d71db253a451a6de8df42d00b226ebc1436840f0","features":{},"yanked":false,"pubtime":"2026-06-29T16:39:12Z"}
 {"name":"kevy-scope","vers":"1.31.2","deps":[],"cksum":"058e064a289b6c6635529d45277788123d5bf67fb31c9db748530ffaf67facc6","features":{},"yanked":false,"pubtime":"2026-06-29T17:16:06Z"}
 {"name":"kevy-scope","vers":"1.32.0","deps":[],"cksum":"9c44b7b85d830a0b60162206ad1150bc120716d66e2b07092f3393d89e2ef83e","features":{},"yanked":false,"pubtime":"2026-06-29T18:12:31Z"}
+{"name":"kevy-scope","vers":"1.33.0","deps":[],"cksum":"7bb1b6dbba137dd369262aed330d40e3e13be52d2c7c1a06b63cd121f0762b5a","features":{},"yanked":false,"pubtime":"2026-06-29T18:50:40Z"}
