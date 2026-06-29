@@ -1,1 +1,2 @@
 {"name":"pulsate-migrate","vers":"0.1.0","deps":[],"cksum":"c8d14ee445ce24b1ff5379e8a815e3a23be0e26ef976f689e964828b3b64dfbe","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-06-28T17:40:20Z"}
+{"name":"pulsate-migrate","vers":"0.2.0","deps":[{"name":"pulsate-flow","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b9c85d77858ae6c1d326eadf6a667ac328dee6f195855e77ba3ef0c07045c253","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-06-29T06:06:30Z"}
