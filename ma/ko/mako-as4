@@ -1,0 +1,1 @@
+{"name":"mako-as4","vers":"0.2.0","deps":[{"name":"asx-rs","req":"^0.3","features":["as4","interop-strict"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc74a574a4cece559aeb326b32ad20525178935f6295ee79d85e237d2d1dbb2f","features":{"server":["asx-rs/server"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-29T00:14:46Z"}
