@@ -1,0 +1,1 @@
+{"name":"heyting","vers":"0.1.0","deps":[{"name":"proptest","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"737faff25557cee8108b1c1ccb736205f4709ce16463f6a3ee4d87fe8913bce1","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-06-29T02:52:25Z"}
