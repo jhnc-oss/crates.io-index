@@ -1,0 +1,1 @@
+{"name":"riplz-dict","vers":"0.1.0","deps":[{"name":"riplz-format","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78e3936ad56f0f0dfddab6c5746c8bc99d38322a54a5cfc6b59df877229254f6","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-29T00:34:07Z"}
