@@ -1,1 +1,2 @@
 {"name":"stem-branch","vers":"0.1.0","deps":[],"cksum":"40e50b348b04cc910405aa9f02d606219c93056477a6d1758f443b068fb5394c","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-29T06:14:03Z"}
+{"name":"stem-branch","vers":"0.2.0","deps":[],"cksum":"cd6d68367b9730b2ddde4582176a7a5f5740a371a1dd4634aadaef2f47bdfa27","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-29T07:30:42Z"}
