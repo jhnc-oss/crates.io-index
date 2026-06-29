@@ -1,0 +1,1 @@
+{"name":"vanta-core","vers":"0.0.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0b5f74265dce09d07cf82cdfc3d8067a321d5cd4b9752bce63c5201f4afb19c7","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2026-06-29T18:40:14Z"}
