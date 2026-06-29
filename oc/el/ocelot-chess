@@ -1,2 +1,3 @@
 {"name":"ocelot-chess","vers":"0.1.0","deps":[],"cksum":"fa8539ac52d20043f7fef70f0e00525d594d66bd450edebf12a4a9cbcbcbbc26","features":{},"yanked":false,"pubtime":"2026-06-28T01:38:40Z"}
 {"name":"ocelot-chess","vers":"0.1.1","deps":[],"cksum":"7cb91bccac8ec3fe6a71bfc6ae6e26f005e724d3874f419a020a9b9dde1cc375","features":{},"yanked":false,"pubtime":"2026-06-28T18:38:07Z"}
+{"name":"ocelot-chess","vers":"0.1.2","deps":[],"cksum":"b235411d6f1dc7e7f7ba3616da5676552401924a83b64fd1babe573c87f388df","features":{},"yanked":false,"pubtime":"2026-06-29T01:39:11Z"}
