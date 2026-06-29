@@ -1,1 +1,2 @@
 {"name":"prikk-hash","vers":"0.0.1","deps":[],"cksum":"ed32e2cc12dc9d9c290cb360a3564091d565f4fb7a9dab2dae80c7eeb4422272","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-27T01:42:33Z"}
+{"name":"prikk-hash","vers":"0.1.0","deps":[],"cksum":"cd832a2ab8273afe5e14ce98fa34c2ab0f20d871139f338447f7e799b494a8d3","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-29T00:54:10Z"}
