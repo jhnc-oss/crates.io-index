@@ -4,3 +4,4 @@
 {"name":"eth-valkyoth-codec","vers":"0.5.0","deps":[],"cksum":"a5dd1444ced6b3fc5cdd10f1165e07495031cc323230d140ec2bbff9a82f0fbd","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-21T06:27:53Z"}
 {"name":"eth-valkyoth-codec","vers":"0.6.0","deps":[],"cksum":"a59fe408d506592e276c4fcb97cdaa92587fd7c83bb349692bf40e2a3705d480","features":{"default":[],"std":[],"testing":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-25T08:19:13Z"}
 {"name":"eth-valkyoth-codec","vers":"0.7.0","deps":[],"cksum":"57a5b42f979844c68738cfc5689a0d7f0753c5df76f9d4eec7c9af49bf65a9ae","features":{"default":[],"std":[],"testing":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-28T09:13:52Z"}
+{"name":"eth-valkyoth-codec","vers":"0.8.0","deps":[],"cksum":"31539d95dc62e5db3b373c1610a841c56e228f45274d1c1b28294c2f9a9719f6","features":{"default":[],"std":[],"testing":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-29T14:20:30Z"}
