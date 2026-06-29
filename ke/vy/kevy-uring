@@ -42,3 +42,4 @@
 {"name":"kevy-uring","vers":"1.29.0","deps":[],"cksum":"171d8e49ea1f40d2aff3d109a972e2645ae3f90ce79f8ac2180f618efa507c95","features":{},"yanked":false,"pubtime":"2026-06-29T10:56:05Z"}
 {"name":"kevy-uring","vers":"1.30.0","deps":[],"cksum":"8a2585c08242177b27703acb049c4cc2afe44b0719e0ac6d0dcdf994d75e0eea","features":{},"yanked":false,"pubtime":"2026-06-29T13:30:31Z"}
 {"name":"kevy-uring","vers":"1.31.1","deps":[],"cksum":"8631276503ec25a8c6592e37d0b73100921db763ec279806c099cfb29cf4057d","features":{},"yanked":false,"pubtime":"2026-06-29T16:35:28Z"}
+{"name":"kevy-uring","vers":"1.31.2","deps":[],"cksum":"4c152f0511c3d2cafbc0c0c503cdc71c0f2525a881e01b5c460c542c7e2cd5e7","features":{},"yanked":false,"pubtime":"2026-06-29T17:12:23Z"}
