@@ -11,3 +11,4 @@
 {"name":"weaveffi-abi","vers":"0.11.0","deps":[],"cksum":"9db2b7f0626738a8613ae9692e5c8f8c2e79f69b6a55485abed123bb3f5a753d","features":{},"yanked":false,"pubtime":"2026-06-16T19:57:53Z"}
 {"name":"weaveffi-abi","vers":"0.12.0","deps":[],"cksum":"a79954e9287e7741b018816b03ffc990e9d0fda1bec52202c17b8c67aa241c55","features":{},"yanked":false,"pubtime":"2026-06-19T06:40:46Z"}
 {"name":"weaveffi-abi","vers":"0.13.0","deps":[],"cksum":"e8f0a350791c712aa9f8a34f9558b7e4991f15d852477ded5dce54761c2dbbae","features":{},"yanked":false,"pubtime":"2026-06-24T05:55:53Z"}
+{"name":"weaveffi-abi","vers":"0.13.1","deps":[],"cksum":"7f1039fd349eddc57e8620989de83f2c69b664940775620ffb7ea95fe126d615","features":{},"yanked":false,"pubtime":"2026-06-29T18:34:45Z"}
