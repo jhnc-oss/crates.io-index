@@ -7,3 +7,4 @@
 {"name":"awsm-audio-worklet","vers":"2.1.0","deps":[],"cksum":"9878f724c80ab54ef2e253704afcfb69006768749073f70aebcdbf5e9daec56f","features":{},"yanked":false,"rust_version":"1.80.0","pubtime":"2026-06-13T20:41:38Z"}
 {"name":"awsm-audio-worklet","vers":"2.2.0","deps":[],"cksum":"aa289729f80273618a73161bff0b109ff23af920268a87a0e125e36f81c57b48","features":{},"yanked":false,"rust_version":"1.80.0","pubtime":"2026-06-14T10:58:49Z"}
 {"name":"awsm-audio-worklet","vers":"2.3.0","deps":[],"cksum":"218cd4003820c005c9b88a7526ff46da6e2b9edba0d78426789cce708ede3401","features":{},"yanked":false,"rust_version":"1.80.0","pubtime":"2026-06-14T12:31:35Z"}
+{"name":"awsm-audio-worklet","vers":"2.4.0","deps":[],"cksum":"3b118a479a39e1626a3097291266809df924eba7250b4684dc79f3ef34842c08","features":{},"yanked":false,"rust_version":"1.80.0","pubtime":"2026-06-29T10:00:27Z"}
