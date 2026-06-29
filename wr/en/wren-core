@@ -1,1 +1,2 @@
 {"name":"wren-core","vers":"0.0.1","deps":[],"cksum":"6f0a0de8e8c233c684f3a8ddf13a68bb682ea00f54c8c649e521579fa3120240","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-28T09:10:28Z"}
+{"name":"wren-core","vers":"0.1.0","deps":[],"cksum":"0dd6c244c56f5e3f7ec5b70957726b11fd93eabd51955f25e9bc5986e90c48d2","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-29T23:17:47Z"}
