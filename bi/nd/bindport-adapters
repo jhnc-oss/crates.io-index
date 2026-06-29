@@ -1,1 +1,2 @@
 {"name":"bindport-adapters","vers":"0.1.0","deps":[],"cksum":"896edcc9eab03ef3f2280c36fbfb84b68ac6cd7ece7d5e404e004d89c713b8a3","features":{},"yanked":false,"pubtime":"2026-06-13T06:30:17Z"}
+{"name":"bindport-adapters","vers":"0.2.0","deps":[],"cksum":"a0dc68fb1175b4ac4170c6b9e14dba3481cd73b3feef02844b23a2ebbc26e966","features":{},"yanked":false,"pubtime":"2026-06-29T05:26:37Z"}
