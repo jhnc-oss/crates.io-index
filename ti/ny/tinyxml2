@@ -1,1 +1,2 @@
 {"name":"tinyxml2","vers":"0.1.0","deps":[],"cksum":"50de42be76a0cbcc4d73ce6481f3fb6afa904bbfb1007ef8428d5a8637c98af8","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-06-29T09:35:03Z"}
+{"name":"tinyxml2","vers":"0.1.1","deps":[],"cksum":"a403912c958a7354496b028147fcc05a03777161654199d3b8fe7398318f5d86","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-06-29T10:14:05Z"}
