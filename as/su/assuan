@@ -1,1 +1,2 @@
 {"name":"assuan","vers":"0.0.0","deps":[],"cksum":"e7eddfe2370ad54fe946e83cde2e555996c79d0d3abdd9d82428478f8f4cea75","features":{},"yanked":false,"pubtime":"2026-06-26T10:30:15Z"}
+{"name":"assuan","vers":"0.1.2","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e55b96edbda400f9d01ed69cc7685a71a5d3d63157238728607d4863f3e0759","features":{},"yanked":false,"pubtime":"2026-06-29T09:12:33Z"}
