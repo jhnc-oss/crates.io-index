@@ -1,0 +1,1 @@
+{"name":"hex_rgb_converter","vers":"1.0.0","deps":[{"name":"custom_error","req":"^1.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ea5d3f938edd5c29a78f119eb2dddc2d03b24547277098af51de3f0b6094798","features":{},"yanked":false,"pubtime":"2026-06-29T22:54:52Z"}
