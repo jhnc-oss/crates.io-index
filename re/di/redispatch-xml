@@ -1,1 +1,2 @@
 {"name":"redispatch-xml","vers":"0.2.0","deps":[],"cksum":"66c3af747d340e290d69aea598cdd6851f14abfbfe0957f05df2319ba757a89a","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-29T00:14:04Z"}
+{"name":"redispatch-xml","vers":"0.2.1","deps":[],"cksum":"bc7081ea417757ea173160d4f3bd681ebc695b6590bbf664e5e2b7bd65118de1","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-29T04:51:02Z"}
