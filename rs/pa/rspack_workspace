@@ -63,3 +63,4 @@
 {"name":"rspack_workspace","vers":"0.101.0-rc.0","deps":[],"cksum":"43e52d4fee6de1b36da9eb0797a3ff98a55e3ef5fe91f84084f430ffb1404697","features":{},"yanked":false,"pubtime":"2026-06-23T10:07:22Z"}
 {"name":"rspack_workspace","vers":"0.101.0","deps":[],"cksum":"c4e0d4a2af650c0cfe3c7b099a531e1a8b4a0eac9144288103ab59c80c5f9321","features":{},"yanked":false,"pubtime":"2026-06-26T06:07:17Z"}
 {"name":"rspack_workspace","vers":"0.101.1","deps":[],"cksum":"b4d49718cefc23191562d36bc5c0f2b5ad64327cfdc3f013b66925ec60636176","features":{},"yanked":false,"pubtime":"2026-06-27T01:27:30Z"}
+{"name":"rspack_workspace","vers":"0.101.2","deps":[],"cksum":"7c63ba107f3f5b60e3cc9d7bed8dfae41d9b8a4f5e26b127aad4f9459df39be8","features":{},"yanked":false,"pubtime":"2026-06-30T07:43:19Z"}
