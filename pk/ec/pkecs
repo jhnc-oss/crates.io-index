@@ -13,3 +13,4 @@
 {"name":"pkecs","vers":"8.0.0","deps":[],"cksum":"66c8eb2b26f4d0374796e49a6c7763a08b77e1bb39c499266fe27d742dd07678","features":{},"yanked":false,"pubtime":"2026-06-08T00:51:33Z"}
 {"name":"pkecs","vers":"9.0.0","deps":[],"cksum":"e0e1f74d06deed9a9fec4831d6b7ce9e757ca6e9e35617d666208bd05069be16","features":{},"yanked":false,"pubtime":"2026-06-16T00:40:30Z"}
 {"name":"pkecs","vers":"9.0.1","deps":[],"cksum":"a0c65152f0a4222f7c900e9ffab53e6fa2516a03a2388dad5f368c6806a3e3ab","features":{},"yanked":false,"pubtime":"2026-06-21T22:28:24Z"}
+{"name":"pkecs","vers":"9.1.0","deps":[],"cksum":"7a35726b4477bf88adcf90158afe4d0601a804a18977d2fdb37503317495736d","features":{},"yanked":false,"pubtime":"2026-06-30T00:29:40Z"}
