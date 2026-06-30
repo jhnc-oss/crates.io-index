@@ -1,1 +1,2 @@
 {"name":"libutils-diff","vers":"9.36.26","deps":[],"cksum":"a3fd956b66e8119cfa963f5f3bf8995c6ee7b4ca01d58bfbca17a04825adec78","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-06-29T14:24:46Z"}
+{"name":"libutils-diff","vers":"9.40.27","deps":[],"cksum":"b4097720f98c3354b0a68d258f5f85c257e6e2149d143238fdf65feaeff23a29","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-06-30T14:03:26Z"}
