@@ -1,1 +1,2 @@
 {"name":"libutils-pointer","vers":"9.36.26","deps":[],"cksum":"72c2e69e6bade6b5d0e594079ac7c2ec3ea214adef6c84e49dc23fa6f50eb870","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-06-29T14:24:47Z"}
+{"name":"libutils-pointer","vers":"9.40.27","deps":[],"cksum":"da9f4e10025be8a6a3434f021bd4411cf66721e793b2e62b2a2e79e783a77bd7","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-06-30T14:03:28Z"}
