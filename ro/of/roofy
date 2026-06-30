@@ -10,3 +10,4 @@
 {"name":"roofy","vers":"0.0.10","deps":[],"cksum":"c8e49c9907f8b84018d546b43c59acc6fefe5b852b92e561c3ac70df8e4a5458","features":{},"yanked":false,"pubtime":"2026-06-01T12:37:51Z"}
 {"name":"roofy","vers":"0.0.11","deps":[],"cksum":"98a503d62a55957e939e6c597b3c18bbc56fc6a8bff212efd4aaa999326dc9a9","features":{},"yanked":false,"pubtime":"2026-06-24T19:19:10Z"}
 {"name":"roofy","vers":"0.0.12","deps":[],"cksum":"6573cbeae01d60ff592d78f9de4112aa9d85d427e7a10bf0548b5251630a12b3","features":{},"yanked":false,"pubtime":"2026-06-25T23:01:43Z"}
+{"name":"roofy","vers":"0.0.13","deps":[],"cksum":"0b63b668ab52f510a428b0a4a3bdfa2d1a125c726e98d36c3c017a93ae52b8ac","features":{},"yanked":false,"pubtime":"2026-06-30T22:10:39Z"}
