@@ -1,0 +1,1 @@
+{"name":"sutegi-cli","vers":"0.1.0","deps":[{"name":"sutegi-json","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7aaae996f76620a265e1f39c51ae69841f2c503f00de159102526b52f2fdfe16","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-30T08:19:34Z"}
