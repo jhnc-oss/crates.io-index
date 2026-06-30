@@ -2,3 +2,4 @@
 {"name":"pamoja-gpio","vers":"0.1.8","deps":[],"cksum":"872691485f9e4a3b1c9d3e3cb2c2e48cee870e46b65168ef47bc7001236600cf","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-19T20:35:27Z"}
 {"name":"pamoja-gpio","vers":"0.1.9","deps":[],"cksum":"869c24fe6940b0953ce86593b9a6a56296a3ceccae25ec93bad1b990b6dd5ba0","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-20T19:49:35Z"}
 {"name":"pamoja-gpio","vers":"0.1.10","deps":[],"cksum":"31b2f87b3faf9acf9ba34e37f5d60d12465aad064a90af37d9af355e7547bfde","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-23T10:03:45Z"}
+{"name":"pamoja-gpio","vers":"0.1.11","deps":[],"cksum":"9a63bfb1d78e1d46a30dcb065c0091c068b53fb7a7c68a19984cbf761553a425","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-30T20:33:59Z"}
