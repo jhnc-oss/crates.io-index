@@ -1,0 +1,1 @@
+{"name":"lingxia-windows-build","vers":"0.10.0","deps":[{"name":"winresource","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7e485bed74a1ad6ae49f770f322d3c1563f243191e4b2380ae86d2bae727001","features":{},"yanked":false,"pubtime":"2026-06-30T03:55:59Z"}
