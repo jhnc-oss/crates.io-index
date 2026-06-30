@@ -48,3 +48,4 @@
 {"name":"kevy-config","vers":"1.34.0","deps":[],"cksum":"af3dc78c5b851742250105112b8cbfb5e2db6a88c791fcf7e421d0ac1455b22a","features":{},"yanked":false,"pubtime":"2026-06-29T19:54:06Z"}
 {"name":"kevy-config","vers":"1.35.0","deps":[],"cksum":"ac5f718391685c2b176f32729d4cc5ca459283dcf8c18825484ab7faea80a637","features":{},"yanked":false,"pubtime":"2026-06-29T20:20:10Z"}
 {"name":"kevy-config","vers":"1.36.0","deps":[],"cksum":"d4b57bfc6674c9286eafa9363c64b03fde7540dd606cda8d75858eee69a77ca4","features":{},"yanked":false,"pubtime":"2026-06-30T04:33:58Z"}
+{"name":"kevy-config","vers":"1.37.0","deps":[],"cksum":"9c383f6af801d250bdd5d25079d7e4f81064bb77390ac5f62355bb204f475c60","features":{},"yanked":false,"pubtime":"2026-06-30T06:25:43Z"}
