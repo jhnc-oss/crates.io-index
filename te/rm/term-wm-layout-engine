@@ -1,0 +1,1 @@
+{"name":"term-wm-layout-engine","vers":"0.7.0-alpha","deps":[{"name":"proptest","req":"^1.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d752b8c4f25f3f11576f238cdcbc49edd6879d14c9ab2439e14f29c6a7615095","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-06-30T01:15:40Z"}
