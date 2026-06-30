@@ -1,0 +1,1 @@
+{"name":"silero-vad-crs","vers":"0.1.0","deps":[{"name":"cc","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b7f3028218228cdac96383b5d2369b52cd6f2159fb340853bb0f7287bf053e99","features":{"avx2":[],"default":[],"fast-math":[],"neon":[],"sse":[]},"yanked":false,"pubtime":"2026-06-30T16:25:54Z"}
