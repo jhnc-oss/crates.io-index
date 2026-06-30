@@ -31,3 +31,4 @@
 {"name":"depsguard","vers":"0.1.37","deps":[],"cksum":"f3135140ac3a0a86581a57bfdd351cc0500df36d86dcfde026baceec82dbedad","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-12T04:00:35Z"}
 {"name":"depsguard","vers":"0.1.38","deps":[],"cksum":"61bc7da17ce74117d1e9dde2e00d8faf1026bee5c8ff2a1715f30ead1491bd10","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-12T05:45:59Z"}
 {"name":"depsguard","vers":"0.1.39","deps":[],"cksum":"134b65a69da780e32cbab85dfd365c183bb31e37b0a5df540420afb3ab2fed26","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-30T18:42:14Z"}
+{"name":"depsguard","vers":"0.1.40","deps":[],"cksum":"725f7decd0cec1e92287c593de9c3895e4fdb1c4a34a561c50f3c4104645253c","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-30T18:42:38Z"}
