@@ -1,0 +1,1 @@
+{"name":"custom-time","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.45","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a06057b932396c526989019b07c37f88f97691df096494e8f1752f0de6234aee","features":{},"yanked":false,"pubtime":"2026-06-30T20:24:45Z"}
