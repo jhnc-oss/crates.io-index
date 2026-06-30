@@ -1,0 +1,1 @@
+{"name":"zwasm-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.72.1","features":["runtime"],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"197c7e807be8ff7127bb2ce3c7fd10b8df3cbb8b4ee5d7714194343f03e5fc0f","features":{},"yanked":false,"links":"zwasm","pubtime":"2026-06-30T13:27:51Z"}
