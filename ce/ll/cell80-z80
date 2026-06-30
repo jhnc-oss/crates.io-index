@@ -5,3 +5,4 @@
 {"name":"cell80-z80","vers":"0.5.0","deps":[],"cksum":"d96fbba181fdcea46fb66720534cafc9d5a3a376ad473cc9df0728d6d200f548","features":{},"yanked":false,"pubtime":"2026-06-28T11:03:27Z"}
 {"name":"cell80-z80","vers":"0.6.0","deps":[],"cksum":"d7fe20da2dadde82af7a5df96625574f08437d335a73b4f38863a648c7b52f3e","features":{},"yanked":false,"pubtime":"2026-06-28T22:59:43Z"}
 {"name":"cell80-z80","vers":"0.7.0","deps":[],"cksum":"91b3ba09d52b1667a3153b99661c0618a27a0703aaaba603e0eeb1d4403eea61","features":{},"yanked":false,"pubtime":"2026-06-29T22:28:17Z"}
+{"name":"cell80-z80","vers":"0.8.0","deps":[],"cksum":"97c98adaf621759836a266587d8a83d7ce1fc814c9941289474572ada6020a16","features":{},"yanked":false,"pubtime":"2026-06-30T23:37:18Z"}
