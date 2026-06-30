@@ -2,3 +2,4 @@
 {"name":"pamoja-serial","vers":"0.1.8","deps":[],"cksum":"71523a8fa6366546891a51fda09883bfbcd7d8478a60eb3d353ea9b93840ac02","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-19T20:35:23Z"}
 {"name":"pamoja-serial","vers":"0.1.9","deps":[],"cksum":"696daf3bd2606e3cc2cddedc8d1b45ece4a0f71e96859600bb52e612f0315cda","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-20T19:49:33Z"}
 {"name":"pamoja-serial","vers":"0.1.10","deps":[],"cksum":"c9858039b9b5916c575dc19ce2eaed410c36ae586a91f586e50792731c3e5f54","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-23T10:03:43Z"}
+{"name":"pamoja-serial","vers":"0.1.11","deps":[],"cksum":"320b5cf3ee8a0ae5e1e29576356891002eccc8b0f1ca80ad88c3270d5e9381db","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-30T20:33:57Z"}
