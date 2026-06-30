@@ -31,3 +31,4 @@
 {"name":"omry-common","vers":"0.19.0-alpha6","deps":[],"cksum":"8edb555aaed0b68a47627bc73a99809219514df9cc741fa9a7a014314169c52d","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-01T23:07:37Z"}
 {"name":"omry-common","vers":"0.19.0","deps":[],"cksum":"1014eb02ba779eacc9d364386c1fcb5cf33e8f8563484cf3852978f01627737a","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-15T05:01:31Z"}
 {"name":"omry-common","vers":"0.19.1","deps":[],"cksum":"87e345bbc8cc973f5d9ca02bd2766864b9c387fab03c4106b14783fe623c67a1","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-15T18:02:37Z"}
+{"name":"omry-common","vers":"0.20.0","deps":[],"cksum":"61ad5fff4b01bb8179a5618e1ca1ee9166f5ee512203dce44eedf5b8ddc6e1fa","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-30T21:20:14Z"}
