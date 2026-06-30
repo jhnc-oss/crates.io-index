@@ -7,3 +7,4 @@
 {"name":"rustledger-completion","vers":"0.16.5","deps":[],"cksum":"bc291189f1441dfd36ae6a2bf549628b5d2894a1590515771fd89139e431d737","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-18T06:04:30Z"}
 {"name":"rustledger-completion","vers":"0.17.0","deps":[],"cksum":"09eaaf8f0257d36b62063ddbdacfa2d5bd835014406ee2c6719e6ce29462f8cc","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-30T17:02:26Z"}
 {"name":"rustledger-completion","vers":"0.17.1","deps":[],"cksum":"0ec02a4326c3d8ce71d7523819f39641c46a098ce8b803c07bb70a86d8619c77","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-30T20:11:20Z"}
+{"name":"rustledger-completion","vers":"0.17.2","deps":[],"cksum":"4f9a1a49e051de8b19d9f86b8e584bb6859bc9b2de20e6531290854155d3e228","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-30T23:35:51Z"}
