@@ -1,2 +1,3 @@
 {"name":"libutils-array","vers":"9.36.26","deps":[],"cksum":"715b5a5c0587abd4bd8cd6fbb50ede5d1a871baf05a5cd8166a6b7e925f7cc80","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-06-29T14:24:45Z"}
 {"name":"libutils-array","vers":"9.40.27","deps":[],"cksum":"5c44e6bd012aab8a6c2e60a3e888711b679b4c7a6c98d1e7a190a8564012bec5","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-06-30T14:03:24Z"}
+{"name":"libutils-array","vers":"9.38.28","deps":[],"cksum":"59fb273d68f551b916250eb89fdc1680512d641142d02194446d66243381e29e","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-06-30T16:30:30Z"}
