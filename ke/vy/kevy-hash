@@ -48,3 +48,4 @@
 {"name":"kevy-hash","vers":"1.34.0","deps":[],"cksum":"e63a7eae1fd60a889d7438a7f839df2ac614d4e5592e5aa943f255302614d660","features":{},"yanked":false,"pubtime":"2026-06-29T19:53:29Z"}
 {"name":"kevy-hash","vers":"1.35.0","deps":[],"cksum":"069ea403b4d8c5016586fb519fb7d506f058066ced716b1b7a461062d6a2e8a9","features":{},"yanked":false,"pubtime":"2026-06-29T20:19:33Z"}
 {"name":"kevy-hash","vers":"1.36.0","deps":[],"cksum":"914cd79d0fdaf50fd107d4dbd20be63ffdeb7f204de57959fd22a10ccfac66ff","features":{},"yanked":false,"pubtime":"2026-06-30T04:33:19Z"}
+{"name":"kevy-hash","vers":"1.37.0","deps":[],"cksum":"00f5d8ff79b82a6da3280159a012c0ad405b0e835a837d821ba7f0f38922ca92","features":{},"yanked":false,"pubtime":"2026-06-30T06:25:05Z"}
