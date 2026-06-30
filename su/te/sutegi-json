@@ -1,1 +1,2 @@
 {"name":"sutegi-json","vers":"0.1.0","deps":[],"cksum":"431340704b7063e3bd510a94ebdd4e7fe6e49edcf6f6e58337c79280f4bcfa21","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-30T07:36:43Z"}
+{"name":"sutegi-json","vers":"0.2.0","deps":[],"cksum":"99773f4d7f2d12723513e36045c920e46baf18c55947465838c176bc4ca1766c","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-30T11:41:41Z"}
