@@ -2,3 +2,4 @@
 {"name":"pamoja-mesh","vers":"0.1.8","deps":[],"cksum":"3b8b01e0bf150745ddc7f95115f7f9ca4dc8691acdd3476bd0f668ba94f833af","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-19T20:35:09Z"}
 {"name":"pamoja-mesh","vers":"0.1.9","deps":[],"cksum":"04209ea76cdd10791a9173081a52eb328f633d537a80846024805567ea3513dc","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-20T19:49:24Z"}
 {"name":"pamoja-mesh","vers":"0.1.10","deps":[],"cksum":"73fb58066268fe6a47ac156aa40772e8bdf49cc7adae97e18ee1ecbb8ae98805","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-23T10:03:34Z"}
+{"name":"pamoja-mesh","vers":"0.1.11","deps":[],"cksum":"632a6a81b7526dfa6f743c1dfcc3e7deef2d4893c3a88388e10e262e2c99f18e","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-30T20:33:48Z"}
