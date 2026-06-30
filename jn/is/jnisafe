@@ -1,0 +1,1 @@
+{"name":"jnisafe","vers":"0.1.0","deps":[{"name":"jni","req":"^0.22.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"adaaf52a4655b7976aaa28319c2bdb2b93a4111c43d30511a77f2ec441ce33ab","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-06-30T03:08:53Z"}
