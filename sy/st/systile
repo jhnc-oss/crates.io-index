@@ -3,3 +3,4 @@
 {"name":"systile","vers":"0.7.0","deps":[],"cksum":"cf6610bf731708b0e7746be5452fe35a49a4f9c3e620ced83d4efaf5b29fab1e","features":{"default":["std"],"paranoid":[],"std":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-30T01:44:56Z"}
 {"name":"systile","vers":"0.8.0","deps":[],"cksum":"6e36095ef74a08b43ac66decb381e09c93ebaf9822fd399b715b8b2b20b64b9a","features":{"default":["std"],"paranoid":[],"std":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-30T01:56:04Z"}
 {"name":"systile","vers":"0.9.0","deps":[],"cksum":"d2c6d014c36844645ec5f37b19c9ac4b3efffe5272e653651cf30a64be24b9c0","features":{"default":["std"],"paranoid":[],"std":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-30T02:13:27Z"}
+{"name":"systile","vers":"0.10.0","deps":[],"cksum":"45436d806ca3882fb754da1987e733f29e93b3f2241f59dd35cb9c9efd9ad1ef","features":{"default":["std"],"paranoid":[],"std":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-30T02:27:51Z"}
