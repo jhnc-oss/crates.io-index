@@ -14,3 +14,4 @@
 {"name":"scry-sai-interval","vers":"2.3.0","deps":[],"cksum":"83eac224c75f13bb39c244ad5615a7fc1a4e25203fe8ea31450155f0a865dc46","features":{},"yanked":false,"pubtime":"2026-06-26T21:41:30Z"}
 {"name":"scry-sai-interval","vers":"2.4.0","deps":[],"cksum":"91039af6ec9d563c2329545bbf8b094c692ca80a953e18a9059d8905865e592b","features":{},"yanked":false,"pubtime":"2026-06-27T05:16:49Z"}
 {"name":"scry-sai-interval","vers":"2.5.0","deps":[],"cksum":"486d13ed454c233a42cfcf804a35c1a09a5ab2f8ad3b0169f2f601e4e3627f36","features":{},"yanked":false,"pubtime":"2026-06-27T05:42:31Z"}
+{"name":"scry-sai-interval","vers":"2.6.0","deps":[],"cksum":"0d4532b75b75570dd7092c7f18dd5ab8e0a921adbd00b83185c3855be4ddde07","features":{},"yanked":false,"pubtime":"2026-06-30T20:00:59Z"}
