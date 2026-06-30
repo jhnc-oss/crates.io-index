@@ -1,0 +1,1 @@
+{"name":"rsomics-equalize-hist","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94250568597c891d9f87cdc17d2f6336555f8143108b9a0bd74647b5015c565c","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-06-30T21:04:14Z"}
