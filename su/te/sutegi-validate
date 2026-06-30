@@ -1,0 +1,1 @@
+{"name":"sutegi-validate","vers":"0.1.0","deps":[{"name":"sutegi-json","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80b0d43ecd03c2d70389eefd9afcbc82d993ec262972e94d4dbb34504fb90377","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-30T07:37:19Z"}
