@@ -14,3 +14,4 @@
 {"name":"scry-sai-octagon","vers":"2.3.0","deps":[],"cksum":"7c7b4e8221a882a18638ae9ee4b82bcea3717d2dca82150ac969f4219d4cf645","features":{},"yanked":false,"pubtime":"2026-06-26T21:41:34Z"}
 {"name":"scry-sai-octagon","vers":"2.4.0","deps":[],"cksum":"62f6e45821952a44a37c9ebce43190b6cd62cacb633c7c5771d89553a9680eca","features":{},"yanked":false,"pubtime":"2026-06-27T05:16:53Z"}
 {"name":"scry-sai-octagon","vers":"2.5.0","deps":[],"cksum":"86ef476091d53c8cc6ced2bbc5d302ec983b328366aa988230c6d2204f4c24b6","features":{},"yanked":false,"pubtime":"2026-06-27T05:42:34Z"}
+{"name":"scry-sai-octagon","vers":"2.6.0","deps":[],"cksum":"3460128de7a67fdfd8d93ad676eeeebccf2baee3ee720edab8fe963024544d10","features":{},"yanked":false,"pubtime":"2026-06-30T20:01:03Z"}
