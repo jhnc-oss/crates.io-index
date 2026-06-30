@@ -24,3 +24,4 @@
 {"name":"rialo-s-measure","vers":"0.11.2","deps":[],"cksum":"4037a3db5bba9dee7ba91c51971286516be9507ad2b7ca20c161c84e2b393884","features":{},"yanked":false,"pubtime":"2026-06-17T09:41:06Z"}
 {"name":"rialo-s-measure","vers":"0.12.0","deps":[],"cksum":"96c2fcda647487896bf637e371eef6805684c72efb0d44d2c8145b65f6601edd","features":{},"yanked":false,"pubtime":"2026-06-23T16:30:06Z"}
 {"name":"rialo-s-measure","vers":"0.12.1","deps":[],"cksum":"650bb9d04ebcf92bccaca04b85ea5be4b7e74acf1f8c04adba16281c05b2ce5b","features":{},"yanked":false,"pubtime":"2026-06-30T09:48:38Z"}
+{"name":"rialo-s-measure","vers":"0.12.2","deps":[],"cksum":"dd07430f5d6bf07e84cbf7ef0d131d4b4f06ecec23d2db5e828d77c5f73173fd","features":{},"yanked":false,"pubtime":"2026-06-30T13:26:33Z"}
