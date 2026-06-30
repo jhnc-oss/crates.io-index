@@ -42,3 +42,4 @@
 {"name":"kevy-geo","vers":"1.35.0","deps":[],"cksum":"7dff897acf42aca4da3c1f33e02336161f2fc094c220a6f70026a6014363700e","features":{},"yanked":false,"pubtime":"2026-06-29T20:23:55Z"}
 {"name":"kevy-geo","vers":"1.36.0","deps":[],"cksum":"d4c83bed345c9a3e0c63e96209db8a75a376733564880585668cf0ef6cc30002","features":{},"yanked":false,"pubtime":"2026-06-30T04:37:44Z"}
 {"name":"kevy-geo","vers":"1.37.0","deps":[],"cksum":"6f25f0705f66a243ce1f25ba8277c4149f291095eae0a0396d4df221e5e7152a","features":{},"yanked":false,"pubtime":"2026-06-30T06:29:28Z"}
+{"name":"kevy-geo","vers":"1.38.0","deps":[],"cksum":"fec6856f7c7b6990d7314b7fdc69f81b3a00ce32203093d1bebab6b21c7c22b9","features":{},"yanked":false,"pubtime":"2026-06-30T06:40:30Z"}
