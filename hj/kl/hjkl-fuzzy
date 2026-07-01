@@ -2,3 +2,4 @@
 {"name":"hjkl-fuzzy","vers":"0.31.0","deps":[],"cksum":"afdec973e57b9f4ceda90eaf5bbad0ee4e86f76354f61043292e1e6f7e1386b3","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-08T15:40:47Z"}
 {"name":"hjkl-fuzzy","vers":"0.32.0","deps":[],"cksum":"1ff117f3997c028a3198668c51eed907f7376e67ec632581a5a3843687233cb4","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-11T11:56:41Z"}
 {"name":"hjkl-fuzzy","vers":"0.33.2","deps":[],"cksum":"25e2917cc760ed8c0abe485585d79fc92096e1e660101a14ea582b4200c90d47","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-24T22:09:51Z"}
+{"name":"hjkl-fuzzy","vers":"0.33.3","deps":[],"cksum":"feeca23539aea1d02ef0df2dfae65422e5c43629f7b3196b535a4c5c3382e491","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-01T02:42:41Z"}
