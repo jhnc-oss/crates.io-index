@@ -1,0 +1,1 @@
+{"name":"cairn-lang-redstone","vers":"2026.7.0","deps":[{"name":"cairn-lang-core","req":"^2026.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"237ec0c0ee8c0cc596d44a2ccf1e8fe1b1feaa411262a25e3e9baaf8bc85ff9b","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-01T14:01:32Z"}
