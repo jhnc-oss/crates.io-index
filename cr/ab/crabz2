@@ -1,0 +1,1 @@
+{"name":"crabz2","vers":"0.1.0","deps":[{"name":"bzip2-rs","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c62a3de3174d718ee10ecf733d1ad7aa1b40c25b167157e8b919b6f751179cd2","features":{"default":[],"parallel":[]},"yanked":false,"rust_version":"1.63","pubtime":"2026-07-01T19:18:25Z"}
