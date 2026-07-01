@@ -8,3 +8,4 @@
 {"name":"tickerforge-spec-data","vers":"0.1.10","deps":[],"cksum":"74cf7aaf66a0469650c6d7523daf231e0688a027420f81bec9cafe54f900aafc","features":{},"yanked":false,"pubtime":"2026-06-22T21:44:36Z"}
 {"name":"tickerforge-spec-data","vers":"0.1.11","deps":[],"cksum":"7122fdaf9c238661e1ca18f8e63120d61bb292a4624fa1878de3ef9203d0e9ad","features":{},"yanked":false,"pubtime":"2026-06-24T19:53:36Z"}
 {"name":"tickerforge-spec-data","vers":"0.1.12","deps":[],"cksum":"6195f72872df50b226e2c81db3d7714cc4ab5215c854e02aabf067aea121969d","features":{},"yanked":false,"pubtime":"2026-06-29T13:52:42Z"}
+{"name":"tickerforge-spec-data","vers":"0.1.13","deps":[],"cksum":"12c87cb6ad8fa2ec86407023accb72d0ce04df2485c691dcae3afbd7e272ece2","features":{},"yanked":false,"pubtime":"2026-07-01T20:38:06Z"}
