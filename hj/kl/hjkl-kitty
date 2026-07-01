@@ -1,0 +1,1 @@
+{"name":"hjkl-kitty","vers":"0.33.3","deps":[{"name":"crossterm","req":"^0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f38b18ab6bc2ef64356ca17d0465e80adf195b75b538179fd40f1117da52093e","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-01T02:35:59Z"}
