@@ -1,0 +1,1 @@
+{"name":"longport-geo","vers":"4.3.3","deps":[{"name":"reqwest","req":"^0.12.23","features":["rustls-tls"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"04e5ab90a95a5bb023afc1c10d2c545d9ac98e60d89a1565beec3e3ad8d4f441","features":{},"yanked":false,"pubtime":"2026-07-01T08:50:50Z"}
