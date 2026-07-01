@@ -1,0 +1,1 @@
+{"name":"box3d","vers":"0.1.0","deps":[{"name":"box3d-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e36a53fbb7cf70ad3e73653bff38f49202086919a2024b6fd49775bce82d3ca","features":{},"yanked":false,"pubtime":"2026-07-01T22:52:58Z"}
