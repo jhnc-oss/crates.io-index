@@ -1,0 +1,1 @@
+{"name":"ldtray","vers":"0.1.0","deps":[{"name":"libloading","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e04e4f47b780f297c022e570a7e61742248563c1917edeaa2c00c2e5c598dbbc","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-01T11:39:28Z"}
