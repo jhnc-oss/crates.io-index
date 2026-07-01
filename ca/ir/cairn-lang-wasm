@@ -1,0 +1,1 @@
+{"name":"cairn-lang-wasm","vers":"2026.7.0","deps":[{"name":"cairn-lang-core","req":"^2026.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9b8c6dfde6fd454d50c9e934026449eca25dfa26c08a52c24488bf0ae4b9e17","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-01T14:15:19Z"}
