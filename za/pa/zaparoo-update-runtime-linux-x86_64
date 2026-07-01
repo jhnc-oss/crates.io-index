@@ -10,3 +10,4 @@
 {"name":"zaparoo-update-runtime-linux-x86_64","vers":"0.1.9","deps":[],"cksum":"ecc6aa20ee2211c17562e85eeb3c68ebbd1707b5b62c4bc72dc72060f926701b","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-25T21:37:38Z"}
 {"name":"zaparoo-update-runtime-linux-x86_64","vers":"0.1.10","deps":[],"cksum":"bcc82b1ebed0e704b79493c1c51869db4ace3aa84e0eff2e1062a52297ee2a14","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-26T10:24:55Z"}
 {"name":"zaparoo-update-runtime-linux-x86_64","vers":"1.0.0","deps":[],"cksum":"1ad568267a77887a22bddc5786847702ccb33f03a122d68fb1f41c73a37f219a","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-28T01:19:24Z"}
+{"name":"zaparoo-update-runtime-linux-x86_64","vers":"1.0.1","deps":[],"cksum":"c1d3365516bbd268500fe8c30dc79bc9841b99e62cb1c187b4f19e03c0d9c7b0","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-01T09:42:50Z"}
