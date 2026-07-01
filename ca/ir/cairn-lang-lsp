@@ -1,0 +1,1 @@
+{"name":"cairn-lang-lsp","vers":"2026.7.0","deps":[{"name":"cairn-lang-core","req":"^2026.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b306243cda5173e4b02ea94957128df9b5557a4ebb46ca92866465da459f2ea0","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-01T14:01:35Z"}
