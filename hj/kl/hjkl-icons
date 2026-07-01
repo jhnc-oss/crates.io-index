@@ -3,3 +3,4 @@
 {"name":"hjkl-icons","vers":"0.31.0","deps":[],"cksum":"879afaed8753f2f96f51d98c3877476292871c4493958ea23f43b64251d3746f","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-08T15:40:20Z"}
 {"name":"hjkl-icons","vers":"0.32.0","deps":[],"cksum":"733e2bf7172411cf41d4808deda3a48a0d87adbd49a3cda6fa513a045ba7a2a8","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-11T11:56:13Z"}
 {"name":"hjkl-icons","vers":"0.33.2","deps":[],"cksum":"25b2656d1d82dffab9661f3b6d71f420791523226e4b5a00f6e8bf333098870f","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-24T22:09:24Z"}
+{"name":"hjkl-icons","vers":"0.33.3","deps":[],"cksum":"b9bb6008614c318832cbbdd85367bbc2131421b7ede632cee0402eaab20a1b47","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-01T02:42:04Z"}
