@@ -1,0 +1,1 @@
+{"name":"servix","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.52.3","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cd76b000490e950a267b92ffac2c3c5e2f10d96b676943bd3f08477aad76338","features":{},"yanked":false,"pubtime":"2026-07-01T09:29:03Z"}
