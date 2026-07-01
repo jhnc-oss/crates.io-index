@@ -16,3 +16,4 @@
 {"name":"scry-sai-provenance","vers":"2.5.0","deps":[],"cksum":"b19071e291644ddb6017e3926eb13c8a6188857461592b6cb732b3cbe2df5926","features":{},"yanked":false,"pubtime":"2026-06-27T05:42:38Z"}
 {"name":"scry-sai-provenance","vers":"2.6.0","deps":[],"cksum":"a024c296d8ec3baf850f9bddb922df89b81fcc00efe67ff74b63e51412c4384f","features":{},"yanked":false,"pubtime":"2026-06-30T20:01:07Z"}
 {"name":"scry-sai-provenance","vers":"2.7.0","deps":[],"cksum":"59b280bee3709df27ff6eb63f2edc6a7b9ef4f0bb1ad63de3124d74b6cac2288","features":{},"yanked":false,"pubtime":"2026-06-30T21:43:44Z"}
+{"name":"scry-sai-provenance","vers":"3.0.0","deps":[],"cksum":"39c51a235f2aeeeff4e7d10d90f2561a4bb102f43a9b539ba360e008b2a138a3","features":{},"yanked":false,"pubtime":"2026-07-01T07:49:30Z"}
