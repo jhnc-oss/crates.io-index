@@ -1,0 +1,1 @@
+{"name":"blinkvm-shared","vers":"0.3.2","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa450c6f41cc85a14c335592ad6865587ebda906d455ea67272eae795d3fa7fe","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-01T09:10:48Z"}
