@@ -3,3 +3,4 @@
 {"name":"pamoja-modbus","vers":"0.1.9","deps":[],"cksum":"c23152e6a51a868b866c8ad9b27deabb1ee99a7ea8f0308461a423b4316e81ec","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-20T19:49:22Z"}
 {"name":"pamoja-modbus","vers":"0.1.10","deps":[],"cksum":"19379c3b314a48e3f6909373c87e6db5e2d8b3d02249410d7c1fb0572cb52fe5","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-23T10:03:32Z"}
 {"name":"pamoja-modbus","vers":"0.1.11","deps":[],"cksum":"82c6b93183e40ad7c9c01c10e93b5fe7b58ec647580c1517354c9cee63f5507f","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-30T20:33:46Z"}
+{"name":"pamoja-modbus","vers":"0.1.12","deps":[],"cksum":"a8aab8fbbd657ec0b187eea803ec49f6dfb4b3f77de1a934a3891dfde5a9a5e3","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-01T21:20:56Z"}
