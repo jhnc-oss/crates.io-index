@@ -1,0 +1,1 @@
+{"name":"hqx","vers":"0.1.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"01237d95a03a49c47775e87339ebdbceead856115944a41ad35047762c072590","features":{},"yanked":false,"pubtime":"2026-07-01T02:51:58Z"}
