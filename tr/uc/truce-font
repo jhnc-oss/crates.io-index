@@ -52,3 +52,4 @@
 {"name":"truce-font","vers":"1.0.0","deps":[],"cksum":"11fcd8eacecedc2ab0556be25f042b49ac8c271e38e1a8c38589198f1bf72119","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-06-27T02:23:23Z"}
 {"name":"truce-font","vers":"1.0.1","deps":[],"cksum":"e886b5513d63413cb614ad98d018e9b2af5f7b8a52538736e58dde493b728daa","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-06-27T06:44:53Z"}
 {"name":"truce-font","vers":"1.0.2","deps":[],"cksum":"8e27d5b0c39f1f9d9eb3b7c312ad2b5f51d61546345043fb56b5caedb282a906","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-06-30T20:43:30Z"}
+{"name":"truce-font","vers":"1.0.3","deps":[],"cksum":"d26b73fdcea66a427089427dde5776a33662eb08d3e59ce684a70febbeaeca22","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-01T01:55:59Z"}
