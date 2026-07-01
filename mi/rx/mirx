@@ -12,3 +12,4 @@
 {"name":"mirx","vers":"0.35.0","deps":[],"cksum":"d72cddab8a789111a0133c1e473d534c6be977640c356310e39d9b6f9935b0e4","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-06-28T05:57:07Z"}
 {"name":"mirx","vers":"0.36.0","deps":[],"cksum":"12adb40dfe40e7791710e9ec6ba84075baecca493091ae7626ca35947a2c4a1f","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-06-29T16:36:23Z"}
 {"name":"mirx","vers":"0.37.0","deps":[],"cksum":"19d025420022cba93de0106bca1205b82671b13e441a45f2e9f6a8acec5372e2","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-06-30T10:46:01Z"}
+{"name":"mirx","vers":"0.37.1","deps":[],"cksum":"721414e464242a3783eb1a194debc0bf375185e9b6174019470c21f69d530ea1","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-07-01T04:52:22Z"}
