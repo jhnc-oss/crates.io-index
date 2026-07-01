@@ -63,3 +63,4 @@
 {"name":"synth-cfg","vers":"0.16.0","deps":[],"cksum":"df1db9011fd045a8ab5cd73f7086e70e2bbe6505486e0258509a786ec83a9ecd","features":{},"yanked":false,"pubtime":"2026-06-26T05:32:55Z"}
 {"name":"synth-cfg","vers":"0.17.0","deps":[],"cksum":"c7f8669502ce013370a6f14bacb59dbd3a20bd20a6bd14ea7de5a6570ea5ef75","features":{},"yanked":false,"pubtime":"2026-06-26T19:55:46Z"}
 {"name":"synth-cfg","vers":"0.18.0","deps":[],"cksum":"7ea73ffb711de90755cd42fb56eda28581d7c6112419ecc4bbf059528ec11d8a","features":{},"yanked":false,"pubtime":"2026-06-30T20:25:21Z"}
+{"name":"synth-cfg","vers":"0.18.1","deps":[],"cksum":"8b3563641bd8644f8ed9b2b59b922f031bca91aa9a3e91c35d3756059222f8e8","features":{},"yanked":false,"pubtime":"2026-07-01T04:28:47Z"}
