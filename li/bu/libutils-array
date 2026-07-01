@@ -4,3 +4,4 @@
 {"name":"libutils-array","vers":"9.38.29","deps":[],"cksum":"b49e64ca7b442cbfb94ffa75a05a503303817e201c712217aa96c912f201fe40","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-06-30T16:45:18Z"}
 {"name":"libutils-array","vers":"9.23.30","deps":[],"cksum":"179f92f0301f4e0e7b97c46eeaf5578691de813eb44c9a308fe483f026166954","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-06-30T23:25:12Z"}
 {"name":"libutils-array","vers":"9.21.31","deps":[],"cksum":"9af795bd13ffc5af6fc3f9ccae6f84f7079c7b7b6e45066ae57c805b284b6dd4","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-01T10:55:09Z"}
+{"name":"libutils-array","vers":"9.23.32","deps":[],"cksum":"dcd98f25a71848a8e14fcaa8f87fd8beaf2bdff53b906da180d9e3ff83f9109f","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-01T14:39:01Z"}
