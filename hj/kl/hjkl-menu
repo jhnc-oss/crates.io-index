@@ -9,3 +9,4 @@
 {"name":"hjkl-menu","vers":"0.31.0","deps":[],"cksum":"34995709a91b3778947c99370905da27cce05f831e5743128adc40c5a2cf3901","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-08T16:03:07Z"}
 {"name":"hjkl-menu","vers":"0.32.0","deps":[],"cksum":"e2fdf589568950d8aaaf8ead0557796764af79167e11a11a5a0b6b0359b945f2","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-11T12:22:48Z"}
 {"name":"hjkl-menu","vers":"0.33.2","deps":[],"cksum":"b32360825fbcb38e4a069d959c366dd728e71e83ccd914e1d5a0ba6d5643483d","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-24T22:31:27Z"}
+{"name":"hjkl-menu","vers":"0.33.3","deps":[],"cksum":"b0c9bc9a38a76d38ec5016197181b17419d2818bd002add12ae5892c8703d33f","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-01T03:04:48Z"}
