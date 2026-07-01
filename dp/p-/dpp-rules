@@ -1,3 +1,4 @@
 {"name":"dpp-rules","vers":"0.1.0","deps":[],"cksum":"ae65c5e32b94ea3aeeb490961434d0f2fa859ca810980d9113d43e85bf04c9ee","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-25T15:10:32Z"}
 {"name":"dpp-rules","vers":"0.1.1","deps":[],"cksum":"4f550720e9150a40dd8b8e9d5cefe0fce8e3a94e53e7c562998f13c2fe83a995","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-27T04:25:30Z"}
 {"name":"dpp-rules","vers":"0.2.0","deps":[],"cksum":"22a82315d93de2ab37b4c0c75622a104fa367071c3ae2541db494c6b42759fe3","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-01T00:10:15Z"}
+{"name":"dpp-rules","vers":"0.3.0","deps":[],"cksum":"7d34fdb1f89be2ec90a67605282ff2aceaf2182f3ed9e9137d0ebe92bc06e6cb","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-01T19:49:18Z"}
