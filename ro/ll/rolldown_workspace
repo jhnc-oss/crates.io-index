@@ -6,3 +6,4 @@
 {"name":"rolldown_workspace","vers":"1.1.1","deps":[],"cksum":"9f85cad65fd08fe58ee97e454bfb1d82956139af3ecdc32e663f9547308b79d9","features":{},"yanked":false,"pubtime":"2026-06-11T08:52:43Z"}
 {"name":"rolldown_workspace","vers":"1.1.2","deps":[],"cksum":"0d64ba7b1791f2914a69c39a02f6f5e8954c84d652869d5ad0109ae91b3bbf3e","features":{},"yanked":false,"pubtime":"2026-06-18T13:14:31Z"}
 {"name":"rolldown_workspace","vers":"1.1.3","deps":[],"cksum":"2dae3aa3e9640e6f72308ea31060e9cc05afca042058d00088a6550900f7c0b5","features":{},"yanked":false,"pubtime":"2026-06-24T10:38:14Z"}
+{"name":"rolldown_workspace","vers":"1.1.4","deps":[],"cksum":"f29bba2025efd141e27e04372345e959263176a365135809f7a90e8d2a27c9c1","features":{},"yanked":false,"pubtime":"2026-07-01T13:50:43Z"}
