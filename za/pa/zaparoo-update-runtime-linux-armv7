@@ -10,3 +10,4 @@
 {"name":"zaparoo-update-runtime-linux-armv7","vers":"0.1.9","deps":[],"cksum":"cc0b57f95b6392f98d0d0bc9430e6b91d4a25236f7fb892cb21fe8df4ea00abc","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-25T21:37:34Z"}
 {"name":"zaparoo-update-runtime-linux-armv7","vers":"0.1.10","deps":[],"cksum":"c78f301c6dc89fbe37c253525d497a07f012933b42d42e6361fdbaffe5f0d58e","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-26T10:24:51Z"}
 {"name":"zaparoo-update-runtime-linux-armv7","vers":"1.0.0","deps":[],"cksum":"3c63602e38e2d165d9b52179b8089ec375310d623b059e1f3acba5759d28790f","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-06-28T01:19:21Z"}
+{"name":"zaparoo-update-runtime-linux-armv7","vers":"1.0.1","deps":[],"cksum":"79a0bea270d9fbbb0b772df7d5475f7c12eb44fb232a2f35b1fe60af0e94ea71","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-01T09:42:46Z"}
