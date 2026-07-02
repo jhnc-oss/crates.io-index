@@ -1,1 +1,2 @@
 {"name":"cardano","vers":"0.1.0","deps":[],"cksum":"cbf6ad7b5051d8f98a4b3e578465651b2a9ec39fe89b2116c1ad56e5a95ad3f7","features":{"default":[],"node":[],"rpc":[],"sanitization":[],"signer":[],"std":[],"testkit":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-02T08:35:50Z"}
+{"name":"cardano","vers":"0.2.0","deps":[],"cksum":"9098c613d23908c30006cb1d9eed913719b14a09cce5989b4a3f7932352406a8","features":{"default":[],"node":[],"rpc":[],"sanitization":[],"signer":[],"std":[],"testkit":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-02T09:24:30Z"}
