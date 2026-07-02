@@ -1,0 +1,1 @@
+{"name":"irodori-extension-bigquery","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf47f3c344d6912ceb8982a440470bcd864b599a170d0d21b270cc41f432baa2","features":{},"yanked":false,"pubtime":"2026-07-02T11:27:36Z"}
