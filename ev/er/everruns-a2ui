@@ -16,3 +16,4 @@
 {"name":"everruns-a2ui","vers":"0.16.2","deps":[],"cksum":"ae4e0bb89f13d8c2ec9a6d708d4e45b5095cd9f03f5849b11e32207082d475e6","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-06-23T01:32:32Z"}
 {"name":"everruns-a2ui","vers":"0.17.0","deps":[],"cksum":"f078bcf363d65918a22827c48f8c9440e5120f5c933832d1f8ad9dc126fdf7d8","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-06-25T12:19:35Z"}
 {"name":"everruns-a2ui","vers":"0.17.1","deps":[],"cksum":"be40f09af4f1d779e01496576e43a93c7a06dc397b14e167a1ac0e162ca0d126","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-06-28T01:06:56Z"}
+{"name":"everruns-a2ui","vers":"0.17.2","deps":[],"cksum":"985bd40b6b8d4ca7a1f2fd70569d22f9471fb3868dcf5b9e42d2db7d80d24b63","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-07-02T21:13:57Z"}
