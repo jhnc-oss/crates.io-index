@@ -1,0 +1,1 @@
+{"name":"parsio","vers":"0.0.1","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ce1cad3d1abee1b54934f57ca96b4d1627c1aaae05b7999d92b102f6fc71db6a","features":{"alloc":[],"default":["std"],"std":["alloc","thiserror/std"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-02T16:44:05Z"}
