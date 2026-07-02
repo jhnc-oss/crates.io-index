@@ -1,1 +1,2 @@
 {"name":"kobako-runtime","vers":"0.0.0","deps":[],"cksum":"9e909230a53cff12fadd8495cbac4c95db865abe88cf42968240a7cfd4ab8ef9","features":{},"yanked":false,"pubtime":"2026-07-02T08:35:00Z"}
+{"name":"kobako-runtime","vers":"0.6.1","deps":[],"cksum":"64c64e944769931f60263739b875348077a6b485123b2352b6a011b4ea903f4f","features":{},"yanked":false,"pubtime":"2026-07-02T10:31:53Z"}
