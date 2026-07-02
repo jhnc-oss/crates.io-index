@@ -1,0 +1,1 @@
+{"name":"irodori-extension-delta-lake","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ddcc656d18a0045e074acfcab829de8b1b0b76945f39ef46d8197770cf3cbf2d","features":{},"yanked":false,"pubtime":"2026-07-02T12:14:05Z"}
