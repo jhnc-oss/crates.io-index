@@ -1,0 +1,1 @@
+{"name":"arora-behavior","vers":"0.1.0","deps":[{"name":"arora-types","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fea09635fab78d2bb5381483a3f1487cff7be07e6000dae5f8b5cd892d66253","features":{},"yanked":false,"pubtime":"2026-07-02T14:34:50Z"}
