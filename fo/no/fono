@@ -3,3 +3,4 @@
 {"name":"fono","vers":"0.12.0","deps":[],"cksum":"2a8019ca29d4c540994f0348b06ae1ccff4ef6c480dba1b4f36311aae9d56c5e","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-06-24T16:23:57Z"}
 {"name":"fono","vers":"0.13.0","deps":[],"cksum":"eef9415472519c71de878e9243fdcce7f5017d092004a436e3d6128118c54b2b","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-02T01:00:59Z"}
 {"name":"fono","vers":"0.13.1","deps":[],"cksum":"8f34fc8fff23414e314f445b395c8608e992715b2563e7a8aa31060d14a6242a","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-02T05:07:39Z"}
+{"name":"fono","vers":"0.14.0","deps":[],"cksum":"30f1a329eae19f1a93cafa73201303e93d264508780e8e9049207b88763b5a23","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-02T19:50:19Z"}
