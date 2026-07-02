@@ -1,3 +1,4 @@
 {"name":"sutegi-json","vers":"0.1.0","deps":[],"cksum":"431340704b7063e3bd510a94ebdd4e7fe6e49edcf6f6e58337c79280f4bcfa21","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-30T07:36:43Z"}
 {"name":"sutegi-json","vers":"0.2.0","deps":[],"cksum":"99773f4d7f2d12723513e36045c920e46baf18c55947465838c176bc4ca1766c","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-30T11:41:41Z"}
 {"name":"sutegi-json","vers":"0.4.0","deps":[],"cksum":"ddd3e7caefb9d919cc4332a4336365b2730005473734a6fc74a5e0f21c69c02b","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-01T18:16:46Z"}
+{"name":"sutegi-json","vers":"0.5.0","deps":[],"cksum":"1d564114c4b63cb3ce5cf69157b5afd0be1f429d393b0848f2748fd1b1a1691a","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-02T10:00:17Z"}
