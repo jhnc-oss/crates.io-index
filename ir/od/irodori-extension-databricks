@@ -1,0 +1,1 @@
+{"name":"irodori-extension-databricks","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c172df2b987c4b39f01c982c34392cf82187eb7770125367bee29d8fa1e4cacf","features":{},"yanked":false,"pubtime":"2026-07-02T12:04:05Z"}
