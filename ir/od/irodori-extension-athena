@@ -1,0 +1,1 @@
+{"name":"irodori-extension-athena","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6766c25df35617d001e3d848923c3cdc2385f4ab7076dae6a938811d025abc36","features":{},"yanked":false,"pubtime":"2026-07-02T11:27:34Z"}
