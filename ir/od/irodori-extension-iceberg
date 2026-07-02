@@ -1,0 +1,1 @@
+{"name":"irodori-extension-iceberg","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d505d71a3278c5407a7e5190e369bd4c3592ac8276d2a89f9d71744ade128b41","features":{},"yanked":false,"pubtime":"2026-07-02T13:14:06Z"}
