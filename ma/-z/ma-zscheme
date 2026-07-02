@@ -1,0 +1,1 @@
+{"name":"ma-zscheme","vers":"0.1.0","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bacc402197176fab56077ed1dcd2a675318bea904f68f2dc5ccc48990b88e437","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-02T23:39:17Z"}
