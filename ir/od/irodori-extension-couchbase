@@ -1,0 +1,1 @@
+{"name":"irodori-extension-couchbase","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3504be76dae75392b6ee382d1dd4cd8a04c71009be931bf96cacc04a406dcc5","features":{},"yanked":false,"pubtime":"2026-07-02T11:54:05Z"}
