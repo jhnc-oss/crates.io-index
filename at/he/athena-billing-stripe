@@ -1,0 +1,1 @@
+{"name":"athena-billing-stripe","vers":"3.26.1","deps":[{"name":"athena-billing-core","req":"^3.26.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d2a31d91fe7ee482f124072638f05b82e096dedf9034bb7a95a7fd89d5b3c9a","features":{},"yanked":false,"pubtime":"2026-07-02T11:22:00Z"}
