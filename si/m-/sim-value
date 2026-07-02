@@ -1,0 +1,1 @@
+{"name":"sim-value","vers":"0.1.0-rc.1","deps":[{"name":"sim-kernel","req":"^0.1.0-rc.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfccf54bce0caf218566459b9b1a665336940cd01152dfe1d2a5a2244031abe6","features":{},"yanked":false,"pubtime":"2026-07-02T05:23:06Z"}
