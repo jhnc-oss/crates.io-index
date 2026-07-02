@@ -1,0 +1,1 @@
+{"name":"sim-kernel","vers":"0.1.0-rc.1","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e52742870804d30451cb577287ceb1c88e72f6895c2882b521071d80229943b","features":{},"yanked":false,"pubtime":"2026-07-02T05:18:49Z"}
