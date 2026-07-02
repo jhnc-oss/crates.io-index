@@ -2,3 +2,4 @@
 {"name":"cached_proc_macro_types","vers":"0.1.1","deps":[],"cksum":"ade8366b8bd5ba243f0a58f036cc0ca8a2f069cff1a2351ef1cac6b083e16fc0","features":{},"yanked":false,"pubtime":"2024-01-22T22:13:59Z"}
 {"name":"cached_proc_macro_types","vers":"1.0.0","deps":[],"cksum":"26cf465651fa6ad902a2d327ba60c3a6bc61c6a2f4ad70d091cf20dfda0074ef","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-05-21T02:39:09Z"}
 {"name":"cached_proc_macro_types","vers":"3.0.0-rc.1","deps":[],"cksum":"3a4668a36a58011741c3426b253d8334f04b70ab403ec97182637c8156174082","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-06-21T15:05:32Z"}
+{"name":"cached_proc_macro_types","vers":"3.0.0-rc.2","deps":[],"cksum":"7b5ad351d9edd14a7db0ac15766cf5136d0686475dfb0e4b1b8fcada27fc3524","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-02T12:48:53Z"}
