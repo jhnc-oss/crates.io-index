@@ -2,3 +2,4 @@
 {"name":"greentic-desktop-gui-assets","vers":"0.1.4","deps":[],"cksum":"9d7799c71bbb34f57e79c034fb6267a65ea2d5a2175c30a3347285f067e58cf8","features":{},"yanked":false,"pubtime":"2026-06-26T19:46:00Z"}
 {"name":"greentic-desktop-gui-assets","vers":"0.1.6","deps":[],"cksum":"eff2d6f3f28571d47ffdbaec99ded46e741d497753719bf87fba13d5f6b38539","features":{},"yanked":false,"pubtime":"2026-06-28T07:00:15Z"}
 {"name":"greentic-desktop-gui-assets","vers":"0.1.7","deps":[],"cksum":"0f1956e73300dddea0b0d71a23ade6d826e153f1cb8618e9551ba64c90e579a9","features":{},"yanked":false,"pubtime":"2026-06-29T06:34:08Z"}
+{"name":"greentic-desktop-gui-assets","vers":"0.1.13","deps":[],"cksum":"23ed9d1f07da0f3760a6752e1ff5fb264858fb787faac1ab8721ac03e11db953","features":{},"yanked":false,"pubtime":"2026-07-02T06:59:16Z"}
