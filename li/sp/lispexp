@@ -2,3 +2,4 @@
 {"name":"lispexp","vers":"0.2.0","deps":[],"cksum":"3e91201a3c40c5cd8b8655e4bf1e066617de1f4e8253feb16786f429653d0015","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-02T04:14:24Z"}
 {"name":"lispexp","vers":"0.2.1","deps":[],"cksum":"fa2e3cc7e271de3f38448d415a078ea4c7d78063fc4274bbdc0b029ab0146cdf","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-02T06:28:38Z"}
 {"name":"lispexp","vers":"0.3.0","deps":[],"cksum":"1c18ef00f4c8cd9c8b06037999bd9b4d8ca83fdd22d9de5e160173d10a177f5e","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-02T08:57:35Z"}
+{"name":"lispexp","vers":"0.4.0","deps":[],"cksum":"1b6566ad4f470a4e4002f41ea889ab6943c500dba799d50e42a0041eccb378c7","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-02T10:42:27Z"}
