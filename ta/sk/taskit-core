@@ -1,0 +1,1 @@
+{"name":"taskit-core","vers":"0.7.0","deps":[{"name":"taskit-types","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd588a0e617e59ef363706474581231394f7576430ce309bd75229549984c90c","features":{},"yanked":false,"pubtime":"2026-07-02T01:27:12Z"}
