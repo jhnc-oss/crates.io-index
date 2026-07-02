@@ -1,0 +1,1 @@
+{"name":"gantz_nodetag","vers":"0.1.0","deps":[{"name":"gantz_nodetag_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2cc5b8df286c206cecadd9d8ed502840641d5140f7aedb8b911608786811f86","features":{},"yanked":false,"pubtime":"2026-07-02T08:21:34Z"}
