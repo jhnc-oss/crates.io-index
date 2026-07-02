@@ -1,1 +1,2 @@
 {"name":"reedsolomon","vers":"0.0.1","deps":[],"cksum":"f225336aed07c1264d56c25bdf684fb71fc1acf45a5af8c5001551c7a9fb4a97","features":{},"yanked":false,"pubtime":"2026-06-28T22:18:48Z"}
+{"name":"reedsolomon","vers":"0.1.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"86ea83145d04a47863580b4380b8d739a970d14d1140eeeb351a63b4a1414926","features":{},"yanked":false,"pubtime":"2026-07-02T05:06:47Z"}
