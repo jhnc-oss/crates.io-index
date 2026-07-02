@@ -2,3 +2,4 @@
 {"name":"c14-more-about-cargo-1","vers":"0.2.0","deps":[],"cksum":"43306e2bd7efe7e9ad06e07bc1da4b761d0680fdc79c6045178b79c72de24438","features":{},"yanked":true,"pubtime":"2026-07-02T07:15:33Z"}
 {"name":"c14-more-about-cargo-1","vers":"0.3.0","deps":[],"cksum":"a6a0198767b91c795c512ee254cc9db2193e292bea12caf240da5d3d752e8862","features":{},"yanked":true,"pubtime":"2026-07-02T07:18:17Z"}
 {"name":"c14-more-about-cargo-1","vers":"0.4.0","deps":[],"cksum":"44853f87d3469082e61a23a148142775cd7b71cc27baa5d503d3597ea636ca83","features":{},"yanked":true,"pubtime":"2026-07-02T07:20:27Z"}
+{"name":"c14-more-about-cargo-1","vers":"0.1.1","deps":[],"cksum":"62d559225c05e66dc223512f32e70e58a5a41bf85e07f5af76a9096495097555","features":{},"yanked":false,"pubtime":"2026-07-02T07:23:21Z"}
