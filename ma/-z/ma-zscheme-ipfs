@@ -1,0 +1,1 @@
+{"name":"ma-zscheme-ipfs","vers":"0.1.0","deps":[{"name":"ma-zscheme","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9826e536e62171b7e084dae78d6d678b2f5c15983516185121258c490363bcac","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-02T23:39:19Z"}
