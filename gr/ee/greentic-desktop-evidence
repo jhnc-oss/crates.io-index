@@ -2,3 +2,4 @@
 {"name":"greentic-desktop-evidence","vers":"0.1.4","deps":[],"cksum":"1969caec45eab1880a2d5f8c4459d1a5cbc2d1da8c15d65d9258d1bb55f8252a","features":{},"yanked":false,"pubtime":"2026-06-26T19:46:22Z"}
 {"name":"greentic-desktop-evidence","vers":"0.1.6","deps":[],"cksum":"0f666189c5c99a239ffeefe7cacb988aa92a13504a2927531ec4328e20111ae1","features":{},"yanked":false,"pubtime":"2026-06-28T07:45:01Z"}
 {"name":"greentic-desktop-evidence","vers":"0.1.7","deps":[],"cksum":"6f046c2c84574523740b0b5b80d740dcc8dce7867ee6bb6a32d3190ee4b82ef0","features":{},"yanked":false,"pubtime":"2026-06-29T06:35:08Z"}
+{"name":"greentic-desktop-evidence","vers":"0.1.13","deps":[],"cksum":"280cb4c4e8cc8c590eaf6cbcc38380415a04829e57a21217b7a1c1106742273f","features":{},"yanked":false,"pubtime":"2026-07-02T07:00:44Z"}
