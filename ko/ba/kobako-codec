@@ -1,1 +1,2 @@
 {"name":"kobako-codec","vers":"0.0.0","deps":[],"cksum":"102cd88bb5389155524461542eec5db8b5efada0bdab7f61159460fa39656a66","features":{},"yanked":false,"pubtime":"2026-07-02T18:15:17Z"}
+{"name":"kobako-codec","vers":"0.7.0","deps":[{"name":"rmp","req":"^0.8","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6573c3b13ad349a15ed37c5631f8a7b1cff31e28e1767ba9e0e77b0129ee5999","features":{},"yanked":false,"pubtime":"2026-07-03T10:40:38Z"}
