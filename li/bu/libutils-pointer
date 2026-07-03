@@ -9,3 +9,4 @@
 {"name":"libutils-pointer","vers":"9.22.34","deps":[],"cksum":"043fe5413ebba452bcc936a466dc410ce54e3eed8a9adacf157cf91ab703d915","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-02T17:24:37Z"}
 {"name":"libutils-pointer","vers":"9.40.35","deps":[],"cksum":"09c2b7302926c58e504fb0e8340edbc7b9e3371e670a855ef7d2d5d2d8c7696f","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-03T12:36:38Z"}
 {"name":"libutils-pointer","vers":"9.40.36","deps":[],"cksum":"d98c277dd9c3ce5890b66221165b659a450cc728146ce653099e5e237f76fea6","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-03T13:10:08Z"}
+{"name":"libutils-pointer","vers":"9.41.37","deps":[],"cksum":"b314dc003985878fb82e5ba759db3536c39840cdcf798bd09457b9e0225f20ba","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-03T17:16:24Z"}
