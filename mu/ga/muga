@@ -6,3 +6,4 @@
 {"name":"muga","vers":"0.2.0","deps":[],"cksum":"f3c74ccbaa577a321f13619d81cd1e1368a30f22e3c6a5e5fdbaf74925cef093","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-17T06:33:16Z"}
 {"name":"muga","vers":"0.3.0","deps":[],"cksum":"656246212f09e77a9b1dbb647c57f7f75e48288cd25f4a18894f5f5f86d32d10","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-03T23:48:07Z"}
 {"name":"muga","vers":"0.5.0","deps":[],"cksum":"96c5b42476fcecb8073caeb99e7ff405ff602003989f71e489e53985186b3548","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-02T12:12:38Z"}
+{"name":"muga","vers":"0.6.0","deps":[],"cksum":"adeded9e590ecc018d5a7d2fbd30344f9dd423c70c6bb03d7d5eadbeb48e4c51","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-03T01:45:20Z"}
