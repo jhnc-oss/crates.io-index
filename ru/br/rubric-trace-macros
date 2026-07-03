@@ -2,3 +2,4 @@
 {"name":"rubric-trace-macros","vers":"0.2.0","deps":[],"cksum":"0be72f080fce881431c13ae372c18641f5df264b2b41fd46fd810dbe3d9916f3","features":{},"yanked":false,"pubtime":"2026-06-28T23:54:37Z"}
 {"name":"rubric-trace-macros","vers":"0.3.0","deps":[],"cksum":"92b822ca4849caf9d7a2fceac2cabc37066b6842160ea89f37f4567aff11e382","features":{},"yanked":false,"pubtime":"2026-06-30T23:19:18Z"}
 {"name":"rubric-trace-macros","vers":"0.3.1","deps":[],"cksum":"3089067e0cb0b0ac1676c343a8661c847a6fdd02699a72515f1ec808d51ce381","features":{},"yanked":false,"pubtime":"2026-06-30T23:49:25Z"}
+{"name":"rubric-trace-macros","vers":"0.4.0","deps":[],"cksum":"88c198d21274cb24c041ae42254436d0719561985b973b33b2ac5eb9a1b3ec1a","features":{},"yanked":false,"pubtime":"2026-07-03T17:54:50Z"}
