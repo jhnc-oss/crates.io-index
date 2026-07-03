@@ -1,1 +1,1 @@
-{"name":"elph-ai","vers":"0.0.1","deps":[],"cksum":"5c12839a1f1bf2d9bad1b793fe51a2a1407cbdd5b90cbbb9daf73fca555f6c03","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-03T19:43:09Z"}
+{"name":"elph-ai","vers":"0.0.1","deps":[],"cksum":"5c12839a1f1bf2d9bad1b793fe51a2a1407cbdd5b90cbbb9daf73fca555f6c03","features":{},"yanked":true,"rust_version":"1.96","pubtime":"2026-07-03T19:43:09Z"}
