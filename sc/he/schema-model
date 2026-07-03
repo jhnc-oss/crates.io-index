@@ -1,0 +1,1 @@
+{"name":"schema-model","vers":"0.2.0","deps":[{"name":"url","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39a1f2f554176a97fc401f12c7442d05648f1ba781038ae5f199405c082d81e5","features":{},"yanked":false,"pubtime":"2026-07-03T13:00:42Z"}
