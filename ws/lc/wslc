@@ -1,0 +1,1 @@
+{"name":"wslc","vers":"0.1.0","deps":[{"name":"wslc-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24d6ea8fc3b4f458c9dc4a5cf987eb54bd5a08c3df47071dd496a44453fd532b","features":{"default":[],"integration":[]},"yanked":false,"rust_version":"1.80","pubtime":"2026-07-03T18:03:24Z"}
