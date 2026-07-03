@@ -1,0 +1,1 @@
+{"name":"npls1","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.35.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"372b3f851d326857ef92ef6ed8dfffbdbba62527b54979a1b4486b62c823106f","features":{},"yanked":false,"pubtime":"2026-07-03T21:42:20Z"}
