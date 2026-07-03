@@ -2,3 +2,4 @@
 {"name":"ordeal-lrat","vers":"0.3.0","deps":[],"cksum":"cba80a0dc3ab0ec9308bb19573818fafef266d60552e1d9f23e9588b416baf98","features":{},"yanked":false,"pubtime":"2026-07-02T21:02:11Z"}
 {"name":"ordeal-lrat","vers":"0.4.0","deps":[],"cksum":"8f525dc62d90dd86ca9c6e2b6eb58ce11918e52f83c528f5804d9290da19b4d2","features":{},"yanked":false,"pubtime":"2026-07-03T04:19:02Z"}
 {"name":"ordeal-lrat","vers":"0.4.1","deps":[],"cksum":"8ce6215e4c9708f43f5244f6f9d2edd893ea30ea30cc4ea0ffc7e301d58107a5","features":{},"yanked":false,"pubtime":"2026-07-03T05:04:39Z"}
+{"name":"ordeal-lrat","vers":"0.4.2","deps":[],"cksum":"2b1a0a6385be627e0214f6998801ee2326c8870ef29ae6c942116dc918c281fc","features":{},"yanked":false,"pubtime":"2026-07-03T08:46:59Z"}
