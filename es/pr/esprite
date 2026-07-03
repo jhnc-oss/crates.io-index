@@ -1,3 +1,4 @@
 {"name":"esprite","vers":"0.1.0","deps":[],"cksum":"6743189f33f6d78e62df6b2766bb2607c28d659606caada3e73f32526a237de6","features":{},"yanked":false,"pubtime":"2026-07-01T22:26:26Z"}
 {"name":"esprite","vers":"0.2.0","deps":[],"cksum":"7172c5c79d26e83af2f9b24ee58c92fbbe6a1ce8a06e969de940f0afa909acb9","features":{},"yanked":false,"pubtime":"2026-07-02T09:14:01Z"}
 {"name":"esprite","vers":"0.3.0","deps":[],"cksum":"b5ea282f9b6acfcc794635fab62e39fa483d72ed69895a1349650b60f2eda39a","features":{},"yanked":false,"pubtime":"2026-07-02T17:55:46Z"}
+{"name":"esprite","vers":"0.4.0","deps":[],"cksum":"12e3580a3b3db892ea4ae75d2a720b1064c0799865db704985463f6e5c5831a5","features":{},"yanked":false,"pubtime":"2026-07-03T08:12:42Z"}
