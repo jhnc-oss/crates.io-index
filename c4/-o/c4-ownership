@@ -1,0 +1,1 @@
+{"name":"c4-ownership","vers":"0.1.0","deps":[{"name":"c14-more-about-cargo-2","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83407c98ba5680c66c49cdab4bdc879fb1bad57912b9fc89eb8087ce5fc4db89","features":{},"yanked":false,"pubtime":"2026-07-03T02:08:54Z"}
