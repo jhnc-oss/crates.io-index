@@ -3,3 +3,4 @@
 {"name":"greentic-desktop-telemetry","vers":"0.1.6","deps":[],"cksum":"c74e0a32ec5a09093635fe834682e8f0952dde81902dc2c0f46cb73bc5f99bb1","features":{},"yanked":false,"pubtime":"2026-06-28T07:00:12Z"}
 {"name":"greentic-desktop-telemetry","vers":"0.1.7","deps":[],"cksum":"3d86ab1843547c9865675f4371cc115d092ccaf59a61d1755da09f97fe8564f3","features":{},"yanked":false,"pubtime":"2026-06-29T06:34:06Z"}
 {"name":"greentic-desktop-telemetry","vers":"0.1.13","deps":[],"cksum":"65bdbf2dfef948bb0d60f43465429d535a9c0574350d9d5a3d4fefcb66786772","features":{},"yanked":false,"pubtime":"2026-07-02T06:59:13Z"}
+{"name":"greentic-desktop-telemetry","vers":"0.1.14","deps":[],"cksum":"35abc2ee2341a6534539eac0376f3f23c5c23f5539bd9918fcf66527e428f6a3","features":{},"yanked":false,"pubtime":"2026-07-03T03:54:00Z"}
