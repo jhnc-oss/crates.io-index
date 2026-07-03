@@ -26,3 +26,4 @@
 {"name":"hello-world-test-rust","vers":"0.21.8-g8b6403ebb32048b9","deps":[],"cksum":"8d399adcb5f343c42f12846692ec368334e87e9c5ddaf85f7ed4e31a09fa495a","features":{},"yanked":false,"pubtime":"2026-06-04T07:56:13Z"}
 {"name":"hello-world-test-rust","vers":"0.21.8-gee5959d0a6d84353","deps":[],"cksum":"5bdde83ddabf42ffe755da3dbdf1e1118c41837d2a0fa43f7bfb58d38ed52b15","features":{},"yanked":false,"pubtime":"2026-06-19T06:07:03Z"}
 {"name":"hello-world-test-rust","vers":"0.21.8-gf1a8ba33736340e9","deps":[],"cksum":"7660be0f35a373eaba0180dd284e7c937cd22bdbf4e24351c78a3f100ca3c65c","features":{},"yanked":false,"pubtime":"2026-07-03T14:05:19Z"}
+{"name":"hello-world-test-rust","vers":"0.21.8-g67096690de3f4542","deps":[],"cksum":"860b9ec0b3e78c7fcf5c9d6a052b7b61d5e1bcc5a49b3b18d80843c42a593d7b","features":{},"yanked":false,"pubtime":"2026-07-03T14:24:37Z"}
