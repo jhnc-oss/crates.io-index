@@ -1,1 +1,2 @@
 {"name":"tealdust","vers":"0.1.0","deps":[],"cksum":"6d7d1432e24e53a5d26e369fa04363b0d7c3e88432b69dd3c35e652d3d15a75b","features":{"avx":[],"default":["avx"]},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-07-01T08:51:03Z"}
+{"name":"tealdust","vers":"0.1.1","deps":[],"cksum":"19964f091a971899bcea9ed627c30bb66b022c3619e95963af3915a007221786","features":{"adaptive_cdf":[],"avx":["sse"],"default":["avx","adaptive_cdf"],"sse":[]},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-07-03T08:31:15Z"}
