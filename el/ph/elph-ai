@@ -4,3 +4,4 @@
 {"name":"elph-ai","vers":"0.0.4","deps":[],"cksum":"a0a821387c9257f95d279a96e568897f9437ddd4943379786cb09e604eb9f726","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-03T22:03:45Z"}
 {"name":"elph-ai","vers":"0.0.5","deps":[],"cksum":"86d91a13a16df4651e460a4751e66b61e9925307f373ba908f0c7c63b07854ac","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-03T22:06:09Z"}
 {"name":"elph-ai","vers":"0.0.6","deps":[],"cksum":"53ee39c89bfb76dcd26ea54911c0bcba57aa8c0c7de340db050feaa5f53fbbfe","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-03T22:09:22Z"}
+{"name":"elph-ai","vers":"0.0.7","deps":[],"cksum":"58f1f9414393a1f044f9566796fd8722f50a2c84835730750c0d431b5567a459","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-03T22:46:27Z"}
