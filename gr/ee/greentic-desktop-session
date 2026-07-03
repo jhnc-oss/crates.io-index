@@ -3,3 +3,4 @@
 {"name":"greentic-desktop-session","vers":"0.1.6","deps":[],"cksum":"398407cd607a1b32fa995d4171e49fa5cca7871e06b7a0585abaec84212ba3a3","features":{},"yanked":false,"pubtime":"2026-06-28T07:00:10Z"}
 {"name":"greentic-desktop-session","vers":"0.1.7","deps":[],"cksum":"0d05abac8346d5c5559bf4cfb124b18b5be4901f57d46643fe9b37ed96d2b1dc","features":{},"yanked":false,"pubtime":"2026-06-29T06:34:04Z"}
 {"name":"greentic-desktop-session","vers":"0.1.13","deps":[],"cksum":"ad510ffd9a4de3995bb19eb2d2b1e88f62362213a136f34ef3e02ed89f5c15d5","features":{},"yanked":false,"pubtime":"2026-07-02T06:59:10Z"}
+{"name":"greentic-desktop-session","vers":"0.1.14","deps":[],"cksum":"1cc75b2b4b4ac158f1adf809ea775a41f73c7d86e6b636ca776f8adb3b94a21a","features":{},"yanked":false,"pubtime":"2026-07-03T03:53:57Z"}
