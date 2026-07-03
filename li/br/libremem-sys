@@ -1,0 +1,1 @@
+{"name":"libremem-sys","vers":"0.1.7","deps":[{"name":"cc","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"152de90a3b50a64dcf2d35777940bac7b8e7378dd1bb0c0e2f2dd789bbe8d0b7","features":{},"yanked":false,"links":"remem","pubtime":"2026-07-03T01:23:04Z"}
