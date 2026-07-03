@@ -1,3 +1,4 @@
 {"name":"tanzim-value","vers":"0.2.0","deps":[],"cksum":"588c6c11af5faf782081b45d8f1a268e4208f5be900ff4fd2b5047f3ede8b742","features":{},"yanked":false,"pubtime":"2026-06-27T14:46:20Z"}
 {"name":"tanzim-value","vers":"0.3.0","deps":[],"cksum":"401cb9903d6deb9d51e8cc00039030135d33017503b5ccf652136cceebf457f2","features":{},"yanked":false,"pubtime":"2026-07-01T16:31:08Z"}
 {"name":"tanzim-value","vers":"0.4.0","deps":[],"cksum":"3cce1c7ec83c06ae169d31fe50103a0abb6a668b1093bf59c949e5463e72dc82","features":{},"yanked":false,"pubtime":"2026-07-02T16:04:26Z"}
+{"name":"tanzim-value","vers":"0.5.0","deps":[{"name":"tanzim-source","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e53587e48f7e75be6aa1cfe0ffff92505b92557efbdfbdc3a98d89055adb5423","features":{},"yanked":false,"pubtime":"2026-07-03T14:16:40Z"}
