@@ -1,0 +1,1 @@
+{"name":"solana-log-parser","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"abf95c3999b1b02e239a75846be05f0330cf3cf5617eb5a5d9b51ece5f59bf34","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"pubtime":"2026-07-03T00:01:48Z"}
