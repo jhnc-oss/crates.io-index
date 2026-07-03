@@ -1,3 +1,4 @@
 {"name":"vcs-testkit","vers":"0.1.0","deps":[],"cksum":"5a835d5f0bedf5dd967bdfefde17547e6b0051bb0bbd9ac386f44a8315cdf5e2","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-08T19:16:00Z"}
 {"name":"vcs-testkit","vers":"0.2.0","deps":[],"cksum":"3d0e643059e5ef8a971bb151339fbee2f962435f22326be2f5aac12b0d7a79a6","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-27T15:26:31Z"}
 {"name":"vcs-testkit","vers":"0.3.0","deps":[],"cksum":"b913032bf5f3b535569a2ed2e9bb08614993df289702e3a8381c30307311f8d4","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-03T17:00:42Z"}
+{"name":"vcs-testkit","vers":"0.4.0","deps":[],"cksum":"f32696f22da699ea5116a7efc1065c69977879814285745b0f495694df548795","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-03T19:45:20Z"}
