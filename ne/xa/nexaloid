@@ -1,0 +1,1 @@
+{"name":"nexaloid","vers":"0.1.2","deps":[{"name":"nexaloid-sys","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed3d8c845088cd96d97818ea22f8ff815a8af9ee368ddb88968c4d484cdfcf74","features":{},"yanked":false,"pubtime":"2026-07-03T06:37:13Z"}
