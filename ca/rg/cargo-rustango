@@ -7,3 +7,4 @@
 {"name":"cargo-rustango","vers":"0.43.0","deps":[],"cksum":"70f93e011dbe3ef8e6fe6663cabea01fca6fc2afa2cc58d4b62ff730d7cc2591","features":{},"yanked":true,"rust_version":"1.88","pubtime":"2026-06-14T02:41:46Z"}
 {"name":"cargo-rustango","vers":"0.43.1","deps":[],"cksum":"0c57bc9b78c23bbc88abe52e94d2d725cebb515831aef09d0cb58ad0a5c08634","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-18T00:21:46Z"}
 {"name":"cargo-rustango","vers":"0.44.0","deps":[],"cksum":"44385b22f218c4047b2537dbda9533914a36591fedb26960f8938bee2bcdbf99","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-25T12:40:39Z"}
+{"name":"cargo-rustango","vers":"0.45.0","deps":[],"cksum":"47a0053939ee1710d83b1ce4d658738729ae84b321b322e006085aad3dcd54e5","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-03T17:36:52Z"}
