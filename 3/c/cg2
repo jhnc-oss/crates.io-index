@@ -7,3 +7,4 @@
 {"name":"cg2","vers":"0.3.2","deps":[],"cksum":"0959f76b4d77c0dc16f2f00ea5cae44ef802bdcb42e062edfc95f8a831d33fff","features":{},"yanked":false,"pubtime":"2026-07-03T18:30:09Z"}
 {"name":"cg2","vers":"0.3.3","deps":[],"cksum":"8f01ffd83f5f466e6fae224872c1c7fb1aecaa98b005f130dcfe0ebea8205f3b","features":{},"yanked":false,"pubtime":"2026-07-03T18:38:40Z"}
 {"name":"cg2","vers":"0.3.4","deps":[],"cksum":"976c7672d4eff254c49d645e84f06554e365154b73fa9bd32266cbf281df0eb9","features":{},"yanked":false,"pubtime":"2026-07-03T18:41:30Z"}
+{"name":"cg2","vers":"0.3.5","deps":[],"cksum":"7b03258e9a5c721f88c7af2e3d5a4c43e66c9ef61514e07f76b271da7d60fa24","features":{},"yanked":false,"pubtime":"2026-07-03T18:43:21Z"}
