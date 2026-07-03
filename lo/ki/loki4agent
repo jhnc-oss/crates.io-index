@@ -1,1 +1,2 @@
 {"name":"loki4agent","vers":"0.1.0","deps":[],"cksum":"3dad291ce0084451305600d9ca7fc89a69ec662f54b8351276f10f87dedf8afd","features":{},"yanked":false,"pubtime":"2026-07-03T14:54:52Z"}
+{"name":"loki4agent","vers":"0.1.1","deps":[],"cksum":"37e70487c018a1e71ddb16889ef77c58315409447f798a159750c8c7f72134f6","features":{},"yanked":false,"pubtime":"2026-07-03T15:29:13Z"}
