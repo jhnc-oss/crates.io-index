@@ -1,0 +1,1 @@
+{"name":"nornir-selftest","vers":"0.1.0","deps":[{"name":"nornir-testmatrix","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9866a827dc875ce58a995aab6c321f277a5eb56b025654ae21871ea6a8e6d5fb","features":{},"yanked":false,"pubtime":"2026-07-03T08:56:34Z"}
