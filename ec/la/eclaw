@@ -1,0 +1,1 @@
+{"name":"eclaw","vers":"0.0.1","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8eb6d43cc394e0b8ff61d948b5d5fa5839116e35a72f8253105a0bc1bd937f8a","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-04T01:23:37Z"}
