@@ -1,1 +1,2 @@
 {"name":"wrapn","vers":"0.1.0","deps":[],"cksum":"147b48faa3f5916e7ef83ba7e2fb6c7fa05a28a69a7825faa69503c2464fd72c","features":{},"yanked":false,"pubtime":"2026-07-04T19:39:48Z"}
+{"name":"wrapn","vers":"0.2.0","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"863c8d2300bcaeb76aae7cc4393e4e9627d11c86158e5ea7bf7a31345d24bd67","features":{},"yanked":false,"pubtime":"2026-07-04T20:19:39Z"}
