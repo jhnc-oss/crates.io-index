@@ -4,3 +4,4 @@
 {"name":"marginalia","vers":"0.1.3","deps":[],"cksum":"5116b69d282a0bc3e02d0157d52344632726455a3f843b9cfd22cb746a2871f7","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-21T15:45:49Z"}
 {"name":"marginalia","vers":"0.1.4","deps":[],"cksum":"fbfa48ac639e6d79ac8150af2fed081e5fda7bcf4db57daa11ced52f38a61d57","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-22T08:23:17Z"}
 {"name":"marginalia","vers":"0.2.0","deps":[],"cksum":"bcfa1ee26a835e244dd0b6527d3c02ed983117e85b227c5ec28a39e323696a2e","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-18T12:56:12Z"}
+{"name":"marginalia","vers":"0.2.1","deps":[],"cksum":"7eecb0db0618681637b0d622759718b33337d99ff72d8c6ec55cc08fc61db179","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-04T02:47:23Z"}
