@@ -1,1 +1,2 @@
 {"name":"purefetch","vers":"0.1.0","deps":[],"cksum":"3346567d53342b72d865ae17453b83408a1d48c47ccd5be9c0cff8632856863c","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-04T14:36:43Z"}
+{"name":"purefetch","vers":"0.1.1","deps":[],"cksum":"ec1c8a34c7491d6c9c33e0cb3d2060c93c13c3341a0a3843997cd2958a3a83f4","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-04T15:02:17Z"}
