@@ -1,0 +1,1 @@
+{"name":"slicebits","vers":"0.1.0","deps":[{"name":"bit_operations","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5eec16ad24b305ca8e32f77a209b98c22914440c95f33df7f6b31ad9d2a8d672","features":{},"yanked":false,"pubtime":"2026-07-04T05:53:06Z"}
