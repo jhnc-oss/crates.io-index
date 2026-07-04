@@ -1,0 +1,1 @@
+{"name":"zapsdk","vers":"0.1.0","deps":[{"name":"zap-sdk","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e5a7bcf138eb5c0e9ee1891759b297315db829531c8ff123d514bc5e83e97a4","features":{},"yanked":false,"pubtime":"2026-07-04T13:58:24Z"}
