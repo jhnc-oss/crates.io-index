@@ -1,0 +1,1 @@
+{"name":"optic-file","vers":"0.0.1","deps":[{"name":"optic-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a0c848c86a207522664d4397f989994579067185a4f01ba83cd013dd997a44b","features":{},"yanked":false,"pubtime":"2026-07-04T10:32:02Z"}
