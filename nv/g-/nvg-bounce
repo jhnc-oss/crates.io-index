@@ -7,3 +7,4 @@
 {"name":"nvg-bounce","vers":"1.0.6","deps":[],"cksum":"594ec714f32fdc6c80fe56fe5dab32bbb780eda6d67a4471e787227755050589","features":{},"yanked":false,"pubtime":"2026-06-16T11:24:10Z"}
 {"name":"nvg-bounce","vers":"1.0.7","deps":[],"cksum":"c4381f7c961720ff103ef5a3be5d6cf96798b400da64cfe985f75a9e10718837","features":{},"yanked":false,"pubtime":"2026-06-16T17:26:32Z"}
 {"name":"nvg-bounce","vers":"1.0.8","deps":[],"cksum":"bd5556edd92b9f6bd4aa4e432c87f17842744ed72ce31ba57f24675b27f42873","features":{},"yanked":false,"pubtime":"2026-06-21T07:02:48Z"}
+{"name":"nvg-bounce","vers":"1.0.9","deps":[],"cksum":"4efe03d6376ede0d1f1dc87aa0d417d8113720d755340d369d46fd9d84979bbb","features":{},"yanked":false,"pubtime":"2026-07-04T10:26:28Z"}
