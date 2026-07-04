@@ -1,2 +1,3 @@
 {"name":"cvkg-stl","vers":"0.2.16","deps":[],"cksum":"95dce49f243ff375306cc727fc6f3629655b373683f20329cd2fb7edf3ae8ef3","features":{},"yanked":false,"pubtime":"2026-06-29T03:29:33Z"}
 {"name":"cvkg-stl","vers":"0.2.17","deps":[],"cksum":"6ced5c6c7ff5a677261db433a3982bfc41c4f48b68fa872f8808b12170d49fd5","features":{},"yanked":false,"pubtime":"2026-06-30T03:33:18Z"}
+{"name":"cvkg-stl","vers":"0.3.0","deps":[],"cksum":"4271ae913d5436d62aa94039c2e648947d4c02cbbd41014b4d8f532874a9e512","features":{},"yanked":false,"pubtime":"2026-07-04T21:42:40Z"}
