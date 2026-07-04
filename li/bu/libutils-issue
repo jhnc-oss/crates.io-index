@@ -10,3 +10,4 @@
 {"name":"libutils-issue","vers":"9.40.35","deps":[],"cksum":"0a023fe39fc268e76e9ade8521766eeeba04ecabb153595c0baad510685a8bf1","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-03T12:36:38Z"}
 {"name":"libutils-issue","vers":"9.40.36","deps":[],"cksum":"9cdbeb198703c90c63882073158e87da2d276c3e57a6cafa40e9b520cdb9d0d7","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-03T13:10:07Z"}
 {"name":"libutils-issue","vers":"9.41.37","deps":[],"cksum":"30c6b39bec32c24e280d90d704881f0ab89f36ae41a7389bd9d01e28c05d9489","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-03T17:16:24Z"}
+{"name":"libutils-issue","vers":"9.42.0","deps":[],"cksum":"7cfd0974debd4d59df4deac06f4817644fe5cf99a048d204c077391e685bc267","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-04T07:12:37Z"}
