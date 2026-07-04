@@ -7,3 +7,4 @@
 {"name":"purefetch","vers":"0.1.6","deps":[],"cksum":"5cb1e216fcc902071c63079831665f7a86a6e8b2c3a4f71435f9ecf47ee4c2e0","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-04T17:48:31Z"}
 {"name":"purefetch","vers":"0.1.7","deps":[],"cksum":"fa9f99ef879d74b4261e218941222237a0064d93e9b0d745118370a30a5cde8e","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-04T18:23:47Z"}
 {"name":"purefetch","vers":"0.1.8","deps":[],"cksum":"efb4956a0e72a713d1657202153a102f2b23520d89a9d5e6f573079e2a8cfa19","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-04T19:37:55Z"}
+{"name":"purefetch","vers":"0.1.9","deps":[],"cksum":"3fbb6ac3a20624a1505cfbb090abe542b48552bcd0aa6d947729e1874a291973","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-04T20:15:26Z"}
