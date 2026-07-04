@@ -9,3 +9,4 @@
 {"name":"rpic-core","vers":"0.5.0","deps":[],"cksum":"98ac5355953fe502d5e0d9c059648ee2760357bb72aa996e0041967dbe77f1f1","features":{},"yanked":false,"pubtime":"2026-07-03T09:37:44Z"}
 {"name":"rpic-core","vers":"0.6.0","deps":[],"cksum":"da918f36d13eb2f6076ffbb8f3824fb78a8ef6c812a72cc7b7924f248306a815","features":{},"yanked":false,"pubtime":"2026-07-04T01:18:33Z"}
 {"name":"rpic-core","vers":"0.6.1","deps":[],"cksum":"dcfa035d32dc85d1428cab850e40b7c6f6546a7637dfc6752765d5f76b2ee743","features":{},"yanked":false,"pubtime":"2026-07-04T01:59:45Z"}
+{"name":"rpic-core","vers":"0.6.2","deps":[],"cksum":"2cd09a52bac711f02fcd67a551002908a68766d631130ddaf6e346ce03b91eaa","features":{},"yanked":false,"pubtime":"2026-07-04T19:19:44Z"}
