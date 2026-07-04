@@ -17,3 +17,4 @@
 {"name":"rama-error","vers":"0.3.0-alpha.2","deps":[],"cksum":"f70dd6fbc7c0e2114672040152c643ef8c2197743d847fb726bd644fd6c338af","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2025-08-05T17:49:19Z"}
 {"name":"rama-error","vers":"0.3.0-alpha.3","deps":[],"cksum":"1b3236ea868a50937223cbe56130b99725235c001ca8886cc01bf599736c9766","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2025-08-29T16:05:50Z"}
 {"name":"rama-error","vers":"0.3.0-alpha.4","deps":[],"cksum":"3c452aba1beb7e29b873ff32f304536164cffcc596e786921aea64e858ff8f40","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2025-12-27T21:13:38Z"}
+{"name":"rama-error","vers":"0.3.0-rc1","deps":[],"cksum":"75e92f7d4f42b15abda9dcfa4ec178f9c068ad3226904c18e9de6a66c9a9a2d7","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-07-04T18:43:03Z"}
