@@ -1,0 +1,1 @@
+{"name":"sweph","vers":"0.1.0","deps":[{"name":"sweph-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab565bf556abb832fafa7e7486a6a44bd67f1890be0d40b976f972a0d8d1424b","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-04T14:55:02Z"}
