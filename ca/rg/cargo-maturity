@@ -1,0 +1,1 @@
+{"name":"cargo-maturity","vers":"0.1.1","deps":[{"name":"maturity-report","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1172f0ae737e3ad0cf41955761f30f1c629ce0682ebe4c9c3e6cd31418a9eef2","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-07-04T13:08:29Z"}
