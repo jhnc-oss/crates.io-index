@@ -2,3 +2,4 @@
 {"name":"baracuda-seam","vers":"0.0.1-alpha.70","deps":[],"cksum":"524924c6f1060dc5b32e1cd76863c1b225834da072a560d4670cf2bcbd77f3b4","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-29T04:05:01Z"}
 {"name":"baracuda-seam","vers":"0.0.1-alpha.71","deps":[],"cksum":"02a4bcf90dfd764ab2880b78aee5fec0c19d440c177dfceb0262f9adf0013a06","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-29T12:39:53Z"}
 {"name":"baracuda-seam","vers":"0.0.1-alpha.72","deps":[],"cksum":"634cbe9e91b26ff393b35ed117324dcf6c411ea9621356929e8db3ed20474124","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-29T13:41:41Z"}
+{"name":"baracuda-seam","vers":"0.0.1-alpha.73","deps":[],"cksum":"748282eaf465cb710e9470adab2f2eecb8aa9139f3fc29137338669e245f52e3","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-04T20:38:08Z"}
