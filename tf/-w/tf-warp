@@ -4,3 +4,4 @@
 {"name":"tf-warp","vers":"0.1.4","deps":[],"cksum":"3e6cdd801bf8d38cce48fd9508dc6eb2745b8c9ef53ccd117324d6580d50d861","features":{},"yanked":false,"pubtime":"2026-07-04T21:17:59Z"}
 {"name":"tf-warp","vers":"0.1.5","deps":[],"cksum":"e0ac81e96c6829e688f3acf9d4c4fa9ec68de87d6c01c00e380a37e95e61003a","features":{},"yanked":false,"pubtime":"2026-07-04T21:23:14Z"}
 {"name":"tf-warp","vers":"0.1.6","deps":[],"cksum":"21595f8c27e0dfc49489308d530c02640f86feaac134a10d9498de7ddffb6eba","features":{},"yanked":false,"pubtime":"2026-07-04T22:28:25Z"}
+{"name":"tf-warp","vers":"0.1.7","deps":[],"cksum":"27e13ec5ebc024c6b4a41be5e75eeed6ad656b1962958969bd4ac840efc0893a","features":{},"yanked":false,"pubtime":"2026-07-04T23:08:37Z"}
