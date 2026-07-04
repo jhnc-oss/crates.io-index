@@ -4,3 +4,4 @@
 {"name":"pamoja-mesh","vers":"0.1.10","deps":[],"cksum":"73fb58066268fe6a47ac156aa40772e8bdf49cc7adae97e18ee1ecbb8ae98805","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-23T10:03:34Z"}
 {"name":"pamoja-mesh","vers":"0.1.11","deps":[],"cksum":"632a6a81b7526dfa6f743c1dfcc3e7deef2d4893c3a88388e10e262e2c99f18e","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-30T20:33:48Z"}
 {"name":"pamoja-mesh","vers":"0.1.12","deps":[],"cksum":"91e03b58107aa2da6c0de2d38987e57aee2da4565a5d5c1e7dbe3fcef078f03f","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-01T21:20:58Z"}
+{"name":"pamoja-mesh","vers":"0.1.13","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ae0d15d541fe8d2df2f6734827a8ccc7ae728b0358e60794642f8dc278d30bee","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-04T15:32:08Z"}
