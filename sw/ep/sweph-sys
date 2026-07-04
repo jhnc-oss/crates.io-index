@@ -1,0 +1,1 @@
+{"name":"sweph-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f33f44a61fd204e300524fd428fb07a450e63e103805531c4884b64f614758e0","features":{},"yanked":false,"links":"sweph","rust_version":"1.70","pubtime":"2026-07-04T14:54:46Z"}
