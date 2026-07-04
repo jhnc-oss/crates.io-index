@@ -1,1 +1,2 @@
 {"name":"gize-macros","vers":"0.2.0","deps":[],"cksum":"d190fac2b980160f5fff6ec988e17c83996975e1b792aff098d8d0009e7ccb82","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-04T20:56:50Z"}
+{"name":"gize-macros","vers":"0.3.0","deps":[],"cksum":"8aa57e0e699f1fa69464e7a1b501e88f5e9cfa41dd10fee954725acd289043a2","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-04T23:35:17Z"}
