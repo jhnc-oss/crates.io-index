@@ -1,0 +1,1 @@
+{"name":"egui-android-platform","vers":"0.3.2-alpha.1","deps":[{"name":"egui","req":"^0.35","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"907fc3b85b08ff8bddbda87a89fdfb7dc241f087ba6fbc3f8c7ad1128af217e1","features":{},"yanked":false,"pubtime":"2026-07-04T07:41:30Z"}
