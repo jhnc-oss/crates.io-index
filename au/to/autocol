@@ -1,0 +1,1 @@
+{"name":"autocol","vers":"0.1.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d81ebfb8ac3bd740ef3235aed98b0b4030b2bd18b65dfaecf443d4c9e20780f6","features":{},"yanked":false,"pubtime":"2026-07-04T22:29:54Z"}
