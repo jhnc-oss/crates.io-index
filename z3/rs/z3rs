@@ -1,0 +1,1 @@
+{"name":"z3rs","vers":"0.0.1","deps":[{"name":"puremp","req":"^0.1.4","features":["rational","dyadic","float"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"40ef717c572ba816eb28876b8f94b1c88a6553d82d2fb09a12d9d51414ec1034","features":{"default":[],"std":["puremp/std"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-04T01:42:53Z"}
