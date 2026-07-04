@@ -8,3 +8,4 @@
 {"name":"execute-command-tokens","vers":"0.1.7","deps":[],"cksum":"69dc321eb6be977f44674620ca3aa21703cb20ffbe560e1ae97da08401ffbcad","features":{},"yanked":false,"rust_version":"1.65","pubtime":"2023-11-20T14:16:12Z"}
 {"name":"execute-command-tokens","vers":"0.1.8","deps":[],"cksum":"2de9b0bfeafc1cb6953513f22ff9a7be5d5df2bf3a3a0188f5d0de1804549046","features":{},"yanked":false,"rust_version":"1.68","pubtime":"2025-11-23T07:39:47Z"}
 {"name":"execute-command-tokens","vers":"0.1.9","deps":[],"cksum":"729eda2ea2f6c5ef85150c85a9b2ce0a8e01f040e59cdb32521eaa6c840c9d51","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2025-11-23T07:55:00Z"}
+{"name":"execute-command-tokens","vers":"0.3.0","deps":[],"cksum":"9ef469ea74199a1c75f76f5176e18e4a8864caa6b7ca528c97a5f5fe67c94902","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-04T07:51:08Z"}
