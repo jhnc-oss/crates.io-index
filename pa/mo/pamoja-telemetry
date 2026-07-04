@@ -4,3 +4,4 @@
 {"name":"pamoja-telemetry","vers":"0.1.10","deps":[],"cksum":"162a9347d0087a407f647663d27f3dcb00347297a328576e15b00b6a43beb744","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-23T10:03:28Z"}
 {"name":"pamoja-telemetry","vers":"0.1.11","deps":[],"cksum":"b698cb5324ff797e0cccf8938ae538e6865bae8bab35e00116e75b33e978c348","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-30T20:33:36Z"}
 {"name":"pamoja-telemetry","vers":"0.1.12","deps":[],"cksum":"a8001e8ea1824f93def156419b192d074520ded58b2f4bd262ac05041cbb036c","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-01T21:20:48Z"}
+{"name":"pamoja-telemetry","vers":"0.1.13","deps":[],"cksum":"b83bed936d42beb7255b07dcdf920ff593b4891bafb74f4a13d760f4b5e518c8","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-04T15:31:57Z"}
