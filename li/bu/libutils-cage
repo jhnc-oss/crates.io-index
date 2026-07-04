@@ -13,3 +13,4 @@
 {"name":"libutils-cage","vers":"9.42.0","deps":[],"cksum":"df1bb70b476630642571a15871dfe340e43386801a30ca77fc52a6e5b3cf5d40","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-04T07:12:36Z"}
 {"name":"libutils-cage","vers":"9.43.0","deps":[],"cksum":"b706251212f220e54a05afdc141c58464acea6aa19fb25d51ca76c873baef5c5","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-04T09:16:05Z"}
 {"name":"libutils-cage","vers":"0.0.0","deps":[],"cksum":"d79ab9eb716155f014f773163190a93c5b024c653fc4a28e72c7f1f279e68779","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-04T09:27:03Z"}
+{"name":"libutils-cage","vers":"0.0.1","deps":[],"cksum":"27c6908215ac0ed9c3b8dfde85065b6ce672a61562988b9a2f0962984359e7cb","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-04T14:31:05Z"}
