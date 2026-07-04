@@ -1,0 +1,1 @@
+{"name":"tf-transport","vers":"0.1.6","deps":[{"name":"tokio","req":"^1","features":["rt","net","io-util","time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e33c08c06065898ec579bf4e8e3509b990b567a8e2b2b4354ac575c77970a2e9","features":{},"yanked":false,"pubtime":"2026-07-04T22:28:55Z"}
