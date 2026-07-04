@@ -4,3 +4,4 @@
 {"name":"patch-prolog-shared","vers":"0.3.2","deps":[],"cksum":"c70ba4160c6c4e62b278addb102bfcc24b11a9b0f985481bd5aa81b49bcd0586","features":{},"yanked":false,"pubtime":"2026-06-23T22:55:55Z"}
 {"name":"patch-prolog-shared","vers":"0.3.3","deps":[],"cksum":"f4125b7046d1a8be1647ac22acd8e8ff0170e1d732235ed4e4980eb8ff027f31","features":{},"yanked":false,"pubtime":"2026-06-26T05:09:59Z"}
 {"name":"patch-prolog-shared","vers":"0.3.4","deps":[],"cksum":"3e692cae41e7f3cde60c4fc504daed5a0e46a4648596f233c3aa14d09aa00b91","features":{},"yanked":false,"pubtime":"2026-06-27T04:25:18Z"}
+{"name":"patch-prolog-shared","vers":"0.4.0","deps":[],"cksum":"d2697436ae3ceefc883c2d4060d5d7cd69faa3443d5ee20d7fe498b9bd8fbfa5","features":{},"yanked":false,"pubtime":"2026-07-04T15:44:31Z"}
