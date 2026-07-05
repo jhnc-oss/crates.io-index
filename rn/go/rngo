@@ -1,0 +1,1 @@
+{"name":"rngo","vers":"0.26.0","deps":[{"name":"rngo-sim","req":"^0.26.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17b2e8723ccad96753ca8d24f1102f5688c6f71c66e8a6f91ef5921b33f947e1","features":{},"yanked":false,"pubtime":"2026-07-05T04:31:44Z"}
