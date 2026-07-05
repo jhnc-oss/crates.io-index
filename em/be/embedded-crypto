@@ -1,0 +1,1 @@
+{"name":"embedded-crypto","vers":"0.1.1","deps":[{"name":"subtle","req":"^2.5.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7f475b618025bd80c4f6668a6c6ac0b5465ddde90e587515d4374272e197d1a0","features":{},"yanked":false,"pubtime":"2026-07-05T01:28:43Z"}
