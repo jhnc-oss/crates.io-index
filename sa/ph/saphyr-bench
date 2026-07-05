@@ -1,1 +1,2 @@
 {"name":"saphyr-bench","vers":"0.0.0","deps":[],"cksum":"857ff9dfe60317005f8bd40bc0eb75ee3e7f7b4ad37434d1c7f5d57b60cf8a2a","features":{},"yanked":false,"pubtime":"2024-04-02T16:52:56Z"}
+{"name":"saphyr-bench","vers":"0.0.7","deps":[{"name":"saphyr-parser","req":"^0.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29d67043a75220028fc0dd5658bb93f1153fba3323841ec9a515571b92e438cb","features":{},"yanked":false,"rust_version":"1.65.0","pubtime":"2026-07-05T20:51:16Z"}
