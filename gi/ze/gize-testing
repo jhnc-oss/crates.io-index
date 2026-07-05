@@ -2,3 +2,4 @@
 {"name":"gize-testing","vers":"0.3.0","deps":[],"cksum":"412548aa88be2d0a12d18e3b1e5745fbd4af55a725fcc9895d0a534f29fb70d5","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-04T23:35:20Z"}
 {"name":"gize-testing","vers":"0.4.0","deps":[],"cksum":"1d2e22723af96acbe41533a6aabd4852bc00c9901f18a659e0d8adeca548a433","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-05T12:58:09Z"}
 {"name":"gize-testing","vers":"0.4.1","deps":[],"cksum":"88bbfcafeae094ddd2408c337c8d95d8ddc510a94436250c2f22a21b27829a65","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-05T13:20:42Z"}
+{"name":"gize-testing","vers":"0.5.0","deps":[],"cksum":"2e5e230e0fc293f259a591195598326584099a7be5afc16b5147f09f4219b0f9","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-05T17:12:10Z"}
