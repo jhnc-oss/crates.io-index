@@ -1,0 +1,1 @@
+{"name":"cavs-hash","vers":"0.1.0","deps":[{"name":"blake3","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56620758c8673809c2cd3664687bb6168d58c3ff9735041303eeb70d1790983d","features":{},"yanked":false,"pubtime":"2026-07-05T11:57:17Z"}
