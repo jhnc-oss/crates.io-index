@@ -1,2 +1,3 @@
 {"name":"repoforge","vers":"0.1.0","deps":[],"cksum":"458da77ecd318cec9e92d856198641c085d1b685b1a60abf6503fedba1ba4ac5","features":{},"yanked":false,"pubtime":"2026-07-05T07:44:58Z"}
 {"name":"repoforge","vers":"0.1.1","deps":[],"cksum":"5d0abaa955794dd2fa264aa4347dc172d1703685395dbcad7305865d7ef88529","features":{},"yanked":false,"pubtime":"2026-07-05T08:16:57Z"}
+{"name":"repoforge","vers":"0.1.2","deps":[],"cksum":"4d885d516e4365702b5d2822a93f877cc36737aa2330599c8ded0c31ad3caf20","features":{},"yanked":false,"pubtime":"2026-07-05T08:35:59Z"}
