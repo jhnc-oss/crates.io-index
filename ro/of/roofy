@@ -2,9 +2,9 @@
 {"name":"roofy","vers":"0.0.2","deps":[],"cksum":"5a7c94aa7c0c403dda44cc7198f9fd7e45ba59cf40089a0a4dc0b2d7276dfeab","features":{},"yanked":true,"pubtime":"2026-05-22T21:41:51Z"}
 {"name":"roofy","vers":"0.0.3","deps":[],"cksum":"e955d8fde553ea4ce6ca6a17f360f6b91183a7135d33ad9af6de673eb4c69bdf","features":{},"yanked":true,"pubtime":"2026-05-23T17:11:08Z"}
 {"name":"roofy","vers":"0.0.4","deps":[],"cksum":"5f63264709ccfb0af40d5bb4f013bdda44c14132797451591a2c5299eec7b5c0","features":{},"yanked":true,"pubtime":"2026-05-23T22:21:40Z"}
-{"name":"roofy","vers":"0.0.5","deps":[],"cksum":"2609e9c2b23f7bbd5c7c19351dbc4db69fcb5efd27fb6460ac1acdf3ee44ce7e","features":{},"yanked":false,"pubtime":"2026-05-24T23:23:57Z"}
-{"name":"roofy","vers":"0.0.6","deps":[],"cksum":"e021dd60db705978c024faa6d49bcc05cd506c27b0be10c279cb9d9f8714aa7e","features":{},"yanked":false,"pubtime":"2026-05-25T14:14:21Z"}
-{"name":"roofy","vers":"0.0.7","deps":[],"cksum":"658b2e8827ef66223294e9a175f3809ecd3cc5991f98dbe0a0a21403a17f48e0","features":{},"yanked":false,"pubtime":"2026-05-25T19:40:07Z"}
+{"name":"roofy","vers":"0.0.5","deps":[],"cksum":"2609e9c2b23f7bbd5c7c19351dbc4db69fcb5efd27fb6460ac1acdf3ee44ce7e","features":{},"yanked":true,"pubtime":"2026-05-24T23:23:57Z"}
+{"name":"roofy","vers":"0.0.6","deps":[],"cksum":"e021dd60db705978c024faa6d49bcc05cd506c27b0be10c279cb9d9f8714aa7e","features":{},"yanked":true,"pubtime":"2026-05-25T14:14:21Z"}
+{"name":"roofy","vers":"0.0.7","deps":[],"cksum":"658b2e8827ef66223294e9a175f3809ecd3cc5991f98dbe0a0a21403a17f48e0","features":{},"yanked":true,"pubtime":"2026-05-25T19:40:07Z"}
 {"name":"roofy","vers":"0.0.8","deps":[],"cksum":"ccde4ddc92fcdd85d19a59b87376d7cdb3c1ad7e9c8cc72e5273c3ed7b60d5d1","features":{},"yanked":false,"pubtime":"2026-05-28T18:21:10Z"}
 {"name":"roofy","vers":"0.0.9","deps":[],"cksum":"8a105caeee385400a06380df3d28669795aa05e6668d80dd5a26605757c5f0ac","features":{},"yanked":false,"pubtime":"2026-05-30T15:15:41Z"}
 {"name":"roofy","vers":"0.0.10","deps":[],"cksum":"c8e49c9907f8b84018d546b43c59acc6fefe5b852b92e561c3ac70df8e4a5458","features":{},"yanked":false,"pubtime":"2026-06-01T12:37:51Z"}
