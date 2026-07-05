@@ -1,0 +1,1 @@
+{"name":"kerf-cli","vers":"0.2.0","deps":[{"name":"kerf-core","req":"^0.2.0","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e87fbf9938419c7c0916d355e3571519e327afcc69b9767fed1b00308dfc10a8","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-05T10:03:01Z"}
