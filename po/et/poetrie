@@ -8,3 +8,4 @@
 {"name":"poetrie","vers":"1.0.1","deps":[],"cksum":"21b598bc86de3a4a4c298cbdb0b2b1b554ec170f4be8ac4254cbc2fa2e82c884","features":{"rh-aide-tests":[],"rh-uc-tests":[]},"yanked":false,"pubtime":"2026-06-30T21:46:00Z"}
 {"name":"poetrie","vers":"2.0.0","deps":[],"cksum":"aff50410d53de75860905e6827332c9c5ca2ec3024ea352174c9544df1931a74","features":{"rh-aide-tests":[],"rh-uc-tests":[]},"yanked":false,"pubtime":"2026-07-05T18:44:15Z"}
 {"name":"poetrie","vers":"2.0.1","deps":[],"cksum":"10b5ca564eba8c0df4898ad098cd2592d84bad14fb62845413655f7d8bf8a902","features":{"rh-aide-tests":[],"rh-uc-tests":[]},"yanked":false,"pubtime":"2026-07-05T18:47:45Z"}
+{"name":"poetrie","vers":"2.1.0","deps":[],"cksum":"420ed0c5144f4843358e16812defcb7a6883b92c0adf93aa88b1d35b338a518d","features":{"rh-aide-tests":[],"rh-uc-tests":[]},"yanked":false,"pubtime":"2026-07-05T20:34:50Z"}
