@@ -2,3 +2,4 @@
 {"name":"mdbook-summarizer","vers":"0.2.0","deps":[],"cksum":"5a206c6799116d0be0a4c8076ad7d1cb55a24b398c36f8999a26244a689dcbe7","features":{},"yanked":false,"pubtime":"2026-06-16T17:56:32Z"}
 {"name":"mdbook-summarizer","vers":"0.3.0","deps":[],"cksum":"905c69185b05e877662f422d406cde4554a41bd44140eadb6378a8b07b905cf8","features":{},"yanked":false,"pubtime":"2026-06-20T11:39:53Z"}
 {"name":"mdbook-summarizer","vers":"0.4.0","deps":[],"cksum":"98cf318c0fa78b8ded2507a37559e1cb33fc3cb0f0b490646bda18aee8ec7dda","features":{},"yanked":false,"pubtime":"2026-06-22T16:50:49Z"}
+{"name":"mdbook-summarizer","vers":"0.4.1","deps":[],"cksum":"fec2c6434212100d9cb52bd182f6e8ce7a2c2f1e9419a008e261895b4b85480d","features":{},"yanked":false,"pubtime":"2026-07-05T06:05:16Z"}
