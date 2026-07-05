@@ -5,3 +5,4 @@
 {"name":"tf-poem","vers":"0.1.5","deps":[],"cksum":"f45bdb51f3fbea97bfaa5fd9ccb6fca910fe90f4a0bd208128c5b123ec5fdf3a","features":{},"yanked":false,"pubtime":"2026-07-04T21:24:08Z"}
 {"name":"tf-poem","vers":"0.1.6","deps":[],"cksum":"285a172024bb23a4ddbc341135dfc4140a48adf9a46037e464a3de6a46422cda","features":{},"yanked":false,"pubtime":"2026-07-04T22:28:20Z"}
 {"name":"tf-poem","vers":"0.1.7","deps":[],"cksum":"4e18a032462d7a4063c6a83d0d66e069391584f7e31e0b69f9350c00ba8ccc3b","features":{},"yanked":false,"pubtime":"2026-07-04T23:08:32Z"}
+{"name":"tf-poem","vers":"0.1.8","deps":[],"cksum":"4f833c06640853d0918baa1f44da1185fa59ef0a74fad40d839448531734d3e1","features":{},"yanked":false,"pubtime":"2026-07-05T02:16:25Z"}
