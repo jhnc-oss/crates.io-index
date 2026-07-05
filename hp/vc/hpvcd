@@ -5,3 +5,4 @@
 {"name":"hpvcd","vers":"0.1.4","deps":[],"cksum":"241f39c068364929fc3ada54e4cfe80c8a47f2f0d0d06c2442e3536959667209","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-06-13T11:25:26Z"}
 {"name":"hpvcd","vers":"0.2.0","deps":[],"cksum":"f74a2ec62a605c21c8b2425b2d9f96ba2843abb9126b395089e231f1aceb2845","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-07-01T16:11:46Z"}
 {"name":"hpvcd","vers":"0.2.1","deps":[],"cksum":"c44957464c9e385976e1559472c07bb06b2853ee054fb3a3155c8552bf65c1d4","features":{"default":["neon","sse"],"neon":[],"sse":[]},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-07-02T19:44:20Z"}
+{"name":"hpvcd","vers":"0.2.2","deps":[],"cksum":"d767fa4f93c1155d2c4757df2daff46ded0cadf8b57e265ed96b1a8ffac3cba6","features":{"default":["neon","sse"],"neon":[],"sse":[]},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-07-05T00:33:46Z"}
