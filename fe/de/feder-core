@@ -1,0 +1,1 @@
+{"name":"feder-core","vers":"0.1.0-dev.0","deps":[{"name":"feder-vocab","req":"^0.1.0-dev.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94f2d953b77901893309ffb43f60a9f2aea2d820c410b861c597e55216613eb3","features":{},"yanked":false,"pubtime":"2026-07-05T15:46:45Z"}
