@@ -1,0 +1,1 @@
+{"name":"cavs-chunker","vers":"0.1.0","deps":[{"name":"fastcdc","req":"^3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b1f3af8d1bd19578576c4f24a26e78aeb6c0c41469ebc920ae390a2f4087bc3","features":{},"yanked":false,"pubtime":"2026-07-05T11:57:50Z"}
