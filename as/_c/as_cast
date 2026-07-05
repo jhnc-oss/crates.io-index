@@ -1,1 +1,0 @@
-{"name":"as_cast","vers":"0.3.0","deps":[],"cksum":"1e0ea226fc5b90d31aafaf3ba559575a2fe01e985dd4b604fca20f8203aba1aa","features":{"cast":[],"checked-cast":[],"default":["cast","checked-cast"]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-07-05T14:41:26Z"}
