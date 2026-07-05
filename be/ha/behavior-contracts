@@ -1,0 +1,1 @@
+{"name":"behavior-contracts","vers":"0.1.2","deps":[{"name":"serde_json","req":"^1","features":["preserve_order"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb7070106c288ebf9b73628e596e895d5ffd980d330f096e47a4ef3b4f9fdacb","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-05T12:26:37Z"}
