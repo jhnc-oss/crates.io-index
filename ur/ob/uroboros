@@ -1,0 +1,1 @@
+{"name":"uroboros","vers":"0.1.0","deps":[{"name":"ouroboros","req":"^0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab07f553c0bdeb9bdb4b33650f6270959e63d5b943c85e1ccd2672acf9a68f3c","features":{},"yanked":false,"pubtime":"2026-07-05T16:35:25Z"}
