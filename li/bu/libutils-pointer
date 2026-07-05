@@ -5,7 +5,7 @@
 {"name":"libutils-pointer","vers":"9.23.30","deps":[],"cksum":"9ec4a27dae46649c5d9f50d645de8f068fdaa702be525ab243041d3f83289073","features":{},"yanked":true,"rust_version":"1.98","pubtime":"2026-06-30T23:25:15Z"}
 {"name":"libutils-pointer","vers":"9.21.31","deps":[],"cksum":"c5745c20078cb323f10b1fa2eb21dfef0ea9b479c5eb97eea9a8d95a2d12c3ff","features":{},"yanked":true,"rust_version":"1.98","pubtime":"2026-07-01T10:55:10Z"}
 {"name":"libutils-pointer","vers":"9.23.32","deps":[],"cksum":"e7c16a8e6d18f45af9d12defdd9f23a4abe023d4bacd6b1655a3fd2bb4043f4e","features":{},"yanked":true,"rust_version":"1.98","pubtime":"2026-07-01T14:39:03Z"}
-{"name":"libutils-pointer","vers":"9.23.33","deps":[],"cksum":"3df5f8667413685b2d3e5ecf1e26dd89b5685d27927c825def93e040bfde4e6f","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-02T12:41:44Z"}
+{"name":"libutils-pointer","vers":"9.23.33","deps":[],"cksum":"3df5f8667413685b2d3e5ecf1e26dd89b5685d27927c825def93e040bfde4e6f","features":{},"yanked":true,"rust_version":"1.98","pubtime":"2026-07-02T12:41:44Z"}
 {"name":"libutils-pointer","vers":"9.22.34","deps":[],"cksum":"043fe5413ebba452bcc936a466dc410ce54e3eed8a9adacf157cf91ab703d915","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-02T17:24:37Z"}
 {"name":"libutils-pointer","vers":"9.40.35","deps":[],"cksum":"09c2b7302926c58e504fb0e8340edbc7b9e3371e670a855ef7d2d5d2d8c7696f","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-03T12:36:38Z"}
 {"name":"libutils-pointer","vers":"9.40.36","deps":[],"cksum":"d98c277dd9c3ce5890b66221165b659a450cc728146ce653099e5e237f76fea6","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-03T13:10:08Z"}
