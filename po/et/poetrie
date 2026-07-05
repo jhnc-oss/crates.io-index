@@ -6,3 +6,4 @@
 {"name":"poetrie","vers":"0.9.5","deps":[],"cksum":"0da445f62eacb13782985f2b1b19031dbb18cf6f9a2b6fb8e6807f3451c46d14","features":{},"yanked":false,"pubtime":"2025-07-11T21:14:43Z"}
 {"name":"poetrie","vers":"1.0.0","deps":[],"cksum":"fe58843854a969cc3a255d9c739ad83c2c35188136fe22ee1b8601cb20d59ea0","features":{"rh-aide-tests":[],"rh-uc-tests":[]},"yanked":false,"pubtime":"2026-06-30T20:57:51Z"}
 {"name":"poetrie","vers":"1.0.1","deps":[],"cksum":"21b598bc86de3a4a4c298cbdb0b2b1b554ec170f4be8ac4254cbc2fa2e82c884","features":{"rh-aide-tests":[],"rh-uc-tests":[]},"yanked":false,"pubtime":"2026-06-30T21:46:00Z"}
+{"name":"poetrie","vers":"2.0.0","deps":[],"cksum":"aff50410d53de75860905e6827332c9c5ca2ec3024ea352174c9544df1931a74","features":{"rh-aide-tests":[],"rh-uc-tests":[]},"yanked":false,"pubtime":"2026-07-05T18:44:15Z"}
