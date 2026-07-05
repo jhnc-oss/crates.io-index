@@ -1,0 +1,1 @@
+{"name":"homebase","vers":"0.1.0","deps":[{"name":"homebase-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8216853ad419b9a01d540d86dc4e1e7fc0bba7bbb66d1bfb1ede2c3e951cc5cc","features":{},"yanked":false,"pubtime":"2026-07-05T01:39:37Z"}
