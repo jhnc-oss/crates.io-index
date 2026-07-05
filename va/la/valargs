@@ -8,3 +8,4 @@
 {"name":"valargs","vers":"0.1.7","deps":[],"cksum":"121aa567feba2937d55d43fd71322904e0f5eebf15ed2538b129229b32c3236a","features":{},"yanked":true,"pubtime":"2025-07-26T12:56:15Z"}
 {"name":"valargs","vers":"0.1.8","deps":[],"cksum":"53a04b7d7c3a307abef3beadb34b8131eafe937b02c4c099b1d775f085cce8c7","features":{},"yanked":false,"pubtime":"2026-02-08T21:33:57Z"}
 {"name":"valargs","vers":"0.1.9","deps":[],"cksum":"a49eabf3431e27ee310485c009e24626ccf2c374a78acfbdd34d374c73d672a9","features":{},"yanked":false,"pubtime":"2026-02-08T22:01:01Z"}
+{"name":"valargs","vers":"0.1.10","deps":[],"cksum":"dc1e6a53b8b4cbf7f66cf8329466627aa39ee275440758403aee538a7cb9ba7b","features":{},"yanked":false,"pubtime":"2026-07-05T09:23:02Z"}
