@@ -1,0 +1,1 @@
+{"name":"snowbros_performance","vers":"0.1.0","deps":[{"name":"snowbros_core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"903ff90456599654f58263edcd0b31c15cb9927ceaf9f84b767bd4447d32386a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-05T13:05:17Z"}
