@@ -7,3 +7,4 @@
 {"name":"revelo-exiftool-tables","vers":"0.4.6","deps":[],"cksum":"541556e1acfb3e10b91f36fd75b83f92e05d29a65778065d1abf64d23b4fe237","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-07T00:51:06Z"}
 {"name":"revelo-exiftool-tables","vers":"0.5.0","deps":[],"cksum":"7c419471e79bc9e9d11329cf517bdf79dff0122c2705f2cde643ec790803aac4","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-27T14:23:01Z"}
 {"name":"revelo-exiftool-tables","vers":"0.5.1","deps":[],"cksum":"47ead385e2d23813bb202d3732c99efe6c24a61367c0637aabc40c8d48d101d7","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-29T14:48:07Z"}
+{"name":"revelo-exiftool-tables","vers":"0.5.3","deps":[],"cksum":"31dee1f12a7d1babd235d7680821488b21379b8eb738db6d9d10395c7e8d2199","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-05T13:21:35Z"}
