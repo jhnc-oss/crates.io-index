@@ -1,0 +1,1 @@
+{"name":"timescope-dumper","vers":"0.1.0","deps":[{"name":"timescope-runtime","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3602920f38b189615db27c21a5e9c0b9657f820f01410f2426a789e7bbc43365","features":{},"yanked":false,"pubtime":"2026-07-06T12:01:44Z"}
