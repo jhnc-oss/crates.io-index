@@ -1,0 +1,1 @@
+{"name":"openskp-capi","vers":"0.1.0","deps":[{"name":"openskp","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"574b8ed4098219403e67ef68ab7ac1cd7cc83fa52ac12bca0283fdc1c444a631","features":{},"yanked":false,"pubtime":"2026-07-06T16:49:14Z"}
