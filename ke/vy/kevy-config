@@ -71,3 +71,4 @@
 {"name":"kevy-config","vers":"3.0.0","deps":[],"cksum":"827d53c665760079fd54591094e80f5e864402887dced286b4b88a4c90296cfc","features":{},"yanked":false,"pubtime":"2026-07-04T07:50:43Z"}
 {"name":"kevy-config","vers":"3.8.0","deps":[],"cksum":"489dd38c4757c0d2c47f887d4800fe0770043f01f202452bb5c2dd69e42c0784","features":{},"yanked":false,"pubtime":"2026-07-05T06:09:56Z"}
 {"name":"kevy-config","vers":"3.17.0","deps":[],"cksum":"5bae624cbb58597933ba0b82e132cd7d24de1b1bc4ccb3d88a5fc089d9b37d98","features":{},"yanked":false,"pubtime":"2026-07-06T04:02:47Z"}
+{"name":"kevy-config","vers":"3.17.1","deps":[],"cksum":"c33d40841670208feed9e8f214537ee6774bc90ead965a3c4e3daef6e5dc0894","features":{},"yanked":false,"pubtime":"2026-07-06T06:30:04Z"}
