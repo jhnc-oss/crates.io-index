@@ -4,3 +4,4 @@
 {"name":"macp-proto","vers":"0.1.3","deps":[],"cksum":"01a473ffafa6754cff55cf8e24961c448f5e649ebe0e8b663a21e9c168abe353","features":{},"yanked":false,"links":"macp_proto","pubtime":"2026-06-22T22:55:58Z"}
 {"name":"macp-proto","vers":"0.1.4","deps":[],"cksum":"509c8aa343e01329f0aa7b7b581518fb31c772686e1883844a40fda66e04f072","features":{},"yanked":false,"links":"macp_proto","pubtime":"2026-07-05T16:29:52Z"}
 {"name":"macp-proto","vers":"0.1.5","deps":[],"cksum":"e04a97288880d38709177e259629f881031dfe978cea66f5c7a105df86bde5d0","features":{},"yanked":false,"links":"macp_proto","pubtime":"2026-07-06T01:10:11Z"}
+{"name":"macp-proto","vers":"0.1.6","deps":[],"cksum":"789ec6beae97fb39e9d429b216851a110a84d356bb45f64591b30d5019e764fd","features":{},"yanked":false,"links":"macp_proto","pubtime":"2026-07-06T04:41:21Z"}
