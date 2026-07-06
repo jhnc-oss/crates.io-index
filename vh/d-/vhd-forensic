@@ -1,0 +1,1 @@
+{"name":"vhd-forensic","vers":"0.1.1","deps":[{"name":"forensicnomicon","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98d6d6c6199afb1686e67585c6a72f5dc6d2b50ecbd55bc28de58f666d3df61a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-06T15:48:59Z"}
