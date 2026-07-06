@@ -1,0 +1,1 @@
+{"name":"depz-sensor-sdk","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3c09e26ea02212cae3c47db2a52de44edd0cf9a01cefe3656e0e7ca444a2dd94","features":{},"yanked":false,"pubtime":"2026-07-06T12:20:16Z"}
