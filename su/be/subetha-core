@@ -1,0 +1,1 @@
+{"name":"subetha-core","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d2c25daf6d8decd678ffde83ce20d7770a4328b7caac57f07bda57379a90dcbc","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-06T18:45:30Z"}
