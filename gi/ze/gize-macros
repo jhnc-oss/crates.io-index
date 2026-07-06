@@ -5,3 +5,4 @@
 {"name":"gize-macros","vers":"0.5.0","deps":[],"cksum":"4cfd42679b68cd2225cbc4a8be19978eeb610422b5ae6c9356874943c9b8454a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-05T17:12:06Z"}
 {"name":"gize-macros","vers":"0.5.1","deps":[],"cksum":"7ccdba5f169ebf3adcf98ed12e24c7f51fd37ec56055733ff9890545fb6d6bdb","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-05T17:31:13Z"}
 {"name":"gize-macros","vers":"0.6.1","deps":[],"cksum":"3a2cdb59f65fc6893d6e1eb1a8f9343e196c0d20bacea843bdec3e1ce9959f5b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-06T15:35:01Z"}
+{"name":"gize-macros","vers":"0.6.2","deps":[],"cksum":"f2501b67ee1685326a4ecef6e8182a5c5219d5d39328c44b340fd56416286e97","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-06T16:11:35Z"}
