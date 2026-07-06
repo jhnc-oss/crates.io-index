@@ -8,3 +8,4 @@
 {"name":"nimiq-database-value","vers":"1.6.0","deps":[],"cksum":"c8458abb25a82d4fe9b58f8f4f42d19292850dc80541a656b309cd5e14c9d417","features":{},"yanked":false,"pubtime":"2026-06-04T21:30:47Z"}
 {"name":"nimiq-database-value","vers":"1.6.1","deps":[],"cksum":"86919192e07965fed111ac46b2e54aa7de9ffb6cb86254ab0f3792f42b6cfd42","features":{},"yanked":false,"pubtime":"2026-06-10T20:55:11Z"}
 {"name":"nimiq-database-value","vers":"1.7.0","deps":[],"cksum":"3aa3f1e97c51bc2d6f90d818a07d4c09106cc03d3055691266ac5e935ebb814b","features":{},"yanked":false,"pubtime":"2026-06-15T18:22:17Z"}
+{"name":"nimiq-database-value","vers":"1.7.1","deps":[],"cksum":"502da04bd9d9dd56365d3ce671e54ac34b864059bfbd468a363b41936b40745a","features":{},"yanked":false,"pubtime":"2026-07-06T21:45:00Z"}
