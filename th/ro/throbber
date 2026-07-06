@@ -4,3 +4,4 @@
 {"name":"throbber","vers":"0.1.3","deps":[],"cksum":"d2d14d18c3ad54bfec3646f58cd86998136d2914a0037ce7676800248ec65ddf","features":{},"yanked":false,"pubtime":"2021-02-28T13:45:10Z"}
 {"name":"throbber","vers":"0.1.4","deps":[],"cksum":"fa679cdc0bc079431af2e764d22d46b261a21349b6fd9595749ba686d2170f05","features":{},"yanked":false,"pubtime":"2021-02-28T14:17:30Z"}
 {"name":"throbber","vers":"1.0.0","deps":[],"cksum":"f6240e8c9580939c56992ece5d5f6540df3f8e60003304a0d0010f02b580b76a","features":{},"yanked":false,"pubtime":"2025-11-16T00:15:34Z"}
+{"name":"throbber","vers":"1.0.1","deps":[],"cksum":"9ed6b33cdfc56d3b1e0a6dba0d533c89dd27580f34bd51e4bf69fc9eeaf5e1eb","features":{},"yanked":false,"pubtime":"2026-07-06T12:19:52Z"}
