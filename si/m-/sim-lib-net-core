@@ -1,3 +1,4 @@
 {"name":"sim-lib-net-core","vers":"0.1.0-rc.1","deps":[],"cksum":"f4068c449a94ec783226a44c04cfd54c131bdc861092630595cd26f928d052e9","features":{},"yanked":false,"pubtime":"2026-07-02T09:30:05Z"}
 {"name":"sim-lib-net-core","vers":"0.1.0","deps":[],"cksum":"0be3aa4e40b029fdfcd535e93a376db3193e22ed8fec4aede24c1745668043dd","features":{},"yanked":false,"pubtime":"2026-07-03T15:18:58Z"}
 {"name":"sim-lib-net-core","vers":"0.1.1","deps":[],"cksum":"7a8be08526d2ea8be1709ea74dfcf6d35e323e91a740db1cfb27ccb2b7f6622f","features":{},"yanked":false,"pubtime":"2026-07-06T15:50:25Z"}
+{"name":"sim-lib-net-core","vers":"0.1.2","deps":[],"cksum":"ff7bb252a5a1d21c6d277420d380eea1fd409f3d9dc2eab9c4b0d5ce29d7bbb6","features":{},"yanked":false,"pubtime":"2026-07-06T18:58:54Z"}
