@@ -3,3 +3,4 @@
 {"name":"nexaloid-sys","vers":"0.1.4","deps":[],"cksum":"c5daee8b06048fa489f2ff2940f9a2988e6f3f1eff81719017e46044bc0ec81e","features":{},"yanked":false,"pubtime":"2026-07-03T08:40:18Z"}
 {"name":"nexaloid-sys","vers":"0.1.5","deps":[],"cksum":"8b890f81e6c3c1de3020d63e9f6ac5b58660a5caa45941404e15faa9060f04e9","features":{},"yanked":false,"pubtime":"2026-07-06T09:35:32Z"}
 {"name":"nexaloid-sys","vers":"0.1.6","deps":[],"cksum":"aa54febda9aed6a03d0b6fc025c5382494c541ef60aab02110fe17e4850229ba","features":{},"yanked":false,"pubtime":"2026-07-06T14:39:47Z"}
+{"name":"nexaloid-sys","vers":"0.1.7","deps":[],"cksum":"0ea84e541cb1c61859d13158e9624ac74943aced8025285fd08304911c2d55ff","features":{},"yanked":false,"pubtime":"2026-07-06T18:01:59Z"}
