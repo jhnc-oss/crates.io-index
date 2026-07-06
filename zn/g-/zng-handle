@@ -7,3 +7,4 @@
 {"name":"zng-handle","vers":"0.3.0","deps":[],"cksum":"8ea49b1dd88a3366b587f115781cae82b390448b274a723726bc3dff904a193f","features":{},"yanked":false,"pubtime":"2025-02-25T19:50:31Z"}
 {"name":"zng-handle","vers":"0.3.1","deps":[],"cksum":"7da7b1343ba0913a86dfcb970b7970ed2797a8a8ec437558c925cc54d12189c1","features":{},"yanked":false,"pubtime":"2025-07-02T05:51:48Z"}
 {"name":"zng-handle","vers":"0.4.0","deps":[],"cksum":"a4ab1b9b14ed2d9e058f8738545bb5cddbcbc4788ddd4e75895590f0c14fa482","features":{},"yanked":false,"pubtime":"2025-11-01T00:03:07Z"}
+{"name":"zng-handle","vers":"0.4.1","deps":[],"cksum":"8702507941e2b3a966be4b572bfdfa79816a97d516527cd695589d3b0dc3bf35","features":{},"yanked":false,"pubtime":"2026-07-06T20:08:16Z"}
