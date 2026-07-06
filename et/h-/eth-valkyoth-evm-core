@@ -1,3 +1,4 @@
 {"name":"eth-valkyoth-evm-core","vers":"0.1.0","deps":[],"cksum":"4559dd0bd6c709d8e80e68acc4443bf3bbe3ec99f365de8a26eabdff4348e360","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-06T13:22:28Z"}
 {"name":"eth-valkyoth-evm-core","vers":"0.2.0","deps":[],"cksum":"a87507bfa03af9e55e4c1870f8784fb24ffc8043957d97871dafaac40ba59031","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-06T14:30:27Z"}
 {"name":"eth-valkyoth-evm-core","vers":"0.3.0","deps":[],"cksum":"bfac877da4c16703ab965b40b30dd9ee40f6f63320433403e4c7b2d0f0a37a02","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-06T16:25:22Z"}
+{"name":"eth-valkyoth-evm-core","vers":"0.4.0","deps":[],"cksum":"6729fbea9fe2a7afbc01e58bb96e6925d1a03073dc58f3afc25e573699f65aee","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-06T17:19:56Z"}
