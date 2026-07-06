@@ -1,0 +1,1 @@
+{"name":"openskp","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a05e206e710b3fe47e85f2fe2df0e4b85c213516a9936010b26a7960701733fb","features":{},"yanked":false,"pubtime":"2026-07-06T16:48:42Z"}
