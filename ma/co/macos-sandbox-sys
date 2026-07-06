@@ -17,3 +17,4 @@
 {"name":"macos-sandbox-sys","vers":"0.43.0","deps":[],"cksum":"7bee236e6d9ad68458ab7c89216cb6e74dfe8229ab7ee94ae2130fc990449bd2","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-04T20:13:26Z"}
 {"name":"macos-sandbox-sys","vers":"0.43.1","deps":[],"cksum":"896bc92cdf161cf4d7b1d88faaece13793152c2a3a1e996276da2d3be9bdb652","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-05T08:48:31Z"}
 {"name":"macos-sandbox-sys","vers":"0.43.2","deps":[],"cksum":"17f76d10e37eb5cd411eb02983db5de3a1992d0cf9878e668805f2d50bbc0ca2","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-05T19:25:46Z"}
+{"name":"macos-sandbox-sys","vers":"0.44.0","deps":[],"cksum":"adb0bf96369281abc7bf5a8d7f0ce8326bc1e1e61d0bd981ecb100533500c1d9","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-06T10:34:02Z"}
