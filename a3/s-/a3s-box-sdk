@@ -9,3 +9,4 @@
 {"name":"a3s-box-sdk","vers":"2.5.2","deps":[],"cksum":"bafcf6bc7cd82aaf17c1c9beefbb2cbb34e1941b316a7de615ee79a327665cf2","features":{},"yanked":false,"pubtime":"2026-06-22T09:32:15Z"}
 {"name":"a3s-box-sdk","vers":"2.6.0","deps":[],"cksum":"ffb4ebf18367c32d555686c4b120c8acba1a9611a85b6c0875e982f17b46c725","features":{},"yanked":false,"pubtime":"2026-06-27T01:58:01Z"}
 {"name":"a3s-box-sdk","vers":"3.0.0","deps":[],"cksum":"eef8e1353006d9db62f7dd7a2c41f248a3972668686e07c9c91ce80827c54db8","features":{},"yanked":false,"pubtime":"2026-07-06T07:53:43Z"}
+{"name":"a3s-box-sdk","vers":"3.0.1","deps":[],"cksum":"6c82faab438710de7423dbb0ed6b5487561564d54f5869ab16d202c97fc41939","features":{},"yanked":false,"pubtime":"2026-07-06T09:55:34Z"}
