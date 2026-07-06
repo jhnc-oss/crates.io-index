@@ -2,3 +2,4 @@
 {"name":"syncular","vers":"0.1.1","deps":[],"cksum":"037790071befc5601b6350cac49ac635f0fc551275cc27ed1607ec36e9207c87","features":{},"yanked":false,"pubtime":"2026-06-30T14:59:26Z"}
 {"name":"syncular","vers":"0.1.2","deps":[],"cksum":"3c476bbd89eaf8a11c8427b81057a4f6713b381f36872ca0a1bc024cc332cdc4","features":{},"yanked":false,"pubtime":"2026-06-30T15:41:42Z"}
 {"name":"syncular","vers":"0.1.3","deps":[],"cksum":"44b1fb8b24a6b5552084bf96b691a4dcf2acbaec045adcd9ee917fc56e2df537","features":{},"yanked":false,"pubtime":"2026-06-30T16:08:17Z"}
+{"name":"syncular","vers":"0.2.0","deps":[],"cksum":"313da9a90e544943eef4ff8d33f68bcb0a01525d156dc6ca89e8bc3cae442ac3","features":{},"yanked":false,"pubtime":"2026-07-06T16:33:59Z"}
