@@ -1,1 +1,2 @@
 {"name":"agentos-build-support","vers":"0.2.5-rc.5","deps":[],"cksum":"2f2c00b37b98ebee59fda88065dfa095638981b37c048cdbf1d481bd6404fbec","features":{},"yanked":false,"pubtime":"2026-07-06T14:28:41Z"}
+{"name":"agentos-build-support","vers":"0.2.5","deps":[],"cksum":"fadbb80368bac5a14d52ff0e6f0f807159a416a443bdd8c2272f61c3e743eeb5","features":{},"yanked":false,"pubtime":"2026-07-06T15:22:20Z"}
