@@ -1,0 +1,1 @@
+{"name":"embassy-mqtt-lite","vers":"0.1.0","deps":[{"name":"embedded-io-async","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f579eeddf10c27a0bdd354d935b08c71948482b5a61d5d35dd932508c20daac3","features":{},"yanked":false,"pubtime":"2026-07-06T14:08:10Z"}
