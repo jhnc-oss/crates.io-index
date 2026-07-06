@@ -5,3 +5,4 @@
 {"name":"gize-openapi","vers":"0.5.0","deps":[],"cksum":"3689756b6aa95b08a5e511960a61da146f100bb81b438c86212b9969b97d2a33","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-05T17:12:08Z"}
 {"name":"gize-openapi","vers":"0.5.1","deps":[],"cksum":"0bcdb24089da7e7c817b8c5857a8079d3a463c70d5abc4d68717f7ead2e29a89","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-05T17:31:15Z"}
 {"name":"gize-openapi","vers":"0.6.1","deps":[],"cksum":"64789d24be1535835193d9d0e1b3c041313114aa127d34b2895e424468377718","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-06T15:35:03Z"}
+{"name":"gize-openapi","vers":"0.6.2","deps":[],"cksum":"d68ecb197297a1dc86193c4b85a2c78873424ff9b21f791174ca506bdd770a53","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-06T16:11:37Z"}
