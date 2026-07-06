@@ -2,3 +2,4 @@
 {"name":"kevy-text","vers":"3.8.0","deps":[],"cksum":"d5236e815ccc93d26db0594242881948626fcb764b749080381e33e358894737","features":{},"yanked":false,"pubtime":"2026-07-05T06:10:01Z"}
 {"name":"kevy-text","vers":"3.17.0","deps":[],"cksum":"9e63c174f37cb37002372fdaca1669c03001896daddff60848274f917baf7c83","features":{},"yanked":false,"pubtime":"2026-07-06T04:09:06Z"}
 {"name":"kevy-text","vers":"3.17.1","deps":[],"cksum":"32dd244aeacb837de2772784f9316f6a445f4440a24e9db1c9b2f419b5057d0d","features":{},"yanked":false,"pubtime":"2026-07-06T06:36:21Z"}
+{"name":"kevy-text","vers":"3.17.2","deps":[],"cksum":"f65a95bc87c8bf3536bad9736c522231c08b7fdfb77a8841f780fe5b6f5e5073","features":{},"yanked":false,"pubtime":"2026-07-06T07:25:33Z"}
