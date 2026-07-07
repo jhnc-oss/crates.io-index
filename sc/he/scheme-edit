@@ -1,0 +1,1 @@
+{"name":"scheme-edit","vers":"0.1.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b9ed69f4840bd65662462cb351499b3f100687d4e7d1abd56d1d74f0faf076af","features":{},"yanked":false,"pubtime":"2026-07-07T20:10:30Z"}
