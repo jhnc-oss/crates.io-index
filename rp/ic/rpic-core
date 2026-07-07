@@ -13,3 +13,4 @@
 {"name":"rpic-core","vers":"0.7.0","deps":[],"cksum":"23617da36ac33eb7365f3551ab2baec3a4d26723c4dc56d69243cabf378d07ed","features":{},"yanked":false,"pubtime":"2026-07-05T19:55:58Z"}
 {"name":"rpic-core","vers":"0.7.1","deps":[],"cksum":"e8ec6628ca111f9167ff8fa3c802b65af260837b5ce12cd23b54b68023cd0803","features":{},"yanked":false,"pubtime":"2026-07-06T00:43:01Z"}
 {"name":"rpic-core","vers":"0.8.0","deps":[],"cksum":"9850f18462a9f39e2693e625fc93d3e7ab2b1c18e54dcdbab92bce99aae19296","features":{},"yanked":false,"pubtime":"2026-07-07T00:02:35Z"}
+{"name":"rpic-core","vers":"0.8.1","deps":[],"cksum":"ed1945f487acddcf7e5d5ddfc511400958d265fa2ad18d34ba7b2ff436ee27fb","features":{},"yanked":false,"pubtime":"2026-07-07T01:57:22Z"}
