@@ -20,3 +20,4 @@
 {"name":"sandogasa-fedrq","vers":"0.15.1","deps":[],"cksum":"41b3efb13347ac080598f31c48f7f0255c7a4673ed7a9d24521fbd31d7c74368","features":{},"yanked":false,"pubtime":"2026-06-24T15:58:01Z"}
 {"name":"sandogasa-fedrq","vers":"0.15.2","deps":[],"cksum":"459a4a311881f8368d70d1e3c3599ca79855ed8a848ba6f5d8172dcf05a6b127","features":{},"yanked":false,"pubtime":"2026-06-29T19:46:11Z"}
 {"name":"sandogasa-fedrq","vers":"0.15.3","deps":[],"cksum":"9d0265452f76e06260a53608fba5d44fbc2c5dee1afd78ab4892c6df85d666b6","features":{},"yanked":false,"pubtime":"2026-07-02T20:53:46Z"}
+{"name":"sandogasa-fedrq","vers":"0.16.0","deps":[{"name":"dirs","req":"^6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79d2988bd831da9c3b31350d51d40428c8b3af96636adaea7fce17a78cf90101","features":{},"yanked":false,"pubtime":"2026-07-07T18:03:29Z"}
