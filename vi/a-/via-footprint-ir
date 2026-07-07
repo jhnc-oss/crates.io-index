@@ -1,0 +1,1 @@
+{"name":"via-footprint-ir","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e0951246a76513c8a7ae90f637beadaeb6ace0ff33ae83e855146e5058126a5","features":{},"yanked":false,"pubtime":"2026-07-07T12:24:18Z"}
