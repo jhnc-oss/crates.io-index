@@ -1,1 +1,2 @@
 {"name":"libutils-constrangeiter","vers":"0.0.0","deps":[],"cksum":"73aa85c5727c80f1e8d1e3d4750b56b5bd0dfd47e004cedefa37aaaf30a76e99","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-06T01:36:34Z"}
+{"name":"libutils-constrangeiter","vers":"0.0.1","deps":[],"cksum":"d1f6191a5cfcb7dffe04a64841861a85d9cb17855e9fc844dc97a9d1f6c5d802","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-07T03:59:12Z"}
