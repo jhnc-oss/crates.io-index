@@ -1,0 +1,1 @@
+{"name":"boundary-enforce","vers":"0.1.0","deps":[{"name":"syn","req":"^2","features":["full","visit"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d425428da4c71079857b3a2b4e55b0c234c68a8d8518df7a41d04c8f5d2c5acb","features":{},"yanked":false,"pubtime":"2026-07-07T20:32:15Z"}
