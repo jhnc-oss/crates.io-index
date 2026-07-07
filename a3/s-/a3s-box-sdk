@@ -12,3 +12,4 @@
 {"name":"a3s-box-sdk","vers":"3.0.1","deps":[],"cksum":"6c82faab438710de7423dbb0ed6b5487561564d54f5869ab16d202c97fc41939","features":{},"yanked":false,"pubtime":"2026-07-06T09:55:34Z"}
 {"name":"a3s-box-sdk","vers":"3.0.2","deps":[],"cksum":"9dd5c6f37ea6fe1ce4b6d29d8da42a374e33ce3286d78aa5800bdbee175b94f9","features":{},"yanked":false,"pubtime":"2026-07-07T02:37:21Z"}
 {"name":"a3s-box-sdk","vers":"3.0.3","deps":[],"cksum":"be3f3a3e2b97489279a1fd568be96a38bac08b3ea698a530f58bf6b21acee674","features":{},"yanked":false,"pubtime":"2026-07-07T04:37:53Z"}
+{"name":"a3s-box-sdk","vers":"3.0.4","deps":[],"cksum":"6cd80287e4c2f5f26ea7f2305d94f3db3ae127ef5a5e2bf76549577ced61aeac","features":{},"yanked":false,"pubtime":"2026-07-07T16:40:06Z"}
