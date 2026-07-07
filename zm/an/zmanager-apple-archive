@@ -1,0 +1,1 @@
+{"name":"zmanager-apple-archive","vers":"1.0.6","deps":[{"name":"libc","req":"^0.2.186","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cad221f49940334ce4fc38151d73833781fac2d23e1c8305729c4df6860ee3a3","features":{},"yanked":false,"pubtime":"2026-07-07T02:19:35Z"}
