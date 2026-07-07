@@ -1,0 +1,1 @@
+{"name":"whisker-secure-store","vers":"0.8.0","deps":[{"name":"whisker","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d4f4f829311f7e6e9e6296b78220ed09572b4313fbd51f6106b6e3f0144f4a8","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-07T02:48:17Z"}
