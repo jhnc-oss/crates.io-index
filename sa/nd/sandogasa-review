@@ -1,2 +1,3 @@
 {"name":"sandogasa-review","vers":"0.15.2","deps":[],"cksum":"8b2e5bbee165652dc76363f1c113ff82cc4c1f46050bdf254938d6f6250649b2","features":{},"yanked":false,"pubtime":"2026-06-29T19:49:02Z"}
 {"name":"sandogasa-review","vers":"0.15.3","deps":[],"cksum":"5cd017b674987df84f0432cdd511d7db7f2f69eab8a990bba1e3f30b1c09d6e5","features":{},"yanked":false,"pubtime":"2026-07-02T20:56:49Z"}
+{"name":"sandogasa-review","vers":"0.16.0","deps":[],"cksum":"2a72eb7272990ec3e68e950cf751e82545222452fd77dee85202c2f2a509f658","features":{},"yanked":false,"pubtime":"2026-07-07T18:07:23Z"}
