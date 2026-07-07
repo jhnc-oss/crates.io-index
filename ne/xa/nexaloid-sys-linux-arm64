@@ -2,3 +2,4 @@
 {"name":"nexaloid-sys-linux-arm64","vers":"0.1.12","deps":[],"cksum":"582ac2622311909275252108d76b4a17660aaf255140340f2bcd63c94809b44a","features":{},"yanked":false,"links":"nexaloid_prebuilt_linux_arm64","pubtime":"2026-07-07T06:20:59Z"}
 {"name":"nexaloid-sys-linux-arm64","vers":"0.1.13","deps":[],"cksum":"9f50762321d029e8ce33dd60961949a5b43e96f041000e69d3b9502230234828","features":{},"yanked":false,"links":"nexaloid_prebuilt_linux_arm64","pubtime":"2026-07-07T07:33:12Z"}
 {"name":"nexaloid-sys-linux-arm64","vers":"0.1.14","deps":[],"cksum":"5da40108bcc7b4317744818d84dcc4e38446236abc4d0c6c0fa686b06a17b429","features":{},"yanked":false,"links":"nexaloid_prebuilt_linux_arm64","pubtime":"2026-07-07T07:58:54Z"}
+{"name":"nexaloid-sys-linux-arm64","vers":"0.1.16","deps":[],"cksum":"2a05534975cc06c496ead706e810065c08710cfbcbc48b0aff63a442a57574d5","features":{},"yanked":false,"links":"nexaloid_prebuilt_linux_arm64","pubtime":"2026-07-07T13:10:01Z"}
