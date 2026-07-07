@@ -1,1 +1,2 @@
 {"name":"nexaloid-sys-windows-arm64","vers":"0.1.11","deps":[],"cksum":"e170899570a27b4e60c9a9071bab372b126b6b952b1416b67dfcfdd51652825e","features":{},"yanked":false,"links":"nexaloid_prebuilt_windows_arm64","pubtime":"2026-07-06T20:30:24Z"}
+{"name":"nexaloid-sys-windows-arm64","vers":"0.1.12","deps":[],"cksum":"9740cdba108eaa6cec7cc845e0edabf1575556711eb54752dee6f6398643bc72","features":{},"yanked":false,"links":"nexaloid_prebuilt_windows_arm64","pubtime":"2026-07-07T06:22:45Z"}
