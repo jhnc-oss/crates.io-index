@@ -1,0 +1,1 @@
+{"name":"xingbiao","vers":"0.1.6","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf269030d94c795a3a494519671d8e750210c47a9d9a6988d45e1c9f857e2af0","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-07T13:23:41Z"}
