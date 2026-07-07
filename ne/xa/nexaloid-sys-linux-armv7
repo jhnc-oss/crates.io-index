@@ -4,3 +4,4 @@
 {"name":"nexaloid-sys-linux-armv7","vers":"0.1.14","deps":[],"cksum":"a4a93249362e918c00495a3508e4a94a0888d9531a792c5f0af86a056ddb7019","features":{},"yanked":false,"links":"nexaloid_prebuilt_linux_armv7","pubtime":"2026-07-07T07:59:47Z"}
 {"name":"nexaloid-sys-linux-armv7","vers":"0.1.16","deps":[],"cksum":"47844dd47d002f472b4c9c261e29dc69a92cd3bd58cb52f7b2fb4499ec4ef322","features":{},"yanked":false,"links":"nexaloid_prebuilt_linux_armv7","pubtime":"2026-07-07T13:10:54Z"}
 {"name":"nexaloid-sys-linux-armv7","vers":"0.1.17","deps":[],"cksum":"d9b594f60fa93b0df549de82f29d8a772357c755227a6e2a785e3a8c68c054ff","features":{},"yanked":false,"links":"nexaloid_prebuilt_linux_armv7","pubtime":"2026-07-07T14:46:57Z"}
+{"name":"nexaloid-sys-linux-armv7","vers":"0.1.18","deps":[],"cksum":"cad64e94823a9e6be14c9130af488b70f93b7696f94e1c4d587f48182f5ef830","features":{},"yanked":false,"links":"nexaloid_prebuilt_linux_armv7","pubtime":"2026-07-07T17:37:44Z"}
