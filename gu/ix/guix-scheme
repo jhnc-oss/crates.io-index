@@ -1,0 +1,1 @@
+{"name":"guix-scheme","vers":"0.1.0","deps":[{"name":"scheme-edit","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e1f203476e6264d1f6423422a58f0c388c7fd03673c0e6592b3fa6d6077fd33","features":{"guile-check":[]},"yanked":false,"pubtime":"2026-07-07T20:10:33Z"}
