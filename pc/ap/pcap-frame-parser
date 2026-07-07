@@ -1,0 +1,1 @@
+{"name":"pcap-frame-parser","vers":"0.1.0","deps":[{"name":"nom","req":"^7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48467cf10be7a275d2f3b0ea0f8b1ed3571a13a46b1e5f64e06a520eedf383ad","features":{},"yanked":false,"pubtime":"2026-07-07T21:26:48Z"}
