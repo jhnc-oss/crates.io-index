@@ -285,3 +285,4 @@
 {"name":"ESRP_Release_FirstLight","vers":"0.1.0-g8fe71af896ec41c5","deps":[],"cksum":"e40c64ad69e999e9b5ddbe4f3fd6e8236a8662b5fce138ac1a98462e68cb03d3","features":{},"yanked":false,"pubtime":"2026-07-04T14:34:15Z"}
 {"name":"ESRP_Release_FirstLight","vers":"0.1.0-g950c959871714917","deps":[],"cksum":"a6db193dde4a2adb2afad6951b897dbe101093ca8a89fd422308d5de3c3b51e2","features":{},"yanked":false,"pubtime":"2026-07-05T14:33:32Z"}
 {"name":"ESRP_Release_FirstLight","vers":"0.1.0-g62913cbf6d9d4c1a","deps":[],"cksum":"6b8bc2b1c0e93faee9b46275226f0a5efd3eab239b735ef478fb78ba8591ac33","features":{},"yanked":false,"pubtime":"2026-07-06T14:34:03Z"}
+{"name":"ESRP_Release_FirstLight","vers":"0.1.0-g608677b4a3b34422","deps":[],"cksum":"4f3d0be9892457c1e4814b55ad434ff6c4cdeaf96e5fd9f27fd39b95415026f7","features":{},"yanked":false,"pubtime":"2026-07-07T14:33:42Z"}
