@@ -13,3 +13,4 @@
 {"name":"gize-macros","vers":"0.7.4","deps":[],"cksum":"ab16bfc5724c87ac779636428de1455c23b62d9923c61fff127c81135eeaf051","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-07T14:15:18Z"}
 {"name":"gize-macros","vers":"0.7.5","deps":[],"cksum":"f1e5e43b0133c12b17dc6e4765d0fe6d443e45355016ddadd1e503bb462fab02","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-07T15:27:14Z"}
 {"name":"gize-macros","vers":"0.7.6","deps":[],"cksum":"3dd8df155d84aba9a6f55b01e23231ffc52abfb3bc3a5143d373e934dfa8b93f","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-07T17:16:08Z"}
+{"name":"gize-macros","vers":"0.7.7","deps":[],"cksum":"7e3ec7e8687b54f859d2d72e28baefebca49603a45e07044c974ac6c8b8d6476","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-07T18:52:10Z"}
