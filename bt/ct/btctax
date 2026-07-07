@@ -2,3 +2,4 @@
 {"name":"btctax","vers":"0.2.0","deps":[],"cksum":"c1fa78ab0ad2a31b3f9d2cc43cc5285da42fd908d0dcdeccdade1699425fefee","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-05T08:37:16Z"}
 {"name":"btctax","vers":"0.3.0","deps":[],"cksum":"3c86fae077c1e175cf29facf4de20e69dda8747628373f9fa2e86eddd704282d","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-06T19:22:25Z"}
 {"name":"btctax","vers":"0.4.0","deps":[],"cksum":"b5e6643063075be6e0c911d1dc80ec23756dce76d07d1c38f20e569ecfd96cf8","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-07T01:00:59Z"}
+{"name":"btctax","vers":"0.5.0","deps":[],"cksum":"60d07993e3352b0c9b25f26811cdc0cf0f7d2d213338cee270d2c206da27a41a","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-07T02:18:20Z"}
