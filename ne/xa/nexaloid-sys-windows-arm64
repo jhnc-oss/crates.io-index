@@ -4,3 +4,4 @@
 {"name":"nexaloid-sys-windows-arm64","vers":"0.1.14","deps":[],"cksum":"bef87ef4711ef9eba6d9ddfd5a48473eb762b2f4e2418627baf90ad43e26f3cb","features":{},"yanked":false,"links":"nexaloid_prebuilt_windows_arm64","pubtime":"2026-07-07T07:59:30Z"}
 {"name":"nexaloid-sys-windows-arm64","vers":"0.1.16","deps":[],"cksum":"0dc8d4b16fb40dc7f39b9ed579eb01ba7d8dd4fa477628a078a13c73e008501a","features":{},"yanked":false,"links":"nexaloid_prebuilt_windows_arm64","pubtime":"2026-07-07T13:10:37Z"}
 {"name":"nexaloid-sys-windows-arm64","vers":"0.1.17","deps":[],"cksum":"f5223598519c8eb23110b3f82fc13c7292f66c32de052d5087a044cabcfb7f20","features":{},"yanked":false,"links":"nexaloid_prebuilt_windows_arm64","pubtime":"2026-07-07T14:46:39Z"}
+{"name":"nexaloid-sys-windows-arm64","vers":"0.1.18","deps":[],"cksum":"974172d930aafd13ae2a69e5f20dbe923d904bfaf439c45df405f32c870d2aad","features":{},"yanked":false,"links":"nexaloid_prebuilt_windows_arm64","pubtime":"2026-07-07T17:37:27Z"}
