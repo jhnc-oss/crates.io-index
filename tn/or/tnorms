@@ -1,2 +1,3 @@
 {"name":"tnorms","vers":"0.1.0","deps":[],"cksum":"9a284bd3327a9ed765f6e39770b85019646311b5b2a61674795015114c531b58","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-07T15:12:44Z"}
 {"name":"tnorms","vers":"0.1.1","deps":[],"cksum":"f20b2fbb0b5f090dc0617922bbb88c90380a94fe2b88c230dafbd73185e6d555","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-07T15:25:31Z"}
+{"name":"tnorms","vers":"0.1.2","deps":[],"cksum":"48ebe97535aad1d4ee029641a1d440a4d769bc1caa97c59855a14aade762de1a","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-07T15:34:22Z"}
