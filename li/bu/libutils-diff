@@ -16,3 +16,4 @@
 {"name":"libutils-diff","vers":"0.0.1","deps":[],"cksum":"c657d7d2cbb244a1fa7814fc0d5558b010f5a85037a184ba3fca813e89557f51","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-05T08:48:42Z"}
 {"name":"libutils-diff","vers":"0.0.2","deps":[],"cksum":"acd1d4fe6aad84d3a3cb077bbcbcc932cf9e712eae1196accffc023071af8322","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-05T15:33:33Z"}
 {"name":"libutils-diff","vers":"0.0.3","deps":[],"cksum":"4fb5503f92c1406c3f9256b718fb2f92c048af09f83827ef00c7624d11954771","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-05T18:03:02Z"}
+{"name":"libutils-diff","vers":"0.0.4","deps":[],"cksum":"47c6f9c0227a8b195a58cdfee99173f1d1c8e52bf714ac22f83e2825083283a8","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-07T03:59:13Z"}
