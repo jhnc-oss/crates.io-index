@@ -1,1 +1,2 @@
 {"name":"as_cast","vers":"0.3.0","deps":[],"cksum":"630318087719d5f146f9efcf8a3988dce5f6cce1b2c081e5895d7df1237249e4","features":{"cast":[],"checked-cast":[],"default":["cast","checked-cast"]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-07-07T00:27:17Z"}
+{"name":"as_cast","vers":"0.3.1","deps":[],"cksum":"68ab8a030980f94445e8b3745da3f64a2afb9046ebb1924e8214cacb01d95ec7","features":{"cast":[],"checked-cast":[],"default":["cast","checked-cast"]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-07-07T00:33:29Z"}
