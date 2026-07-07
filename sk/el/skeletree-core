@@ -1,0 +1,1 @@
+{"name":"skeletree-core","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34b2e6dbd9880bfec9e67c3c14e64ee59d40a50f9e5be4b132e37dd4687f0f25","features":{},"yanked":false,"pubtime":"2026-07-07T05:04:41Z"}
