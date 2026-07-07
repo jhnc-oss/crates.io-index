@@ -1,0 +1,1 @@
+{"name":"helix-noise","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"aea1b87e6fdf7b38734ec169a0eebf56efba355b6099e91a08b18eed2041ad66","features":{},"yanked":false,"pubtime":"2026-07-07T16:54:13Z"}
