@@ -1,1 +1,2 @@
 {"name":"nexaloid-sys-linux-arm64","vers":"0.1.11","deps":[],"cksum":"85ecd573bbdb4a2b1946b29a3f191d11127b42181fa461de06557fb760a1aa53","features":{},"yanked":false,"links":"nexaloid_prebuilt_linux_arm64","pubtime":"2026-07-06T20:17:32Z"}
+{"name":"nexaloid-sys-linux-arm64","vers":"0.1.12","deps":[],"cksum":"582ac2622311909275252108d76b4a17660aaf255140340f2bcd63c94809b44a","features":{},"yanked":false,"links":"nexaloid_prebuilt_linux_arm64","pubtime":"2026-07-07T06:20:59Z"}
