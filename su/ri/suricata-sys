@@ -8,3 +8,4 @@
 {"name":"suricata-sys","vers":"9.0.0-alpha.20260210","deps":[],"cksum":"fb33004eb56e9a2d165833dba7e690b6efc219fdcf9faec0d61b2b805829b6e4","features":{},"yanked":false,"pubtime":"2026-02-10T21:07:47Z"}
 {"name":"suricata-sys","vers":"8.0.4","deps":[],"cksum":"7cc327da2953f8c26b01528301f9438a6b185dae9467af077e1417368a2ae5ff","features":{},"yanked":false,"pubtime":"2026-03-17T14:51:52Z"}
 {"name":"suricata-sys","vers":"8.0.5","deps":[],"cksum":"b6a0428a356d264d1bd798637974b699c56155a62f79ab76119e61ffb017d429","features":{},"yanked":false,"pubtime":"2026-05-19T16:44:16Z"}
+{"name":"suricata-sys","vers":"8.0.6","deps":[],"cksum":"c33c3fa4cc87d99209b4b18d0853addd9466db92500af82eee58d2fd64d5792a","features":{},"yanked":false,"pubtime":"2026-07-07T18:25:21Z"}
