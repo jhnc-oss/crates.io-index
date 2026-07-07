@@ -18,3 +18,4 @@
 {"name":"rama-error","vers":"0.3.0-alpha.3","deps":[],"cksum":"1b3236ea868a50937223cbe56130b99725235c001ca8886cc01bf599736c9766","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2025-08-29T16:05:50Z"}
 {"name":"rama-error","vers":"0.3.0-alpha.4","deps":[],"cksum":"3c452aba1beb7e29b873ff32f304536164cffcc596e786921aea64e858ff8f40","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2025-12-27T21:13:38Z"}
 {"name":"rama-error","vers":"0.3.0-rc1","deps":[],"cksum":"75e92f7d4f42b15abda9dcfa4ec178f9c068ad3226904c18e9de6a66c9a9a2d7","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-07-04T18:43:03Z"}
+{"name":"rama-error","vers":"0.3.0","deps":[],"cksum":"f33187d746dc897b7cdbae9628b0c1c783f98f25206b2b5eeac442128c0b745e","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-07-07T09:36:46Z"}
