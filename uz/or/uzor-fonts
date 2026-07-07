@@ -32,3 +32,4 @@
 {"name":"uzor-fonts","vers":"1.4.13","deps":[],"cksum":"fe888e5b9faaa1d13605252c499c4552a2cf6869c0bd15bf5d2629a737253ac3","features":{},"yanked":false,"links":"uzor_fonts_assets","pubtime":"2026-06-13T09:52:52Z"}
 {"name":"uzor-fonts","vers":"1.4.14","deps":[],"cksum":"e0997ff6eb8c1dd671c5961842839c736e6e577c8ea5017b584825cfedd20de0","features":{},"yanked":false,"links":"uzor_fonts_assets","pubtime":"2026-06-20T18:15:12Z"}
 {"name":"uzor-fonts","vers":"1.4.15","deps":[],"cksum":"5a9e67f41c8d79dc83e9ab5dfc0e5271b3a65db61d0554336920ffa6956b2212","features":{},"yanked":false,"links":"uzor_fonts_assets","pubtime":"2026-06-20T23:58:25Z"}
+{"name":"uzor-fonts","vers":"1.4.16","deps":[],"cksum":"348d017dff1af3580f532789c5fbdb0bb0644efca07fdb4b276497f690c8d3cd","features":{},"yanked":false,"links":"uzor_fonts_assets","pubtime":"2026-07-07T23:47:13Z"}
