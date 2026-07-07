@@ -1,0 +1,1 @@
+{"name":"oxiden-buffer","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a452fc3168c9430bdef0164722f5c55a56aee13417649ab32084a5d73174e12c","features":{},"yanked":false,"pubtime":"2026-07-07T20:21:33Z"}
