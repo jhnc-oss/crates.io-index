@@ -1,0 +1,1 @@
+{"name":"tmxr","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81fb761ece7f86b5e9abdba19b2172ce1734989a66e65eaa2d69fa7d39429805","features":{},"yanked":false,"pubtime":"2026-07-07T22:15:06Z"}
