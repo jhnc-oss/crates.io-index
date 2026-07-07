@@ -13,3 +13,4 @@
 {"name":"gize-testing","vers":"0.7.4","deps":[],"cksum":"7058534a9f1f4c9a5a953c32202cb48ee006155dcdf358ab883adc7e87790e1a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-07T14:15:20Z"}
 {"name":"gize-testing","vers":"0.7.5","deps":[],"cksum":"0b05315327cdc794c361f33d7f32820d396dd317924ed404bc16c81b56b2bff1","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-07T15:27:16Z"}
 {"name":"gize-testing","vers":"0.7.6","deps":[],"cksum":"b30941d5748bd4c8add2c19432628ae46ce4fb3da5b20ab301eb30ff8dbb0842","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-07T17:16:10Z"}
+{"name":"gize-testing","vers":"0.7.7","deps":[],"cksum":"593acdd326ef8877c2616179f70a01e5d25f2d4c25012c7a912f48b8bd1144a2","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-07T18:52:12Z"}
