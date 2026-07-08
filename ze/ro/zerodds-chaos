@@ -2,3 +2,4 @@
 {"name":"zerodds-chaos","vers":"1.0.0-rc.3","deps":[],"cksum":"5d713cb4bd33f5aa21e71045e04648e08faca574c66a4a776e2733c92dce217b","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-18T22:31:48Z"}
 {"name":"zerodds-chaos","vers":"1.0.0-rc.3.1","deps":[],"cksum":"7581dd82fd07620f7d40bae8693715067bb21564ba7feac66773afd43496f788","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-20T14:57:00Z"}
 {"name":"zerodds-chaos","vers":"1.0.0-rc.4","deps":[],"cksum":"dfc3ad44322c4d3852078a7169867c74e6d6f90aed28bbf628ac57b2566ae3e9","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-29T22:43:22Z"}
+{"name":"zerodds-chaos","vers":"1.0.0-rc.5","deps":[],"cksum":"26bb84479a70e1eee3e630724b377015ee16751569c849c2a6aa5a8a15092481","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-08T23:17:48Z"}
