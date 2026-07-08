@@ -1,2 +1,3 @@
 {"name":"hikari-core","vers":"0.1.1","deps":[],"cksum":"40c5d8f8ac8a62b1d1327a2d5b256c73198fc702be2ae2a7c5cce7a761e80691","features":{},"yanked":false,"pubtime":"2026-07-08T21:42:01Z"}
 {"name":"hikari-core","vers":"0.1.2","deps":[],"cksum":"aba7ec15221525f51361accc68d2f809fd6a95a88ef770c4da9960aa01296b16","features":{},"yanked":false,"pubtime":"2026-07-08T22:27:54Z"}
+{"name":"hikari-core","vers":"0.1.3","deps":[],"cksum":"1de46683d04b25817f6495c3288c8e9abca4c0d4a2f5baaa9e7d82949afeb740","features":{},"yanked":false,"pubtime":"2026-07-08T22:48:58Z"}
