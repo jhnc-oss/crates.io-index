@@ -1,1 +1,2 @@
 {"name":"cloud-sdk","vers":"0.1.0","deps":[],"cksum":"5ec7de911c21ca53f131b5868d28fa821986161b4f5ddb3677bc8254fe88c252","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-08T11:55:01Z"}
+{"name":"cloud-sdk","vers":"0.2.0","deps":[],"cksum":"61f811c356f5a99e67eadaca45033d0ea4b64af1a531ae652be962c94390489a","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-08T12:39:41Z"}
