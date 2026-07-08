@@ -1,0 +1,1 @@
+{"name":"codewandler-flux-policy","vers":"0.9.3","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2cea9ee585c69281277e977e4bb673f928bea3bb9cdf1e7fe46b7c6742712a06","features":{},"yanked":false,"pubtime":"2026-07-08T10:13:00Z"}
