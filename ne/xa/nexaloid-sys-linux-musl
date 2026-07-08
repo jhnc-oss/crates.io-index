@@ -6,3 +6,4 @@
 {"name":"nexaloid-sys-linux-musl","vers":"0.1.17","deps":[],"cksum":"02799294d66f5e6b744b69c12729fc132d6894882d4847d97be8d86540f0b720","features":{},"yanked":false,"links":"nexaloid_prebuilt_linux_musl","pubtime":"2026-07-07T14:46:48Z"}
 {"name":"nexaloid-sys-linux-musl","vers":"0.1.18","deps":[],"cksum":"af33b2027dba0b916d4f0b16e4f27ca1e323ce8c07998ee424a13cb4493f7e79","features":{},"yanked":false,"links":"nexaloid_prebuilt_linux_musl","pubtime":"2026-07-07T17:37:35Z"}
 {"name":"nexaloid-sys-linux-musl","vers":"0.1.20","deps":[],"cksum":"6ffe53d04f590fa67edfdc30967aacfc2350ed73e53da95b1fe68144d41d323b","features":{},"yanked":false,"links":"nexaloid_prebuilt_linux_musl","pubtime":"2026-07-08T10:17:59Z"}
+{"name":"nexaloid-sys-linux-musl","vers":"0.1.21","deps":[],"cksum":"02695c3ae16560814fa8f3561cd8dd6210ddf1c864674df714c0af77eb517a16","features":{},"yanked":false,"links":"nexaloid_prebuilt_linux_musl","pubtime":"2026-07-08T11:04:34Z"}
