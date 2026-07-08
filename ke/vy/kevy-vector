@@ -3,3 +3,4 @@
 {"name":"kevy-vector","vers":"3.17.0","deps":[],"cksum":"228a5d84c1088f83c0a526dc7ace5fdc32fca1aef0fde6442326aa7355353ff1","features":{},"yanked":false,"pubtime":"2026-07-06T04:09:44Z"}
 {"name":"kevy-vector","vers":"3.17.1","deps":[],"cksum":"1b0e8719895e6dbcd224bc9efb2a2f8cb25c46ef93028e82dce3feeefb1018ba","features":{},"yanked":false,"pubtime":"2026-07-06T06:36:59Z"}
 {"name":"kevy-vector","vers":"3.17.2","deps":[],"cksum":"a9ab124eeba9daef2cd06a381bbdd5889d628a6e9a8f4a14eff4023527138085","features":{},"yanked":false,"pubtime":"2026-07-06T07:26:11Z"}
+{"name":"kevy-vector","vers":"3.17.3","deps":[],"cksum":"c1ddea95b5beb2d8660c506de4d0ed3dc544f8e7c8be2146817e636e7e298407","features":{},"yanked":false,"pubtime":"2026-07-08T10:21:14Z"}
