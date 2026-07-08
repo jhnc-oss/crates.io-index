@@ -39,3 +39,4 @@
 {"name":"terminal-jarvis","vers":"0.1.4","deps":[],"cksum":"079242dbf8b8d583f8e710d08983c641dfa69c69125b28f0511cd800c8a2c915","features":{},"yanked":false,"pubtime":"2026-06-27T23:51:43Z"}
 {"name":"terminal-jarvis","vers":"0.1.5","deps":[],"cksum":"e685d231eb8516b6951a27b146e9e43e0b4b6d6c0b1c137191136456e9874be0","features":{},"yanked":false,"pubtime":"2026-06-28T23:43:05Z"}
 {"name":"terminal-jarvis","vers":"0.1.6","deps":[],"cksum":"5782558ef27af7773b874c4e1dafbd93ba9ca409cf2c11bd8e603e4c33eb1cfa","features":{},"yanked":false,"pubtime":"2026-06-30T14:16:46Z"}
+{"name":"terminal-jarvis","vers":"0.1.7","deps":[],"cksum":"72396bd50f3cde37b468680b065c0c1bd30a19f16ae41a52f27e41e6c8dceac3","features":{},"yanked":false,"pubtime":"2026-07-08T00:44:54Z"}
