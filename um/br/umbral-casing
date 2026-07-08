@@ -3,3 +3,4 @@
 {"name":"umbral-casing","vers":"0.0.3","deps":[],"cksum":"dfd4fa417a032d047d2fe2ae9521266baae5920382d279d7ec6fd7e6beefccad","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-29T03:24:12Z"}
 {"name":"umbral-casing","vers":"0.0.4","deps":[],"cksum":"31170a3eede1cb0af5a59389992d197904d0b8ca6fc745b42154fa85ae8833ca","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-29T22:31:56Z"}
 {"name":"umbral-casing","vers":"0.0.5","deps":[],"cksum":"48ec33f44635cb487a58bc8b2b280c304bbf3e5d2f13610cb6a2abd719a08198","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-05T21:27:35Z"}
+{"name":"umbral-casing","vers":"0.0.6","deps":[],"cksum":"9f063685fc29b7b047def6df06e9880ee9f200c4fc329b8af4b339419e43c57c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-08T00:02:35Z"}
