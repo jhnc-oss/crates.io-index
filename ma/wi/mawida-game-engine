@@ -1,0 +1,1 @@
+{"name":"mawida-game-engine","vers":"0.4.0","deps":[{"name":"mawida","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87e1d95ef21cfa6fbce81710627be28187371bb4887148dc39413294055094e6","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-07-08T03:28:17Z"}
