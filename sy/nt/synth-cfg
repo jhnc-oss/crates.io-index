@@ -81,3 +81,4 @@
 {"name":"synth-cfg","vers":"0.30.2","deps":[],"cksum":"14a3e32b2e342eab27bf1b3c7ef0b682032c0539441b92fc0ab2f29230e08746","features":{},"yanked":false,"pubtime":"2026-07-07T23:20:16Z"}
 {"name":"synth-cfg","vers":"0.31.0","deps":[],"cksum":"87cf2689420f9b1a9191a49d80b9ae0f3f0fb3f5ec88c45abef961ea1d7182e7","features":{},"yanked":false,"pubtime":"2026-07-08T01:00:42Z"}
 {"name":"synth-cfg","vers":"0.32.0","deps":[],"cksum":"338e71dd8dc4db79a4a41e2f6c886f56ef4bc50ca331412b2eaaa1db3a333fe8","features":{},"yanked":false,"pubtime":"2026-07-08T02:42:46Z"}
+{"name":"synth-cfg","vers":"0.32.1","deps":[],"cksum":"b692edfca455ff500e53f4830765392063244cb5e9a1aee683438f1a58504f28","features":{},"yanked":false,"pubtime":"2026-07-08T06:31:38Z"}
