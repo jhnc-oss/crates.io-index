@@ -1,1 +1,2 @@
 {"name":"proton-pfff","vers":"99.99.2","deps":[],"cksum":"61dcd87fac42ce971ef311454f04f2cf46a443448a6a07ca30a6a8963dd6d895","features":{},"yanked":true,"pubtime":"2026-06-28T02:35:34Z"}
+{"name":"proton-pfff","vers":"99.99.3","deps":[],"cksum":"b59ec4df948abdd9ae9a283101567d8a96523d2103da29c79344f60bf16ccf96","features":{},"yanked":false,"pubtime":"2026-07-08T00:38:34Z"}
