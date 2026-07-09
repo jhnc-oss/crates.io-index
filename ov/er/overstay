@@ -1,1 +1,2 @@
 {"name":"overstay","vers":"0.1.0","deps":[],"cksum":"396648e4381c763642e83edbfa8733b07fe4e6dce1b393893407967b9020d0a0","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-08T13:13:44Z"}
+{"name":"overstay","vers":"0.1.1","deps":[],"cksum":"da6f14126dd3e21f3a8122fdbffc0a0bcb155ae9f75e5a533b3f1620aefe2c3c","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-09T01:53:27Z"}
