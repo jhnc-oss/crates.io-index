@@ -1,0 +1,1 @@
+{"name":"moa_bootstack","vers":"0.1.5","deps":[{"name":"moa_uapi","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9a695d9e9a4f7931c5372dc2ea01de4a7ce6a0116b09b4a6b7c2a0eedc7f4d85","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-09T15:36:53Z"}
