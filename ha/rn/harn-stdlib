@@ -200,3 +200,4 @@
 {"name":"harn-stdlib","vers":"0.10.0","deps":[],"cksum":"74259fd3bb7a2e7587ac93e6344023ee419fd9def9bf1dedc12443e977a4db77","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-07T06:23:27Z"}
 {"name":"harn-stdlib","vers":"0.10.1","deps":[],"cksum":"90257c39b84ce8f40e7220e536018a3e633c399b071c5b709a5ca028d2ac14bf","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-08T14:35:07Z"}
 {"name":"harn-stdlib","vers":"0.10.2","deps":[],"cksum":"3a884d86ae81891845c386eb826b22b0f57f051eb0ebec2d823802525a8d6e79","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-09T00:51:44Z"}
+{"name":"harn-stdlib","vers":"0.10.3","deps":[],"cksum":"1fee67c8c3350a564ecf669238224b91899f49a944c35aa7fff32ca3a6a1f9e2","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-09T06:55:13Z"}
