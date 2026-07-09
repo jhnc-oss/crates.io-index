@@ -35,3 +35,4 @@
 {"name":"lucide-icon-name","vers":"3.21.0","deps":[],"cksum":"527f7263a9008d0e790c7448c73717fae306dc37747413a07faa9ba467432bf3","features":{},"yanked":false,"pubtime":"2026-06-27T14:30:15Z"}
 {"name":"lucide-icon-name","vers":"3.22.0","deps":[],"cksum":"b14ce83e8633f83ada3060d2526c83ed321c0f8338cd6983900055300abc42d9","features":{},"yanked":false,"pubtime":"2026-06-28T18:43:49Z"}
 {"name":"lucide-icon-name","vers":"3.23.0","deps":[],"cksum":"f3f2fd3dc9ae4700e732c2092c4d60ba56877e2d324a12f6b6d7a9d7e0f37f98","features":{},"yanked":false,"pubtime":"2026-07-02T21:14:33Z"}
+{"name":"lucide-icon-name","vers":"3.24.0","deps":[],"cksum":"83403c44e53e5a01fb1c634ee86084a07600482e936d79d0a95ac04f5da1eb6a","features":{},"yanked":false,"pubtime":"2026-07-09T19:29:41Z"}
