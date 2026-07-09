@@ -1,0 +1,1 @@
+{"name":"vite-static-shared","vers":"0.4.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8d25c24751c932a0bf1faa073111c9157ae0fc4fa47aae3a03a9039db0e76c5","features":{},"yanked":false,"pubtime":"2026-07-09T10:07:02Z"}
