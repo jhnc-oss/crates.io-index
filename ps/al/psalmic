@@ -1,0 +1,1 @@
+{"name":"psalmic","vers":"0.1.0","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_arch = \"wasm32\")","kind":"normal"}],"cksum":"f8e5bddbd2ef9b1831f3d35e11e0afddcde5c80f06b4985d14dfefc0fce9fa6a","features":{},"yanked":false,"pubtime":"2026-07-09T02:58:41Z"}
