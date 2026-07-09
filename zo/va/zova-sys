@@ -5,3 +5,4 @@
 {"name":"zova-sys","vers":"0.21.0","deps":[],"cksum":"32755b9afe40bd5966ca5afee3494a728168c1d10d584cbeaabf63c4865af1d0","features":{},"yanked":false,"links":"zova","rust_version":"1.79","pubtime":"2026-07-02T18:45:01Z"}
 {"name":"zova-sys","vers":"0.21.1","deps":[],"cksum":"ecd3862a062d349f3a151e220c63cd965e003ba252c87fcc24b46cea053b75af","features":{},"yanked":false,"links":"zova","rust_version":"1.79","pubtime":"2026-07-06T08:24:25Z"}
 {"name":"zova-sys","vers":"0.21.2","deps":[],"cksum":"cbdb222d8f6f62b8fad2854b70f935f0174b2fd9e90535fc81e189b6e7942db9","features":{},"yanked":false,"links":"zova","rust_version":"1.79","pubtime":"2026-07-07T18:17:53Z"}
+{"name":"zova-sys","vers":"0.22.0","deps":[],"cksum":"d89bdc298362ca2563549423290b1bcc049d7a6a6b62edc1fc3e6e472010f576","features":{},"yanked":false,"links":"zova","rust_version":"1.79","pubtime":"2026-07-09T14:14:41Z"}
