@@ -1,0 +1,1 @@
+{"name":"yog-inventory","vers":"0.2.0","deps":[{"name":"yog-abi","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a40fc360087f59bc7cf591a3c391bf6ff4d4a7176b8da6dfc1fc1b01c2cf1665","features":{},"yanked":false,"pubtime":"2026-07-09T10:48:32Z"}
