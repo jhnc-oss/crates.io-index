@@ -1,0 +1,1 @@
+{"name":"manual-share","vers":"0.1.0","deps":[],"cksum":"67f6278eb9973d8e2c23246baa89b71766adfccc199cc9884b010728e8a0fb8a","features":{"default":["panic-on-drop","do-not-panic-when-panicking"],"do-not-panic-when-panicking":["panic-on-drop"],"panic-on-drop":[]},"yanked":false,"pubtime":"2026-07-09T03:39:54Z"}
