@@ -1,1 +1,2 @@
 {"name":"bytediff","vers":"0.0.0","deps":[],"cksum":"23535cbd775e001b84a551ff498bdd177b8d3dde8713dcf0b7a492122c6985a5","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-09T17:12:21Z"}
+{"name":"bytediff","vers":"0.0.1","deps":[],"cksum":"bc4efe1be6b1599278d58b5a71ef03a08e80373bdfa6d5a07887220302ca1cf8","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-09T18:46:22Z"}
