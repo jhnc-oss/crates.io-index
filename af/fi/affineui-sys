@@ -1,2 +1,3 @@
 {"name":"affineui-sys","vers":"0.0.1","deps":[],"cksum":"a98d5dd0ab8a12bc4ee1593fcdd8b82c227c84cf93f39b58b52c00f229e3cd42","features":{},"yanked":false,"links":"affineui_c","pubtime":"2026-07-03T09:46:20Z"}
 {"name":"affineui-sys","vers":"0.0.2","deps":[],"cksum":"2a05f1f52c3b16008730fabe7014d8bf813f7e3252d9921759c423dc3f8a4ae9","features":{},"yanked":false,"links":"affineui_c","pubtime":"2026-07-03T10:33:34Z"}
+{"name":"affineui-sys","vers":"0.4.0-beta.1","deps":[],"cksum":"c78fced7bd5330b6e6e2e0b27100c4c093272af0edb2f74e2ab9a50f786a841c","features":{},"yanked":false,"links":"affineui_c","pubtime":"2026-07-09T11:04:11Z"}
