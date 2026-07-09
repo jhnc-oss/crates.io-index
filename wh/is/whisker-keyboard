@@ -1,0 +1,1 @@
+{"name":"whisker-keyboard","vers":"0.8.1","deps":[{"name":"whisker","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fae5a5235e4bc0ba107e3d8d87a35c848a23c9439859d17a2ff7ab3a7f860552","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-09T14:27:38Z"}
