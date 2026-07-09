@@ -20,3 +20,4 @@
 {"name":"flowscripter_template_rust_library","vers":"1.1.14","deps":[],"cksum":"ab2b7ca8bb5ed8f11afb231554483a8a5af08dc24fb8b51dd9c33e807d3a18e6","features":{},"yanked":false,"pubtime":"2026-06-29T06:04:07Z"}
 {"name":"flowscripter_template_rust_library","vers":"1.1.15","deps":[],"cksum":"90b8deb6b2c74768797ce4f5a30a5cb62b0ccee473b4aed2743ced5cf1568730","features":{},"yanked":false,"pubtime":"2026-07-02T05:10:24Z"}
 {"name":"flowscripter_template_rust_library","vers":"1.1.16","deps":[],"cksum":"2e53319030ba3f873f796cce701663cc30bbc3a6958fbe7ba687f49f4bfa157b","features":{},"yanked":false,"pubtime":"2026-07-06T05:23:36Z"}
+{"name":"flowscripter_template_rust_library","vers":"1.1.17","deps":[],"cksum":"135220559c6b8923660a3a9158f3db3ad2a3be0cddc9075cdbf6761e4e52d977","features":{},"yanked":false,"pubtime":"2026-07-09T05:18:56Z"}
