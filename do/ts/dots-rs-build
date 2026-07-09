@@ -1,3 +1,4 @@
 {"name":"dots-rs-build","vers":"0.1.0","deps":[],"cksum":"29adaa4940f67ad4883e94ff89f873d1aa37fbb018b6e0ea69bcf6a8d409c936","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-03T20:31:44Z"}
 {"name":"dots-rs-build","vers":"0.1.1","deps":[],"cksum":"4c6d5c1c8b4d09091c65c43150425143e669e55c03174df1f647098787bcff0b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-05T09:38:54Z"}
 {"name":"dots-rs-build","vers":"0.1.2","deps":[],"cksum":"3b59607a6ff8212aa734d140a560be636f2b010479cb161f300c4b524bebfd4c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-05T19:43:34Z"}
+{"name":"dots-rs-build","vers":"0.1.3","deps":[],"cksum":"0691bf615802656e77da9e3ac80f82ba46819a6d749ddd759628afe81919dad4","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-09T11:46:11Z"}
