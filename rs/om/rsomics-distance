@@ -1,0 +1,1 @@
+{"name":"rsomics-distance","vers":"0.1.0","deps":[{"name":"rsomics-common","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c91b684e5001911d06e5cf29db8be07f3483e29577b63980ae77ac6af6d9c77c","features":{},"yanked":false,"pubtime":"2026-07-09T11:51:11Z"}
