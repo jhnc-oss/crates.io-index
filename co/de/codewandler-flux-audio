@@ -1,2 +1,3 @@
 {"name":"codewandler-flux-audio","vers":"0.10.1","deps":[],"cksum":"ea26bef868493ae550ece426d45f0344a6e5a47d76d7472e4877f841b7e4649d","features":{},"yanked":false,"pubtime":"2026-07-08T15:33:33Z"}
 {"name":"codewandler-flux-audio","vers":"0.11.0","deps":[],"cksum":"1bec122549cfd121b61ff31c284108d5b424b7720e0e4656271f613279d567f0","features":{},"yanked":false,"pubtime":"2026-07-08T22:48:14Z"}
+{"name":"codewandler-flux-audio","vers":"0.11.1","deps":[],"cksum":"7cf7bb61cd80f29f65c358b00142855443b1c6a575850cb8e486bf2e33cb445e","features":{},"yanked":false,"pubtime":"2026-07-09T00:51:20Z"}
