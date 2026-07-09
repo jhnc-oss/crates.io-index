@@ -1,0 +1,1 @@
+{"name":"bmpf2fnt","vers":"0.1.0","deps":[{"name":"image","req":"^0.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5385e2acb1db63e135ad2352e2a8bece5864cb67650106cf966e415b85762b74","features":{},"yanked":false,"pubtime":"2026-07-09T13:35:51Z"}
