@@ -119,3 +119,4 @@
 {"name":"algorithmz","vers":"1.2.9","deps":[],"cksum":"a53aabf18e3739a7a8018938c076061407123e476a13e9889a78c9a6461fba41","features":{},"yanked":false,"pubtime":"2026-06-27T11:06:10Z"}
 {"name":"algorithmz","vers":"1.3.0","deps":[],"cksum":"24b78dc369aef0a88ec2502fc22599363649f8a8e7b428a5bb126b8dbf86e1de","features":{},"yanked":false,"pubtime":"2026-06-27T12:06:59Z"}
 {"name":"algorithmz","vers":"1.3.1","deps":[],"cksum":"501f4c88a606d3bd9a60c82bf5256bd34552ac36a89583bb66f725617dfdb210","features":{},"yanked":false,"pubtime":"2026-06-27T18:24:13Z"}
+{"name":"algorithmz","vers":"1.3.2","deps":[],"cksum":"9f2303f23cd85653229544867bb78b64e2eca337242335ae544c5e9a309c68a2","features":{},"yanked":false,"pubtime":"2026-07-09T05:21:37Z"}
