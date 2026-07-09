@@ -1,2 +1,3 @@
 {"name":"karet-filetype","vers":"0.1.0","deps":[],"cksum":"50a7094e8c7fb46bf374d13bed74ce5dd5049910fd55a1b2bbc366fb9a90bd24","features":{"default":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-02T02:43:53Z"}
 {"name":"karet-filetype","vers":"0.2.0","deps":[],"cksum":"624555d4d53f0c77b47c33d22a78d7512b6a482d64c5067ed7d694c76db4e18b","features":{"default":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-04T21:41:24Z"}
+{"name":"karet-filetype","vers":"0.2.1","deps":[],"cksum":"e44c05c6aa74306511a3a4e180bc933a8553016c191fe0e5427db84e4621283c","features":{"default":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-09T05:12:57Z"}
