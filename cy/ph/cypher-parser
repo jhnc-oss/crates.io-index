@@ -7,3 +7,4 @@
 {"name":"cypher-parser","vers":"0.6.1","deps":[],"cksum":"6403d8b84176f89a226e9c679dfba5a48166be08764c76836773c8524efcbb04","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-07-07T21:50:22Z"}
 {"name":"cypher-parser","vers":"0.7.0","deps":[],"cksum":"494974ff13509aef9ec6ee81c0407713e6de0113cb407d208bd1c84a02f577c2","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-07-08T16:23:20Z"}
 {"name":"cypher-parser","vers":"0.8.0","deps":[],"cksum":"6cce94538ada84e795eef18b84aa55172e358ec57dcc5af5917fa9c3f760b9c1","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-07-08T18:01:37Z"}
+{"name":"cypher-parser","vers":"0.8.1","deps":[],"cksum":"6ada60f869dbe5818d0ee40b06ad988627cc0d692d1ed42d692353bf0af8ddb6","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-07-09T20:59:46Z"}
