@@ -17,3 +17,4 @@
 {"name":"md5","vers":"0.6.1","deps":[],"cksum":"7e6bcd6433cff03a4bfc3d9834d504467db1f1cf6d0ea765d37d330249ed629d","features":{},"yanked":false,"pubtime":"2018-12-14T19:36:48Z"}
 {"name":"md5","vers":"0.7.0","deps":[],"cksum":"490cc448043f947bae3cbee9c203358d62dbee0db12107a74be5c30ccfd09771","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2019-11-01T19:48:57Z"}
 {"name":"md5","vers":"0.8.0","deps":[],"cksum":"ae960838283323069879657ca3de837e9f7bbb4c7bf6ea7f1b290d5e9476d2e0","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2025-06-26T13:20:34Z"}
+{"name":"md5","vers":"0.8.1","deps":[],"cksum":"7ebb8d8732c6a6df3d8f032a82911cfc747e00efb95cc46e8d0acd5b5b88570c","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-07-09T09:41:18Z"}
