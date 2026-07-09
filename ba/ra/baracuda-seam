@@ -5,3 +5,4 @@
 {"name":"baracuda-seam","vers":"0.0.1-alpha.73","deps":[],"cksum":"748282eaf465cb710e9470adab2f2eecb8aa9139f3fc29137338669e245f52e3","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-04T20:38:08Z"}
 {"name":"baracuda-seam","vers":"0.0.1-alpha.74","deps":[],"cksum":"63a9ec03313a25abac7168bc737770f6e607aecaa55ae8fc73c52e27916e6058","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-04T23:42:38Z"}
 {"name":"baracuda-seam","vers":"0.0.1-alpha.75","deps":[],"cksum":"1dbe376947ee62dc88d16f25720a5e077fd1c2fcba87e57f55e73110e6604a3f","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-08T15:44:18Z"}
+{"name":"baracuda-seam","vers":"0.0.1-alpha.76","deps":[],"cksum":"9393fbaf624ce1ca71839f547da8a7e8c29618c8c5ba03d6296a109e299932d1","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-09T01:00:46Z"}
