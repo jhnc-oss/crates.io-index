@@ -5,3 +5,4 @@
 {"name":"smath","vers":"0.2.1","deps":[],"cksum":"0f45838fc7327266bf19ba69a3d6f8e28934a62ccff6e265dfd3fe17e2a87681","features":{},"yanked":false,"pubtime":"2026-06-23T21:42:12Z"}
 {"name":"smath","vers":"0.2.2","deps":[],"cksum":"0e9c0d217e40b894038eeaf6daeb4718c1e111cfbe70ee522c6c0393839296af","features":{},"yanked":true,"pubtime":"2026-07-08T21:36:50Z"}
 {"name":"smath","vers":"0.3.0","deps":[],"cksum":"5fe545153f1e44f2aa455719f0d70d1f2a2820e096d3b2cc3582c19101b2cc79","features":{},"yanked":false,"pubtime":"2026-07-08T21:39:54Z"}
+{"name":"smath","vers":"0.3.1","deps":[],"cksum":"71672d514c10fe79baa38f7df12fe1b4159794ecb62bc3768e5e4e46b9471cf0","features":{},"yanked":false,"pubtime":"2026-07-09T02:21:06Z"}
