@@ -15,3 +15,4 @@
 {"name":"qubit-io","vers":"0.10.1","deps":[],"cksum":"0075646ff0a349a44693dd75b10b7ec365992dec79402aeaf9590e854afbcfb8","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-06-23T09:10:58Z"}
 {"name":"qubit-io","vers":"0.11.0","deps":[],"cksum":"944af82492780315b88e52e7bba28abe0e714bed11e1f8872f74916bc08c5569","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-06-27T16:17:25Z"}
 {"name":"qubit-io","vers":"0.11.1","deps":[],"cksum":"12405ba65a060a4b9dba92d530f034fa23452a3d2438cc8592f37db5b12a3ce5","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-06-27T18:19:49Z"}
+{"name":"qubit-io","vers":"0.12.0","deps":[],"cksum":"99f5eab9f8db5243e55ca598b0157a2ff41b6ed2072ac2dd61686454d5f920ed","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-09T11:07:53Z"}
