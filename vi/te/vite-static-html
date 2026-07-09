@@ -1,0 +1,1 @@
+{"name":"vite-static-html","vers":"0.4.0","deps":[{"name":"vite-static-shared","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"138fee5141085117b3bbc5e230e4778cc65f2b98645a3ca7d20a06ea1e0c0cd2","features":{},"yanked":false,"pubtime":"2026-07-09T10:07:05Z"}
