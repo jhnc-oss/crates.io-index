@@ -7,3 +7,4 @@
 {"name":"rusm-logfmt","vers":"0.4.2","deps":[],"cksum":"efcaf66f364f1dc96172c066342a97594dfd9153d7cf6eca2b9dd9d1e498d150","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-06-23T06:57:57Z"}
 {"name":"rusm-logfmt","vers":"0.5.0","deps":[],"cksum":"653ab3dab9ddfc40d649e04c72481b3d3a5400a9cdbe343b5d3e9e847a9a63dd","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-06-24T20:38:33Z"}
 {"name":"rusm-logfmt","vers":"0.6.0","deps":[],"cksum":"18f9a3c4eff2b260155e28de789dbe013fc042317fccf64cfd4437ff313f2025","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-06-25T12:02:52Z"}
+{"name":"rusm-logfmt","vers":"0.7.0","deps":[],"cksum":"413093f586a5fe7c410bc19407b9d4328980a0a35143079fc0901e71f8ec9b9f","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-09T05:36:18Z"}
