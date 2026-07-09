@@ -6,3 +6,4 @@
 {"name":"cloud-sdk","vers":"0.6.0","deps":[],"cksum":"aac288d1ff5c5db3181b91d34cb4cad6e73b4f84b9b2dcdc61815d89e3dde8ec","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-08T18:04:59Z"}
 {"name":"cloud-sdk","vers":"0.7.0","deps":[],"cksum":"24daf7bf820fefc5e8a7a4fc82d5c5bec38af1d26e150be62d36c7d7601d673f","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-09T12:14:39Z"}
 {"name":"cloud-sdk","vers":"0.8.0","deps":[],"cksum":"274c00b41e0302d2bc158ca6704088dc25043ace31b5b009515b11f3d0ed6fc0","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-09T16:06:08Z"}
+{"name":"cloud-sdk","vers":"0.9.0","deps":[],"cksum":"203d9ae6e226c45e5627144e706d4c8ffa0bd379cbc62e8a0a9ca7f10b3f82b4","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-09T17:10:45Z"}
