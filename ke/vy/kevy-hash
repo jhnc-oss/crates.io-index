@@ -74,3 +74,4 @@
 {"name":"kevy-hash","vers":"3.17.1","deps":[],"cksum":"b147ee791dd6117a71bd00391517569e1ab3dbd74ad679cbea04c070a8266629","features":{},"yanked":false,"pubtime":"2026-07-06T06:29:26Z"}
 {"name":"kevy-hash","vers":"3.17.2","deps":[],"cksum":"8a06d259e89b1940c2b4f550f1145e24432fdfffd1bd745374f942afe7a1f1d6","features":{},"yanked":false,"pubtime":"2026-07-06T07:18:43Z"}
 {"name":"kevy-hash","vers":"3.17.3","deps":[],"cksum":"371f7971ddfac6b1eea51874d21b16de645d58464ba17d3ca6357a5a25454003","features":{},"yanked":false,"pubtime":"2026-07-08T10:13:47Z"}
+{"name":"kevy-hash","vers":"3.17.4","deps":[],"cksum":"a2e06c4a19356c02b63bdf1fb936c7c452a2049ee8dbc99192e37e173df3aa39","features":{},"yanked":false,"rust_version":"1.96.1","pubtime":"2026-07-09T22:29:42Z"}
