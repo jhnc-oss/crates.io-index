@@ -1,0 +1,1 @@
+{"name":"rsomics-vcf-valfmt","vers":"0.1.0","deps":[{"name":"rsomics-common","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5bb915514dcdd449317cc837cb78d2f518e11fe4eefcf2982f67df3ba46b8d7a","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-07-09T16:49:22Z"}
