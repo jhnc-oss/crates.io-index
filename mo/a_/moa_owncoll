@@ -1,0 +1,1 @@
+{"name":"moa_owncoll","vers":"0.1.5","deps":[{"name":"moa_collections","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"dcfe51218dd6066037055e19558b22a5ef98505d15e2b0b4cec9384007e5059f","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-09T14:26:37Z"}
