@@ -18,3 +18,4 @@
 {"name":"mirx","vers":"0.39.1","deps":[],"cksum":"623f5f43457edcf8a08e2186792113c1da3f265a3f4ebaad4073defa895fcf18","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-07-03T12:15:54Z"}
 {"name":"mirx","vers":"0.39.2","deps":[],"cksum":"f0ba971e0d73a97f0a6d229bc91419af70386758a27765a6479d5f09791d6185","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-07-05T08:19:35Z"}
 {"name":"mirx","vers":"0.40.0","deps":[],"cksum":"485eb4be6b0fe742509d2c4c820f4dc642e58dbe3a780350732226854b38b0c7","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-07-07T09:19:52Z"}
+{"name":"mirx","vers":"0.41.0","deps":[],"cksum":"c632df224013da315dc53865cc54dad93674fdf26372e2710c00537413bfa00a","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-07-09T10:40:34Z"}
