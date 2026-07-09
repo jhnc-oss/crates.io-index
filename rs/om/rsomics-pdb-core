@@ -1,0 +1,1 @@
+{"name":"rsomics-pdb-core","vers":"0.1.0","deps":[{"name":"rsomics-common","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56db9aa53ad092ff1322452c05e0c40d855c08fa8ffcac5b3fc02e00a61cfff6","features":{},"yanked":false,"pubtime":"2026-07-09T14:01:13Z"}
