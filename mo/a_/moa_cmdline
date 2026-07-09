@@ -1,0 +1,1 @@
+{"name":"moa_cmdline","vers":"0.1.5","deps":[{"name":"moa_linksym","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0274eb1d8ffe3caa3c6e4b75286fea91e87b26d215514fc9eff6d7df1c3a937c","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-09T14:46:45Z"}
