@@ -1,1 +1,2 @@
 {"name":"knurl-core","vers":"0.1.0","deps":[],"cksum":"4409599a82d6fdcd2d7f9baebceeb7fb63d359bd09b82543c4cf5508846d7424","features":{"mock":[]},"yanked":false,"pubtime":"2026-07-06T09:33:02Z"}
+{"name":"knurl-core","vers":"0.1.1","deps":[],"cksum":"c7c6d28d6e6d4eaf2b76a3e8c5f3ffb1057756312e9f5b0b7fe5ca2b2dde44c7","features":{"mock":[]},"yanked":false,"pubtime":"2026-07-09T05:50:01Z"}
