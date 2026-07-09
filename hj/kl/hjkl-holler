@@ -11,3 +11,4 @@
 {"name":"hjkl-holler","vers":"0.32.0","deps":[],"cksum":"3dd305e19fe0ae5799e7fd59af34d1b0c8a60faa3d6ed2e6ff3ec321da7fca8e","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-11T12:19:33Z"}
 {"name":"hjkl-holler","vers":"0.33.2","deps":[],"cksum":"707b2c816e596ec2c240ca7735882d0bf7e815ac7453b2f5da7e4bd07fae635d","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-24T22:28:20Z"}
 {"name":"hjkl-holler","vers":"0.33.3","deps":[],"cksum":"cdf17262e5d896a9be5aeb3f11f7c39763df89fd790700dfada8575866ea1ffb","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-01T03:01:03Z"}
+{"name":"hjkl-holler","vers":"0.33.4","deps":[],"cksum":"907bc112c97a9e124e8a81d10b508cca0b1345b482dcc3393debfbb4ac3162d6","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-09T12:31:14Z"}
