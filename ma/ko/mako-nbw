@@ -5,3 +5,4 @@
 {"name":"mako-nbw","vers":"0.5.0","deps":[],"cksum":"a74d47ef912e4c7d5e464c3e1ab0bee501ee5108554422ee151b0d064bc4ccb1","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-01T23:41:06Z"}
 {"name":"mako-nbw","vers":"0.6.0","deps":[],"cksum":"4eda1a2e640a7eb5fb1b9de2db19daa8cc4b2d6830971c31060de4f762b5638f","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-02T21:55:09Z"}
 {"name":"mako-nbw","vers":"0.7.0","deps":[],"cksum":"d824ac7420f7c22f26150fe755afe8b37e1623ca6f109b2b3f2e41fc9e96f0d1","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-03T21:54:27Z"}
+{"name":"mako-nbw","vers":"0.8.0","deps":[],"cksum":"b4ba93b1b2124e3d78120661b59b1cbd480b24de93d27bf303427ecedce434aa","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-09T17:20:59Z"}
