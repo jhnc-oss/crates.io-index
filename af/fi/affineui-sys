@@ -2,3 +2,4 @@
 {"name":"affineui-sys","vers":"0.0.2","deps":[],"cksum":"2a05f1f52c3b16008730fabe7014d8bf813f7e3252d9921759c423dc3f8a4ae9","features":{},"yanked":false,"links":"affineui_c","pubtime":"2026-07-03T10:33:34Z"}
 {"name":"affineui-sys","vers":"0.4.0-beta.1","deps":[],"cksum":"c78fced7bd5330b6e6e2e0b27100c4c093272af0edb2f74e2ab9a50f786a841c","features":{},"yanked":false,"links":"affineui_c","pubtime":"2026-07-09T11:04:11Z"}
 {"name":"affineui-sys","vers":"0.4.0-beta.2","deps":[],"cksum":"a7e53108365e547f667aeb6dd594d617b9e80763b902be4c374b0cf9bf0391f2","features":{},"yanked":false,"links":"affineui_c","pubtime":"2026-07-09T11:18:37Z"}
+{"name":"affineui-sys","vers":"0.4.0-beta.3","deps":[],"cksum":"13e60a34baffe92525ecd4f1a2fb8aa73da19b59454ec0762b3812b252c39bc0","features":{},"yanked":false,"links":"affineui_c","pubtime":"2026-07-09T11:37:19Z"}
