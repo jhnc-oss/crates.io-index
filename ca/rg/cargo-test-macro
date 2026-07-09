@@ -17,3 +17,4 @@
 {"name":"cargo-test-macro","vers":"0.4.9","deps":[],"cksum":"7bd89c170e33cea7b7b15d0b87c53a4c1545e67c5dc5eb3ae1fd623385740dbd","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-03-05T18:44:44Z"}
 {"name":"cargo-test-macro","vers":"0.4.10","deps":[],"cksum":"451fa9aadc87b4ee4b2b477cf8491822e759c4bf0620bb951c1a7ca076900fe8","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-04-18T14:37:56Z"}
 {"name":"cargo-test-macro","vers":"0.4.11","deps":[],"cksum":"4a4b1de141672a8d5ca76704ea36e5c3828c0146b934dc571deece5310169c9d","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-05-28T17:51:16Z"}
+{"name":"cargo-test-macro","vers":"0.4.12","deps":[],"cksum":"c621dbb9daf99010477d9e63a905aa26fc2e9be0410906bda20d461c72abb604","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-09T12:27:27Z"}
