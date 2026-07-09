@@ -4,3 +4,4 @@
 {"name":"kevy-text","vers":"3.17.1","deps":[],"cksum":"32dd244aeacb837de2772784f9316f6a445f4440a24e9db1c9b2f419b5057d0d","features":{},"yanked":false,"pubtime":"2026-07-06T06:36:21Z"}
 {"name":"kevy-text","vers":"3.17.2","deps":[],"cksum":"f65a95bc87c8bf3536bad9736c522231c08b7fdfb77a8841f780fe5b6f5e5073","features":{},"yanked":false,"pubtime":"2026-07-06T07:25:33Z"}
 {"name":"kevy-text","vers":"3.17.3","deps":[],"cksum":"4115e1fa4910ee8ad51cf9c2ef726fd45e4e298987981cf27475e7f4203dbafc","features":{},"yanked":false,"pubtime":"2026-07-08T10:20:37Z"}
+{"name":"kevy-text","vers":"3.17.4","deps":[],"cksum":"a0f632dec8d096353062189335850ac18058c33e229b29ab410676880e7e335f","features":{},"yanked":false,"rust_version":"1.96.1","pubtime":"2026-07-09T22:36:38Z"}
