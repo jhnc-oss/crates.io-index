@@ -17,3 +17,4 @@
 {"name":"velr-runtime-linux-aarch64","vers":"0.2.29","deps":[],"cksum":"8747637afabdc0a009ec4465bb61d5eaa209b4a9bae89a0a84b1fe7c045eb63d","features":{},"yanked":false,"pubtime":"2026-06-27T23:59:56Z"}
 {"name":"velr-runtime-linux-aarch64","vers":"0.2.32","deps":[],"cksum":"184bf2ad419f74ab0cb28d31dbfee8fb359c0f598f650e98aeafa8f7be231096","features":{},"yanked":false,"pubtime":"2026-07-03T23:52:41Z"}
 {"name":"velr-runtime-linux-aarch64","vers":"0.2.36","deps":[],"cksum":"9e661708d8dfd7bea541fadf6bfb01eb5635461a82b2d255e675713f1e86cba0","features":{},"yanked":false,"pubtime":"2026-07-06T22:15:33Z"}
+{"name":"velr-runtime-linux-aarch64","vers":"0.2.38","deps":[],"cksum":"7910393daaed267ceb33c163a5aa885bc6b34f2b861ac824e3acfa24f2b841b7","features":{},"yanked":false,"pubtime":"2026-07-09T18:58:23Z"}
