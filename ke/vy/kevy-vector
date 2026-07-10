@@ -5,3 +5,4 @@
 {"name":"kevy-vector","vers":"3.17.2","deps":[],"cksum":"a9ab124eeba9daef2cd06a381bbdd5889d628a6e9a8f4a14eff4023527138085","features":{},"yanked":false,"pubtime":"2026-07-06T07:26:11Z"}
 {"name":"kevy-vector","vers":"3.17.3","deps":[],"cksum":"c1ddea95b5beb2d8660c506de4d0ed3dc544f8e7c8be2146817e636e7e298407","features":{},"yanked":false,"pubtime":"2026-07-08T10:21:14Z"}
 {"name":"kevy-vector","vers":"3.17.4","deps":[],"cksum":"c005bc0845bd0ad589dfb787879b8ebe1b6212d5f10c2ebe2b5db6adddafd33a","features":{},"yanked":false,"rust_version":"1.96.1","pubtime":"2026-07-09T22:37:16Z"}
+{"name":"kevy-vector","vers":"3.18.0","deps":[],"cksum":"5d6620422bd7b2ca755e70a620ef20e786da14cd9943ef0bb59ca8b5369fd3ac","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-10T18:44:39Z"}
