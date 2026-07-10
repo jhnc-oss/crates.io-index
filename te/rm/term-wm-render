@@ -4,3 +4,4 @@
 {"name":"term-wm-render","vers":"0.8.14-alpha","deps":[],"cksum":"6ac3109a7572282aac6cfef8bf5bd5f25f73780b91f31764c6729a802c7ad0a7","features":{},"yanked":false,"pubtime":"2026-07-09T19:43:30Z"}
 {"name":"term-wm-render","vers":"0.8.15-alpha","deps":[],"cksum":"5aa0c8647b15928e98392c21cd8c26cd2c0b4760a93d93c34e8aac2ac7efe102","features":{},"yanked":false,"pubtime":"2026-07-09T21:21:06Z"}
 {"name":"term-wm-render","vers":"0.8.16-alpha","deps":[],"cksum":"ef701e0e1d784741ac5766c4226ca8c22e0a094f426e1160744cf4e5fb7be708","features":{},"yanked":false,"pubtime":"2026-07-09T22:22:14Z"}
+{"name":"term-wm-render","vers":"0.8.17-alpha","deps":[],"cksum":"cc1314b82c34523fedae98a5576cd3cb7ea19cbecb96d071b3dd77727baac3c8","features":{},"yanked":false,"pubtime":"2026-07-10T18:03:48Z"}
