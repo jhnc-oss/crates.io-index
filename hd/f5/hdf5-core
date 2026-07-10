@@ -1,0 +1,1 @@
+{"name":"hdf5-core","vers":"0.8.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51fed46a1a89bbce53b678d4a65aa90bb9c4a4f8d4fb314b879d1b6d0b50fde4","features":{},"yanked":false,"rust_version":"1.81","pubtime":"2026-07-10T13:41:57Z"}
