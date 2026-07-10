@@ -1,0 +1,1 @@
+{"name":"build198x-adf","vers":"0.2.0","deps":[{"name":"format-commodore-amiga-adf","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d115ab89d6c0b450e9b77183a904966ee959072be6d9eb3cc9435501e2f1a57c","features":{},"yanked":false,"pubtime":"2026-07-10T13:45:05Z"}
