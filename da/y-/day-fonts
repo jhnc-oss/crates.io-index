@@ -1,1 +1,2 @@
 {"name":"day-fonts","vers":"0.0.4","deps":[],"cksum":"83b2974e3bfeea7e1caeb78ba47472c6300bb0740a4f359f20c258fa2685f047","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-10T17:36:27Z"}
+{"name":"day-fonts","vers":"0.0.5","deps":[],"cksum":"e4eccaa59763d2c323c34296ade8b23512fc9948a2bbfbf320b607b5364f397b","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-10T18:10:42Z"}
