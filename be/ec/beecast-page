@@ -2,3 +2,4 @@
 {"name":"beecast-page","vers":"0.2.1","deps":[],"cksum":"93fa054a0bbc5f4d20d92fae4c106322089e173674a5e0d3b61537950c552f04","features":{},"yanked":false,"pubtime":"2026-07-06T19:17:04Z"}
 {"name":"beecast-page","vers":"0.3.0","deps":[],"cksum":"14cd78b9816a5092026fd78e23228d2b3cd1ddbdedd8e5d36f87b345b9c3b931","features":{},"yanked":false,"pubtime":"2026-07-09T20:27:53Z"}
 {"name":"beecast-page","vers":"0.3.1","deps":[],"cksum":"1710a0f59401b46d9b087c64abd356ad2b8e063fbf7c19039d89307158571c5d","features":{},"yanked":false,"pubtime":"2026-07-10T01:57:29Z"}
+{"name":"beecast-page","vers":"0.4.0","deps":[{"name":"beecast-player","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f3ca7bc82682ee31c7ee37ce9c73ce94b90c1d469fca8b4a9011ae7a5e8f676","features":{},"yanked":false,"pubtime":"2026-07-10T06:05:02Z"}
