@@ -11,3 +11,4 @@
 {"name":"stack-array","vers":"0.3.0","deps":[],"cksum":"a3bef2ea936bd707dad48d3650687337eb643a0197859a25d171b0a0bf6c51af","features":{},"yanked":false,"pubtime":"2022-04-08T20:14:02Z"}
 {"name":"stack-array","vers":"0.4.0","deps":[],"cksum":"99a25c9742498e6fdc6c78046d8dbdbb375ccbf4935883a924a5870178e01fa4","features":{},"yanked":false,"pubtime":"2022-04-10T10:10:21Z"}
 {"name":"stack-array","vers":"0.4.1","deps":[],"cksum":"332be12b550e41ddc136fd0bd2ef1272e2a49e1ee2a843770f0ccbd86f6fd3b7","features":{},"yanked":false,"pubtime":"2022-04-10T21:02:02Z"}
+{"name":"stack-array","vers":"0.6.0","deps":[{"name":"constrangeiter","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3723fa89b81385e4d0159747e153acb03fc5eb9693e8b8928c11415fec662b73","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-10T10:22:33Z"}
