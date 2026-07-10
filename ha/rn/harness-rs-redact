@@ -1,0 +1,1 @@
+{"name":"harness-rs-redact","vers":"0.0.26","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ead99496846b640054053c6b56b363de854a80a8d8340e1498f2a657ea3f103","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-10T13:57:54Z"}
