@@ -1,3 +1,4 @@
 {"name":"variety","vers":"0.0.0","deps":[],"cksum":"7623bdc4815dc2d757344c114328ad925bb8a6df9ffc5a9498d5615a5c322cbe","features":{},"yanked":false,"pubtime":"2026-07-10T23:06:07Z"}
 {"name":"variety","vers":"0.1.0","deps":[],"cksum":"27dd4fe14eebfb92a1ab9c44a588d8c6a30b7e08586a1384adb048b3c5441e94","features":{},"yanked":false,"pubtime":"2026-07-10T23:17:02Z"}
 {"name":"variety","vers":"0.1.1","deps":[],"cksum":"052867c2c3cb5aeff14a4d4e7a298652a640a3f1c8bd6220885487f1a3dfaddc","features":{},"yanked":false,"pubtime":"2026-07-10T23:24:10Z"}
+{"name":"variety","vers":"0.1.2","deps":[],"cksum":"06553c565b286e0272240bb906847be9cf3762ec1517e22963f8411308a10e9f","features":{},"yanked":false,"pubtime":"2026-07-10T23:33:18Z"}
