@@ -2,3 +2,4 @@
 {"name":"bytediff","vers":"0.0.1","deps":[],"cksum":"bc4efe1be6b1599278d58b5a71ef03a08e80373bdfa6d5a07887220302ca1cf8","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-09T18:46:22Z"}
 {"name":"bytediff","vers":"0.0.2","deps":[],"cksum":"aac1c57d71acab36009e694c80bcda897eeb415a7841e1f421ed1c33cf44d971","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-09T19:04:14Z"}
 {"name":"bytediff","vers":"0.0.3","deps":[],"cksum":"9a40d90a1d892fdb61809b2c9ba4520c7a5bf9dd9a4831343201169cd5d95af6","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-09T23:43:24Z"}
+{"name":"bytediff","vers":"0.0.4","deps":[],"cksum":"3ab8ce4bebafa993ea93f19163bc0802211fc7435740af258d879652cc26068d","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-10T09:02:18Z"}
