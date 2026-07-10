@@ -1,0 +1,1 @@
+{"name":"veracrypt-forensic","vers":"0.1.0","deps":[{"name":"veracrypt","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"veracrypt-core"}],"cksum":"7077df1ce3c8db847422c464d4dd30198344cd9b4ad9d88fa374f4b8558a543d","features":{},"yanked":false,"rust_version":"1.81","pubtime":"2026-07-10T16:05:08Z"}
