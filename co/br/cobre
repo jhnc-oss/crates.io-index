@@ -33,3 +33,4 @@
 {"name":"cobre","vers":"0.8.2","deps":[],"cksum":"0c2a84946891a9eb074b7d3fd2ab7f2ccd1753c86ef1f7640eebd64f34f04223","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-17T10:03:02Z"}
 {"name":"cobre","vers":"0.9.0","deps":[],"cksum":"6a50edd84992e4f713dd79b81bd749f9f6a3daef885a4801d4d5bd34346e4e98","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-26T11:52:06Z"}
 {"name":"cobre","vers":"0.9.1","deps":[],"cksum":"4bf6f6b1f4d5e955035b487d044502d8d488998b9115faaa9cd3b60b4b219f33","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-27T02:28:25Z"}
+{"name":"cobre","vers":"0.10.0","deps":[],"cksum":"7a3adff335b91229fb580ec318e5f4e5f97d0b049e62bf4ff77d99099569d741","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-10T09:47:18Z"}
