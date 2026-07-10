@@ -1,0 +1,1 @@
+{"name":"grit-compat","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08677ab05ead912ccb49037a528ca855c31f7c29e8522f56d38fae2959a18159","features":{},"yanked":false,"pubtime":"2026-07-10T03:35:18Z"}
