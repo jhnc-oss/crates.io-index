@@ -15,7 +15,7 @@
 {"name":"libutils-cage","vers":"0.0.0","deps":[],"cksum":"d79ab9eb716155f014f773163190a93c5b024c653fc4a28e72c7f1f279e68779","features":{},"yanked":true,"rust_version":"1.98","pubtime":"2026-07-04T09:27:03Z"}
 {"name":"libutils-cage","vers":"0.0.1","deps":[],"cksum":"27c6908215ac0ed9c3b8dfde85065b6ce672a61562988b9a2f0962984359e7cb","features":{},"yanked":true,"rust_version":"1.98","pubtime":"2026-07-04T14:31:05Z"}
 {"name":"libutils-cage","vers":"0.0.2","deps":[],"cksum":"37e574f63360d601bf4035c92d9831cb1a8d7760172374101f39d44f08b53e01","features":{},"yanked":true,"rust_version":"1.98","pubtime":"2026-07-05T08:48:41Z"}
-{"name":"libutils-cage","vers":"0.0.3","deps":[],"cksum":"02932991bfd6bbb6908c5f7330492d0bd5fe93291590668433700d2a8d1f9beb","features":{},"yanked":true,"rust_version":"1.98","pubtime":"2026-07-05T18:03:01Z"}
+{"name":"libutils-cage","vers":"0.0.3","deps":[],"cksum":"02932991bfd6bbb6908c5f7330492d0bd5fe93291590668433700d2a8d1f9beb","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-05T18:03:01Z"}
 {"name":"libutils-cage","vers":"0.0.4","deps":[],"cksum":"6bebfacefb99100f48289d77128a92d2a28b6447fa7ba32fad89e58b446eaa7f","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-05T21:45:37Z"}
 {"name":"libutils-cage","vers":"0.0.5","deps":[],"cksum":"b54d35a44ddaca17ccbe4cf4dfba6f09d65f7e194e986a9237c7ca708b5e134b","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-06T07:37:58Z"}
 {"name":"libutils-cage","vers":"0.0.6","deps":[],"cksum":"3479673dd8d94940b6cab541fd83de8597b07dde77e1f94442483a496b00962e","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-07-07T05:14:46Z"}
