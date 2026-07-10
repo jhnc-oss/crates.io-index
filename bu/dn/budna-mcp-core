@@ -1,0 +1,1 @@
+{"name":"budna-mcp-core","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a97e03995f389a0e6c253b1f7d399e74f4e6649a00221af26b3ba8b47cb3effe","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-10T16:24:36Z"}
