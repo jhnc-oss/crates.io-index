@@ -1,0 +1,1 @@
+{"name":"sectorsync-wire","vers":"0.1.0","deps":[{"name":"sectorsync-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e4feb5a5ee64731a12edece3e1112cb83798d5042817c0e12ffce40217bcaefa","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-10T07:53:35Z"}
