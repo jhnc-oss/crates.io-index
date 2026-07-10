@@ -1,0 +1,1 @@
+{"name":"dioform-validation-adapter","vers":"0.1.0","deps":[{"name":"dioform-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2ab7aff8406e0eba1afa8aea603b155a4019e76623bee4e704ee27b5ab5dbac","features":{},"yanked":false,"pubtime":"2026-07-10T22:08:47Z"}
