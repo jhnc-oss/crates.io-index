@@ -1,0 +1,1 @@
+{"name":"netcdf-core","vers":"0.8.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60fa0f5fa16ad5b2b8c411faec6e21dc0fc3a7d5b360066e6a9dd480cf658b9f","features":{},"yanked":false,"rust_version":"1.81","pubtime":"2026-07-10T13:41:50Z"}
