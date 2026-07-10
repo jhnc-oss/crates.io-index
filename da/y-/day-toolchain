@@ -1,1 +1,2 @@
 {"name":"day-toolchain","vers":"0.0.4","deps":[],"cksum":"8d0116ae7271e591ee28be830f05d9ef9fb79324f1a891d87793b26bfd3005d5","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-10T17:36:27Z"}
+{"name":"day-toolchain","vers":"0.0.5","deps":[],"cksum":"22cbe0ed895e9ddc5ae3de7e91857310c581c95e6131562d5b70b36038109379","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-10T18:10:43Z"}
