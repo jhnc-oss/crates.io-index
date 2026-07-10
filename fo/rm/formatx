@@ -10,3 +10,4 @@
 {"name":"formatx","vers":"0.2.4","deps":[],"cksum":"d8866fac38f53fc87fa3ae1b09ddd723e0482f8fa74323518b4c59df2c55a00a","features":{},"yanked":false,"pubtime":"2025-05-04T09:25:41Z"}
 {"name":"formatx","vers":"0.3.0","deps":[],"cksum":"c40f9ee993b100102723f778c82d3daf1808c494ce2fd6e9a06d58d6e8e59748","features":{},"yanked":false,"pubtime":"2026-06-15T06:03:04Z"}
 {"name":"formatx","vers":"0.4.0","deps":[],"cksum":"fd882b15bde2f5246ceb3207511e62c8f707b0153273fbd6cea13e4c9faf2877","features":{},"yanked":false,"pubtime":"2026-07-06T11:04:17Z"}
+{"name":"formatx","vers":"0.4.1","deps":[],"cksum":"1144371193022ef5985fbe5edd35ca9112e778393b7ecd60600bcbae2583cc77","features":{},"yanked":false,"pubtime":"2026-07-10T03:46:40Z"}
