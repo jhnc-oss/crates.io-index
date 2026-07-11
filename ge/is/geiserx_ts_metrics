@@ -66,3 +66,4 @@
 {"name":"geiserx_ts_metrics","vers":"0.40.0","deps":[],"cksum":"f6b2f88deb632ddb46691c50b8b04660b938365af100818f91414e40b5804985","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-06-15T18:53:36Z"}
 {"name":"geiserx_ts_metrics","vers":"0.41.0","deps":[],"cksum":"dd65d38a320a014b78e995f6d50323c6c51c05db0beba20b9f8e7963ce8b628c","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-06-15T22:23:16Z"}
 {"name":"geiserx_ts_metrics","vers":"0.42.0","deps":[],"cksum":"00e86bed896663a10b9ecb480a0307a89e9ad7b223a6928159647d628c876499","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-06-15T23:29:10Z"}
+{"name":"geiserx_ts_metrics","vers":"0.42.1","deps":[],"cksum":"afc2a59cb82bc41aeb7386756e59f306ef37ea6ef818ebfd64e97ee1f3983033","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-07-11T11:04:33Z"}
