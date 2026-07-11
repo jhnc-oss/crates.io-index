@@ -1,0 +1,1 @@
+{"name":"edky","vers":"0.0.0","deps":[],"cksum":"50c2083bf5f6229c6c5625bf2dd3c867ca6a2c533dbba90fb4fd831f468e1fa5","features":{"all":[],"alloc":[],"default":["all","std"],"std":["alloc"],"unstable":[]},"yanked":false,"pubtime":"2026-07-11T14:12:59Z"}
