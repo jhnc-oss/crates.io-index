@@ -13,3 +13,4 @@
 {"name":"beecast-player","vers":"0.9.5","deps":[],"cksum":"cd05448154f8c872d4bd3a2b6b2300af01fc912d26843c6d4206e835f2d212fd","features":{},"yanked":false,"pubtime":"2026-07-11T09:54:01Z"}
 {"name":"beecast-player","vers":"0.10.0","deps":[],"cksum":"6780a863e0d746eac4ebbf8dd20220710691d27d45cfe75d2a237e881e6b3f17","features":{},"yanked":false,"pubtime":"2026-07-11T10:48:48Z"}
 {"name":"beecast-player","vers":"0.10.1","deps":[],"cksum":"27120c3e3ac03fd223294ad08b871cfe97a03658601cc52156b596ab61919f90","features":{},"yanked":false,"pubtime":"2026-07-11T18:02:23Z"}
+{"name":"beecast-player","vers":"0.10.2","deps":[],"cksum":"679ed59dacbc90207995b8c85f275067e5e2d418e5ad825f490660a1d7e14eca","features":{},"yanked":false,"pubtime":"2026-07-11T19:04:30Z"}
