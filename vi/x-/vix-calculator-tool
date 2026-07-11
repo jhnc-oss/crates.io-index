@@ -1,0 +1,1 @@
+{"name":"vix-calculator-tool","vers":"1.2.0","deps":[{"name":"evalexpr","req":"^13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82c53e93c17311d7e04ae7d77856d5bea4f5e217a31e6effef15e17c82833066","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-11T17:18:35Z"}
