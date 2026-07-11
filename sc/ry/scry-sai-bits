@@ -5,3 +5,4 @@
 {"name":"scry-sai-bits","vers":"2.7.0","deps":[],"cksum":"2300c5ecffd84653fbf7f8606ae239deafa44e538943a4c892390da4bf70fcd3","features":{},"yanked":false,"pubtime":"2026-06-30T21:43:39Z"}
 {"name":"scry-sai-bits","vers":"3.0.0","deps":[],"cksum":"0408db937bc95e5a9f1a5e8755ca0e255473c8168afdad6da95fcaf7f74c3725","features":{},"yanked":false,"pubtime":"2026-07-01T07:49:23Z"}
 {"name":"scry-sai-bits","vers":"3.1.0","deps":[],"cksum":"b4c882191f131699398f42232a7427bfb9971838a8dc9b42c36acc0f56610f43","features":{},"yanked":false,"pubtime":"2026-07-08T20:00:51Z"}
+{"name":"scry-sai-bits","vers":"3.2.0","deps":[],"cksum":"7d02dff78f6ae94fdaded456a38ee6f80c01f7433c30975c22d7148b656540a5","features":{},"yanked":false,"pubtime":"2026-07-11T07:37:52Z"}
