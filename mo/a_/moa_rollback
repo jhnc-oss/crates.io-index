@@ -1,1 +1,2 @@
 {"name":"moa_rollback","vers":"0.1.5","deps":[],"cksum":"59365d907136cf4a15e9ae8c1c3ba5fe509f2e45c0fe90be64cf1f2f73feea16","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-09T14:01:09Z"}
+{"name":"moa_rollback","vers":"0.2.0","deps":[],"cksum":"eb4d89a151001a87e21e3df347eebfa23c7c1841b48c69ade72e02327ae24d58","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-11T01:19:54Z"}
