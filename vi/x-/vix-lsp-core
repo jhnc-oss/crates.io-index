@@ -1,0 +1,1 @@
+{"name":"vix-lsp-core","vers":"1.2.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51454ae992b9513f95fd8b3af411b79521757f1ad82953eb70def8a381ddaf9c","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-11T12:12:50Z"}
