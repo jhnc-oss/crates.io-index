@@ -12,3 +12,4 @@
 {"name":"beecast-player","vers":"0.9.4","deps":[],"cksum":"11b7edf8387e0213acdf3052ba2fcd57b8ef3a579a86d2aa58d917838b7fc489","features":{},"yanked":false,"pubtime":"2026-07-11T01:08:21Z"}
 {"name":"beecast-player","vers":"0.9.5","deps":[],"cksum":"cd05448154f8c872d4bd3a2b6b2300af01fc912d26843c6d4206e835f2d212fd","features":{},"yanked":false,"pubtime":"2026-07-11T09:54:01Z"}
 {"name":"beecast-player","vers":"0.10.0","deps":[],"cksum":"6780a863e0d746eac4ebbf8dd20220710691d27d45cfe75d2a237e881e6b3f17","features":{},"yanked":false,"pubtime":"2026-07-11T10:48:48Z"}
+{"name":"beecast-player","vers":"0.10.1","deps":[],"cksum":"27120c3e3ac03fd223294ad08b871cfe97a03658601cc52156b596ab61919f90","features":{},"yanked":false,"pubtime":"2026-07-11T18:02:23Z"}
