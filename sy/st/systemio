@@ -1,0 +1,1 @@
+{"name":"systemio","vers":"0.0.0","deps":[{"name":"issuing","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71e7c31661efa3352b6261f9c4ec372fe2519d38fedfab6087004d4a29c8239c","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-11T20:52:39Z"}
