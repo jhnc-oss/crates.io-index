@@ -3,3 +3,4 @@
 {"name":"id_effect_macro","vers":"0.2.0","deps":[],"cksum":"2a90a845ef83d192faa885ed5799a747750b9a74e8735920bf27e41c33171c5c","features":{},"yanked":false,"pubtime":"2026-04-17T07:41:58Z"}
 {"name":"id_effect_macro","vers":"3.0.0","deps":[],"cksum":"d7cb456b806afa119c5630ea641415dc0dbf68f7aa7b5f7f01af2b2ee87cab5f","features":{},"yanked":true,"pubtime":"2026-06-20T00:15:33Z"}
 {"name":"id_effect_macro","vers":"0.3.0","deps":[],"cksum":"ca9d863f94e789ca4169f33407018a850bdbd534d47be5b7e1ec261a895225ad","features":{},"yanked":false,"pubtime":"2026-06-21T13:47:58Z"}
+{"name":"id_effect_macro","vers":"0.4.0","deps":[],"cksum":"69b5bc0d9464ccd40e1e4d0833753c7d8fa51a1a27838cde1bafc4b5ca4ac397","features":{},"yanked":false,"pubtime":"2026-07-11T14:13:51Z"}
