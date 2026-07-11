@@ -1,3 +1,4 @@
 {"name":"scry-sai-handle","vers":"3.0.0","deps":[],"cksum":"ce923d324abf84a7cb5c96b95edf7d6ceed4f37812b1b46846442e39b22bb1f2","features":{},"yanked":false,"pubtime":"2026-07-01T07:49:28Z"}
 {"name":"scry-sai-handle","vers":"3.1.0","deps":[],"cksum":"ebd29e36019270f4cfe079f85a281d44725ce9425b335fdc677add262fa03596","features":{},"yanked":false,"pubtime":"2026-07-08T20:00:58Z"}
 {"name":"scry-sai-handle","vers":"3.2.0","deps":[],"cksum":"718dc4738035c4462d3e270c73434e38e7626f0cf7f8a60f798474dd9d9b2b61","features":{},"yanked":false,"pubtime":"2026-07-11T07:37:58Z"}
+{"name":"scry-sai-handle","vers":"3.2.1","deps":[],"cksum":"d7c70f06264fd333771aa3b30121dd6ee446c64a04c81e8ae686a250d5531a4e","features":{},"yanked":false,"pubtime":"2026-07-11T11:49:42Z"}
