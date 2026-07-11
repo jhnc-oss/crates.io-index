@@ -1,0 +1,1 @@
+{"name":"katgpt-hla","vers":"0.1.0","deps":[{"name":"katgpt-types","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8260184d7c9839ac45937af9508a01a5e07cd46abd81f756251bbeb428aa458","features":{"default":[]},"yanked":false,"pubtime":"2026-07-11T11:04:57Z"}
