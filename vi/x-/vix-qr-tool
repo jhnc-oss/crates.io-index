@@ -1,0 +1,1 @@
+{"name":"vix-qr-tool","vers":"1.2.0","deps":[{"name":"qrcode","req":"^0.14","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bee2e17f46b96ffdafb6c5a1a33640968f3c882bcf55f0d6acd469e892141494","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-11T23:35:03Z"}
