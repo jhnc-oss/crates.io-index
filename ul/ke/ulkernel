@@ -1,0 +1,1 @@
+{"name":"ulkernel","vers":"0.1.0","deps":[],"cksum":"8534938bb041089845425a5d3b4effd9d4f77dd7f4a86fbdacdd060796916ce9","features":{"default":["driver-scalar"],"driver-avx2":[],"driver-avx512":[],"driver-neon":[],"driver-scalar":[],"driver-wgpu":[],"ffi":["std"],"std":[]},"yanked":false,"pubtime":"2026-07-11T04:32:20Z"}
