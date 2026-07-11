@@ -1,2 +1,3 @@
 {"name":"scry-sai-float","vers":"3.0.0","deps":[],"cksum":"d17c4f0068b5458e7a60439ec792a54c8256af2c90fdff0e517873af04e22c2a","features":{},"yanked":false,"pubtime":"2026-07-01T07:49:26Z"}
 {"name":"scry-sai-float","vers":"3.1.0","deps":[],"cksum":"c547fdb4432dbd90b0ee5d7b560c034b4ff4985d534cdd48c5251ef38036f6a2","features":{},"yanked":false,"pubtime":"2026-07-08T20:00:56Z"}
+{"name":"scry-sai-float","vers":"3.2.0","deps":[],"cksum":"602a7c6c034de0ce2f98c800046623a4b13feb969121ff0bf145a1eba0ac0964","features":{},"yanked":false,"pubtime":"2026-07-11T07:37:56Z"}
