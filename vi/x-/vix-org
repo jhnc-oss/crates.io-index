@@ -1,0 +1,1 @@
+{"name":"vix-org","vers":"1.2.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e682f38686bbb9fbc3d988efbf87c168471b2774d4d370b029093f905b7daab","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-11T22:39:46Z"}
