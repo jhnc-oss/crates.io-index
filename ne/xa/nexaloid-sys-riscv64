@@ -9,3 +9,4 @@
 {"name":"nexaloid-sys-riscv64","vers":"0.1.21","deps":[],"cksum":"7fb212e1a28f7c83d448fe030663d6437895dbad00c7d71a4ece2007ba0abb3e","features":{},"yanked":false,"links":"nexaloid_prebuilt_riscv64","pubtime":"2026-07-08T11:04:56Z"}
 {"name":"nexaloid-sys-riscv64","vers":"0.1.22","deps":[],"cksum":"f843a480b9fbacc3fc6e0175d6a4f860e0d3aa2cfb4c6492b88839605ff5409f","features":{},"yanked":false,"links":"nexaloid_prebuilt_riscv64","pubtime":"2026-07-08T14:15:09Z"}
 {"name":"nexaloid-sys-riscv64","vers":"0.1.23","deps":[],"cksum":"4e7f2fced2494a2cdae3b58815c32c9526b5c815f8c46e1418e6a32f24443646","features":{},"yanked":false,"links":"nexaloid_prebuilt_riscv64","pubtime":"2026-07-08T17:09:34Z"}
+{"name":"nexaloid-sys-riscv64","vers":"0.1.24","deps":[],"cksum":"02cdd405c776d7efaed7f129bf0c0e3c9acf0e2b1584abc0959f5cdb921b04d5","features":{},"yanked":false,"links":"nexaloid_prebuilt_riscv64","pubtime":"2026-07-11T04:24:30Z"}
