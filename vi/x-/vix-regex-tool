@@ -1,0 +1,1 @@
+{"name":"vix-regex-tool","vers":"1.2.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7daf49d2d7fea17a0acb5caecd64f8aa313253465f2be3b93b52a53f9c0d8572","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-11T23:57:08Z"}
