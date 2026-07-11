@@ -1,0 +1,1 @@
+{"name":"vix-query","vers":"1.2.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2de92dd1f142b52c851458de0ddad9cfc8d65c8a06b038a7f7fde5b438a95bf","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-11T23:46:06Z"}
