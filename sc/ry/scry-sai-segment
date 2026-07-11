@@ -1,0 +1,1 @@
+{"name":"scry-sai-segment","vers":"3.2.0","deps":[{"name":"scry-sai-interval","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08be4b8731b2f7199f7a3c4e85813daad280d332e63e11fb3af8a567adf9b9c0","features":{},"yanked":false,"pubtime":"2026-07-11T07:38:02Z"}
