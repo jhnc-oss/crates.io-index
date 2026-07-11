@@ -16,3 +16,4 @@
 {"name":"reifydb-abi","vers":"0.6.0","deps":[],"cksum":"cb34f17888ac13607f9ccd8c3fb01ea64b61a9f98b013492a9074377330434cc","features":{},"yanked":false,"pubtime":"2026-05-29T05:02:14Z"}
 {"name":"reifydb-abi","vers":"0.7.0","deps":[],"cksum":"c38a20847b3474f0566430d503db137794c31ff81a8ced0194a99b2936fadc37","features":{},"yanked":false,"pubtime":"2026-07-02T13:24:12Z"}
 {"name":"reifydb-abi","vers":"0.8.0","deps":[],"cksum":"bc0b585502aed3a9b07a6b9f067561297b09b2247a2414ae3d642d7f9d3a332d","features":{},"yanked":false,"pubtime":"2026-07-04T04:26:16Z"}
+{"name":"reifydb-abi","vers":"0.8.1","deps":[],"cksum":"30b6d35d51db08f0d11e4850c8a985a6bfd7ef20adab7293baa3080fd03a52a6","features":{},"yanked":false,"pubtime":"2026-07-11T08:12:28Z"}
