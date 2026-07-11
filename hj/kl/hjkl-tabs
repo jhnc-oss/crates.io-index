@@ -12,3 +12,4 @@
 {"name":"hjkl-tabs","vers":"0.33.2","deps":[],"cksum":"d437cfec8676df9f25d47eb91f0fdaec268023caaafec35b3c0e9cb8faf84d4a","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-06-24T22:29:53Z"}
 {"name":"hjkl-tabs","vers":"0.33.3","deps":[],"cksum":"55af12c233a211cb557c4cf2326e37f62f5d8e400b418c4a55cf7418eef748e5","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-01T03:02:55Z"}
 {"name":"hjkl-tabs","vers":"0.33.4","deps":[],"cksum":"1c2dea3607951377066406052c7a0827cde669821110aeddd2146a994b16a041","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-09T12:32:37Z"}
+{"name":"hjkl-tabs","vers":"0.33.5","deps":[],"cksum":"778ae91493f7f007f417cb709134f4915e3ae64463acafca3d361d68348982d6","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-11T20:14:52Z"}
