@@ -1,0 +1,1 @@
+{"name":"vix-vcard-panel","vers":"1.2.0","deps":[{"name":"vix-vcard-parser","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a47477730fd6a1c34db222e35fd0560666da52084540b4a1a0472256925ed6a","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-11T16:33:54Z"}
