@@ -1,0 +1,1 @@
+{"name":"vix-markdown-preview","vers":"1.2.0","deps":[{"name":"pulldown-cmark","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5e67fac63018c4ffe3621393f25f57b4b7cf2ab3b331c69dd01be6d000b60a8","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-11T22:06:37Z"}
