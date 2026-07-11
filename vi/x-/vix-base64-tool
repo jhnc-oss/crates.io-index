@@ -1,0 +1,1 @@
+{"name":"vix-base64-tool","vers":"1.2.0","deps":[{"name":"base64","req":"^0.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59ca39db9ea2c7c24e4f022e6180de2f03ec49c002a105ad64c35d26150f4d57","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-11T16:49:20Z"}
