@@ -1,0 +1,1 @@
+{"name":"vix-edit-bytes","vers":"1.2.0","deps":[{"name":"crossterm","req":"^0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"512f189ebd3da602ed8f372ccc31290492df2090d5ee8069d897a6800a40280d","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-11T18:47:36Z"}
