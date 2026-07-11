@@ -1,0 +1,1 @@
+{"name":"vix-base16","vers":"1.2.0","deps":[{"name":"vix-theme-model","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d403f96c00cecdf8eb3251bf4ab2d9f3d1172d85b8d5ef57d0df8644037f47c7","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-11T11:48:17Z"}
