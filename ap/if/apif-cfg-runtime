@@ -1,0 +1,1 @@
+{"name":"apif-cfg-runtime","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0a0b53852c0c7a60f990de8890d9761e2a401a55daf30ea604c366746e0f9a0","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-11T20:38:09Z"}
