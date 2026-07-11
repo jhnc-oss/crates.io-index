@@ -10,3 +10,4 @@
 {"name":"repoforge","vers":"0.1.9","deps":[],"cksum":"0736bcb9238f2cd15b4ee2d0e8239d6f8fbf2823cd7b1f5dd592f392c7e246e3","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-06T02:47:50Z"}
 {"name":"repoforge","vers":"0.1.10","deps":[],"cksum":"00dadcb27c0dfc29ba1c28659eb824677708eedb35f9719ea7b17a0171321374","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-10T09:48:49Z"}
 {"name":"repoforge","vers":"0.1.11","deps":[],"cksum":"5be36cc587ec1992bded1f97ca91ee52e6bb387e470abe67a2fcf59c38538ebe","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-10T10:10:16Z"}
+{"name":"repoforge","vers":"0.1.12","deps":[],"cksum":"9dd490026f433a289b6cdce66240ad4f80f9475c8dd1d3197d55903f3c158b6a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-11T11:47:20Z"}
