@@ -1,0 +1,1 @@
+{"name":"vix-http-client","vers":"1.2.0","deps":[{"name":"ureq","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ad0d8dd4cbd57615a615a0359b2d0a6306bdf2361494e54356a86275addad70","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-11T20:49:15Z"}
