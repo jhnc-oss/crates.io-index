@@ -1,1 +1,2 @@
 {"name":"qubit-case","vers":"0.1.0","deps":[],"cksum":"0ebe6d06cc7d44879290f6975d592d47ebf46843580947f37791457047d4de78","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-06-29T03:33:07Z"}
+{"name":"qubit-case","vers":"0.2.0","deps":[],"cksum":"ec5ee17895def4901b856bf395fa9b19fb75f39b0e39f30eb65fcdd88559280b","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-11T12:48:31Z"}
