@@ -16,3 +16,4 @@
 {"name":"reifydb-build","vers":"0.6.0","deps":[],"cksum":"586d0b937d0119303a3af9b72919903853163af220221a56219de03ed6521da1","features":{},"yanked":false,"pubtime":"2026-05-29T05:00:28Z"}
 {"name":"reifydb-build","vers":"0.7.0","deps":[],"cksum":"0c5d7cd67dd2898b124f755d60e8f6e6097439ffbee01e6c564e51e03930e4c3","features":{},"yanked":false,"pubtime":"2026-07-02T13:21:27Z"}
 {"name":"reifydb-build","vers":"0.8.0","deps":[],"cksum":"c6d9a4a7e065be8de76e7e57fdbe01acf3bf24280eef2de3ac18892795a3b954","features":{},"yanked":false,"pubtime":"2026-07-04T04:24:35Z"}
+{"name":"reifydb-build","vers":"0.8.1","deps":[],"cksum":"295f35ef344480cf75cdb8e44b9a97c8f2be26b61dd93b481ca4d645ab998301","features":{},"yanked":false,"pubtime":"2026-07-11T08:10:43Z"}
