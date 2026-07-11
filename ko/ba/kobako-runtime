@@ -2,3 +2,4 @@
 {"name":"kobako-runtime","vers":"0.6.1","deps":[],"cksum":"64c64e944769931f60263739b875348077a6b485123b2352b6a011b4ea903f4f","features":{},"yanked":false,"pubtime":"2026-07-02T10:31:53Z"}
 {"name":"kobako-runtime","vers":"0.7.0","deps":[],"cksum":"ed232f7a8f03d8fc4b2aebf848fa522562ea571f0a997948f85a7b1d616afb83","features":{},"yanked":false,"pubtime":"2026-07-03T10:42:34Z"}
 {"name":"kobako-runtime","vers":"0.8.0","deps":[],"cksum":"3ec864abe25dc559c5423ea7d89cb5d5ea7cf2118ce3504fd87277e964a11717","features":{},"yanked":false,"pubtime":"2026-07-08T13:21:42Z"}
+{"name":"kobako-runtime","vers":"0.9.0","deps":[],"cksum":"13c1f3fd9636c32afc1eb782990581dbbfd90c03fafa6d01a16b4bf35be3b2e0","features":{},"yanked":false,"pubtime":"2026-07-11T16:35:27Z"}
