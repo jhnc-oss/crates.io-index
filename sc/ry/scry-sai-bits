@@ -6,3 +6,4 @@
 {"name":"scry-sai-bits","vers":"3.0.0","deps":[],"cksum":"0408db937bc95e5a9f1a5e8755ca0e255473c8168afdad6da95fcaf7f74c3725","features":{},"yanked":false,"pubtime":"2026-07-01T07:49:23Z"}
 {"name":"scry-sai-bits","vers":"3.1.0","deps":[],"cksum":"b4c882191f131699398f42232a7427bfb9971838a8dc9b42c36acc0f56610f43","features":{},"yanked":false,"pubtime":"2026-07-08T20:00:51Z"}
 {"name":"scry-sai-bits","vers":"3.2.0","deps":[],"cksum":"7d02dff78f6ae94fdaded456a38ee6f80c01f7433c30975c22d7148b656540a5","features":{},"yanked":false,"pubtime":"2026-07-11T07:37:52Z"}
+{"name":"scry-sai-bits","vers":"3.2.1","deps":[],"cksum":"d09a94dbec165c462c72d064fc94425a3506b9794e357cf93a0187a358888cab","features":{},"yanked":false,"pubtime":"2026-07-11T11:49:37Z"}
