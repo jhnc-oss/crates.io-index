@@ -1,0 +1,1 @@
+{"name":"factorio-ir","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4acaa1c6017d95cfa0d491557ade436c36f56a1090aa570069c067623b22d519","features":{},"yanked":false,"pubtime":"2026-07-11T15:32:30Z"}
