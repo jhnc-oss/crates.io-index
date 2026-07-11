@@ -1,0 +1,1 @@
+{"name":"cloud-sdk-sanitization","vers":"0.12.0","deps":[{"name":"cloud-sdk","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f32f4d82c99c659891faab42376bc25b8a695ecefe5fd10d607726e86773b782","features":{"default":[],"std":["cloud-sdk/std"]},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-11T09:33:43Z"}
