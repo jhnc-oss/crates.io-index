@@ -1,0 +1,1 @@
+{"name":"pd-vm-nostd","vers":"0.22.4","deps":[{"name":"vm","req":"^0.22.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev","package":"pd-vm"}],"cksum":"9dc73f8dd908c64dc9e31e25cbe5db5a0dbf4cd42d577f81c331bb28b16d9f4c","features":{},"yanked":false,"pubtime":"2026-07-11T10:25:39Z"}
