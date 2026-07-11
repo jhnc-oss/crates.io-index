@@ -1,0 +1,1 @@
+{"name":"vix-i18n","vers":"1.2.0","deps":[{"name":"rust-i18n","req":"^4.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80f2632c8e4ee6a07811b5993ec0064c82733f6c71aad6f594994863c5f84be8","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-11T11:24:50Z"}
