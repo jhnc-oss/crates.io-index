@@ -1,0 +1,1 @@
+{"name":"apif-diagnostics","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49721dd7767c54ad236e9224662d8e5b447810c90ebd1d9f8aa7074d549b9e24","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-11T20:38:11Z"}
