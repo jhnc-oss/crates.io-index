@@ -9,3 +9,4 @@
 {"name":"modelforge","vers":"0.1.8","deps":[],"cksum":"2c86cff299f31fafb1e68aec6bd552f1c64ebfcaa8c22c82d914bd7095351a9f","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-06T02:19:37Z"}
 {"name":"modelforge","vers":"0.1.9","deps":[],"cksum":"08e22a576c716883767a9bb02d3b361b4e3c6f1edc1acc8a4d1f7bacda3657c5","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-06T02:43:35Z"}
 {"name":"modelforge","vers":"0.1.10","deps":[],"cksum":"f39eb9e3926cb9cd73306af9d8eaefc5fccc816124dd479c69914578fc200b87","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-06T03:51:50Z"}
+{"name":"modelforge","vers":"0.1.11","deps":[],"cksum":"7bb322bba58879f719412dae55cabf2ac13ac2d5d0156c269172dda31d2cbb3f","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-11T11:47:19Z"}
