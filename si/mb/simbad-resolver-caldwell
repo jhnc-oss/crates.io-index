@@ -1,0 +1,1 @@
+{"name":"simbad-resolver-caldwell","vers":"0.1.0","deps":[{"name":"simbad-resolver-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b019db1ffe22d22eb482da44d531a09e4fd2b3ef994430adc41c780c36442629","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-11T15:57:58Z"}
