@@ -1,0 +1,1 @@
+{"name":"shiki-themes","vers":"0.0.1","deps":[{"name":"shiki","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bfec28ebed903616192448af562d4de9086eaf0f417fd4a888afd4b2c941809c","features":{},"yanked":false,"pubtime":"2026-07-11T11:33:16Z"}
