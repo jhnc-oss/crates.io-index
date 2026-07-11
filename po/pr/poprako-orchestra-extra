@@ -1,0 +1,1 @@
+{"name":"poprako-orchestra-extra","vers":"0.1.0","deps":[{"name":"poprako-orchestra","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2cd2ae64206c4ba1827b29b06da5598f0678998e4de9a48b4c49cceb7aeaf28f","features":{"promise":[]},"yanked":false,"pubtime":"2026-07-11T16:38:17Z"}
