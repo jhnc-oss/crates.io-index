@@ -1,0 +1,1 @@
+{"name":"crabc-libc","vers":"0.1.0","deps":[{"name":"libm","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f713e81e1ebe25a07f90282289e469e3b8155ee602f4015af7f08c027ffe9d41","features":{},"yanked":false,"pubtime":"2026-07-12T05:09:30Z"}
