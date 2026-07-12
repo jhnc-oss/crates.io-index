@@ -16,3 +16,4 @@
 {"name":"trackone-constants","vers":"0.1.0-alpha.18","deps":[],"cksum":"9548a12c5a211a69a44a3429181cad2b99c88c43b2e1523942c1f1de220b2d2e","features":{},"yanked":false,"pubtime":"2026-05-14T19:31:11Z"}
 {"name":"trackone-constants","vers":"0.1.0-alpha.19","deps":[],"cksum":"77a5ba864a6c22d5e26dbead9a6c2adbff2465c4492dbe6cc992fc3cc288ffd0","features":{},"yanked":false,"pubtime":"2026-05-16T12:22:01Z"}
 {"name":"trackone-constants","vers":"0.1.0-beta.1","deps":[],"cksum":"c3786fe6f32fa9bc17ab9deef2c38dfa9f3f2659c3f1420fa1f471c68a81e458","features":{},"yanked":false,"pubtime":"2026-05-16T19:26:31Z"}
+{"name":"trackone-constants","vers":"0.1.0-beta.2","deps":[],"cksum":"0a64f93965145b659d0eb64c58d6b87b57232b7fc25d3c8c6f3188ce718aef77","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-07-12T13:54:06Z"}
