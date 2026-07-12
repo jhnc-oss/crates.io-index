@@ -8,3 +8,4 @@
 {"name":"flowmaid","vers":"0.5.0","deps":[],"cksum":"961f425f55e052ab9948ff29ffecfde23d9ae85e8c1c7c369958026484a2c946","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-12T15:35:04Z"}
 {"name":"flowmaid","vers":"0.6.0","deps":[],"cksum":"58e1ee3ef5fe860a5902d61645149e5797925a559f534fd3b5516006b900fbad","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-12T16:34:20Z"}
 {"name":"flowmaid","vers":"0.6.1","deps":[],"cksum":"950c5b1761ce35e5b200c7e9541a69f2cdbc6496009c95c72ab918f96b515d93","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-12T16:45:13Z"}
+{"name":"flowmaid","vers":"0.6.2","deps":[],"cksum":"c7ac9093301133b4f653ed0c08c74aa50cb7c420314e2595360f14d321f41c6f","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-12T17:31:12Z"}
