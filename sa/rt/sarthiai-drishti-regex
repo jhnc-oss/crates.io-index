@@ -1,0 +1,1 @@
+{"name":"sarthiai-drishti-regex","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c21412d7a1dd162e621d91176b6eb3e72379ef91af92a5218e081ad4c8de1b2a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-12T08:57:29Z"}
