@@ -1,0 +1,1 @@
+{"name":"hisi-rom-sys","vers":"0.1.0-alpha.1","deps":[],"cksum":"2848dd42b4c3f5e1d95321329894b5b79035ad04074a5acf4e231d71229bdfc7","features":{"chip-ws63":[],"default":["chip-ws63"]},"yanked":false,"links":"hisi_rom_sys","rust_version":"1.85","pubtime":"2026-07-12T23:17:21Z"}
