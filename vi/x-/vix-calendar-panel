@@ -1,0 +1,1 @@
+{"name":"vix-calendar-panel","vers":"1.2.0","deps":[{"name":"jiff","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"393f2ea365381177426becd31bfd68345c33103c39e2e9778a29a0164668a7fe","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-12T06:54:58Z"}
