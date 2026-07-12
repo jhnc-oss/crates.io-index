@@ -1,0 +1,1 @@
+{"name":"vix-roam","vers":"1.2.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37115ade1e7a591c8ae7ff291cb0210633de6790f668735054476c5853ac177e","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-12T00:19:16Z"}
