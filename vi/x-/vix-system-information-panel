@@ -1,0 +1,1 @@
+{"name":"vix-system-information-panel","vers":"1.2.0","deps":[{"name":"sysinfo","req":"^0.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acb4d2a0046e50daccc4c7a13db573a03ad237d6ffbe1d6a34f5cbdd172d06d2","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-12T01:03:27Z"}
