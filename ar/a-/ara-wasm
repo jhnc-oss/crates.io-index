@@ -1,3 +1,4 @@
 {"name":"ara-wasm","vers":"0.0.0","deps":[],"cksum":"86712e936e544399766f0828a96bcb3cdd2559560e4cb174e64324ea630e5095","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-08T08:07:45Z"}
 {"name":"ara-wasm","vers":"0.1.0","deps":[],"cksum":"9494554b01605e57a10c0c8bd73fe04809ad80c7efe79441cde3d38ea9b9fc1f","features":{},"yanked":false,"pubtime":"2026-07-11T07:51:06Z"}
 {"name":"ara-wasm","vers":"0.1.1","deps":[],"cksum":"091afdcdf897c7e9c2032eabde5cf95a9eb2f45d86823f239784b5c635e38cb2","features":{},"yanked":false,"pubtime":"2026-07-11T20:47:45Z"}
+{"name":"ara-wasm","vers":"0.1.2","deps":[],"cksum":"9ab3467c787d2480a0fe0f53e8bbd49ca4f7b767791710a3cb5f64e3931d0624","features":{},"yanked":false,"pubtime":"2026-07-12T02:59:56Z"}
