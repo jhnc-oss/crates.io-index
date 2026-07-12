@@ -1,0 +1,1 @@
+{"name":"euroscope-sys","vers":"0.0.1","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8d53d1307672974bd148555c9868147c27be70cfada624202b684b158ef6e92c","features":{},"yanked":false,"links":"euroscope_shim","pubtime":"2026-07-12T13:53:42Z"}
