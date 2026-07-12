@@ -1,0 +1,1 @@
+{"name":"vix-convert-from-tsv-into-csv-tool","vers":"1.2.0","deps":[{"name":"vix-convert-tabular","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ddb661d993425da8c6ae753f33e73e9b453750e4439630d0bc220471e0b770a","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-12T08:48:34Z"}
