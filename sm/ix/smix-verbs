@@ -19,3 +19,4 @@
 {"name":"smix-verbs","vers":"1.0.20","deps":[],"cksum":"3a706c69d00f301c7058c89cd5385e96eb92c6a53204affc66abd792a597f9d2","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-12T02:25:21Z"}
 {"name":"smix-verbs","vers":"1.0.21","deps":[],"cksum":"42607905f08a4ab69996410c34ef584d9c9889452ca80030da359cd1c9656734","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-12T04:00:47Z"}
 {"name":"smix-verbs","vers":"1.0.22","deps":[],"cksum":"be1fbc12ad823aa6d2616a13f33f1ca29f083614a1c44dc04d16fddbfccb2ed3","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-12T06:55:37Z"}
+{"name":"smix-verbs","vers":"1.0.23","deps":[],"cksum":"064b861ed70cc30c04e73b2b52e63a54212df5c017adf472395251d3b503d99b","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-12T09:47:49Z"}
