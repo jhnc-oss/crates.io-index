@@ -1,1 +1,2 @@
 {"name":"pipecrab-core","vers":"0.1.0","deps":[],"cksum":"b6200db841542c947aa0b4401125441f9c2ca2ae37bd6e29f787d9cab0d425ad","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-08T22:00:28Z"}
+{"name":"pipecrab-core","vers":"0.2.0","deps":[],"cksum":"e79c4d094ad71f484f946f938270501784be261c02f0b03bea81f0ab76d84fbd","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-12T16:25:45Z"}
