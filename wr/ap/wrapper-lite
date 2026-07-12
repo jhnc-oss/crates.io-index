@@ -10,3 +10,4 @@
 {"name":"wrapper-lite","vers":"0.5.2","deps":[],"cksum":"351c15184516718bf257a1ffc3dbb5154a5fd30443e063877b577b522f02cef3","features":{},"yanked":false,"rust_version":"1.56.0","pubtime":"2026-04-07T06:22:32Z"}
 {"name":"wrapper-lite","vers":"0.6.0","deps":[],"cksum":"9c71a547b6c7364133e27a3407c370c7ecc8afafeee18a6b0b2f5f11ac60aba9","features":{},"yanked":false,"rust_version":"1.56.0","pubtime":"2026-05-22T08:27:28Z"}
 {"name":"wrapper-lite","vers":"0.6.1","deps":[],"cksum":"20ad3024a429913d241f18f4b5af43b5afbd866b33b33c2210ac9e1ed6dec99f","features":{},"yanked":false,"rust_version":"1.56.0","pubtime":"2026-05-23T08:30:05Z"}
+{"name":"wrapper-lite","vers":"0.6.2","deps":[],"cksum":"1bfcc0ba5edbe77ab24e44fc6c4ff8e603587aa173a43c959c2907b8aea8230c","features":{},"yanked":false,"rust_version":"1.56.0","pubtime":"2026-07-12T09:58:21Z"}
