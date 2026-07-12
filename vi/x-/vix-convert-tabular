@@ -1,0 +1,1 @@
+{"name":"vix-convert-tabular","vers":"1.2.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9026f49faa01e50b38431b5e1b76e783228b8ef39deba52965003c6d2e640ebd","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-12T06:13:40Z"}
