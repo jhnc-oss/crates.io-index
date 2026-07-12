@@ -19,3 +19,4 @@
 {"name":"prikk-error","vers":"0.17.0","deps":[],"cksum":"b18a8815042f106a21aed94cdcc285e3d139cf1d16f05ba3c4993ff2d6699366","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-11T13:45:57Z"}
 {"name":"prikk-error","vers":"0.17.1","deps":[],"cksum":"0c686852493e1d0f129228c97a1d9a196ce316d39650063872ceee2516970acf","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-12T01:25:20Z"}
 {"name":"prikk-error","vers":"0.17.2","deps":[],"cksum":"ebe67b305ece14a3d0256e6d11bc3792ee0b3026217797edda08a24e9e6c5544","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-12T23:01:49Z"}
+{"name":"prikk-error","vers":"0.17.3","deps":[],"cksum":"3015e7c78f0275b604e6408c964ec83a5e80ec67b31f613f3a215be5f13d65fa","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-12T23:49:25Z"}
