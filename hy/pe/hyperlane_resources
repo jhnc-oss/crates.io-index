@@ -156,3 +156,4 @@
 {"name":"hyperlane_resources","vers":"23.0.22","deps":[],"cksum":"51b582d621c7a7f786d9b454416d19cc8e87b50a97462909daf7f88668eef57b","features":{},"yanked":false,"pubtime":"2026-06-17T04:24:34Z"}
 {"name":"hyperlane_resources","vers":"23.0.23","deps":[],"cksum":"35dba50f07320860954877d750895cc275512640dbff6d88650528a367997748","features":{},"yanked":false,"pubtime":"2026-07-04T10:33:09Z"}
 {"name":"hyperlane_resources","vers":"23.0.24","deps":[],"cksum":"7560bbc08f77d8dbdebd4df1e255c31ddff73b618cb6848efb3261aea83b3dc2","features":{},"yanked":false,"pubtime":"2026-07-11T12:34:17Z"}
+{"name":"hyperlane_resources","vers":"23.0.25","deps":[],"cksum":"0e7073daefe7f73cdf7aa525a02b68d2ec16c7781bc9d1b406cef89a846531eb","features":{},"yanked":false,"pubtime":"2026-07-12T01:32:02Z"}
