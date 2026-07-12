@@ -1,0 +1,1 @@
+{"name":"vix-convert-from-html-into-markdown-tool","vers":"1.2.0","deps":[{"name":"htmd","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3137ff959fc8c03e4b8c2cc251aebe0e0bc75001d35d555d102435d0c8cda8d9","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-12T05:07:21Z"}
