@@ -1,1 +1,2 @@
 {"name":"box3d-rust","vers":"0.0.1","deps":[],"cksum":"0d54eea665eec6be2ba69c01260a73a3a7991ebc62ab595293f48ca939e728fc","features":{"double-precision":[]},"yanked":false,"rust_version":"1.77","pubtime":"2026-07-06T15:48:52Z"}
+{"name":"box3d-rust","vers":"0.1.0","deps":[],"cksum":"4a7af87aaee48db4993a413c5a0e94c88b833d264e4bce9dcdb3a6c85c52874f","features":{"double-precision":[]},"yanked":false,"rust_version":"1.77","pubtime":"2026-07-12T05:33:22Z"}
