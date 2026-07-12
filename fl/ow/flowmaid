@@ -1,2 +1,3 @@
 {"name":"flowmaid","vers":"0.1.0","deps":[],"cksum":"932f834f232b24f70fdfd0e36314597e044b262e491f69fae99867b70ca4c7ed","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-12T10:07:43Z"}
 {"name":"flowmaid","vers":"0.1.1","deps":[],"cksum":"92930725d4ea503a147e66fd921272639685566e6f3b5e06ae54dd1bbf4734fd","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-12T10:15:59Z"}
+{"name":"flowmaid","vers":"0.2.0","deps":[],"cksum":"a08ad622eea8ee51e68c506bfd52b18d7c37cb4e20e510282edf47cee9cb7a19","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-12T11:00:44Z"}
