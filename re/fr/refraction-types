@@ -1,0 +1,1 @@
+{"name":"refraction-types","vers":"0.1.0","deps":[{"name":"rstest","req":"^0.26.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6f223094ca90e1296464e68e01096514da085336a18e83270d2eb7b9d0a36f2e","features":{},"yanked":false,"pubtime":"2026-07-12T06:36:22Z"}
