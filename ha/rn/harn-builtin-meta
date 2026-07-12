@@ -158,3 +158,4 @@
 {"name":"harn-builtin-meta","vers":"0.10.10","deps":[],"cksum":"bda420b436d5697b4b5d8e40c2e7e016e60481857ca6b5d8a3b07740ecd32dc2","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-11T06:24:21Z"}
 {"name":"harn-builtin-meta","vers":"0.10.11","deps":[],"cksum":"1c8993f573b56b01a0f78d70003e8deb7eb8d1bd9dd875c4217bd6551321a41c","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-11T22:25:34Z"}
 {"name":"harn-builtin-meta","vers":"0.10.12","deps":[],"cksum":"c4209a05bbcb61b4d98831188f94087bfa3220735bfdd011b6a226d223f1fa62","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-12T16:21:57Z"}
+{"name":"harn-builtin-meta","vers":"0.10.13","deps":[],"cksum":"60b93bd15d0f53edfa77e2a3f179d985a750fe393d5c15b9b686f70855c63824","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-12T20:04:20Z"}
