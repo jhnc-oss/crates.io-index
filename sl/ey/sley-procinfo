@@ -1,0 +1,1 @@
+{"name":"sley-procinfo","vers":"0.5.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e51c16ee448dbdba96b6ff4bad92a5bbda30d3c209f76afd55ccc2b6fc59e78d","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-12T22:44:35Z"}
