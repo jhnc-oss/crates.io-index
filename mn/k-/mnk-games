@@ -1,3 +1,4 @@
 {"name":"mnk-games","vers":"0.1.0","deps":[],"cksum":"9766e55d31b6cd6785885de51bf6487f62d972dfd8a413e0cd4aedd8a0deb23a","features":{},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-06-28T08:19:59Z"}
 {"name":"mnk-games","vers":"0.2.0","deps":[],"cksum":"d4bd0e14fb09c0a3e1146ea564ccd3559eb56f9904508869806cd2d8e24db36c","features":{},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-07-01T02:03:33Z"}
 {"name":"mnk-games","vers":"0.3.0","deps":[],"cksum":"74174ac4b11c5c618009765e91b7a371e9198ea61977233d0b8496604f5c84c3","features":{},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-07-08T07:51:56Z"}
+{"name":"mnk-games","vers":"0.4.0","deps":[],"cksum":"97f42296e92290ee79029bbea2c38c9bc34c636f393408ef1459f31dd07893f1","features":{},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-07-12T21:41:07Z"}
