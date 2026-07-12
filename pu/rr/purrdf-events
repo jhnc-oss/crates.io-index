@@ -12,3 +12,4 @@
 {"name":"purrdf-events","vers":"0.4.1","deps":[],"cksum":"b2721e7c39b0d93cd73665e30e8a1908e1838b3b4d78b632b69de4f296e3b527","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-09T07:21:12Z"}
 {"name":"purrdf-events","vers":"0.4.2","deps":[],"cksum":"548daab079a7e0645ed982b4534f87693b29bc6510bab9abd4c77d3625781d56","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-10T20:29:26Z"}
 {"name":"purrdf-events","vers":"0.4.3","deps":[],"cksum":"c0b481700375b074d08438ffa4524ba140e6ccbfcc78cd281076a3aa7acda536","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-10T23:14:27Z"}
+{"name":"purrdf-events","vers":"0.5.0","deps":[],"cksum":"a26356b2f3cafe3bc8912d747bcf6c6bee13362eea1c07e9415d7029afd95c68","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-12T07:33:54Z"}
