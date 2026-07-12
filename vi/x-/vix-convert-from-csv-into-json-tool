@@ -1,0 +1,1 @@
+{"name":"vix-convert-from-csv-into-json-tool","vers":"1.2.0","deps":[{"name":"vix-convert-tabular","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d60a874adc4793e3974d58e12916c5bfd6c43a104c523d08bae7fb2ce79a7151","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-12T07:12:25Z"}
