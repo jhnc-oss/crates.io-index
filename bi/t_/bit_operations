@@ -5,3 +5,4 @@
 {"name":"bit_operations","vers":"0.1.4","deps":[],"cksum":"378959c41427a44375f7426ccab3d84ff263bcbbb2a4747a7b11c41158865871","features":{},"yanked":false,"pubtime":"2026-06-21T22:51:23Z"}
 {"name":"bit_operations","vers":"0.1.5","deps":[],"cksum":"de1b83fd095cc0e2a2958783b66be8caaba93cf9cd335233db184949c36fd664","features":{},"yanked":false,"pubtime":"2026-06-23T07:25:08Z"}
 {"name":"bit_operations","vers":"0.1.6","deps":[],"cksum":"c521f94e027b275f287593a77f0964abcef924abe7f6cfc8d4d0db8802f04a46","features":{},"yanked":false,"pubtime":"2026-07-03T08:17:05Z"}
+{"name":"bit_operations","vers":"0.1.7","deps":[],"cksum":"da1c94dc94fafdd5fc552af78597548d24f12683db7f3d6b7cbf333cc34989f0","features":{},"yanked":false,"pubtime":"2026-07-12T04:24:54Z"}
