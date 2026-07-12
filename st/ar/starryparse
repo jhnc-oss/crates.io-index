@@ -1,0 +1,1 @@
+{"name":"starryparse","vers":"1.0.0","deps":[{"name":"miette","req":"^7.6.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05116fc7417bd06b058a5fb67b0f4f2037cc03ae87aad99ca5e3a27045d2e0c5","features":{},"features2":{"miette":["dep:miette"]},"yanked":false,"pubtime":"2026-07-12T14:00:49Z","v":2}
