@@ -2,3 +2,4 @@
 {"name":"moa_time","vers":"0.1.4","deps":[],"cksum":"52bd88caa3f25ce1ee0d546ffaa667a1a15af3b7dd761274e6e0a2db0556fd1c","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-05-27T10:11:48Z"}
 {"name":"moa_time","vers":"0.1.5","deps":[],"cksum":"2a95b018b7ad799988ba49de69cd7f2d914d5412c0bb1bbeffe2f6fa2bb9d931","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-09T14:06:50Z"}
 {"name":"moa_time","vers":"0.2.0","deps":[],"cksum":"0fe72b8139844cf7ac9970a491e592e7476528b00b8aea56a84193a0d13e4488","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-11T01:20:09Z"}
+{"name":"moa_time","vers":"0.3.0","deps":[],"cksum":"9f6f787ea21121dade069dfd81f7360ee440268f72de40e404767b2b3f47aaae","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-13T10:05:28Z"}
