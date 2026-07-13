@@ -3,3 +3,4 @@
 {"name":"overstay","vers":"0.2.0","deps":[],"cksum":"c3786b2daae91bbd7a9d0aa7965e2b5ee154baa9617af918baab16481911658f","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-10T03:54:37Z"}
 {"name":"overstay","vers":"0.2.1","deps":[],"cksum":"09dc572ff05aa3d1da373124629ce440681923a0591cb3a880a7fa5b7ab3d939","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-11T01:30:36Z"}
 {"name":"overstay","vers":"0.2.2","deps":[],"cksum":"badf934fe561636446167129037f33cbdabe5eadd58b0b3161b6e95bbe02a24d","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-11T02:15:06Z"}
+{"name":"overstay","vers":"0.3.0","deps":[],"cksum":"0ce9e11e0dda425e2c58022d5ade8ba0f2b9b14e909609a6841f24bd2bbde990","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-13T04:06:32Z"}
