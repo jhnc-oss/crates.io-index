@@ -1,1 +1,2 @@
 {"name":"vix-locale-model","vers":"1.2.0","deps":[],"cksum":"e1570f104fd4e2edc4258eaa800e8beda086bd29a1c5bf75b72c11c6e2111de5","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-11T21:33:26Z"}
+{"name":"vix-locale-model","vers":"1.3.0","deps":[],"cksum":"e384c78c19efbe24767364ef6e48241538a1190cb24586680b1bb384ae5f8ed4","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-13T07:56:41Z"}
