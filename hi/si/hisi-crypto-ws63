@@ -1,0 +1,1 @@
+{"name":"hisi-crypto-ws63","vers":"0.1.0-alpha.1","deps":[{"name":"hisi-crypto","req":"^0.1.0-alpha.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b33b24bda1823082fa45821351daafbdd2b8d1e9db6ce9dbcb8afee1d38dbe5","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-13T01:14:21Z"}
