@@ -1,0 +1,1 @@
+{"name":"fastcat","vers":"1.0.0","deps":[{"name":"fastcat-macro","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea9271f3dbc31ef7fb707620289102fd19073cf5056527b9f5cfc25374095f78","features":{},"yanked":false,"pubtime":"2026-07-13T13:44:10Z"}
