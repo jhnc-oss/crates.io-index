@@ -1,0 +1,1 @@
+{"name":"buran-ipc","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d66cfb3d5ffef1db2f281adac15ec857ec03e0ac6dcd5e7acb0275ad6a67e6dc","features":{},"yanked":false,"pubtime":"2026-07-13T03:38:50Z"}
