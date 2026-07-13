@@ -1,1 +1,2 @@
 {"name":"restorekit-dongle-proto","vers":"0.5.1","deps":[],"cksum":"338e6673327228504c975c3e81d495fedf54f540727dda47ebb1c4eaeab1531f","features":{},"yanked":false,"pubtime":"2026-07-11T04:54:30Z"}
+{"name":"restorekit-dongle-proto","vers":"0.5.2","deps":[],"cksum":"fc50d8f0f63781416480e43a454d8bf52093a7d9bf728f8e9f08b7c3b9a509db","features":{},"yanked":false,"pubtime":"2026-07-13T18:02:37Z"}
