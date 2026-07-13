@@ -26,3 +26,4 @@
 {"name":"rialo-s-time-utils","vers":"0.12.0","deps":[],"cksum":"1219da650ce79f830455fba8e94c0489c6a80d6cb17621b9b70d5c7bf27eacf3","features":{},"yanked":false,"pubtime":"2026-06-23T16:30:37Z"}
 {"name":"rialo-s-time-utils","vers":"0.12.1","deps":[],"cksum":"bfda88c5b9528e4af4560036b7cbe86107befff6204fa82103d9683720c1781c","features":{},"yanked":false,"pubtime":"2026-06-30T09:49:08Z"}
 {"name":"rialo-s-time-utils","vers":"0.12.2","deps":[],"cksum":"5a057063f873e6eddf9de552e7de43ad0135f707705212a00d83a76be715529f","features":{},"yanked":false,"pubtime":"2026-06-30T13:27:04Z"}
+{"name":"rialo-s-time-utils","vers":"0.15.0-alpha.0","deps":[],"cksum":"ecc1611b9f88851b78bb219fb4d72b45a316a07849a9f74e952efcac08e048e4","features":{},"yanked":false,"pubtime":"2026-07-13T14:25:39Z"}
