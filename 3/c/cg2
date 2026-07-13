@@ -17,3 +17,4 @@
 {"name":"cg2","vers":"0.4.3","deps":[],"cksum":"87c196a297bdc28870d02173478e5b83d0140aa69e7bb7a86597cda165619b69","features":{},"yanked":false,"pubtime":"2026-07-13T08:11:36Z"}
 {"name":"cg2","vers":"0.4.4","deps":[],"cksum":"cc546dae0ef7fc3b43778daa416d2c3f135148bd296f4469400e971a0514fcf0","features":{},"yanked":false,"pubtime":"2026-07-13T08:42:55Z"}
 {"name":"cg2","vers":"0.4.5","deps":[],"cksum":"2d53ac417ab2f917a038b9ffce75a75d76c306ea048c793e15efb3d0b7e980d4","features":{},"yanked":false,"pubtime":"2026-07-13T08:50:35Z"}
+{"name":"cg2","vers":"0.4.6","deps":[],"cksum":"ac652a902e09b6ee2fed63ad533adef475f6f297afdf5f5f6edcc196bf839324","features":{},"yanked":false,"pubtime":"2026-07-13T11:42:24Z"}
