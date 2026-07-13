@@ -1,2 +1,3 @@
 {"name":"moatarget","vers":"0.1.5","deps":[],"cksum":"fd00553dd409a6903db0727ca11cbb859f0b02f4b8edf20feda580c0095d46a2","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-09T14:16:41Z"}
 {"name":"moatarget","vers":"0.2.0","deps":[],"cksum":"fb3607b840ed32654f9fa99e17fd831fe002d6840c6d9ad4b56847ba06c0a4d1","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-11T01:20:15Z"}
+{"name":"moatarget","vers":"0.3.0","deps":[],"cksum":"477f973c4c63a8396c448cf9df23105d94a28ae4c98c502ba5983aa13a9f1418","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-13T10:05:42Z"}
