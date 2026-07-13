@@ -1,2 +1,3 @@
 {"name":"astarte-device-error","vers":"0.1.0-alpha.1","deps":[],"cksum":"270569efb0a0b4f413b2a5ba0067419d082e1c12d12f6e0588ca51a0608ead86","features":{},"yanked":true,"rust_version":"1.88","pubtime":"2026-07-08T12:13:08Z"}
 {"name":"astarte-device-error","vers":"0.14.0","deps":[],"cksum":"3c8278f36c626909ed090977d48df66e997d5fb12c75dfe0bc7d3bf973671f1b","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-08T12:15:32Z"}
+{"name":"astarte-device-error","vers":"0.14.1","deps":[],"cksum":"56505cfb31c3e3f9918178a4e45d33dc1ee919ccfee26247a667d3c8af3e490c","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-13T14:41:57Z"}
