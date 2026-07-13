@@ -1,1 +1,0 @@
-{"name":"mcpg-nolock-probe-xyz","vers":"0.0.1-beta.0","deps":[{"name":"serde","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54c834241c688c41416a8a3d937a2a3234717b6aa6fd05b393327ef37df4e751","features":{},"yanked":false,"pubtime":"2026-07-12T22:57:29Z"}
