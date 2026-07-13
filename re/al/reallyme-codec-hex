@@ -1,0 +1,1 @@
+{"name":"reallyme-codec-hex","vers":"0.1.7","deps":[{"name":"thiserror","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b7e33c12a71bc1bf13e3df805029c2902b6ba98331481ff0816b9c8e971f52e","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-13T13:47:52Z"}
