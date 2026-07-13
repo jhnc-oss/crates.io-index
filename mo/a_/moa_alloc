@@ -1,2 +1,3 @@
 {"name":"moa_alloc","vers":"0.1.5","deps":[],"cksum":"0fe2a33a634b088f50fd2f98aeb84800524b9730b25d773ee1a47337249ec63e","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-09T13:47:40Z"}
 {"name":"moa_alloc","vers":"0.2.0","deps":[],"cksum":"6b4c3256d4550a38469cbc52ec8ee8deb990c09482bdb870b8e92565210c9f09","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-11T01:19:31Z"}
+{"name":"moa_alloc","vers":"0.3.0","deps":[],"cksum":"24342b41ca0d41c9ae2a91a24e6642e2a80c84f6e6bbbe295ba93999edae424b","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-13T10:03:40Z"}
