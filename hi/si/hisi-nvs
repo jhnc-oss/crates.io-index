@@ -1,0 +1,1 @@
+{"name":"hisi-nvs","vers":"0.1.0-alpha.1","deps":[{"name":"hisi-storage","req":"^0.1.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"430d705936028aefb2181dfb503b596a168ec819f24cf96be1cf028d0cad8331","features":{},"yanked":false,"pubtime":"2026-07-13T03:25:25Z"}
