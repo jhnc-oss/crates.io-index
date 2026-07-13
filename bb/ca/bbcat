@@ -2,3 +2,4 @@
 {"name":"bbcat","vers":"0.1.1","deps":[],"cksum":"a39d0b327cdaae27f4673ae6005cc9983c0d824018275ef3329a5d67e0497e6d","features":{},"yanked":false,"pubtime":"2026-07-13T11:24:01Z"}
 {"name":"bbcat","vers":"0.1.2","deps":[],"cksum":"4e29fcfc94661e0bb9af90520fda8d1c75127d3defb34e3704272a7d62b46e97","features":{},"yanked":false,"pubtime":"2026-07-13T11:28:45Z"}
 {"name":"bbcat","vers":"0.1.3","deps":[],"cksum":"e1ba8cda0ce185a048b8bd50a86bff349b5a5bce5668b0020b6187c70267fe92","features":{},"yanked":false,"pubtime":"2026-07-13T15:07:23Z"}
+{"name":"bbcat","vers":"0.1.4","deps":[],"cksum":"6b290fc4a6989c716408c72458ce01b1d8759c3e524877a11e6ebec3546ea517","features":{},"yanked":false,"pubtime":"2026-07-13T15:52:25Z"}
