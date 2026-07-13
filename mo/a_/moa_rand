@@ -5,3 +5,4 @@
 {"name":"moa_rand","vers":"0.1.4","deps":[],"cksum":"5944a18575d0a4ee103f6a45d80cd0af4890cef5b7cd57b2f162f29c963c37c9","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-05-27T10:11:04Z"}
 {"name":"moa_rand","vers":"0.1.5","deps":[],"cksum":"ea6bff4807694919393e9d8a414ee318886bc85a4a0b3a5f1eca12836fb36690","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-09T13:47:50Z"}
 {"name":"moa_rand","vers":"0.2.0","deps":[],"cksum":"8442327ff75ffd6bc0896e25d5029b487899af7579ec3cd2fb567369948fbea6","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-11T01:19:52Z"}
+{"name":"moa_rand","vers":"0.3.0","deps":[],"cksum":"7d836430e205ebcaf4ef80fe9e2f09cb9295aa66bbc4198b8994be9a5d973694","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-13T10:04:36Z"}
