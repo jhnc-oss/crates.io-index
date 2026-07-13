@@ -1,2 +1,3 @@
 {"name":"agent-doc-lease","vers":"0.34.69","deps":[],"cksum":"de5a5cd9455dfe04750e33e45e08326fef47af69edb96f562ceb43dc1909ea87","features":{},"yanked":false,"pubtime":"2026-07-08T04:26:22Z"}
 {"name":"agent-doc-lease","vers":"0.34.87","deps":[],"cksum":"d2f8ba13132edf8611ac62c5ffbef93429a8df98d318e51fcff6ba8dace24670","features":{},"yanked":false,"pubtime":"2026-07-13T10:19:46Z"}
+{"name":"agent-doc-lease","vers":"0.34.88","deps":[],"cksum":"756c32b35c1863a32b495b5e309b7e668a0cde22ea36e95ba6c3364258b40f80","features":{},"yanked":false,"pubtime":"2026-07-13T13:49:44Z"}
