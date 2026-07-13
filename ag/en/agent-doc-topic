@@ -1,2 +1,3 @@
 {"name":"agent-doc-topic","vers":"0.34.69","deps":[],"cksum":"33f2337d8d6e2f9ea4609e2732dc3ce37620378d04c371a26b31a8ba4a71618a","features":{},"yanked":false,"pubtime":"2026-07-08T05:40:03Z"}
 {"name":"agent-doc-topic","vers":"0.34.87","deps":[],"cksum":"8bb94aa761738b6a9d495428d0ffde2e453adaa84d2f456e6709aab5fc52e3b6","features":{},"yanked":false,"pubtime":"2026-07-13T10:20:07Z"}
+{"name":"agent-doc-topic","vers":"0.34.88","deps":[],"cksum":"436eaf7c7be2f0d39d73c846aeab10634e483f36ead438a4a7117276680f3f9b","features":{},"yanked":false,"pubtime":"2026-07-13T13:50:02Z"}
