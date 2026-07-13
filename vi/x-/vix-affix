@@ -1,1 +1,2 @@
 {"name":"vix-affix","vers":"1.2.0","deps":[],"cksum":"e2724aa6c801d51c61d4a4279c1a16857ac257828c22d013aaa6f8404ef21f80","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-11T11:09:54Z"}
+{"name":"vix-affix","vers":"1.3.0","deps":[],"cksum":"a8624c298d37e60d365e637c02982f0010a5b03316594b54f69961f32bc80642","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-13T07:31:25Z"}
