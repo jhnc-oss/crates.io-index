@@ -1,0 +1,1 @@
+{"name":"hisi-rf-rtos-driver","vers":"0.1.0-alpha.1","deps":[{"name":"critical-section","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"919f20291873ac4107a6502148ae4b75f85679c70707d66f0eaa7c86bae90920","features":{},"yanked":false,"pubtime":"2026-07-13T02:05:15Z"}
