@@ -1,2 +1,3 @@
 {"name":"moa_bitflags","vers":"0.1.5","deps":[],"cksum":"b018b9c8aa3fef1bc9efbb16e41863660b9715d250250166e3dc48cb0e87a250","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-09T13:47:42Z"}
 {"name":"moa_bitflags","vers":"0.2.0","deps":[],"cksum":"7f805a476d4d3fe29d9b96a1479870a80fb268be9eb1b1e7d25d6c2fac7a8f82","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-11T01:19:35Z"}
+{"name":"moa_bitflags","vers":"0.3.0","deps":[],"cksum":"f85d63e65ebfababbd21a3708c95e2cc27534ba6b2b7fa30b2977a9e03440cc6","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-13T10:03:49Z"}
