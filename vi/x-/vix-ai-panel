@@ -1,1 +1,2 @@
 {"name":"vix-ai-panel","vers":"1.2.0","deps":[],"cksum":"78104b503aee92bdfb4e831dbbec2bab3f4c064021479778500ac5375d0f593a","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-11T11:09:55Z"}
+{"name":"vix-ai-panel","vers":"1.3.0","deps":[],"cksum":"7dbfc0aa2cf35e612c4a06132655e522a255e567752e35518a79f1f3522de01e","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-13T07:31:26Z"}
