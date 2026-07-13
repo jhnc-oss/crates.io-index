@@ -8,3 +8,4 @@
 {"name":"hpvca","vers":"0.1.7","deps":[],"cksum":"8f58d306d8d408e10972e2178fc6d71fc37dd1519acb226ee27e595e6baee142","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-06-12T06:10:04Z"}
 {"name":"hpvca","vers":"0.1.8","deps":[],"cksum":"b17415a3595ada5c73d8906c720fdea67c1734ca3d50a5d512df6ef384840675","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-06-13T11:24:58Z"}
 {"name":"hpvca","vers":"0.1.9","deps":[],"cksum":"69745e50d90013442e6b1961cca7bc39d211186406a49a3f3b813913360082e7","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-06-21T10:04:23Z"}
+{"name":"hpvca","vers":"0.1.10","deps":[],"cksum":"8e762abbdc1e000bcbb7f4764936df76db1a7baf966319b80953b5d5f9d286e7","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-07-13T06:57:15Z"}
