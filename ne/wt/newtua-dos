@@ -1,0 +1,1 @@
+{"name":"newtua-dos","vers":"0.1.0","deps":[{"name":"newtua-common","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0deff34a65ff7ac61e14c9d890dcb264e8b15ecf326f7619cedfdd90a320080c","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-07-13T17:15:33Z"}
