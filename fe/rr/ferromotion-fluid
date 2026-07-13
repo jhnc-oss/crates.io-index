@@ -1,0 +1,1 @@
+{"name":"ferromotion-fluid","vers":"0.7.0","deps":[{"name":"faer","req":"^0.24","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"fc1246586dc57826ba7c41ce8b405ce90259aa1bae1c8aa54d370b114b83caa6","features":{},"yanked":false,"pubtime":"2026-07-13T08:59:45Z"}
