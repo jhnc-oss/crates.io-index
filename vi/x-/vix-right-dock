@@ -1,1 +1,2 @@
 {"name":"vix-right-dock","vers":"1.2.0","deps":[],"cksum":"393c59b75ccef485dd866fa6bb3a3f9fe2cf39079347653f5c1b168ab25ac609","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-12T00:08:11Z"}
+{"name":"vix-right-dock","vers":"1.3.0","deps":[],"cksum":"7994c484f46776f80f08c43f45eb1a12d16fb919485a06402d9fa6c36aec161f","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-13T10:12:54Z"}
