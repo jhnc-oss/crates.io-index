@@ -1,1 +1,2 @@
 {"name":"vix-align","vers":"1.2.0","deps":[],"cksum":"12cc9ac7089477cfcc30c4d3733839cfd916fc6053c566878842e0b2f71a5928","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-11T11:09:55Z"}
+{"name":"vix-align","vers":"1.3.0","deps":[],"cksum":"59446ce55aa42a1ccb8cfaeb4ab9ff52e32f7640bd3c6a02b1b10fa7c8963784","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-13T07:31:27Z"}
