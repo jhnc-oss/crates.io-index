@@ -1,0 +1,1 @@
+{"name":"newtua-common","vers":"0.1.0","deps":[{"name":"flate2","req":"^1","features":["rust_backend"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"bd669010d6e5e7f23d5797a857779a31fa2d4f012276c83879ec289e336860c9","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-07-13T17:15:12Z"}
