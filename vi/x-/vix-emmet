@@ -1,1 +1,2 @@
 {"name":"vix-emmet","vers":"1.2.0","deps":[],"cksum":"1c4f8a10bf1fa25a2ef6d851a1a052879bdf6e783ee142641c85c8035969e474","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-11T19:31:50Z"}
+{"name":"vix-emmet","vers":"1.3.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"748efbb9a580d5601f13b17cb41afc037ef2bb0bd176b3ea70713e488c1b71ab","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-13T07:31:38Z"}
