@@ -1,1 +1,2 @@
 {"name":"vix-media-type","vers":"1.2.0","deps":[],"cksum":"c728497282d4ab48dadbe5de74f9d0c28d92e2d0390068390886806fe6a74469","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-11T22:17:40Z"}
+{"name":"vix-media-type","vers":"1.3.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"172223b73c6556aca803b59c366e500c39b20901938674fb6f285d48da67e3e2","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-13T07:56:57Z"}
