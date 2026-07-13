@@ -23,3 +23,4 @@
 {"name":"prikk-hash","vers":"0.17.4","deps":[],"cksum":"f47ddc5a7f79661388aad43e73b786e4485f8bd05659af0daacef0b0fc61a29b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-13T05:58:31Z"}
 {"name":"prikk-hash","vers":"0.17.5","deps":[],"cksum":"3a87fcd15c94903d43bea4f698b6dd436bf42d9a1e7f11be2810015e41666f46","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-13T07:08:04Z"}
 {"name":"prikk-hash","vers":"0.17.6","deps":[],"cksum":"ff5a2fdddf0afa48a3f33ae4a95fa2a53ee53a1dd2033c3a2780159bbf2614e5","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-13T08:26:49Z"}
+{"name":"prikk-hash","vers":"0.17.7","deps":[],"cksum":"a186e177b4a0aa8dec2c8f054c8f9680ba57f4601689138bdf103eec047f58db","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-13T14:26:15Z"}
