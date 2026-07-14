@@ -1,0 +1,1 @@
+{"name":"rshl","vers":"0.2.0","deps":[{"name":"termios","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f7d87088f2338f3a716849d872e3c055f06ea0f4bf7452b171849e016af2d7f","features":{},"yanked":false,"pubtime":"2026-07-14T09:28:49Z"}
