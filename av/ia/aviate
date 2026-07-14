@@ -1,0 +1,1 @@
+{"name":"aviate","vers":"0.1.0","deps":[{"name":"aviate-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aaf58bf1293fb84a54089eff717b6b8b34181a6f36b8866a39f8641522d5f254","features":{},"yanked":false,"pubtime":"2026-07-14T10:07:53Z"}
