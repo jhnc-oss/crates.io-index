@@ -1,3 +1,4 @@
 {"name":"box2d-rust","vers":"0.1.0","deps":[],"cksum":"6f68bb3273870aa2acaf1a1a7772ee01c1df67e3836de87c1a94eb7db3f12cfc","features":{"double-precision":[]},"yanked":false,"rust_version":"1.77","pubtime":"2026-07-04T00:29:23Z"}
 {"name":"box2d-rust","vers":"1.0.0","deps":[],"cksum":"c44fe9b7b33eff76bc7eda8e480804491270c24b0a128fffeaae759da98cc5bd","features":{"double-precision":[]},"yanked":false,"rust_version":"1.77","pubtime":"2026-07-05T22:30:30Z"}
 {"name":"box2d-rust","vers":"1.1.0","deps":[],"cksum":"35013cf95a9c4c9898593e5718e0e477337fd7f992daefb71f67c1e851aa1a55","features":{"double-precision":[]},"yanked":false,"rust_version":"1.77","pubtime":"2026-07-05T23:09:02Z"}
+{"name":"box2d-rust","vers":"1.2.0","deps":[],"cksum":"cbd321a58611872b6d7aca2d5ad602c58c0e8da017eb070fcdd758060420f244","features":{"double-precision":[]},"yanked":false,"rust_version":"1.77","pubtime":"2026-07-14T01:01:42Z"}
