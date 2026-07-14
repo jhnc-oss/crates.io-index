@@ -2,3 +2,4 @@
 {"name":"poprako-orchestra","vers":"0.1.1","deps":[],"cksum":"659f7d2f1668e1bbba1599cacc14e83d0e32757e0dc2bf08733b0f828ba9faf1","features":{},"yanked":false,"pubtime":"2026-07-10T06:53:03Z"}
 {"name":"poprako-orchestra","vers":"0.2.0","deps":[],"cksum":"9f5f2cfe68ca8b70bbbe4cb4e17fa1cd45a58ba97d94bf1a50519e03d418f7db","features":{},"yanked":false,"pubtime":"2026-07-10T16:43:28Z"}
 {"name":"poprako-orchestra","vers":"0.2.1","deps":[],"cksum":"3de95d1c988caa117bf0f06967f9b8c7e9a74cfcbc33bb82d43c55abd49f0f8c","features":{},"yanked":false,"pubtime":"2026-07-12T15:02:31Z"}
+{"name":"poprako-orchestra","vers":"0.2.2","deps":[],"cksum":"13b7c3102da7f8cce2bb57fa433b1bfea8b34281e662de78126e34cabd7f57f4","features":{},"yanked":false,"pubtime":"2026-07-14T08:39:48Z"}
