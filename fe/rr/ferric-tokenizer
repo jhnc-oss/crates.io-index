@@ -1,0 +1,1 @@
+{"name":"ferric-tokenizer","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d56ecd725ab6ef718dbefa86ef4ad8d2be37bf9b3e37ab20df51d7cae80f31b","features":{},"yanked":false,"pubtime":"2026-07-14T21:50:16Z"}
