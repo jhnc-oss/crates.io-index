@@ -1,1 +1,2 @@
 {"name":"ivxv","vers":"0.0.0","deps":[],"cksum":"cf70069f37f47cbe23867c539f79ae34d2151f1836631c58a51a1b761b0a55a0","features":{},"yanked":false,"pubtime":"2026-07-14T12:10:47Z"}
+{"name":"ivxv","vers":"0.0.1","deps":[{"name":"der","req":"^0.8.1","features":["alloc","derive","oid"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68220e47eb2abf7c1e0303f527e37d3be58fbea9bcd8796eb123f1f1e6d11cb0","features":{},"yanked":false,"pubtime":"2026-07-14T14:42:44Z"}
