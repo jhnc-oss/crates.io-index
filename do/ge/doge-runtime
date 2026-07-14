@@ -1,1 +1,2 @@
 {"name":"doge-runtime","vers":"0.2.0","deps":[],"cksum":"37683dc1f6f42e0e92716c78d97c3f08e36c8ad4d9c70f3697f962feaf68b2e4","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-07-12T22:16:35Z"}
+{"name":"doge-runtime","vers":"0.3.0","deps":[{"name":"ureq","req":"^2","features":["tls"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3c2f318bc5035c250cfce4a05f5c08252a24d27b8e5521a0616c8c13a5c21b30","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-07-14T20:04:38Z"}
