@@ -1,0 +1,1 @@
+{"name":"crush-plugin-example","vers":"0.3.0","deps":[{"name":"crush-ffi","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"056d36c5df716ee835249bae7abeffc27a50f9c2ab7637558781256cebc8aa92","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-07-14T22:30:02Z"}
