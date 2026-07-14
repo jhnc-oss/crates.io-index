@@ -56,3 +56,4 @@
 {"name":"near-stable-hasher","vers":"0.37.0-rc.1","deps":[],"cksum":"4e78baf8302badfbea78273d67d189c8e6535a8745dfac1b6e863ce837a054cc","features":{},"yanked":false,"pubtime":"2026-06-23T13:11:12Z"}
 {"name":"near-stable-hasher","vers":"0.37.0-rc.2","deps":[],"cksum":"fcdcfd1ee4eb6d819818c25ad58b4e0275c14206f526e4a5a232bae44b5e5199","features":{},"yanked":false,"pubtime":"2026-06-26T11:53:13Z"}
 {"name":"near-stable-hasher","vers":"0.37.0","deps":[],"cksum":"67b717346c8c2d7ce6c3093f2a61f9311a863ebc052b6c955e96ffb100000aca","features":{},"yanked":false,"pubtime":"2026-07-09T19:19:28Z"}
+{"name":"near-stable-hasher","vers":"0.37.0-rc.3","deps":[],"cksum":"55f96fbd25635e7b16d888a194e02fcf4d1c8a031f8298caf8b048fea5a18002","features":{},"yanked":false,"pubtime":"2026-07-14T19:21:25Z"}
