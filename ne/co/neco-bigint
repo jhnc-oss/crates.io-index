@@ -1,0 +1,1 @@
+{"name":"neco-bigint","vers":"0.1.0","deps":[],"cksum":"10b0f978cdc94a544ce4913531f8a08056b0b06dc2e192678a1d06efe7ff7305","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-14T12:32:03Z"}
