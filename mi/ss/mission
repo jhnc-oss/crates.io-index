@@ -1,1 +1,2 @@
 {"name":"mission","vers":"0.1.0","deps":[],"cksum":"92a7049b034dac6bdaf32e7a68d14bb416329f15b31cc2735c8ee1dd6067d4cd","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-14T12:10:15Z"}
+{"name":"mission","vers":"0.1.1","deps":[],"cksum":"fc7d1cec857fa84f5a23d5c0b6e88cb71619515b154936d9d2924b338592a26c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-14T12:16:11Z"}
