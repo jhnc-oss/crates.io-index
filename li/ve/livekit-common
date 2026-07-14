@@ -1,0 +1,1 @@
+{"name":"livekit-common","vers":"0.1.0","deps":[{"name":"livekit-protocol","req":"^0.7.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42a76cd816c062654d105b697ebab136da87d14126ee77b2f13280cb895bcb58","features":{},"yanked":false,"pubtime":"2026-07-14T22:31:01Z"}
