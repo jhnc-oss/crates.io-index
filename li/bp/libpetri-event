@@ -32,3 +32,4 @@
 {"name":"libpetri-event","vers":"3.4.4","deps":[],"cksum":"ce814290c7b18632c0abd750e3d61c0ab7fb05d8b99cfc29f093d964dbd81657","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-02T10:15:37Z"}
 {"name":"libpetri-event","vers":"3.4.5","deps":[],"cksum":"22e1e0580d92c1f83e26b9b03ef7bd75e5513c0707d6928b4b7ac6870b035e15","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-08T17:34:02Z"}
 {"name":"libpetri-event","vers":"3.5.0","deps":[],"cksum":"95416964cbdb822ea35cc67ff84691e2af7531b380a16857cfb1eda67cf09aea","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-09T17:40:35Z"}
+{"name":"libpetri-event","vers":"3.6.0","deps":[],"cksum":"b119bd3c4009141dcaf7fa69088f16177d86c7ce76bb2d09e4eb918472ffb4a1","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-14T08:58:26Z"}
