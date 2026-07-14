@@ -2,3 +2,4 @@
 {"name":"restorekit-dongle-proto","vers":"0.5.2","deps":[],"cksum":"fc50d8f0f63781416480e43a454d8bf52093a7d9bf728f8e9f08b7c3b9a509db","features":{},"yanked":false,"pubtime":"2026-07-13T18:02:37Z"}
 {"name":"restorekit-dongle-proto","vers":"0.5.3","deps":[],"cksum":"efe6bdb4d25b6b88a9db6119e6e80356cd542568a795ae56da7568de8d8247a2","features":{},"yanked":false,"pubtime":"2026-07-13T20:07:19Z"}
 {"name":"restorekit-dongle-proto","vers":"0.5.4","deps":[],"cksum":"3bc3d4b2d830e0722c03f02c69ca5c5ca44062b8d75d775289778b730f557636","features":{},"yanked":false,"pubtime":"2026-07-14T01:06:12Z"}
+{"name":"restorekit-dongle-proto","vers":"0.5.5","deps":[],"cksum":"2578efa71c3632b31ce3d22c410be7e490304ae6883fb96314609053d262ca9d","features":{},"yanked":false,"pubtime":"2026-07-14T13:51:31Z"}
