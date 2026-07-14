@@ -1,0 +1,1 @@
+{"name":"arael-faer","vers":"0.7.1","deps":[{"name":"faer","req":"^0.24","features":["std","sparse-linalg"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f236f27197a040e5eaed757fe727875c5c731d3419d09c9d860ad2b0f29dcc7f","features":{},"yanked":false,"pubtime":"2026-07-14T11:17:00Z"}
