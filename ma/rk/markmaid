@@ -1,0 +1,1 @@
+{"name":"markmaid","vers":"0.1.0","deps":[{"name":"flowmaid","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd6f2c1dd16f5c3d0ccd858afc146254cc423ee5c513c0291c0e2148134ac4e7","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-14T14:33:48Z"}
