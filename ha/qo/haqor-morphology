@@ -1,0 +1,1 @@
+{"name":"haqor-morphology","vers":"0.6.1","deps":[{"name":"rayon","req":"^1.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"992318ae680c8ff6cf2cea523982c126ef0bd20116cde61c7c5a90211a496b0c","features":{},"yanked":false,"pubtime":"2026-07-14T22:21:45Z"}
