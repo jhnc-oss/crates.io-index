@@ -1,0 +1,1 @@
+{"name":"bwn","vers":"0.12.1","deps":[{"name":"buildwithnexus","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29d55c70ae6393bb6da59611c8d0340e72f0288d1cdf99e72f2780fbc79bd69b","features":{},"yanked":false,"pubtime":"2026-07-14T22:16:38Z"}
