@@ -3,3 +3,4 @@
 {"name":"somni-parser","vers":"0.2.1","deps":[],"cksum":"1f072e39d13380354eb995db60bda4a8a59cde21e3a15c7954fa85b2350161d9","features":{},"yanked":false,"rust_version":"1.82.0","pubtime":"2025-10-21T12:55:48Z"}
 {"name":"somni-parser","vers":"0.2.2","deps":[],"cksum":"a0f368519fc6c85fc1afdb769fb5a51123f6158013e143656e25a3485a0d401c","features":{},"yanked":false,"rust_version":"1.82.0","pubtime":"2025-10-23T13:51:04Z"}
 {"name":"somni-parser","vers":"0.3.0","deps":[],"cksum":"bbc52514428a0dba37a82af4135b3cff1a115bbc8900f7562a8e7d5caceb1f42","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-07-10T20:49:08Z"}
+{"name":"somni-parser","vers":"0.3.1","deps":[],"cksum":"4ba0fb59df288988d1f80eab8a0a32b18222e87b48d07b065c2f69cfc54d946c","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-07-14T09:53:26Z"}
