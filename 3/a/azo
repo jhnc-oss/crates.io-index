@@ -1,0 +1,1 @@
+{"name":"azo","vers":"0.1.0","deps":[{"name":"crc32fast","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7ce7d58d5408a497ef8672eb27659e17e9d3b1b79e450f1156eb97c8cb74d47","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-14T13:08:11Z"}
