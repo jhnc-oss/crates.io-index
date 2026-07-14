@@ -1,1 +1,2 @@
 {"name":"twig-doc","vers":"1.0.0","deps":[],"cksum":"a284b276a71cfcca8493e8d0097d3fb82700d60658455cb5c590097d1fc4fe9c","features":{},"yanked":false,"links":"twig","rust_version":"1.85","pubtime":"2026-07-14T06:30:35Z"}
+{"name":"twig-doc","vers":"1.0.1","deps":[],"cksum":"c25b56a28b5de25a56b6336b0125da796f2da8235476be12cd76d4bfaa306085","features":{},"yanked":false,"links":"twig","rust_version":"1.85","pubtime":"2026-07-14T21:07:08Z"}
