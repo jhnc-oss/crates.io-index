@@ -1,0 +1,1 @@
+{"name":"mpq-parser","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02b40d12ecda7086590d8317b2cdf77a4a63e233cc2599514373c9be9da7a763","features":{},"yanked":false,"pubtime":"2026-07-14T10:54:01Z"}
