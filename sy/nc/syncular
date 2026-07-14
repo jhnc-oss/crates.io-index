@@ -6,3 +6,4 @@
 {"name":"syncular","vers":"0.2.1","deps":[],"cksum":"dcee1ccd24bf4840aaac2019b341ed1dfc7ba9ab04ccf38c51121cc483745f30","features":{},"yanked":false,"pubtime":"2026-07-06T20:22:52Z"}
 {"name":"syncular","vers":"0.3.0","deps":[],"cksum":"acf28d70c56166e58446344a99c0e436696602e9d6e753d0f8ce9a237fa4a0e0","features":{},"yanked":false,"pubtime":"2026-07-13T14:58:23Z"}
 {"name":"syncular","vers":"0.3.1","deps":[],"cksum":"6e4c1b25ef57521894036706358be745665f7ee3329d148fde62b860c59797e9","features":{},"yanked":false,"pubtime":"2026-07-13T15:53:08Z"}
+{"name":"syncular","vers":"0.4.0","deps":[],"cksum":"56ca7580c4cd61fa9a4865f231e72dc76f3264fef28a8393e27e1337628b7eb9","features":{},"yanked":false,"pubtime":"2026-07-14T06:26:18Z"}
