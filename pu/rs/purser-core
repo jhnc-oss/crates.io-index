@@ -1,0 +1,1 @@
+{"name":"purser-core","vers":"0.0.2","deps":[{"name":"ulid","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dec930f757976b56e6a292e514916e04b8397d454340c76e864e48a21769975c","features":{},"yanked":false,"pubtime":"2026-07-14T19:32:51Z"}
