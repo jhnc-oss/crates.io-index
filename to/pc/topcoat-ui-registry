@@ -1,0 +1,1 @@
+{"name":"topcoat-ui-registry","vers":"0.0.1","deps":[{"name":"topcoat-icon","req":"^0.0.1","features":["iconify-build"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e4f49e81c579f312b0a62e40a8e30e87beac7a9cc8676bb7f1aac061c8848ea4","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-14T18:00:52Z"}
