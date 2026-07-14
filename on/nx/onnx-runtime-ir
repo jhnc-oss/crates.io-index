@@ -1,0 +1,1 @@
+{"name":"onnx-runtime-ir","vers":"0.1.0-dev.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5f140c490136673aaa6b9f0130b3c7226b7d907c9dda2650cfa5a706bbdca81","features":{},"yanked":false,"pubtime":"2026-07-14T14:38:14Z"}
