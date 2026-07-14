@@ -1,0 +1,1 @@
+{"name":"ferromotion-rod","vers":"0.10.0","deps":[{"name":"nalgebra","req":"^0.35","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f40f12284a361c31f6ac6cd09b07d86b99eed5a9feb9bcd34eb07d1bded0a105","features":{},"yanked":false,"pubtime":"2026-07-14T20:44:22Z"}
