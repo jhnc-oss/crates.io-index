@@ -21,3 +21,4 @@
 {"name":"pydocstring","vers":"0.3.0","deps":[],"cksum":"76f6207e21d80d3f731f0f6c42a47e81af8055f0e1d7f8a4e6017a84683c067a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-09T04:44:12Z"}
 {"name":"pydocstring","vers":"0.3.1","deps":[],"cksum":"85f6daa1cb9eb5221faffea7bd6f4d6f6d7d9921d87467a5b571d373bc22a39a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-10T06:27:53Z"}
 {"name":"pydocstring","vers":"0.4.0","deps":[],"cksum":"54b32fd124c4053ae8ec34de5b27e2b62ec324d3afe49091751c23d3fee97024","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-14T00:24:57Z"}
+{"name":"pydocstring","vers":"0.4.1","deps":[],"cksum":"6b352d3a898cfb7e2705c618b56ff3e17eac99a2129d87f9ba5e1bf55c398f5f","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-14T04:44:12Z"}
