@@ -42,3 +42,4 @@
 {"name":"hashtree-merge","vers":"0.2.72","deps":[],"cksum":"b94ec02e52d6c1f4b5972ec26463354f06b0705703904c136633e0fdf7ea2e51","features":{},"yanked":false,"pubtime":"2026-06-22T16:16:26Z"}
 {"name":"hashtree-merge","vers":"0.2.79","deps":[],"cksum":"2dafbce7374c619a604bfd42eb5ca601377e000d82a54390481cc466d081e2aa","features":{},"yanked":false,"pubtime":"2026-07-13T14:33:10Z"}
 {"name":"hashtree-merge","vers":"0.2.80","deps":[],"cksum":"cb7caa52dad6f1234d4518c29bc90a51a78a28b26f6da77e5ab16afa208615ac","features":{},"yanked":false,"pubtime":"2026-07-13T18:19:19Z"}
+{"name":"hashtree-merge","vers":"0.2.81","deps":[],"cksum":"cb788e46699ebaebef6fd73075aab006b1d08cce0e8d4e34b7de1a2336be2bd8","features":{},"yanked":false,"pubtime":"2026-07-14T04:58:11Z"}
