@@ -1,0 +1,1 @@
+{"name":"awan-render","vers":"0.0.1","deps":[{"name":"awan-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5658178464bf5d075a3809260e0397f3775fb887cd1657578d05c4055731d4bf","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-14T10:30:11Z"}
