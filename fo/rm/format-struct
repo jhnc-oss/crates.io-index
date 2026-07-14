@@ -9,3 +9,4 @@
 {"name":"format-struct","vers":"0.4.0","deps":[],"cksum":"0151233848fe782102b43f52fbfef7a778ac476aceea2cd876ed755e8f9365db","features":{"std":[]},"yanked":false,"rust_version":"1.56","pubtime":"2024-10-08T17:37:47Z"}
 {"name":"format-struct","vers":"0.5.0","deps":[],"cksum":"1fd5fbc8b25090b66663c407274dba20ec72cea419fa831c9f16329014881dbe","features":{"std":[]},"yanked":false,"rust_version":"1.65","pubtime":"2025-01-02T17:38:15Z"}
 {"name":"format-struct","vers":"0.6.0","deps":[],"cksum":"4e1969467a25de9bddd4fb64258a113f5c8ac6ab338becb10c88295d56a30900","features":{"std":[]},"yanked":false,"rust_version":"1.65","pubtime":"2025-09-25T10:00:07Z"}
+{"name":"format-struct","vers":"0.6.1","deps":[],"cksum":"15c2cc7ec9fc46c4319b097e127a8a65967f6604e727643264f4da99d9792170","features":{"std":[]},"yanked":false,"rust_version":"1.65","pubtime":"2026-07-14T16:28:22Z"}
