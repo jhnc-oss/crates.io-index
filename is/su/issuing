@@ -1,2 +1,3 @@
 {"name":"issuing","vers":"0.0.0","deps":[],"cksum":"a1140ae26a0352b4207b2a5c3301c0e7eae3f0dfd4be62ca45e577f604c10036","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-10T17:53:18Z"}
 {"name":"issuing","vers":"0.0.1","deps":[],"cksum":"ba22245e11fa3d332511089947090141341c42aee7848efcf77f4a13002e2d7e","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-14T11:26:57Z"}
+{"name":"issuing","vers":"0.0.2","deps":[],"cksum":"540d1c7c2e6d6d34d660a0b6550322172cda3596fc936b9af05c2480f4b97cdd","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-14T12:43:13Z"}
