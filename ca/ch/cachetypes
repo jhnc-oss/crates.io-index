@@ -1,0 +1,1 @@
+{"name":"cachetypes","vers":"0.0.0","deps":[{"name":"hashbrown","req":"^0.17.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e05767ef9c598896e48260d6c40921662e5af3ef85c1d323c9a13a9cd556e14","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-14T09:17:19Z"}
