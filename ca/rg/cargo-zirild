@@ -5,3 +5,4 @@
 {"name":"cargo-zirild","vers":"0.1.4","deps":[],"cksum":"b35f4a3c50504ebf94b3b95c9a037e1733dd702138a905cefbd75239fc32aab5","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-14T10:59:53Z"}
 {"name":"cargo-zirild","vers":"0.1.5","deps":[],"cksum":"bc65ba6bcdb4e89cb23a2a78bdc67a51701bdd969b60b805e006f027795ec87d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-14T11:40:46Z"}
 {"name":"cargo-zirild","vers":"0.1.6","deps":[],"cksum":"c3c0646d183f6a96a72ff2b7cc9ce10e406447218f2036b5245db52352d45a0c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-14T12:17:54Z"}
+{"name":"cargo-zirild","vers":"0.1.7","deps":[],"cksum":"69cd5ab718cf7c6b3081ab72b40b053d20b49a1a1731ddd03b12cc91c5c3dc41","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-14T12:49:30Z"}
