@@ -1,0 +1,1 @@
+{"name":"ferromotion-tactile","vers":"0.10.0","deps":[{"name":"nalgebra","req":"^0.35","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2096e6784ec76d3c0aef8b705a124c84e4813ec54735dd30e8711547840b4df6","features":{},"yanked":false,"pubtime":"2026-07-14T20:44:20Z"}
