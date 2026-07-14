@@ -1,0 +1,1 @@
+{"name":"unicode-width-utils","vers":"0.1.0","deps":[{"name":"unicode-width","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e41a4bae1399ec0caff5888b028b93b9e0bfd042827a463a069a477eedcebb0","features":{},"yanked":false,"pubtime":"2026-07-14T14:11:32Z"}
