@@ -1,0 +1,1 @@
+{"name":"mercs2_luac","vers":"1.0.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0ed4a5e98f07fa9751d8efa588792ac2e37ea0b37e79e58e6442d25d9b33bacc","features":{},"yanked":false,"pubtime":"2026-07-14T06:39:59Z"}
