@@ -7,3 +7,4 @@
 {"name":"deep_causality_ast","vers":"0.1.6","deps":[],"cksum":"a6ada097e0cab2d393c9d9313baa389c19c622b02b4968c133988108550898a5","features":{},"yanked":false,"rust_version":"1.90.0","pubtime":"2026-03-12T03:41:47Z"}
 {"name":"deep_causality_ast","vers":"0.1.7","deps":[],"cksum":"bb12e003a95333c1b5c2febab456fbdf88da0d4cb15ca7885bda1e7a86be2e0f","features":{},"yanked":false,"rust_version":"1.90.0","pubtime":"2026-06-09T05:10:24Z"}
 {"name":"deep_causality_ast","vers":"0.1.8","deps":[],"cksum":"9281ef426736511d98ef675271ee377ce049560c89fc0578da7e4f0568f223ee","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-07-08T06:44:10Z"}
+{"name":"deep_causality_ast","vers":"0.1.9","deps":[],"cksum":"fb8d5fd5e1e75ef9b04dabe7becdf4cf1634db572396cc697016fa6ccc6ae678","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-07-14T06:04:24Z"}
