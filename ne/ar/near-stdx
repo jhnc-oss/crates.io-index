@@ -64,3 +64,4 @@
 {"name":"near-stdx","vers":"0.37.0-rc.2","deps":[],"cksum":"f1e1cf6e256646ef9cabf86759582b2e7b06edfde846edaa68fc7d3e69d833f8","features":{},"yanked":false,"pubtime":"2026-06-26T11:50:17Z"}
 {"name":"near-stdx","vers":"0.37.0","deps":[],"cksum":"305f4222ee62ff3ec872210f4d3871091d088063d1b51b957a19014d724dacfc","features":{},"yanked":false,"pubtime":"2026-07-09T19:16:34Z"}
 {"name":"near-stdx","vers":"0.37.0-rc.3","deps":[],"cksum":"415411669e31637877324a14c449a64bb56fe7a326706434f64e6a80710ede8b","features":{},"yanked":false,"pubtime":"2026-07-14T19:18:25Z"}
+{"name":"near-stdx","vers":"0.37.1","deps":[],"cksum":"0756fd99704e5ee8a83430a5f914db53aff72e2a593ce2683bcab15886299b96","features":{},"yanked":false,"pubtime":"2026-07-15T13:09:25Z"}
