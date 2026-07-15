@@ -8,3 +8,4 @@
 {"name":"scry-sai-bits","vers":"3.2.0","deps":[],"cksum":"7d02dff78f6ae94fdaded456a38ee6f80c01f7433c30975c22d7148b656540a5","features":{},"yanked":false,"pubtime":"2026-07-11T07:37:52Z"}
 {"name":"scry-sai-bits","vers":"3.2.1","deps":[],"cksum":"d09a94dbec165c462c72d064fc94425a3506b9794e357cf93a0187a358888cab","features":{},"yanked":false,"pubtime":"2026-07-11T11:49:37Z"}
 {"name":"scry-sai-bits","vers":"3.2.2","deps":[],"cksum":"4256d1ca524daa8e13a429879087a0cd0c167d907e6feaeb1a4454dfd4751b98","features":{},"yanked":false,"pubtime":"2026-07-15T03:23:54Z"}
+{"name":"scry-sai-bits","vers":"3.2.3","deps":[],"cksum":"a0ab2880ecbde0e11aeb399879d8947c278c237c13ab064119f5cef198e92424","features":{},"yanked":false,"pubtime":"2026-07-15T03:54:41Z"}
