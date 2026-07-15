@@ -18,3 +18,4 @@
 {"name":"ferogram-tl-parser","vers":"0.6.0","deps":[],"cksum":"b856a12cceee44dd1182e364f470aae4988398a1bedcac2edc6b7e2228e25fe1","features":{},"yanked":false,"pubtime":"2026-06-02T14:25:01Z"}
 {"name":"ferogram-tl-parser","vers":"0.6.2","deps":[],"cksum":"c121696a0490fc28340cb0b12781ecb58b98ba60e5038324fa7674af1acc5a49","features":{},"yanked":false,"pubtime":"2026-06-24T15:58:49Z"}
 {"name":"ferogram-tl-parser","vers":"0.6.3","deps":[],"cksum":"f092429c003263fa28e33f3090c41aedb2a7462fbc7b8f82172b0bf92ec1a205","features":{},"yanked":false,"pubtime":"2026-06-28T09:44:59Z"}
+{"name":"ferogram-tl-parser","vers":"0.6.4","deps":[],"cksum":"d7337bdfb8be8eee3155a1af8ead1c34c2cfc2de738428574b1661d2094a7389","features":{},"yanked":false,"pubtime":"2026-07-15T10:21:56Z"}
