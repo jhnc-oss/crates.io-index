@@ -1,0 +1,1 @@
+{"name":"car-winenv","vers":"0.36.0","deps":[{"name":"tracing","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4386a74014e4537bb45e0e02c2c83cd69495b1a5a132a8c22a42c5a0b9d759b8","features":{},"yanked":false,"pubtime":"2026-07-15T18:37:30Z"}
