@@ -1,0 +1,1 @@
+{"name":"rsh-crate","vers":"0.2.2","deps":[{"name":"termios","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f09ba68ea98525cfcf4dd50a324dd027ba202e7995e069ee878a9116f15a13c","features":{},"yanked":false,"pubtime":"2026-07-15T07:57:15Z"}
