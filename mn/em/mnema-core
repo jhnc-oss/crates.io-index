@@ -3,3 +3,4 @@
 {"name":"mnema-core","vers":"0.1.4","deps":[],"cksum":"cf2c2fceb7b2d7ed9b8251872ab5ee476880432d075b29a3c7867529b39b9807","features":{},"yanked":false,"pubtime":"2026-07-14T22:25:25Z"}
 {"name":"mnema-core","vers":"0.1.5","deps":[],"cksum":"b34193f9d9ee24ddb53516059e70b8c2ca96f6432ce340923d973c4ff64d1d44","features":{},"yanked":false,"pubtime":"2026-07-14T23:11:43Z"}
 {"name":"mnema-core","vers":"0.1.6","deps":[],"cksum":"7cc2d99835eba5b15576c5fc13f09202f59bc917a6f1c6f60701cd2bbd04b8ae","features":{},"yanked":false,"pubtime":"2026-07-15T05:53:07Z"}
+{"name":"mnema-core","vers":"0.1.7","deps":[],"cksum":"13e1515997288300d3bc1503faea275c806439cebe4ab62205620e1954cc1f34","features":{},"yanked":false,"pubtime":"2026-07-15T06:49:10Z"}
