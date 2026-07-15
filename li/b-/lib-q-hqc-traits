@@ -4,3 +4,4 @@
 {"name":"lib-q-hqc-traits","vers":"0.0.6","deps":[],"cksum":"e325cbae82d6e6ed0b0548f72b41ad9bb37eeb10039af1e51472b1f61abe92b2","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-06-07T07:50:47Z"}
 {"name":"lib-q-hqc-traits","vers":"0.0.7","deps":[],"cksum":"dce2aad8d8363c2744dca002f7b8ea78bbb6312a124bb76fc81447c4f694b729","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-06-19T03:44:48Z"}
 {"name":"lib-q-hqc-traits","vers":"0.0.8","deps":[],"cksum":"2ce9e0798382b08548dc0d09cc90889ef3a0d11a19649bbb35e85973d69dc538","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-06-26T09:27:14Z"}
+{"name":"lib-q-hqc-traits","vers":"0.0.9","deps":[],"cksum":"b04f508eb68d5942f394539c3fa997b30475b0b6a337ce5c7f874669faefce73","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.96.0","pubtime":"2026-07-15T12:34:34Z"}
