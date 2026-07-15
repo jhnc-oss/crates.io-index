@@ -15,3 +15,4 @@
 {"name":"lazy-mcp","vers":"2.6.4","deps":[],"cksum":"354227445110de9b261d5b94d2bcf30841e8b067643d2c55569f8538fb8e69c9","features":{},"yanked":false,"pubtime":"2026-05-26T14:19:19Z"}
 {"name":"lazy-mcp","vers":"2.6.5","deps":[],"cksum":"053ddf0208d54b9a2c38e56b0da6c54a01497b9247ab14d3d5ccdcd4c7fbad6a","features":{},"yanked":false,"pubtime":"2026-06-26T09:18:26Z"}
 {"name":"lazy-mcp","vers":"2.6.6","deps":[],"cksum":"58137000cd609fbece29a5e99f46fdfc7b7050ab32a740121babf39ffbcc3859","features":{},"yanked":false,"pubtime":"2026-06-26T09:52:18Z"}
+{"name":"lazy-mcp","vers":"2.7.0","deps":[],"cksum":"4a0542e1ddb934a09984cd5f99f8e9601329cffacb7680786b8f3ffdb4cce7b4","features":{},"yanked":false,"pubtime":"2026-07-15T12:36:30Z"}
