@@ -1,0 +1,1 @@
+{"name":"intense-pomodoro","vers":"0.1.0","deps":[{"name":"rodio","req":"^0.22.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc88c925b93fc944882eb36e5d3a3c056d61f51e1f4fa0dfe92d765bac7f24d7","features":{},"yanked":false,"pubtime":"2026-07-15T18:16:01Z"}
