@@ -2,3 +2,4 @@
 {"name":"twig-doc","vers":"1.0.1","deps":[],"cksum":"c25b56a28b5de25a56b6336b0125da796f2da8235476be12cd76d4bfaa306085","features":{},"yanked":false,"links":"twig","rust_version":"1.85","pubtime":"2026-07-14T21:07:08Z"}
 {"name":"twig-doc","vers":"1.0.2","deps":[],"cksum":"5a86c0437e6fa618fe6f578e80cbaa2d7b10c3ccb1dfd45a467bdb6ca4993dc4","features":{},"yanked":false,"links":"twig","rust_version":"1.85","pubtime":"2026-07-14T21:29:30Z"}
 {"name":"twig-doc","vers":"2.0.0","deps":[],"cksum":"b088df0939f7a661b3fe54deb1d528ad59b6a60662fe38ade784b0d2fe3f7477","features":{},"yanked":false,"links":"twig","rust_version":"1.85","pubtime":"2026-07-15T00:30:49Z"}
+{"name":"twig-doc","vers":"2.1.0","deps":[],"cksum":"0116affe76da33c97e4c5d85174782646790670c1c8649c1843c4aecc156b491","features":{},"yanked":false,"links":"twig","rust_version":"1.85","pubtime":"2026-07-15T23:56:54Z"}
