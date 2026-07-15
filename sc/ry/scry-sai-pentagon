@@ -5,3 +5,4 @@
 {"name":"scry-sai-pentagon","vers":"3.2.1","deps":[],"cksum":"4f7cd92628f212c04f3a855901e2d9de3b24322cb2b0c3caf1312d296ca15e26","features":{},"yanked":false,"pubtime":"2026-07-11T11:49:39Z"}
 {"name":"scry-sai-pentagon","vers":"3.2.2","deps":[],"cksum":"1db27b0de4dc91ddaac4e2807f76f91bb0f0d69cb210c3d8c0b5f8789232e1e1","features":{},"yanked":false,"pubtime":"2026-07-15T03:23:56Z"}
 {"name":"scry-sai-pentagon","vers":"3.2.3","deps":[],"cksum":"4788ca38520340e9f2b54c127669ebd32b792d1bf20403b9e829e1667a739e75","features":{},"yanked":false,"pubtime":"2026-07-15T03:54:44Z"}
+{"name":"scry-sai-pentagon","vers":"3.2.4","deps":[],"cksum":"53224e61c42a16450b08028432bc8673fc712b98e630aed032c63045c5552aed","features":{},"yanked":false,"pubtime":"2026-07-15T04:31:01Z"}
