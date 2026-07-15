@@ -1,0 +1,1 @@
+{"name":"tastyrock_auth_light","vers":"0.0.1","deps":[{"name":"rusqlite","req":"^0.37.0","features":["bundled"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"187e8314a58e34c73f8dd0a346b187b02b577a4d32b171363b424f030e6390d8","features":{},"yanked":false,"pubtime":"2026-07-15T23:26:14Z"}
