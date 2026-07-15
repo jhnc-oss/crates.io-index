@@ -1,0 +1,1 @@
+{"name":"reddb-io-toon","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":["preserve_order"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f431eb73480c883b29b1a819484b82550d213d705ff496a3e855dbe0e3f0209a","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-15T01:57:48Z"}
