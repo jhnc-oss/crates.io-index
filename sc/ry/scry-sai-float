@@ -4,3 +4,4 @@
 {"name":"scry-sai-float","vers":"3.2.1","deps":[],"cksum":"59c610ed3fd99db759d1fa47b8b3c37ea291e30d40a292407246bbc16bc9c6e6","features":{},"yanked":false,"pubtime":"2026-07-11T11:49:40Z"}
 {"name":"scry-sai-float","vers":"3.2.2","deps":[],"cksum":"92913222d144dfa868a34bed4e1eb706f12618e06ec96bd55a7cf991b3e1eea3","features":{},"yanked":false,"pubtime":"2026-07-15T03:23:58Z"}
 {"name":"scry-sai-float","vers":"3.2.3","deps":[],"cksum":"bbd3a3ae159c96fb785fe512908fcd3d618c41b471b7acbca03a49cde873f14f","features":{},"yanked":false,"pubtime":"2026-07-15T03:54:46Z"}
+{"name":"scry-sai-float","vers":"3.2.4","deps":[],"cksum":"dee3385975e9d26fa8295d42b9241db96011ea154d71fac3e2687e9138a7e338","features":{},"yanked":false,"pubtime":"2026-07-15T04:31:03Z"}
