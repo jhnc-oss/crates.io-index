@@ -1,1 +1,2 @@
 {"name":"rill-handler-api","vers":"0.7.0","deps":[],"cksum":"cd275e0c02dae03187779da595e8c17b2ea85e90d50ec9f4ef52388b57d0814e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-15T15:41:37Z"}
+{"name":"rill-handler-api","vers":"0.7.1","deps":[],"cksum":"8fa9b7a7744a44b9f32b71c2617030467c61cd488efd563aa00eeaa87ad75df3","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-15T17:38:24Z"}
