@@ -18,3 +18,4 @@
 {"name":"beecast-player","vers":"0.10.4","deps":[],"cksum":"8bc25dc3f4272ed4009ea3ca797a9ed97a7071becebe7b1b63add432c615bbda","features":{},"yanked":false,"pubtime":"2026-07-11T21:02:18Z"}
 {"name":"beecast-player","vers":"0.10.5","deps":[],"cksum":"e7eb3aa7810996878a2c11a75f11d519a75b3e909dc55733af6827e596a70260","features":{},"yanked":false,"pubtime":"2026-07-13T08:34:37Z"}
 {"name":"beecast-player","vers":"0.10.6","deps":[],"cksum":"c5d49570f4387ad564aed9b5097e66694df27a0c0c24927d9048caf3020e834b","features":{},"yanked":false,"pubtime":"2026-07-13T20:05:44Z"}
+{"name":"beecast-player","vers":"0.10.7","deps":[],"cksum":"1d751869f6e8dcced25e6dfb5041021dfc7f7789ab3c0a8cb920ad4b36c5eba3","features":{},"yanked":false,"pubtime":"2026-07-16T21:33:35Z"}
