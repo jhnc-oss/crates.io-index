@@ -1,0 +1,1 @@
+{"name":"tui-line-editor","vers":"0.1.0","deps":[{"name":"ratatui","req":"^0.30.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"edda2767590e56ca31a74774210d2b6229cf6aa4cd102c1f9ec46c136d33c536","features":{},"yanked":false,"pubtime":"2026-07-16T01:59:51Z"}
