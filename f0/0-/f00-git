@@ -1,0 +1,1 @@
+{"name":"f00-git","vers":"0.6.0","deps":[{"name":"f00-core","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"125ed73a7b9eb98aacf43c96436a995d28cb4b75953164c77fc3d413ef552498","features":{"default":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-07-16T16:54:34Z"}
