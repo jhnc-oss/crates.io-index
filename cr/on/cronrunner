@@ -13,3 +13,4 @@
 {"name":"cronrunner","vers":"2.13.0","deps":[],"cksum":"acd2fe0d90edb1c0e7f4ada9e8cc225c652341391dc824df2f1d82867abf8605","features":{},"yanked":false,"pubtime":"2025-04-26T09:39:51Z"}
 {"name":"cronrunner","vers":"2.14.0","deps":[],"cksum":"1bb51334c97f60fbb4873c605cc8773dc4006f044d5eadf15a3655be1f8e3d8a","features":{},"yanked":false,"pubtime":"2025-04-27T19:03:59Z"}
 {"name":"cronrunner","vers":"2.15.0","deps":[],"cksum":"d27a0e3edf91fe9b46fea4c5c6cdbfcf2d8b91d17dbd3552ca58bae47ab0ed65","features":{},"yanked":false,"pubtime":"2025-05-19T17:05:32Z"}
+{"name":"cronrunner","vers":"2.16.0","deps":[],"cksum":"744a15d2d80732d3f362badb64773939999c1e47760cc62f7e57b0f796dae7d9","features":{},"yanked":false,"pubtime":"2026-07-16T19:36:00Z"}
