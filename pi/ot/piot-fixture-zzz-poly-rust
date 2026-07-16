@@ -324,3 +324,4 @@
 {"name":"piot-fixture-zzz-poly-rust","vers":"0.0.1783979273","deps":[],"cksum":"5c2dca17bf64120b3ccde98dd986e1fc2da46bbfee089f6f66a4854fd5827bd7","features":{},"yanked":false,"pubtime":"2026-07-13T21:53:18Z"}
 {"name":"piot-fixture-zzz-poly-rust","vers":"0.0.1783979779","deps":[],"cksum":"b33e4db1d30bc0833156b8ad0fd72096ba7de1f18603ab03c61f88ad676eea12","features":{},"yanked":false,"pubtime":"2026-07-13T22:03:46Z"}
 {"name":"piot-fixture-zzz-poly-rust","vers":"0.0.1783981191","deps":[],"cksum":"2163c6d99c7071301d87a1217d40e170f889d0d448c88ca2d10fff55f25e254b","features":{},"yanked":false,"pubtime":"2026-07-13T22:23:38Z"}
+{"name":"piot-fixture-zzz-poly-rust","vers":"0.0.1784201809","deps":[],"cksum":"09d9d8b5de53e210a03bf1fcd2733ecbe96e49817e261fce1d1189105c1b37de","features":{},"yanked":false,"pubtime":"2026-07-16T11:40:54Z"}
