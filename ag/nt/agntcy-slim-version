@@ -10,3 +10,4 @@
 {"name":"agntcy-slim-version","vers":"2.0.0-alpha.1","deps":[],"cksum":"7352a143d7d15db5f9185436d1ee93a79f446a3f1454cd72fa6ed0b60fb38a7a","features":{},"yanked":false,"pubtime":"2026-06-17T16:35:36Z"}
 {"name":"agntcy-slim-version","vers":"2.0.0-alpha.2","deps":[],"cksum":"6b8bae10cc424985c2ca582918199f49759fadca5d704e8ca7a071f00dddabaf","features":{},"yanked":false,"pubtime":"2026-07-01T17:14:29Z"}
 {"name":"agntcy-slim-version","vers":"2.0.0-alpha.3","deps":[],"cksum":"908bf5a234c12ae8fcc14dd88805714afd4222dddbfacdd72ae1bf0c05f13587","features":{},"yanked":false,"pubtime":"2026-07-15T22:52:14Z"}
+{"name":"agntcy-slim-version","vers":"2.0.0-alpha.4","deps":[],"cksum":"bfa135cef8d8920ceb361b1c27f23636a6b3226fa3173726931339ddd18a4eae","features":{},"yanked":false,"pubtime":"2026-07-16T07:43:03Z"}
