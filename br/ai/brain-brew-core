@@ -1,1 +1,2 @@
 {"name":"brain-brew-core","vers":"1.0.0-alpha.1","deps":[],"cksum":"8476738dbc974df417f597362b964889ea3b5eeb827d0210d294bef82463062d","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-06-22T20:33:37Z"}
+{"name":"brain-brew-core","vers":"1.0.0-alpha.2","deps":[{"name":"sha2","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d1fb56adfc73aad38622f2fca4daae2c61ca1c6df3bb863591508be40f290cf","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-16T09:27:45Z"}
