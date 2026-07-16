@@ -53,3 +53,4 @@
 {"name":"tishlang_ast","vers":"2.37.0","deps":[],"cksum":"9ac86a35ed17327866e1ef4f0ab02da4b8f4b50f68bb9f7220ce97cf36782381","features":{},"yanked":false,"pubtime":"2026-07-15T19:29:34Z"}
 {"name":"tishlang_ast","vers":"2.37.3","deps":[],"cksum":"24ef25934a28e6bff59881e3b97beb1740c2ea3a37967bcaeb4ed692a53f1e79","features":{},"yanked":false,"pubtime":"2026-07-16T06:31:22Z"}
 {"name":"tishlang_ast","vers":"2.38.0","deps":[],"cksum":"1b73340a439e80a3a5de4adecb06454f37e42ed744b9f961b485a7b49da916fe","features":{},"yanked":false,"pubtime":"2026-07-16T18:20:54Z"}
+{"name":"tishlang_ast","vers":"2.39.0","deps":[],"cksum":"50d90987d576f6e8830c54ddd8778e04ce835d77ed45c287588f18a64209a2eb","features":{},"yanked":false,"pubtime":"2026-07-16T21:18:59Z"}
