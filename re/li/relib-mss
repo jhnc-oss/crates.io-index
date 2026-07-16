@@ -1,0 +1,1 @@
+{"name":"relib-mss","vers":"0.4.0","deps":[{"name":"mddcore","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"relib-mdd"}],"cksum":"7b9dded8b9a4d7043bcc8df4405835a050f78489bbc41c5654a9e4b43fc5a1ac","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-16T13:17:06Z"}
