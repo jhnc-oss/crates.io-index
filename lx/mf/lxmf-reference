@@ -5,3 +5,4 @@
 {"name":"lxmf-reference","vers":"0.7.1","deps":[],"cksum":"201c65cd4cfee4504a12432265293b518c1030c96952c85a63ffa0ca963b7a67","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-07T21:29:41Z"}
 {"name":"lxmf-reference","vers":"0.8.0","deps":[],"cksum":"705500d1cebe541ec8ae475bba35ee9ef67c704a65d6a54b33647396e13841e3","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-10T12:16:58Z"}
 {"name":"lxmf-reference","vers":"0.9.0","deps":[],"cksum":"b7ba9365c2f07372f4256deae577d4b3aeb7acd3e797529fa387d1e1a5589b25","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-11T05:10:36Z"}
+{"name":"lxmf-reference","vers":"0.9.1","deps":[],"cksum":"e06c2d7a8b491119072f8c8e800ce9221116a06f1d765d56139a7ef3a5e13c73","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-16T00:56:59Z"}
