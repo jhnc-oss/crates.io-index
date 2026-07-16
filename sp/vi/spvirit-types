@@ -13,3 +13,4 @@
 {"name":"spvirit-types","vers":"0.1.12","deps":[],"cksum":"6c46f4b735ece9844a7f103b99b58d2813a0b548c1af52fbf081fac92ba967df","features":{},"yanked":false,"pubtime":"2026-05-21T11:19:20Z"}
 {"name":"spvirit-types","vers":"0.1.15","deps":[],"cksum":"0b38c86d970ba92933bb3cc5a0cee83bcd4869cbc61be6a01b84b4a9eea22f6c","features":{},"yanked":false,"pubtime":"2026-07-15T20:00:09Z"}
 {"name":"spvirit-types","vers":"0.1.17","deps":[],"cksum":"7f1374f2fdb672a5d8730a32e5810664e67bc5ddb0589a9a59754c30a31a7137","features":{},"yanked":false,"pubtime":"2026-07-16T12:22:14Z"}
+{"name":"spvirit-types","vers":"0.1.18","deps":[],"cksum":"4361bb425116344282cbcbffd9d0706103420ada9c75df808a842b1ca68180db","features":{},"yanked":false,"pubtime":"2026-07-16T13:08:08Z"}
