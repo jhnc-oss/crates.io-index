@@ -1,0 +1,1 @@
+{"name":"tinybitsvec","vers":"0.1.0-beta.0","deps":[{"name":"rkyv","req":"^0.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f463ff76c35c29304c40a2595485a32bd375fa5c0e7c2db8b5c853df1a7ef4c","features":{"default":[]},"features2":{"rkyv":["dep:rkyv"]},"yanked":false,"pubtime":"2026-07-16T21:32:09Z","v":2}
