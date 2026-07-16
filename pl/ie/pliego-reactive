@@ -1,0 +1,1 @@
+{"name":"pliego-reactive","vers":"0.0.1","deps":[{"name":"wasm-bindgen-test","req":"=0.3.76","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"27e27c339438cf666a49622d0840293d56c0dc4b14928d488969f16f4e274fef","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-16T21:04:16Z"}
