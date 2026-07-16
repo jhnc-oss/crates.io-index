@@ -1,0 +1,1 @@
+{"name":"tpt-telos-ir","vers":"0.1.0","deps":[{"name":"tpt-telos-parser","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de6e9daefe17708d33fd847dfd2db20e492b1705468910065aa577cbc62711bd","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-07-16T09:41:47Z"}
