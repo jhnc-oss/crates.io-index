@@ -1,1 +1,2 @@
 {"name":"clios-screenshot","vers":"0.4.0","deps":[],"cksum":"416bd6e4df07c269e200c611720e49e060ce81085128ba5a5d02c1d26441bd9a","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-16T18:59:11Z"}
+{"name":"clios-screenshot","vers":"0.5.0","deps":[],"cksum":"24d031fec5317ccdc521b95fd662955da9c31465b7d0495ed07966be71573414","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-16T19:29:38Z"}
