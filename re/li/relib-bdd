@@ -1,0 +1,1 @@
+{"name":"relib-bdd","vers":"0.4.0","deps":[{"name":"common","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"relib-common"}],"cksum":"dd8e46804288ee523c87c597c2070e206158a104dfc0a555d8328c0c4e73baf0","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-16T13:16:16Z"}
