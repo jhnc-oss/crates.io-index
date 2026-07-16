@@ -1,0 +1,1 @@
+{"name":"relib-bss","vers":"0.4.0","deps":[{"name":"bddcore","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"relib-bdd"}],"cksum":"feb66775a299d9bcf6d7208df9605ecdb1643f77694f02c58d95e65fbc9d4e1b","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-16T13:16:47Z"}
