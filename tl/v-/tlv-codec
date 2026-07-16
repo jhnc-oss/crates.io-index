@@ -1,0 +1,1 @@
+{"name":"tlv-codec","vers":"0.1.0","deps":[],"cksum":"3b89a5956475aaaa7b4d47be6be2953f4dfd6ab0fb47573397c3727c2b611a1d","features":{"ber-tag":[],"default":["std","endian-helpers"],"endian-helpers":[],"no_std":[],"std":[]},"yanked":false,"pubtime":"2026-07-16T11:15:40Z"}
