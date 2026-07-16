@@ -1,0 +1,1 @@
+{"name":"pcapng-lib","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ca54209288705531ab6cae02336fe8a1ce105b278a47c01b869caad6ad23143","features":{},"yanked":false,"pubtime":"2026-07-16T14:46:44Z"}
