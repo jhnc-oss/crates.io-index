@@ -1,0 +1,1 @@
+{"name":"ghosttea-vt","vers":"0.1.0","deps":[{"name":"ghosttea-vt-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24c0a5542b0311d54ae9a4e4c560bdebff67f9a740749bb008646e25cba3f07a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-16T01:04:24Z"}
