@@ -7,3 +7,4 @@
 {"name":"translit","vers":"0.5.0","deps":[],"cksum":"e21e0a7cd15b8a1159a6dbcfd96d7bd4f9d050c31143d1ba743c6cfe60a71063","features":{},"yanked":false,"pubtime":"2019-06-14T11:30:12Z"}
 {"name":"translit","vers":"0.6.0","deps":[],"cksum":"afd2b9a33a7152d3cc7622a1076dc3eccd775376dd34987e69bbf4de4a0648eb","features":{},"yanked":false,"pubtime":"2024-12-16T07:28:32Z"}
 {"name":"translit","vers":"0.7.0","deps":[{"name":"aho-corasick","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14a50e1223501604aa79b62ce26646bd7bb937a54f7d49fafcd299ecc8326993","features":{},"yanked":false,"pubtime":"2026-07-16T17:21:56Z"}
+{"name":"translit","vers":"0.8.0","deps":[{"name":"aho-corasick","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7d1fcf46742aa7278bd516f254cca8a8a1fc61cb7d1aa4a8f2e8d9fcd426df1","features":{},"yanked":false,"pubtime":"2026-07-16T17:25:13Z"}
