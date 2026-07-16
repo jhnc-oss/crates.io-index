@@ -1,0 +1,1 @@
+{"name":"m77rip-core","vers":"0.1.0","deps":[],"cksum":"5ac10d15fd5a6dff9ed35c5d00c163b1cc7b0e59fd5c9ac30f84ae964514e5ee","features":{"default":["std"],"paranoid":[],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-16T22:41:51Z"}
