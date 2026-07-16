@@ -1,0 +1,1 @@
+{"name":"relib-mdd","vers":"0.4.0","deps":[{"name":"common","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"relib-common"}],"cksum":"e6c84a8b780d1b8f5bfa016d949b8abbe534f10801b53358db56913b310a573b","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-16T13:16:31Z"}
