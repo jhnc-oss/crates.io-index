@@ -19,3 +19,4 @@
 {"name":"overseerd-core","vers":"0.14.0","deps":[],"cksum":"ff2dc526fc05efea9642f37c9c6d92c37ad5decdca3c8244911ca1a70469e447","features":{},"yanked":false,"pubtime":"2026-07-17T07:31:52Z"}
 {"name":"overseerd-core","vers":"0.14.1","deps":[],"cksum":"f9a4eec35ecb043d622e94e0411ec9cd404323cbd33d94b999a1638a52fec550","features":{},"yanked":false,"pubtime":"2026-07-17T08:16:42Z"}
 {"name":"overseerd-core","vers":"0.14.2","deps":[],"cksum":"d831adcd7eb3804147c02a631c25705f36bf97d3ed2352eccbd251fc5539eebd","features":{},"yanked":false,"pubtime":"2026-07-17T16:40:24Z"}
+{"name":"overseerd-core","vers":"0.15.0","deps":[],"cksum":"e4586bbfabfc3ed6aebe45124526ea189193b750a12b3399132025ed266eb482","features":{},"yanked":false,"pubtime":"2026-07-17T18:27:36Z"}
