@@ -1,0 +1,1 @@
+{"name":"ishou-emoji","vers":"0.1.4","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3a90932ea9c2deaf777034afd7035f6e3ad6cb06366c1d90e5ba69f1cb578daa","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-07-17T21:34:00Z"}
