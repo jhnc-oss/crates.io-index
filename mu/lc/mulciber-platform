@@ -1,2 +1,3 @@
 {"name":"mulciber-platform","vers":"0.1.0","deps":[],"cksum":"71ef00e33bbf4fe6b675108d0da2bf4533c0bccabbc1388c58514b31f277e639","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-17T11:37:29Z"}
 {"name":"mulciber-platform","vers":"0.1.1","deps":[],"cksum":"25a10eda13e85a2654f3b872dde3a859b41726dfd162139cae8f3e160af2096c","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-17T13:16:34Z"}
+{"name":"mulciber-platform","vers":"0.2.0","deps":[],"cksum":"4b8c4462c262cdf8ba86a9de02bc85c0ff1326c358c0d658cfc65324bd682fac","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-17T18:00:51Z"}
