@@ -1,0 +1,1 @@
+{"name":"affine-cat","vers":"0.1.0","deps":[],"cksum":"6c2d1d5b39081b89dedac5faee8f1ca1c500b21749506de926d9ade615e5246b","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.80","pubtime":"2026-07-17T17:50:45Z"}
