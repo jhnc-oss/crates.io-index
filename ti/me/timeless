@@ -13,3 +13,4 @@
 {"name":"timeless","vers":"0.0.12-alpha","deps":[],"cksum":"a5041539cfd3fc4c004b4338278c586ec517b75d5ba75983008e1edfbadc33e1","features":{},"yanked":false,"pubtime":"2025-01-20T06:40:07Z"}
 {"name":"timeless","vers":"0.0.13-alpha","deps":[],"cksum":"714d7f23a6bb9bf3531a3db7a67ea2c5a30a03d78612c642cfc28746f35b55e5","features":{},"yanked":false,"pubtime":"2025-01-25T06:44:49Z"}
 {"name":"timeless","vers":"0.0.14-alpha","deps":[],"cksum":"04121e3f47427f2604066a4c4af25102e6c5794b167f6dee85958898ebf7f131","features":{},"yanked":false,"pubtime":"2025-01-27T03:46:32Z"}
+{"name":"timeless","vers":"0.0.15-alpha","deps":[],"cksum":"a2be119240e5a387a47d456fb20aed535bbfe6db82ed698212a79b2cd30382c8","features":{},"yanked":false,"pubtime":"2026-07-17T04:18:19Z"}
