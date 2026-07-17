@@ -2,3 +2,4 @@
 {"name":"reallyme-codec-multicodec","vers":"0.1.9","deps":[],"cksum":"c1be6fe5bdc62af82a65b437aa9ea2e25c3355bdbeb34006313a5a8a3c644336","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-14T22:23:19Z"}
 {"name":"reallyme-codec-multicodec","vers":"0.1.20","deps":[],"cksum":"41afa6789d3c0012aa724272c4bfd575d0edba452a5594bd492bd026f0f59cc3","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-15T11:46:58Z"}
 {"name":"reallyme-codec-multicodec","vers":"0.1.21","deps":[],"cksum":"549fdfaa051c62e9a1ec25bd00cf6f062d1a4d36e8c0cc24feb686da34c85b77","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-15T22:45:04Z"}
+{"name":"reallyme-codec-multicodec","vers":"0.1.22","deps":[],"cksum":"e0998160beb2aae0869677c5164fed197b781710d294407573a493a1f71ee440","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-17T17:25:18Z"}
