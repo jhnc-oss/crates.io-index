@@ -1,3 +1,3 @@
-{"name":"verdet-harness","vers":"0.0.1","deps":[],"cksum":"536aa66b7ad8f12d11dd1e817fdf0b7eddb2a6c301c7b1db095afe742afda2fb","features":{},"yanked":false,"pubtime":"2026-07-17T13:15:04Z"}
-{"name":"verdet-harness","vers":"0.1.0","deps":[],"cksum":"cf7f10161167c557ce1dbc5be7f9f52cb653c8027500be3384124389bf158d90","features":{},"yanked":false,"pubtime":"2026-07-17T23:35:32Z"}
+{"name":"verdet-harness","vers":"0.0.1","deps":[],"cksum":"536aa66b7ad8f12d11dd1e817fdf0b7eddb2a6c301c7b1db095afe742afda2fb","features":{},"yanked":true,"pubtime":"2026-07-17T13:15:04Z"}
+{"name":"verdet-harness","vers":"0.1.0","deps":[],"cksum":"cf7f10161167c557ce1dbc5be7f9f52cb653c8027500be3384124389bf158d90","features":{},"yanked":true,"pubtime":"2026-07-17T23:35:32Z"}
 {"name":"verdet-harness","vers":"0.1.1","deps":[],"cksum":"9907acb68f83d7c74ffab15136abc282d0e155d396da19a842d576a97c0b7d21","features":{},"yanked":false,"pubtime":"2026-07-17T23:36:57Z"}
