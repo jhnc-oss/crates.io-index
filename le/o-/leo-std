@@ -1,2 +1,3 @@
 {"name":"leo-std","vers":"4.2.0","deps":[],"cksum":"2b0e4c5d1ffca1243dbf7cf477e1b05e8bb6499857da43ea6ffb2a7949ab9de3","features":{},"yanked":false,"pubtime":"2026-06-12T14:19:44Z"}
 {"name":"leo-std","vers":"4.3.3","deps":[],"cksum":"4ede343f576445c8e392abd14cd674e7cb73fd032ac908fb2120bd17af6dce68","features":{},"yanked":false,"pubtime":"2026-07-14T23:29:29Z"}
+{"name":"leo-std","vers":"4.3.4","deps":[],"cksum":"dd8e04bce16ee376d7534a28b839194a7d4ca5a48db5bc7f1b5265a20f13875c","features":{},"yanked":false,"pubtime":"2026-07-17T01:46:54Z"}
