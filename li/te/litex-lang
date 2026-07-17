@@ -32,3 +32,4 @@
 {"name":"litex-lang","vers":"0.9.103-beta","deps":[],"cksum":"ff48ccef8335df011289594e302eeabdfcc0cfd642f8a30776435c37a9b1f825","features":{},"yanked":false,"pubtime":"2026-07-13T12:20:33Z"}
 {"name":"litex-lang","vers":"0.9.104-beta","deps":[],"cksum":"d441e38a9c49096fdbdebdf9df75fd7d687baa3ffa23b5de0a62b153b7eb8799","features":{},"yanked":false,"pubtime":"2026-07-17T02:22:24Z"}
 {"name":"litex-lang","vers":"0.9.106-beta","deps":[],"cksum":"43cd5d96b42bde27de2972852b5b866ec843dff3d6788bd3d26d9dc6f82d1ce6","features":{},"yanked":false,"pubtime":"2026-07-17T03:36:07Z"}
+{"name":"litex-lang","vers":"0.9.107-beta","deps":[],"cksum":"c1967e8b6b9ff70f0899e0cdba606e4de82fd170c8bb75b89eac2392c4ae5ab1","features":{},"yanked":false,"pubtime":"2026-07-17T04:59:05Z"}
