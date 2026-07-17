@@ -6,3 +6,4 @@
 {"name":"constrangeiter","vers":"0.0.5","deps":[],"cksum":"27bb67e1636ff772f8f3ffac6dc6e45ce65284948f9aa52d0544258fabca1e9c","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-14T09:17:19Z"}
 {"name":"constrangeiter","vers":"0.0.6","deps":[],"cksum":"1b66eb85a86c6e8836d6700d4cf7efcf591e5cb8eab0a38b6c7de642a721f8c3","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-14T11:26:56Z"}
 {"name":"constrangeiter","vers":"0.0.7","deps":[],"cksum":"1daa1a89a0fd061efb97f69c26dcb98f50edcdfec44546916ca65f4cd5058a50","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-14T12:43:11Z"}
+{"name":"constrangeiter","vers":"0.0.8","deps":[],"cksum":"144517214394ff77f79e4479bf22af20e17247615a5cce8d7ad76c879a6d76d0","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-17T22:29:55Z"}
