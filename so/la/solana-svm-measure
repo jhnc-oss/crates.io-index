@@ -54,3 +54,4 @@
 {"name":"solana-svm-measure","vers":"4.1.2","deps":[],"cksum":"41ec9c705bec0fc99b9220e62fbae9fb0a297b9a95ff411badce934103a92ec7","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-07-10T15:00:58Z"}
 {"name":"solana-svm-measure","vers":"4.2.0-beta.1","deps":[],"cksum":"9d23378b9fdabc796f1ead1f62f1eb0fc22799c2e2f7ca8db498f6eacd932e87","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-07-10T17:19:08Z"}
 {"name":"solana-svm-measure","vers":"4.3.0-alpha.1","deps":[],"cksum":"599e745acc2898ccaf73ff313a4d33a8a0941f3e943c88fb7ac8b494f85a5d45","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-07-13T18:38:09Z"}
+{"name":"solana-svm-measure","vers":"4.2.0-beta.2","deps":[],"cksum":"b97a8ef19af72007af16e63a503eb9d6791c3536dd80d4437b993baa75b1e907","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-07-17T19:09:39Z"}
