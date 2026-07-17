@@ -1,0 +1,1 @@
+{"name":"fdk-aac-rust-sys","vers":"0.2.1","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"032da606c47a52384725515fce30e4f1530546944f3186d80478fe9d19c7e821","features":{},"yanked":false,"links":"fdk-aac-rust-reference","pubtime":"2026-07-17T16:27:35Z"}
