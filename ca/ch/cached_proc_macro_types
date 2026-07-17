@@ -5,3 +5,4 @@
 {"name":"cached_proc_macro_types","vers":"3.0.0-rc.2","deps":[],"cksum":"7b5ad351d9edd14a7db0ac15766cf5136d0686475dfb0e4b1b8fcada27fc3524","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-02T12:48:53Z"}
 {"name":"cached_proc_macro_types","vers":"3.0.0-rc.3","deps":[],"cksum":"d10222c6f2ef502074528c5b56ddc50dc1087e87a75932d76ad2d8991bec9cc5","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-05T12:55:08Z"}
 {"name":"cached_proc_macro_types","vers":"3.0.0-rc.4","deps":[],"cksum":"830092917db2471656c13c20bc1f812641638719b9ab9d6fb384ff58944821db","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-06T03:16:24Z"}
+{"name":"cached_proc_macro_types","vers":"3.0.0-rc.8","deps":[],"cksum":"d668f0bde2dc9ad1479323d12725830d11695037c7876da06dc8b000956f2d96","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-17T14:32:30Z"}
