@@ -16,3 +16,4 @@
 {"name":"nexaloid-sys-darwin-arm64","vers":"0.1.28","deps":[],"cksum":"f88e24f3acfcd5c96ce710819aeaeb08d7d6bbffaaa6eac05fd8dd9b9e32203f","features":{},"yanked":false,"links":"nexaloid_prebuilt_darwin_arm64","pubtime":"2026-07-16T09:33:56Z"}
 {"name":"nexaloid-sys-darwin-arm64","vers":"0.1.29","deps":[],"cksum":"22497088d49f0245960c47597d8bb21e72d166b76790a8f5348fca32e2aff79c","features":{},"yanked":false,"links":"nexaloid_prebuilt_darwin_arm64","pubtime":"2026-07-16T13:39:20Z"}
 {"name":"nexaloid-sys-darwin-arm64","vers":"0.1.30","deps":[],"cksum":"fe0d075f78e985ef44f5c58e1e6852f15ccf2d2f016d4cbb246662d1ca0e8f78","features":{},"yanked":false,"links":"nexaloid_prebuilt_darwin_arm64","pubtime":"2026-07-16T18:09:33Z"}
+{"name":"nexaloid-sys-darwin-arm64","vers":"0.1.31","deps":[],"cksum":"20169f990edfdb9f1daca87c9a813a771f77f1c7e1ee906dce76c9ff0e1d30bc","features":{},"yanked":false,"links":"nexaloid_prebuilt_darwin_arm64","pubtime":"2026-07-17T12:25:47Z"}
