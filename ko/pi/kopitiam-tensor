@@ -1,0 +1,1 @@
+{"name":"kopitiam-tensor","vers":"0.0.1","deps":[{"name":"kopitiam-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0241c8d88013973bba0d45501a4f5714a0f8dcc2253c277ca0b5c8b94f931cc9","features":{},"yanked":false,"pubtime":"2026-07-17T00:09:13Z"}
