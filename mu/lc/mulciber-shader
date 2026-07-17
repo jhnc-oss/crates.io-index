@@ -1,0 +1,1 @@
+{"name":"mulciber-shader","vers":"0.1.1","deps":[{"name":"naga","req":"^30.0.0","features":["wgsl-in","spv-out","msl-out"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8782fe1d6bc1a5bc1ae0929f599095fd8f23d137c5540610b6d2f429c3ca069d","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-17T18:03:49Z"}
