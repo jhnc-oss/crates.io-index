@@ -1,0 +1,1 @@
+{"name":"kopitiam-core","vers":"0.0.1","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60a05c7080430a4eae5f2aa68e617860eee7a3eb7a71ded220c6bdfc80217f86","features":{},"yanked":false,"pubtime":"2026-07-17T00:09:06Z"}
