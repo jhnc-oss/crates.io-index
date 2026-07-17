@@ -1,1 +1,0 @@
-{"name":"rust-helloworld2","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.51","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa9b85c5994596f22f731a0084146abd4d4c46c44d34d8136d17664c9b44f941","features":{},"yanked":false,"pubtime":"2026-07-17T17:50:53Z"}
