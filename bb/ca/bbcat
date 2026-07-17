@@ -15,3 +15,4 @@
 {"name":"bbcat","vers":"0.1.15","deps":[],"cksum":"62a6a07770aa67eeaae3cec915ab40c044e84f6507e91122fe5a133ae686fa59","features":{},"yanked":false,"pubtime":"2026-07-15T07:13:04Z"}
 {"name":"bbcat","vers":"0.2.0","deps":[],"cksum":"9d4c39eec9f9ca4a3f3be47fc6a057ca6bbfe6fae2911ec02e0169b1e119ae55","features":{},"yanked":false,"pubtime":"2026-07-17T12:56:24Z"}
 {"name":"bbcat","vers":"0.3.0","deps":[],"cksum":"62bf02679eb71c910729e88117f3e2a814d49b5f9da5342aa22d195276fd7c7b","features":{},"yanked":false,"pubtime":"2026-07-17T16:41:12Z"}
+{"name":"bbcat","vers":"0.3.1","deps":[],"cksum":"c0d852080e0720f46fecba7044e520825126151009a80dfda7516ffa2b85ef21","features":{},"yanked":false,"pubtime":"2026-07-17T17:19:04Z"}
