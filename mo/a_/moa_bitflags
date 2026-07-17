@@ -3,3 +3,4 @@
 {"name":"moa_bitflags","vers":"0.3.0","deps":[],"cksum":"f85d63e65ebfababbd21a3708c95e2cc27534ba6b2b7fa30b2977a9e03440cc6","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-13T10:03:49Z"}
 {"name":"moa_bitflags","vers":"0.4.0","deps":[],"cksum":"b48833c7da63aacdbe949130f09516c8f677c34677dcda3affe060e0f9ca209f","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-16T09:31:39Z"}
 {"name":"moa_bitflags","vers":"0.5.0","deps":[],"cksum":"b619eda4944b281a30ef134ad9783c7aca5e0df42f8cb0dcba8d73e4447180b8","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-17T03:09:20Z"}
+{"name":"moa_bitflags","vers":"0.6.0","deps":[],"cksum":"338500cfadfab1e593907e9e49f7b17b5c2bcc3842b56e70ed1f7892510ecf3a","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-17T11:19:26Z"}
