@@ -17,3 +17,4 @@
 {"name":"bbcat","vers":"0.3.0","deps":[],"cksum":"62bf02679eb71c910729e88117f3e2a814d49b5f9da5342aa22d195276fd7c7b","features":{},"yanked":false,"pubtime":"2026-07-17T16:41:12Z"}
 {"name":"bbcat","vers":"0.3.1","deps":[],"cksum":"c0d852080e0720f46fecba7044e520825126151009a80dfda7516ffa2b85ef21","features":{},"yanked":false,"pubtime":"2026-07-17T17:19:04Z"}
 {"name":"bbcat","vers":"0.3.2","deps":[],"cksum":"d30617f56ca6fcadde27d54252ca762ef60134275b01e1b2b981ff8813f8d31a","features":{},"yanked":false,"pubtime":"2026-07-17T17:54:19Z"}
+{"name":"bbcat","vers":"0.4.0","deps":[],"cksum":"edc18c62e4b27782f01df940886de0cef096f0ab40d44287fe4b0e804a7bc4c0","features":{},"yanked":false,"pubtime":"2026-07-17T18:33:17Z"}
