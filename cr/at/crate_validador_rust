@@ -1,1 +1,2 @@
 {"name":"crate_validador_rust","vers":"0.1.1","deps":[],"cksum":"879ff79eccba17c7b410d6bc6150e0041a2ddf72d6e02daff103006caa2bb0ab","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-17T23:12:51Z"}
+{"name":"crate_validador_rust","vers":"0.1.2","deps":[],"cksum":"a049bfdcff6348b5a92e172de45090d35d5fee3f819c34c4e6001400f4518f6a","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-17T23:55:25Z"}
