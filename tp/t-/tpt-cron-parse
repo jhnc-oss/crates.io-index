@@ -1,0 +1,1 @@
+{"name":"tpt-cron-parse","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc2d954365207ab5a9ce665d6fbaad125bb5dbf604fbb030b3262e1393c40b98","features":{},"features2":{"chrono":["dep:chrono"]},"yanked":false,"rust_version":"1.71","pubtime":"2026-07-17T10:35:33Z","v":2}
