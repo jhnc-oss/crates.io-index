@@ -1,0 +1,1 @@
+{"name":"cascade-core","vers":"0.1.0-alpha.1","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1df56fbc4c8eb2454269f1107ee31d89475c3df12743ffddc5e74c74c37afb74","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-17T20:02:56Z"}
