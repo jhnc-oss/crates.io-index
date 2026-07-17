@@ -1,1 +1,0 @@
-{"name":"averic-survey","vers":"0.1.0","deps":[{"name":"averic-record","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ed8bd477a9069470efd63f120874d66c7c8d32579bb7b1bd708fa48d81306df","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-17T13:26:18Z"}
