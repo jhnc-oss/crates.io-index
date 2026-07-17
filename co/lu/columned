@@ -2,3 +2,4 @@
 {"name":"columned","vers":"0.1.1","deps":[],"cksum":"c565596fcf521c530f5b4894b26000dffbb06a8189fab044d10889453e771b17","features":{"asserts":[]},"yanked":false,"pubtime":"2026-02-26T13:27:55Z"}
 {"name":"columned","vers":"0.1.2","deps":[],"cksum":"7e76a8218d158c83a5cbda967104a6e6bbe0e389add49dbf2dca3abeea879b80","features":{"asserts":[]},"yanked":false,"pubtime":"2026-02-26T13:51:02Z"}
 {"name":"columned","vers":"0.1.3","deps":[],"cksum":"53d5acacbdc3a9d02be9b3e7ceed78b17802b0ac2f6c61d951c5cffb979d161f","features":{"asserts":[]},"yanked":false,"pubtime":"2026-07-14T11:53:55Z"}
+{"name":"columned","vers":"0.2.0","deps":[{"name":"pastey","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e795724a56f6a6b370a6f101bbdb20c35e7e0aebaa73a393652ce472876f897f","features":{},"yanked":false,"pubtime":"2026-07-17T21:47:43Z"}
