@@ -1,1 +1,2 @@
 {"name":"safe-read","vers":"0.1.0","deps":[],"cksum":"4487a19fd870fa418cd95a218049eeb70514535bf2271715774d97d7caab1ce5","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-15T10:38:34Z"}
+{"name":"safe-read","vers":"0.2.0","deps":[],"cksum":"9989423a584cb1d6cfc469ffdd8de2b4fb07cb4ff46866df0d46ad77343b5878","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-17T08:45:11Z"}
