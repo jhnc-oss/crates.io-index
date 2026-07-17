@@ -1,0 +1,1 @@
+{"name":"ntpsec-rs-frob","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fca14ff145c098169fcbf771ecbfbdc3420bbae38bb6550c8fe6edc4863cde29","features":{},"yanked":false,"pubtime":"2026-07-17T22:55:29Z"}
