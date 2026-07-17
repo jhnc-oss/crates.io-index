@@ -17,3 +17,4 @@
 {"name":"ferromotion-ruckig","vers":"0.17.0","deps":[],"cksum":"ae37e40264bc5da560964a01e6d388597d20a02c852d0a9ab5702cca6a72b957","features":{},"yanked":false,"pubtime":"2026-07-17T20:11:55Z"}
 {"name":"ferromotion-ruckig","vers":"0.18.0","deps":[],"cksum":"9180564364dc4ef6537565bf5c18d96738ca0bb67a67b27408d63ba9cb799df0","features":{},"yanked":false,"pubtime":"2026-07-17T20:40:06Z"}
 {"name":"ferromotion-ruckig","vers":"0.19.0","deps":[],"cksum":"98d1121f0dce0f13210ea08927534722ad81473b04ec44162586560a3d2a3cd0","features":{},"yanked":false,"pubtime":"2026-07-17T21:16:33Z"}
+{"name":"ferromotion-ruckig","vers":"0.20.0","deps":[],"cksum":"c25a85255d8f6dd3c93d55377a0b798870278fc48a2f3cfb348beb84d1b8bf4e","features":{},"yanked":false,"pubtime":"2026-07-17T23:23:54Z"}
