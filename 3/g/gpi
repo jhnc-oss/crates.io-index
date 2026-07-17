@@ -1,1 +1,0 @@
-{"name":"gpi","vers":"0.1.0","deps":[{"name":"wgpu","req":"^29.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"703462b92529be75024d3bc35f55a92a889d40c19ad56f6a922d2fd01a21a090","features":{},"yanked":false,"pubtime":"2026-06-26T18:05:04Z"}
