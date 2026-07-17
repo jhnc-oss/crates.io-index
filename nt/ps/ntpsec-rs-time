@@ -1,0 +1,1 @@
+{"name":"ntpsec-rs-time","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67d21cac66fb27a7b92bc3a9a41f633a6b834d424c9aabcd04c2d02a49443002","features":{},"yanked":false,"pubtime":"2026-07-17T23:15:05Z"}
