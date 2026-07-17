@@ -1,2 +1,3 @@
 {"name":"url-parse-nginx","vers":"0.1.0","deps":[],"cksum":"07fd37101b248b464734ebee75eac2af735e1d4357954e2a0f1936bb46b75276","features":{},"yanked":false,"pubtime":"2026-07-17T13:53:48Z"}
 {"name":"url-parse-nginx","vers":"0.2.0","deps":[],"cksum":"98612cfdaca131270618b3fffe00aec54b8d4a4c3f2c6ed8d48172b71405b332","features":{},"yanked":false,"pubtime":"2026-07-17T14:21:01Z"}
+{"name":"url-parse-nginx","vers":"0.2.1","deps":[{"name":"percent-encoding","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"370539bafb49ba6af99a2c8a0a84be60a87ebb89f0d95340c01564219971aa7a","features":{},"yanked":false,"pubtime":"2026-07-17T15:46:23Z"}
