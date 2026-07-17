@@ -1,0 +1,1 @@
+{"name":"encore_compiler","vers":"0.1.2","deps":[{"name":"encore_vm","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bddcc9345b34dcfb1799a116dfa8b157f7b0679efe605c9048ca5491e2e8d72b","features":{},"yanked":false,"pubtime":"2026-07-17T09:49:47Z"}
