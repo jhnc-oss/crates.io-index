@@ -103,3 +103,4 @@
 {"name":"synth-cfg","vers":"0.45.2","deps":[],"cksum":"30e41b01edb8b2d3b445daebde73e77b5bafbc5cb985af379b94bfb3e9f1684d","features":{},"yanked":false,"pubtime":"2026-07-16T17:19:35Z"}
 {"name":"synth-cfg","vers":"0.46.0","deps":[],"cksum":"9116f4314bcc39e54f07880875144b140ba5bb99dde7f2b398ff0c71b36afbe0","features":{},"yanked":false,"pubtime":"2026-07-16T22:38:00Z"}
 {"name":"synth-cfg","vers":"0.46.1","deps":[],"cksum":"94f958f88df6a5bc74d4149c2886cbf130110b985b8ec6db18a080c7e62a485c","features":{},"yanked":false,"pubtime":"2026-07-17T04:38:59Z"}
+{"name":"synth-cfg","vers":"0.47.0","deps":[],"cksum":"82d18ff09b4ddd9252f7ea31f78242dbd2fbbf418b84e8a2d35f576177137d82","features":{},"yanked":false,"pubtime":"2026-07-17T05:31:49Z"}
