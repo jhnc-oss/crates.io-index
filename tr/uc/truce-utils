@@ -113,4 +113,4 @@
 {"name":"truce-utils","vers":"6.1.8","deps":[],"cksum":"6f2442913a6f33ad912a2816e479ccf0db68c084db002e381bc76832af733e37","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-16T04:33:13Z"}
 {"name":"truce-utils","vers":"6.1.9","deps":[],"cksum":"66c3995499156671c3a23f311e873d7683edc8826353a914c04fd89f02bcc396","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-16T07:39:43Z"}
 {"name":"truce-utils","vers":"6.1.10","deps":[],"cksum":"b1124368aa1ac9b540c54be02ff7e106c33388c7f904101d5882eff43d87bd3d","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-17T06:58:14Z"}
-{"name":"truce-utils","vers":"6.1.11","deps":[],"cksum":"40600d3d101da3dc92c9ad3dd244b59a5d36df6aa64c1a82706d053f7313b24f","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-17T20:31:30Z"}
+{"name":"truce-utils","vers":"6.1.11","deps":[],"cksum":"40600d3d101da3dc92c9ad3dd244b59a5d36df6aa64c1a82706d053f7313b24f","features":{},"yanked":true,"rust_version":"1.92","pubtime":"2026-07-17T20:31:30Z"}
