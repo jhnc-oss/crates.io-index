@@ -1,0 +1,1 @@
+{"name":"date-periods","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.44","features":["clock"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be6901cea08c98128f87b307ce5e7af300fd58b621fcb891039ffe07b4fe45dc","features":{},"yanked":false,"pubtime":"2026-07-18T03:17:55Z"}
