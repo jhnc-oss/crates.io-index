@@ -1,0 +1,1 @@
+{"name":"betteroffice-xlsx-model","vers":"0.0.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"597fa736478def4d792c98ef45012dc726b4f21fd8279410e13452ac4189b3ea","features":{},"yanked":false,"pubtime":"2026-07-18T15:46:10Z"}
