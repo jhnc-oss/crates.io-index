@@ -39,3 +39,4 @@
 {"name":"syncular","vers":"0.15.17","deps":[],"cksum":"5ec596a594ee99c310a48f5b8534d802b8d3eec9c11a9154f363a2ece5da64df","features":{},"yanked":false,"pubtime":"2026-07-18T07:19:22Z"}
 {"name":"syncular","vers":"0.15.18","deps":[],"cksum":"aed7e21147989d29868cd5f451d7c69db7be316dd24a19aa41fe62a78128a609","features":{},"yanked":false,"pubtime":"2026-07-18T07:49:34Z"}
 {"name":"syncular","vers":"0.15.19","deps":[],"cksum":"7648b5993470e9ccdb7e2ab6119c619ff28d03c1a6638e7b0ef2a93f8484841c","features":{},"yanked":false,"pubtime":"2026-07-18T08:02:09Z"}
+{"name":"syncular","vers":"0.15.20","deps":[],"cksum":"7deac353312b6b48c6df7476bb3db73a5604fa5bda12ff71d4ed342b06da84e2","features":{},"yanked":false,"pubtime":"2026-07-18T08:27:56Z"}
