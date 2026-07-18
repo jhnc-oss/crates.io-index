@@ -116,3 +116,4 @@
 {"name":"truce-utils","vers":"6.1.11","deps":[],"cksum":"40600d3d101da3dc92c9ad3dd244b59a5d36df6aa64c1a82706d053f7313b24f","features":{},"yanked":true,"rust_version":"1.92","pubtime":"2026-07-17T20:31:30Z"}
 {"name":"truce-utils","vers":"6.2.0","deps":[],"cksum":"9d5e7c54bb6975ef4fbe553bb6f19f839c6176db5172ed585520e3b42d2987e1","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-17T21:02:47Z"}
 {"name":"truce-utils","vers":"6.2.1","deps":[],"cksum":"2111259f7d4a517e226300a9ae52487d1940c6d8ee6edbe58dadfcd43f1fe944","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-17T23:17:45Z"}
+{"name":"truce-utils","vers":"6.3.0","deps":[],"cksum":"c16c39b3d4b34d50004d7e0e752344bb0c048207528adc72ca7118391eb3140e","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-18T15:36:19Z"}
