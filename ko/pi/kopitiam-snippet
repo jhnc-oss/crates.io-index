@@ -5,3 +5,4 @@
 {"name":"kopitiam-snippet","vers":"0.1.4","deps":[],"cksum":"d0d729bc14049ca305c633f017f80fe2bdf7d33327e3166b268b567ca92b8c4a","features":{},"yanked":false,"pubtime":"2026-07-18T00:34:24Z"}
 {"name":"kopitiam-snippet","vers":"0.1.5","deps":[],"cksum":"140a3a6d9feb41a4e970613631eead8b2d9a23dee26d86b9bf8494b9a1f75b11","features":{},"yanked":false,"pubtime":"2026-07-18T01:37:58Z"}
 {"name":"kopitiam-snippet","vers":"0.1.6","deps":[],"cksum":"f8e956edfe5931c22a7899d965a7233a00ff3a96c2c12a87794cd6970a1431e7","features":{},"yanked":false,"pubtime":"2026-07-18T01:54:48Z"}
+{"name":"kopitiam-snippet","vers":"0.1.7","deps":[],"cksum":"1c3cea6e571d778970abea5a49fa3c97b7ed3a4c45b0e40ed3c2452a46abe382","features":{},"yanked":false,"pubtime":"2026-07-18T02:21:40Z"}
