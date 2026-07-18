@@ -1,0 +1,1 @@
+{"name":"fastcount","vers":"2.0.0","deps":[{"name":"clihelp","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ac8991b7bc002c682eb3b2cd6e45813eb5b5e2a04bf2a52d289f3593ddde763","features":{},"yanked":false,"pubtime":"2026-07-18T07:11:10Z"}
