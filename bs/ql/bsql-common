@@ -1,1 +1,2 @@
 {"name":"bsql-common","vers":"1.0.0-alpha.1","deps":[],"cksum":"b03f19c57741f8f627edf619b2808c3bc487eed2f581334f27a76bc845739470","features":{"n1":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-17T12:06:45Z"}
+{"name":"bsql-common","vers":"1.0.0-alpha.2","deps":[],"cksum":"5b7674beb69418abaa92c9ac222f7f923599bde440f10a625d586c84a7d6b7a6","features":{"n1":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-18T08:29:23Z"}
