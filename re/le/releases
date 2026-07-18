@@ -5,3 +5,4 @@
 {"name":"releases","vers":"0.1.5","deps":[],"cksum":"9a51323f80dadd0021ec2d8b1bbd78cf3a43a333301298ab01ed6c88c87c10a0","features":{},"yanked":false,"pubtime":"2026-07-18T12:16:57Z"}
 {"name":"releases","vers":"0.1.6","deps":[],"cksum":"50d5f60a51515cbe3c04d1fc67dbdbd5abf887cd0e977d69422792aa1d90e889","features":{},"yanked":false,"pubtime":"2026-07-18T12:19:12Z"}
 {"name":"releases","vers":"0.1.7","deps":[],"cksum":"b5378a2851bcb9abc4741990c87e5a056e19277615945815cf1e7ea80f67053a","features":{},"yanked":false,"pubtime":"2026-07-18T12:20:09Z"}
+{"name":"releases","vers":"0.1.8","deps":[],"cksum":"bc4acdd1eaa2c0d20b7b7dfe19f4940cc6653e8e3e9557717d400a031b040f6d","features":{},"yanked":false,"pubtime":"2026-07-18T12:22:17Z"}
