@@ -1,0 +1,1 @@
+{"name":"yog-hot-reload","vers":"0.1.0","deps":[{"name":"libloading","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cad6d1afcc93d612aa4e205c622103c9c9c9536db22ca7e04a9e561767cc9e0f","features":{},"yanked":false,"pubtime":"2026-07-18T05:44:20Z"}
