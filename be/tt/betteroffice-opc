@@ -1,0 +1,1 @@
+{"name":"betteroffice-opc","vers":"0.0.1","deps":[{"name":"zip","req":"^8","features":["deflate"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"fb62362a7c57adab1310c6ad3b80918d12102ded368847f030da3eca73f7d807","features":{},"yanked":false,"pubtime":"2026-07-18T15:46:03Z"}
