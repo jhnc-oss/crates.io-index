@@ -1,3 +1,4 @@
 {"name":"sql-dialect-fmt-text","vers":"1.12.0","deps":[],"cksum":"2c63c0b9d411e5765b3972f18c5636416e783ecb7487199d48c2de992111a8fd","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-11T00:48:21Z"}
 {"name":"sql-dialect-fmt-text","vers":"1.12.1","deps":[],"cksum":"dc3d4497d278c4d0e301c384133ed800d130b04e0097352eb05e8513d942fbe2","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-11T01:00:32Z"}
 {"name":"sql-dialect-fmt-text","vers":"1.13.0","deps":[],"cksum":"f044ddd13aa2d3d834c9d8da3984120ff46b94678f672775ac8a5a5dec129406","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-11T07:05:28Z"}
+{"name":"sql-dialect-fmt-text","vers":"1.14.0","deps":[],"cksum":"5f457d5e478b12cb07b0557f9075e0ea36c01c70929705130b6cc1550c4deff8","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-18T03:25:54Z"}
