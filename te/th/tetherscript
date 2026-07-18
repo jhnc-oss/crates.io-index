@@ -18,3 +18,4 @@
 {"name":"tetherscript","vers":"0.1.0-alpha.17","deps":[],"cksum":"85a430dd3f292bd9f7b2618d580a9fa3860a4e5911b8f121801e32953324021d","features":{},"yanked":false,"pubtime":"2026-05-29T16:25:06Z"}
 {"name":"tetherscript","vers":"0.1.0-alpha.18","deps":[],"cksum":"2905e28e9a7bbf220e6986378d6e98e72012a455ff552cecb20c7f4faa4b908d","features":{},"yanked":false,"pubtime":"2026-06-28T22:25:30Z"}
 {"name":"tetherscript","vers":"0.1.0-alpha.19","deps":[],"cksum":"64664c14989d5884129c05605bd152aebd1a0fccce19c4f34c483e6daa9a71e3","features":{},"yanked":false,"pubtime":"2026-06-30T15:54:56Z"}
+{"name":"tetherscript","vers":"0.1.0-alpha.20","deps":[],"cksum":"3198944e5187b0c58e80fa05c562228d7f2a7c883af042d04054e6c985422029","features":{},"yanked":false,"pubtime":"2026-07-18T12:47:45Z"}
