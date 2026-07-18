@@ -1,0 +1,1 @@
+{"name":"rpn-engine","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4fe04f08adc4cf816bb42fdfb4b7b1dfab602e3a47b6a1ddb28c77b4f3254085","features":{},"yanked":false,"pubtime":"2026-07-18T14:47:18Z"}
