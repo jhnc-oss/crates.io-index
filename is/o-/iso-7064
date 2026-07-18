@@ -1,0 +1,1 @@
+{"name":"iso-7064","vers":"0.1.0","deps":[{"name":"rand","req":"^0.10","features":["sys_rng"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"7368e923820d4ffef02e9f9c8b1b6d906569331675e41bc8816cf7f3433fc722","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-18T13:48:42Z"}
