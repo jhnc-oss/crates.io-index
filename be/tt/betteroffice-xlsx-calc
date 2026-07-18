@@ -1,0 +1,1 @@
+{"name":"betteroffice-xlsx-calc","vers":"0.0.1","deps":[{"name":"xlsx-model","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"betteroffice-xlsx-model"}],"cksum":"fa42f9799cda765481e1fb5167cecf33c5e605b452ca2461af0db4641dca1584","features":{},"yanked":false,"pubtime":"2026-07-18T15:46:18Z"}
