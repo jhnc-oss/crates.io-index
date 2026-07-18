@@ -1,0 +1,1 @@
+{"name":"timeit-cli","vers":"0.1.0","deps":[{"name":"clihelp","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fdd91d843012f986cf1b6642608ee93d658834978da1b8c839c4ddd5b2fa79a3","features":{},"yanked":false,"pubtime":"2026-07-18T07:11:05Z"}
