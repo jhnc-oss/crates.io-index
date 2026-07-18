@@ -1,1 +1,2 @@
 {"name":"chronon-telemetry","vers":"0.1.0","deps":[],"cksum":"930a130e5f36fdbc0dd97917dddcbacceda121897588b6e0fe2a839c62b47516","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-17T17:24:17Z"}
+{"name":"chronon-telemetry","vers":"0.1.1","deps":[],"cksum":"f21e62eac301d557ef996172ae1a7e38b4179c1b813a3a95c21316158c241f2a","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-18T18:33:43Z"}
