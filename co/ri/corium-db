@@ -1,0 +1,1 @@
+{"name":"corium-db","vers":"0.1.5","deps":[{"name":"corium-core","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec0b64e01372edbb577f8ed7bd10a0f85ecdcc63a06564796608054506ce2558","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-18T23:44:46Z"}
