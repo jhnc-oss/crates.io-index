@@ -1,0 +1,1 @@
+{"name":"rodio-wsola","vers":"0.1.0","deps":[{"name":"rodio","req":"^0.22","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"669139b523f3aee6edf1c5ea669f3ef07d4af178dd97b355fc58795719a0671f","features":{},"yanked":false,"pubtime":"2026-07-18T14:39:03Z"}
