@@ -99,3 +99,4 @@
 {"name":"cranpose-assets","vers":"0.1.65","deps":[],"cksum":"911b0015dda10bdbb6eb47fa592e07f53efcc12e1c122b1efd6e1345bde6d112","features":{},"yanked":false,"pubtime":"2026-07-18T15:00:37Z"}
 {"name":"cranpose-assets","vers":"0.1.66","deps":[],"cksum":"93d84670c37bad54fa3d736cc75356577babb0b95c55047ad305bada402b4894","features":{},"yanked":false,"pubtime":"2026-07-18T17:37:38Z"}
 {"name":"cranpose-assets","vers":"0.1.67","deps":[],"cksum":"ee4a55a566ae46465193814502b7a1cb30d0507fed2c5420c7679df2ba54bc57","features":{},"yanked":false,"pubtime":"2026-07-18T18:39:35Z"}
+{"name":"cranpose-assets","vers":"0.1.68","deps":[],"cksum":"33a476460fbe40af7ef367b8ad3567a20297223f843ba98cccee8e50eb7588c6","features":{},"yanked":false,"pubtime":"2026-07-18T20:06:48Z"}
