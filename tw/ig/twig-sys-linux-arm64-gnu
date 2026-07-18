@@ -1,1 +1,2 @@
 {"name":"twig-sys-linux-arm64-gnu","vers":"2.2.1","deps":[],"cksum":"8b0d41632a0c35362b73e20c60c058b68eef4574afe2a15f05c745f91c20fa88","features":{},"yanked":false,"links":"twig_prebuilt_linux_arm64_gnu","pubtime":"2026-07-18T21:30:29Z"}
+{"name":"twig-sys-linux-arm64-gnu","vers":"2.2.2","deps":[],"cksum":"cb96dc3932c5de26f6b36e9c1b1ca9a1f7aa4cd21f4e21175c17b911aede5aa9","features":{},"yanked":false,"links":"twig_prebuilt_linux_arm64_gnu","pubtime":"2026-07-18T22:22:20Z"}
