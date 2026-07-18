@@ -1,1 +1,2 @@
 {"name":"sutegi-crypto","vers":"0.5.1","deps":[],"cksum":"aad7c74763d5801c57eec4687fb0d3be92555f23bfe912947a14cc60f9c3f062","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-02T15:05:40Z"}
+{"name":"sutegi-crypto","vers":"0.6.0","deps":[],"cksum":"ba53a53b9f627f8beb8c44ffb1a8e97b088cdc30ffeec885aebed4d8db0da4d3","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-18T06:49:08Z"}
