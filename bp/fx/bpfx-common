@@ -1,0 +1,1 @@
+{"name":"bpfx-common","vers":"0.1.0","deps":[{"name":"aya","req":"^0.13.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"343a26fddd9630b1e4f7c104be3ad1527fde1751b31c9ea60e56005d75f0f0f5","features":{},"features2":{"user":["dep:aya"]},"yanked":false,"pubtime":"2026-07-18T10:58:57Z","v":2}
