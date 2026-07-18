@@ -1,0 +1,1 @@
+{"name":"ryu-gw-contracts","vers":"0.0.5","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbd5f2cd98831c9ae326bb5c1c6fe0a75c244025c02b9f01bfe2ffa6ec105c10","features":{},"yanked":false,"pubtime":"2026-07-18T10:18:32Z"}
