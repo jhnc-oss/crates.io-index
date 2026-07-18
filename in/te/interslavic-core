@@ -5,3 +5,4 @@
 {"name":"interslavic-core","vers":"0.5.0","deps":[],"cksum":"cc1d72e24ed5066d00b0155fc3fe6d10bf4454d028ed04b00f0f2376f901dbc2","features":{},"yanked":false,"pubtime":"2026-07-09T03:48:01Z"}
 {"name":"interslavic-core","vers":"0.6.0","deps":[],"cksum":"421bbbfa93125b6d63d803bbfbb719ec87e341bd9078f6319532de1f5e1f097c","features":{},"yanked":false,"pubtime":"2026-07-09T07:04:01Z"}
 {"name":"interslavic-core","vers":"0.7.0","deps":[],"cksum":"cefae9b2dd6c1c79d4fb653ed3d646a1b928ddf95b66ea3f0a24004e4e55146b","features":{},"yanked":false,"pubtime":"2026-07-18T09:29:05Z"}
+{"name":"interslavic-core","vers":"0.8.0","deps":[],"cksum":"12a5e986e5c0faee3d4ae16be4a440b6b54b427b4beb2345a0f634c3dac8bb86","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-18T09:52:06Z"}
