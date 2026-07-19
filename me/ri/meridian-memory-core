@@ -3,3 +3,4 @@
 {"name":"meridian-memory-core","vers":"0.3.0","deps":[],"cksum":"828a1490ecc775d7ee1dca84efe9df3e3580e17731aaee5fe128b2fc704e58a0","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-19T08:17:52Z"}
 {"name":"meridian-memory-core","vers":"0.3.1","deps":[],"cksum":"601648c49cf198d80b10645e2284ab8515a9537cb831b7504a70ce5743eea64a","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-19T08:50:06Z"}
 {"name":"meridian-memory-core","vers":"0.4.0","deps":[],"cksum":"d2bffd108f9d0b257390aa274ef299260db0edfbe8d369a8829e5b80845222cd","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-19T08:57:53Z"}
+{"name":"meridian-memory-core","vers":"0.5.0","deps":[],"cksum":"5aebe7b539037c6490988d16d112692d0b2f8cf720d69d2a50412155c6887103","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-19T10:56:55Z"}
