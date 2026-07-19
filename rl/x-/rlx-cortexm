@@ -9,3 +9,4 @@
 {"name":"rlx-cortexm","vers":"0.2.10","deps":[],"cksum":"fcce00725b2418a003aaba2ead51e7dfbd977f8ca99b14bebe8c2d3d1ca33adb","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-06-29T08:08:18Z"}
 {"name":"rlx-cortexm","vers":"0.2.11","deps":[],"cksum":"078a80de85afdb8a93962df1f16eca7f975b64fec5a23ab8b32ecc5201e8a360","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-07-06T00:17:28Z"}
 {"name":"rlx-cortexm","vers":"0.2.12","deps":[],"cksum":"e21efa24f8ef80e2427ae51c80f1f747d64f98f4edaf63062bfd53d06c870a29","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-07-07T06:35:58Z"}
+{"name":"rlx-cortexm","vers":"0.2.13","deps":[],"cksum":"934bcfc93cec6e2376f0696c4503253ffc0b4e617f29aab4c69555ab5d583f9d","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-07-19T08:22:08Z"}
