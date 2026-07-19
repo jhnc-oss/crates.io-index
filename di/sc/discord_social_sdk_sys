@@ -1,0 +1,1 @@
+{"name":"discord_social_sdk_sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.72.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"111708243e841aedec4fd878d82e03a97f6230c1059ea493b2752778b00c7d66","features":{"default":[],"krisp":[]},"yanked":false,"links":"discord_partner_sdk","pubtime":"2026-07-19T10:08:15Z"}
