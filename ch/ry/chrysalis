@@ -2,3 +2,4 @@
 {"name":"chrysalis","vers":"0.1.1","deps":[],"cksum":"2182369eda947d22e65711f3ecfa177376b0c1bb0cd8bdd7d8f23819c599092a","features":{},"yanked":false,"pubtime":"2026-07-16T14:57:44Z"}
 {"name":"chrysalis","vers":"0.2.0","deps":[],"cksum":"a3c29eeaf194c506c04122989d6f069f6897676e9f14fcb91646cbc3403e0575","features":{},"yanked":false,"pubtime":"2026-07-18T06:27:44Z"}
 {"name":"chrysalis","vers":"0.3.0","deps":[],"cksum":"e3d5125e9341474e8dc1bf6518de8a5765d8d07d6e0b4553910d2fe96372b037","features":{},"yanked":false,"pubtime":"2026-07-18T11:06:47Z"}
+{"name":"chrysalis","vers":"0.4.0","deps":[],"cksum":"1c67778de9c3c2a58b1fd1e53ed1b794763b18095b18a28f5e802c1c43987ed0","features":{},"yanked":false,"pubtime":"2026-07-19T11:11:06Z"}
