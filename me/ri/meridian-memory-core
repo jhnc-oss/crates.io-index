@@ -1,1 +1,2 @@
 {"name":"meridian-memory-core","vers":"0.1.0","deps":[],"cksum":"cfe01b4e0e2c90dfe9c5ce52f20b950d9dd39f0327a82c2a44c9f6b4a8ed6214","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-19T05:55:17Z"}
+{"name":"meridian-memory-core","vers":"0.2.0","deps":[],"cksum":"f6a36ee24646bc263a30f3b701be2b28d1db77149b3f34f7bf6654a075c1880b","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-19T06:43:37Z"}
