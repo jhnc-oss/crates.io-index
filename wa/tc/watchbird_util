@@ -6,3 +6,4 @@
 {"name":"watchbird_util","vers":"0.5.0-rc.2","deps":[],"cksum":"de052964b5e6eb8dde3d04cef39f2ae52a1fbfc25305fe803307dba7a5487a4e","features":{},"yanked":false,"pubtime":"2026-04-21T14:33:40Z"}
 {"name":"watchbird_util","vers":"0.5.0-rc.3","deps":[],"cksum":"e3cd76b82a2b6eb5b39db5d1ded704f065fc0d9b3238c41262231cb9ecb4c473","features":{},"yanked":false,"pubtime":"2026-04-23T00:04:27Z"}
 {"name":"watchbird_util","vers":"0.5.0-rc.4","deps":[],"cksum":"9666e78ec00f4cdbfeab7eab0cc6df430a5ddbf0a8b12a847a402e8c9282e433","features":{},"yanked":false,"pubtime":"2026-04-27T19:41:07Z"}
+{"name":"watchbird_util","vers":"0.5.0-rc.5","deps":[],"cksum":"fbf7bb6a5f698e0cff5b9aab63f0765ff04a6ad9b39422663e0489547196837d","features":{},"yanked":false,"pubtime":"2026-07-19T16:26:43Z"}
