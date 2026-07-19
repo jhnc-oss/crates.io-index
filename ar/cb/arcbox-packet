@@ -7,3 +7,4 @@
 {"name":"arcbox-packet","vers":"0.4.21","deps":[],"cksum":"0593ecf8eb88d5f907f4333f26cb4d4f9786ea36f9f26bcae7d1502e429ed1de","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-17T15:09:12Z"}
 {"name":"arcbox-packet","vers":"0.4.22","deps":[],"cksum":"f859f6f866482da6c67702878698379ce8950f4d16d2498abf02adea80428562","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-18T06:59:09Z"}
 {"name":"arcbox-packet","vers":"0.4.23","deps":[],"cksum":"a26a03996f117edf747efd5ba14ea2489ac6304d00ffb8989f2747643e2f2099","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-18T14:03:41Z"}
+{"name":"arcbox-packet","vers":"0.4.24","deps":[],"cksum":"a23cc3869aa0949a7cf5ef1750ab06b4cfc71aae145a544c789e3f66bc410128","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-19T19:08:52Z"}
