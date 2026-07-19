@@ -48,3 +48,4 @@
 {"name":"syncular","vers":"0.15.26","deps":[],"cksum":"043e8d8c1fe2782ecb7e917bed677ab16010fd2b4c0e056ac74d1b5f75c9def2","features":{},"yanked":false,"pubtime":"2026-07-18T14:07:51Z"}
 {"name":"syncular","vers":"0.15.27","deps":[],"cksum":"d195b7e07ec290c323430a3b3f5cc2276ce8045749ff581f8f02cc3fb241bd3a","features":{},"yanked":false,"pubtime":"2026-07-18T14:47:08Z"}
 {"name":"syncular","vers":"0.15.28","deps":[],"cksum":"5ae80b3a13e90aa2e6c5fb1b0681df6813dcb5c29780d452a0ef7ce4a372429f","features":{},"yanked":false,"pubtime":"2026-07-19T04:35:42Z"}
+{"name":"syncular","vers":"0.15.29","deps":[],"cksum":"3b3f5d23f26127a48d042aa682d5765104dbb4ff34d0d9041728caadf2449e7d","features":{},"yanked":false,"pubtime":"2026-07-19T05:41:22Z"}
