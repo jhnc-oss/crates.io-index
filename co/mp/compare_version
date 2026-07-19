@@ -36,3 +36,4 @@
 {"name":"compare_version","vers":"2.0.7","deps":[],"cksum":"d78137d7382eebbef59f2df3f0d06055563654bda3fbc2b81538c51a9bf67425","features":{},"yanked":false,"pubtime":"2026-06-13T14:59:24Z"}
 {"name":"compare_version","vers":"2.0.8","deps":[],"cksum":"05f0e8b9d9954d4c6ad8ecd4bd899ad1a2dd77db8b7e38242328227d9c96709c","features":{},"yanked":false,"pubtime":"2026-07-11T09:42:30Z"}
 {"name":"compare_version","vers":"2.0.9","deps":[],"cksum":"560f4007b14d6bf40159af6c713bd58609951bddb0a44f3ba2693d4d5fa8ecca","features":{},"yanked":false,"pubtime":"2026-07-11T10:14:41Z"}
+{"name":"compare_version","vers":"2.0.10","deps":[],"cksum":"84d0079b1411fd8949cec86b59c2b7a2ae584e325363653691e855c7beb22dce","features":{},"yanked":false,"pubtime":"2026-07-19T13:37:33Z"}
