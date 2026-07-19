@@ -1,1 +1,2 @@
 {"name":"adam_core_rs_autodiff","vers":"0.1.0-rc.1","deps":[],"cksum":"b26d36d0b39506e2dc7250ffbb3920ea045f31c230b85c1abcf29f4ea60ea835","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-07-17T16:36:19Z"}
+{"name":"adam_core_rs_autodiff","vers":"0.1.0-rc.2","deps":[],"cksum":"f6a407e475097f3760f0ff5e776577e3bc8e39b803b1b364f0813711da801f7d","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-07-19T04:51:32Z"}
