@@ -1,1 +1,2 @@
 {"name":"m77rip-core","vers":"0.1.0","deps":[],"cksum":"5ac10d15fd5a6dff9ed35c5d00c163b1cc7b0e59fd5c9ac30f84ae964514e5ee","features":{"default":["std"],"paranoid":[],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-16T22:41:51Z"}
+{"name":"m77rip-core","vers":"0.1.1","deps":[],"cksum":"807630466bd4b1450136367cd684d3d8bd27ef2d61a6f61371ff1ed4e8048294","features":{"default":["std"],"paranoid":[],"std":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-19T01:19:46Z"}
