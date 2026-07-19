@@ -1,2 +1,3 @@
 {"name":"twig-sys-wasm32","vers":"2.2.1","deps":[],"cksum":"f199bdb2cb1b6e2513fafb91c9d822d0aaa9d39b4c72d3d1038c9f440547d923","features":{},"yanked":false,"links":"twig_prebuilt_wasm32","pubtime":"2026-07-18T21:30:34Z"}
 {"name":"twig-sys-wasm32","vers":"2.2.2","deps":[],"cksum":"7a4b5d5c27793a0d96b7958d8ca795cf2b2016641f5a0a694cbecaffa4ba8abb","features":{},"yanked":false,"links":"twig_prebuilt_wasm32","pubtime":"2026-07-18T22:22:25Z"}
+{"name":"twig-sys-wasm32","vers":"2.2.3","deps":[],"cksum":"b9c80208a47120efc4d722bb0dc1307a8595e3baa75e28cd46a426a3854a15c6","features":{},"yanked":false,"links":"twig_prebuilt_wasm32","pubtime":"2026-07-19T05:13:28Z"}
