@@ -1,3 +1,4 @@
 {"name":"kcode-rust-libs","vers":"0.1.0","deps":[],"cksum":"9e00a4736df1f6e1fa8e59c305ed86bd1a4ecdc861b70291b555363c561e34ce","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-18T20:58:06Z"}
 {"name":"kcode-rust-libs","vers":"0.1.1","deps":[],"cksum":"72cdb0454fe84491376a4cf056243b8cd0be65d8b1069b5cc5bb6017d5531ccc","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-19T03:42:01Z"}
 {"name":"kcode-rust-libs","vers":"0.1.2","deps":[],"cksum":"7d14c0b6f7b9ac16bc8a9977cfcdfc733ed8454bfd943e5e1a188b365f60356a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-19T05:23:16Z"}
+{"name":"kcode-rust-libs","vers":"0.2.0","deps":[],"cksum":"2d0a15412367e2d56f4784700790fb52bc795c9d7ff31274afdb0e5dcdbcc186","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-19T08:16:11Z"}
