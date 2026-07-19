@@ -28,3 +28,4 @@
 {"name":"everruns-a2ui","vers":"0.17.11","deps":[],"cksum":"61f5ebdd1f78f81f747effbe9c2c653c8b21d404f255a9294d2a98a4a981bb5f","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-07-17T01:32:34Z"}
 {"name":"everruns-a2ui","vers":"0.17.12","deps":[],"cksum":"8d4739da377dc1ce2b575e854edec93c5d74a6fbeaa2150df4bfc463693fbc5b","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-07-17T17:14:58Z"}
 {"name":"everruns-a2ui","vers":"0.17.13","deps":[],"cksum":"39fa68bb18f7048d276720fee680d5a6bf351b2b1ee8b54af4c7006c46bee35c","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-07-19T01:06:20Z"}
+{"name":"everruns-a2ui","vers":"0.17.14","deps":[],"cksum":"33df00fb8a27a5c9044dbe872f583f0184564e9cbfa5549569c18fe55e74a8fc","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-07-19T06:00:42Z"}
