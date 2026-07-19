@@ -1,0 +1,1 @@
+{"name":"liminal-protocol","vers":"0.2.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f3f282c4d5f444f7e5b984be63ad0292ff25a76594520655e83db434777cff56","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-19T07:37:58Z"}
