@@ -1,1 +1,2 @@
 {"name":"fig-sys-linux-x64-gnu","vers":"2.5.1","deps":[],"cksum":"e53f27b51717ba308a3e36bba4553b9bad21cbeabd288db84c261ee187c10937","features":{},"yanked":false,"links":"fig_prebuilt_linux_x64_gnu","pubtime":"2026-07-19T00:00:54Z"}
+{"name":"fig-sys-linux-x64-gnu","vers":"2.5.2","deps":[],"cksum":"6a7c6e28c704c4b2f0e50ab67df3952a01743f4dd11ebfe84309615a0e9fbbd2","features":{},"yanked":false,"links":"fig_prebuilt_linux_x64_gnu","pubtime":"2026-07-19T21:37:30Z"}
