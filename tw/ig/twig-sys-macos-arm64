@@ -1,2 +1,3 @@
 {"name":"twig-sys-macos-arm64","vers":"2.2.1","deps":[],"cksum":"b5adb97d17a24fd8180f5a5fa882595303a4c27c4cf1f0d27fc5a9a39711d16c","features":{},"yanked":false,"links":"twig_prebuilt_macos_arm64","pubtime":"2026-07-18T21:30:24Z"}
 {"name":"twig-sys-macos-arm64","vers":"2.2.2","deps":[],"cksum":"ddf69f067be065967313e1fa2be7de953a5914e03de0e2f69dfa1140b396a336","features":{},"yanked":false,"links":"twig_prebuilt_macos_arm64","pubtime":"2026-07-18T22:22:15Z"}
+{"name":"twig-sys-macos-arm64","vers":"2.2.3","deps":[],"cksum":"f99f385c26b33dbada1ddcb06957489968a5bd8ca70a3bacf236c4424c898510","features":{},"yanked":false,"links":"twig_prebuilt_macos_arm64","pubtime":"2026-07-19T05:13:17Z"}
