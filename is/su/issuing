@@ -7,3 +7,4 @@
 {"name":"issuing","vers":"0.4.0","deps":[],"cksum":"3db9a09683e7b2f993ac337451726daf30e0773efd15a9d6c2ca40b48afddbc0","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-17T15:35:43Z"}
 {"name":"issuing","vers":"0.5.0","deps":[],"cksum":"c8d05b10753a7ef6d83e118596902e5f0d3955002168b626270fe5e3b57277f2","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-18T12:18:30Z"}
 {"name":"issuing","vers":"0.6.0","deps":[],"cksum":"52eee583b143ac235d20f807aa4fc6e1b756d6e85fcf0dd0cd6583ea74a6b86f","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-18T18:55:10Z"}
+{"name":"issuing","vers":"0.6.1","deps":[],"cksum":"53244883a307ececc12000acc20520ce75d77756f3d988b310847e6963a52415","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-19T12:48:36Z"}
