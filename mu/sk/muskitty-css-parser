@@ -1,0 +1,1 @@
+{"name":"muskitty-css-parser","vers":"0.1.0","deps":[{"name":"muskitty-css-tokenizer","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e3f06f1ee1c05add5b8d3d22c937e45123138bb2d19db01188035dd198b6b97","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-19T11:07:38Z"}
