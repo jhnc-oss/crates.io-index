@@ -1,2 +1,3 @@
 {"name":"twig-sys-windows-x64-msvc","vers":"2.2.1","deps":[],"cksum":"02c844320c2eade08f275f6b7adfa156e7bdd8cfb35151c6b0b93554df892f78","features":{},"yanked":false,"links":"twig_prebuilt_windows_x64_msvc","pubtime":"2026-07-18T21:30:32Z"}
 {"name":"twig-sys-windows-x64-msvc","vers":"2.2.2","deps":[],"cksum":"3974b17f8014f120a4b1e16e77fbe73f07ee868af1dc1671cce058da85926446","features":{},"yanked":false,"links":"twig_prebuilt_windows_x64_msvc","pubtime":"2026-07-18T22:22:23Z"}
+{"name":"twig-sys-windows-x64-msvc","vers":"2.2.3","deps":[],"cksum":"9cd8cb8e8f459e007ee7517664230dc09a2528093b9c21e91d510e1bc40e55d3","features":{},"yanked":false,"links":"twig_prebuilt_windows_x64_msvc","pubtime":"2026-07-19T05:13:25Z"}
