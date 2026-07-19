@@ -1,1 +1,2 @@
 {"name":"hadris-path","vers":"2.0.0-rc.1","deps":[],"cksum":"4c04a4b6b759395bb56b3a21525353cd0bb3b89d2382c4f9dcd05777fdbc24b2","features":{"alloc":[],"default":[]},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-07-16T13:54:37Z"}
+{"name":"hadris-path","vers":"2.0.0-rc.2","deps":[],"cksum":"4e08803b6808b1f7c83a7375b4c5ba8425da6dae5953e8f4b47734f6a7863776","features":{"alloc":[],"default":[]},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-07-19T05:34:26Z"}
