@@ -99,3 +99,4 @@
 {"name":"tcp-request","vers":"2.3.19","deps":[],"cksum":"6f81b18a611c244e95774a64fa0ecfc02082b30029fc6082203c2acc0f57826c","features":{},"yanked":false,"pubtime":"2026-06-13T15:03:15Z"}
 {"name":"tcp-request","vers":"2.3.20","deps":[],"cksum":"d193358ce2f2e865407343b260c2c7d799e763b7ccea73c07283e331415e3dc9","features":{},"yanked":false,"pubtime":"2026-07-11T09:51:44Z"}
 {"name":"tcp-request","vers":"2.3.21","deps":[],"cksum":"7963110b0cb31f9a25b0eb4b9ca87c1840d631076eddd47b091eafe68c456957","features":{},"yanked":false,"pubtime":"2026-07-11T10:23:38Z"}
+{"name":"tcp-request","vers":"2.3.22","deps":[],"cksum":"6b84ef450a0f6034ca7fadf7915ece669f526fdd0c203aea88609a70df3bd3f8","features":{},"yanked":false,"pubtime":"2026-07-19T13:46:53Z"}
