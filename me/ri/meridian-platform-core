@@ -1,1 +1,2 @@
 {"name":"meridian-platform-core","vers":"0.1.0","deps":[],"cksum":"41546f378d76207f4115a13728d4fcbc2f5ed9c42d394dfa1d0ce927e5b9582a","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-19T05:55:28Z"}
+{"name":"meridian-platform-core","vers":"0.2.0","deps":[],"cksum":"9b64cfa29022a19a207fa03aed5cd6ca133c9ee8c06bf0e01b685ca5b0525eda","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-19T06:43:52Z"}
