@@ -1,2 +1,3 @@
 {"name":"llama-cpp-error-recorder","vers":"0.9.0","deps":[],"cksum":"b3f4c103d2eb61be9dbeeaac990a6827e245fcb7706e9edd4b3452c5fe2ccfe5","features":{},"yanked":false,"pubtime":"2026-06-10T04:17:16Z"}
 {"name":"llama-cpp-error-recorder","vers":"0.10.0","deps":[],"cksum":"af4d324a5c99747f335b4cdda3c2896d1b1dbfc2818cae2a3b199c4a51313628","features":{},"yanked":false,"pubtime":"2026-07-03T15:23:29Z"}
+{"name":"llama-cpp-error-recorder","vers":"0.11.0","deps":[],"cksum":"f454fc2ae5ca82d66bf1e22050fc25796ea1675536d1784ced70fc754458fc01","features":{},"yanked":false,"pubtime":"2026-07-19T04:05:42Z"}
