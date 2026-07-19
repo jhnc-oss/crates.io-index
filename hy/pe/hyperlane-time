@@ -58,3 +58,4 @@
 {"name":"hyperlane-time","vers":"0.7.38","deps":[],"cksum":"13794605dfd6cd1840f61f555e4b666d18036444faba2eff00439582c5e537a7","features":{},"yanked":false,"pubtime":"2026-07-11T09:59:39Z"}
 {"name":"hyperlane-time","vers":"0.7.41","deps":[],"cksum":"4059b0865216329daff8f7430a7f1677b2fb007f98f7ea7c27bc59a60f06f89f","features":{},"yanked":false,"pubtime":"2026-07-11T10:05:54Z"}
 {"name":"hyperlane-time","vers":"0.7.40","deps":[],"cksum":"174319fde47648f09b77ccc894b088c304f09d8d3f3ab42a35988af0909735c2","features":{},"yanked":false,"pubtime":"2026-07-11T10:05:54Z"}
+{"name":"hyperlane-time","vers":"0.7.42","deps":[],"cksum":"b06a46437185459c0c9a8e77754cea3a44b9097cda4c08607022fb0a73b6690a","features":{},"yanked":false,"pubtime":"2026-07-19T13:28:30Z"}
