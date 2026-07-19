@@ -56,3 +56,4 @@
 {"name":"bin-encode-decode","vers":"1.1.44","deps":[],"cksum":"4dd889f6beed0875f176e5050cf81fb3f09328c01ec7179f35fc2770debf163b","features":{},"yanked":false,"pubtime":"2026-06-13T14:59:23Z"}
 {"name":"bin-encode-decode","vers":"1.1.45","deps":[],"cksum":"be08bb37a01db1ceadac0ed1edf650e9b55b099aed60af0af24ed4a8d22fda20","features":{},"yanked":false,"pubtime":"2026-07-11T09:40:50Z"}
 {"name":"bin-encode-decode","vers":"1.1.46","deps":[],"cksum":"d07cf8be0de00c3f26339d9c8bdc2120f057d4aac4b30b90b497dde6ca39840c","features":{},"yanked":false,"pubtime":"2026-07-11T10:13:06Z"}
+{"name":"bin-encode-decode","vers":"1.1.47","deps":[],"cksum":"ac564d60b1b2994fe7446d7c99ab608419cabd4ef2daaff3a652689c8687014a","features":{},"yanked":false,"pubtime":"2026-07-19T13:35:55Z"}
