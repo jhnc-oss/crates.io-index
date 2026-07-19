@@ -2,3 +2,4 @@
 {"name":"ifc-lite-clash","vers":"4.1.0","deps":[],"cksum":"93bab85fb986879a7c441a6c83fd579b379aa3edb5cf6bf1043bcb08d270a6fa","features":{},"yanked":false,"pubtime":"2026-06-14T18:09:07Z"}
 {"name":"ifc-lite-clash","vers":"4.1.1","deps":[],"cksum":"069f5ddf6f8c7a5718f5ba1483e24959932bbd1163d3dbfd9ff2eb1f042282cd","features":{},"yanked":false,"pubtime":"2026-07-17T14:48:51Z"}
 {"name":"ifc-lite-clash","vers":"4.1.2","deps":[],"cksum":"94cf66886ef0bb10a78cd9360593237d19de33cf9090379233591094619038ee","features":{},"yanked":false,"pubtime":"2026-07-19T05:57:28Z"}
+{"name":"ifc-lite-clash","vers":"4.1.3","deps":[],"cksum":"8939af949ad119a2a97f7a7afbd2f53328e8bcb1ac64ba95044fe818b97a0524","features":{},"yanked":false,"pubtime":"2026-07-19T12:36:23Z"}
