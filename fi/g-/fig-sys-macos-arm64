@@ -1,1 +1,2 @@
 {"name":"fig-sys-macos-arm64","vers":"2.5.1","deps":[],"cksum":"1916c13011d8d3502823b56fc65caea5a076ccef14ffafb3a7015cc0bb700440","features":{},"yanked":false,"links":"fig_prebuilt_macos_arm64","pubtime":"2026-07-19T00:00:52Z"}
+{"name":"fig-sys-macos-arm64","vers":"2.5.2","deps":[],"cksum":"c6fa449fb54912b541f53d1c2407bc4f1e28b1b62fca49468044d88fc952eaed","features":{},"yanked":false,"links":"fig_prebuilt_macos_arm64","pubtime":"2026-07-19T21:37:27Z"}
