@@ -1,3 +1,4 @@
 {"name":"meridian-foundation","vers":"0.1.0","deps":[],"cksum":"11993d43d8ce11434654e3f9be554418896e5b75da4c0838c1b7c897a4cf04b4","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-19T06:08:14Z"}
 {"name":"meridian-foundation","vers":"0.2.0","deps":[],"cksum":"291e1b6d1e19918054c52f834b9286a3b5404d38b2fabb4af697648e8a536bc9","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-19T06:43:34Z"}
 {"name":"meridian-foundation","vers":"0.3.0","deps":[],"cksum":"19e0c540cdd8fd0bd31dcb9ba408d72aa459a25189059fa0934903c8141dd2e1","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-19T08:17:49Z"}
+{"name":"meridian-foundation","vers":"0.4.0","deps":[],"cksum":"a556a06bc508803206d2844b677aca4489879f2bbbb001884c0a9cd2a48a1161","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-19T10:56:52Z"}
