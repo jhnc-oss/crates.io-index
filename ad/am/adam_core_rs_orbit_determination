@@ -1,1 +1,2 @@
 {"name":"adam_core_rs_orbit_determination","vers":"0.1.0-rc.1","deps":[],"cksum":"2a1da3c0e0b7ee46fdd9ab1dcc9b53c9ae47ccf394c006873234c1f23252d336","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-07-17T16:36:20Z"}
+{"name":"adam_core_rs_orbit_determination","vers":"0.1.0-rc.2","deps":[],"cksum":"2acdfec1b47151fe74c9a177403ed255e11eaa6eab8a1f567011712a2df0b89a","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-07-19T04:51:32Z"}
