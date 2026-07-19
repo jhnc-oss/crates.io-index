@@ -1,1 +1,2 @@
 {"name":"meridian-task-core","vers":"0.1.0","deps":[],"cksum":"e74e32862e209a63d54e468ffcbc115f625b58350d263f4608966ea064d461b8","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-19T07:39:35Z"}
+{"name":"meridian-task-core","vers":"0.2.0","deps":[],"cksum":"8d5400171052fe9f93b265ed7af4bdf2777c723b5153f0d0d6963a29229d6439","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-19T08:18:31Z"}
