@@ -1,0 +1,1 @@
+{"name":"uf-valence-telemetry","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e634c214f527a4555eaa926b7affaddd5ca466d5815427c1df081f67ec06dc92","features":{},"yanked":false,"pubtime":"2026-07-19T20:59:06Z"}
