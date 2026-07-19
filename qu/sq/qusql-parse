@@ -9,3 +9,4 @@
 {"name":"qusql-parse","vers":"0.8.0","deps":[],"cksum":"65eedd2900ee33b074c8166e7741188c3a57d925e75eccf7ec7cde1eb14897ef","features":{},"yanked":false,"pubtime":"2026-05-03T07:29:21Z"}
 {"name":"qusql-parse","vers":"0.9.0","deps":[],"cksum":"65a36f8044ebddf81979e1d6ab4f9d4bf5fdcd5df4a0e9c019472d11e3267b93","features":{},"yanked":false,"pubtime":"2026-07-06T09:41:45Z"}
 {"name":"qusql-parse","vers":"0.10.0","deps":[],"cksum":"0c281bea607985cc5c2496a281b5a2968226f30717d54ecd6e91c5616fec3464","features":{},"yanked":false,"pubtime":"2026-07-07T12:07:37Z"}
+{"name":"qusql-parse","vers":"0.11.0","deps":[],"cksum":"cb13d0a8f7458cacbf3d836ac7033478ec77a42feaafcbebccbefe8f12e0bad8","features":{},"yanked":false,"pubtime":"2026-07-19T08:28:14Z"}
