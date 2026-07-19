@@ -1,1 +1,2 @@
 {"name":"xorlist-rs","vers":"0.1.0","deps":[],"cksum":"4f9fb4633cf4cb515fc7404da4d0bc2a17a315c3a0f4cb03dbe1e67b7f237b3b","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-19T21:06:00Z"}
+{"name":"xorlist-rs","vers":"0.1.1","deps":[],"cksum":"bc1c1e1232349c0c58c678d329d35cf6bf49cd3cacf536e40dc17be23ec4c64d","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-19T21:28:39Z"}
