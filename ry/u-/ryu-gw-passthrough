@@ -1,0 +1,1 @@
+{"name":"ryu-gw-passthrough","vers":"0.0.5","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2903d48e13136f16a93b1d6aab27b2edb3911dfd604dd7be43e50a50fdabe85","features":{},"yanked":false,"pubtime":"2026-07-19T02:31:42Z"}
