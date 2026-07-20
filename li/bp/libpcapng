@@ -1,0 +1,1 @@
+{"name":"libpcapng","vers":"0.15.0","deps":[{"name":"pcapng-sys","req":"^0.15.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"183fc8225d9a7ed126f4bdac87801b0e959cd3110d68ac41aceba3045c6aeb3b","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-07-20T15:26:59Z"}
