@@ -10,3 +10,4 @@
 {"name":"rc-writer","vers":"1.1.8","deps":[],"cksum":"fa7f34a952a95fdb5b10dc91ba4406ccdfa04bd6724c7f741a644cb3674087a1","features":{},"yanked":false,"pubtime":"2020-07-29T02:42:12Z"}
 {"name":"rc-writer","vers":"1.1.9","deps":[],"cksum":"a2b12bbfce4d2b25740e20a68fd05b14354032280099d5feb65b5c305dee5db9","features":{},"yanked":false,"pubtime":"2021-04-22T08:26:44Z"}
 {"name":"rc-writer","vers":"1.1.10","deps":[],"cksum":"ca8049c74229f22d8cba889ee1d541b05da9c9668d8fe2011bb922250d0be148","features":{},"yanked":false,"pubtime":"2022-03-18T12:36:37Z"}
+{"name":"rc-writer","vers":"1.2.0","deps":[],"cksum":"4c272825b47d2baa1500a2ebb02d605956c843b135ce63fd1e8f13815ce3738a","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-20T13:18:35Z"}
