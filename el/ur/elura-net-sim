@@ -1,0 +1,1 @@
+{"name":"elura-net-sim","vers":"0.2.4","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92b726ebeb67d5342ffe708dc5e370aef23e28564d0df2c882239cbc128e9374","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-20T10:10:17Z"}
