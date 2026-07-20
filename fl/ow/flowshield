@@ -1,0 +1,1 @@
+{"name":"flowshield","vers":"0.1.0","deps":[{"name":"flowshield-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c3b0817d482767c68bc5014acfae2e68165c158a0f374c55f09b6dba8bdb55d","features":{},"yanked":false,"pubtime":"2026-07-20T13:13:25Z"}
