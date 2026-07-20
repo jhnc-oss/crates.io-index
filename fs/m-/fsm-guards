@@ -1,0 +1,1 @@
+{"name":"fsm-guards","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef55514e74968dc6ea398465799b7e57df0b0c650c57dbbce4b67c4b929ceb7a","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-20T18:56:43Z"}
