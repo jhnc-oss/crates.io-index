@@ -11,3 +11,4 @@
 {"name":"synchronized-writer","vers":"1.1.9","deps":[],"cksum":"3fbb713651623343d3a76691df77d493f3643086612a12b15f838383b7d637cd","features":{},"yanked":false,"pubtime":"2020-07-29T03:07:29Z"}
 {"name":"synchronized-writer","vers":"1.1.10","deps":[],"cksum":"5f886607578031fffb0996a24a5e5b73313f36dca63416b9d1c1004f7cb6084d","features":{},"yanked":false,"pubtime":"2021-04-22T16:13:58Z"}
 {"name":"synchronized-writer","vers":"1.1.11","deps":[],"cksum":"d3543ca0810e71767052bdcdd5653f23998b192642a22c5164bfa6581e40a4a2","features":{},"yanked":false,"pubtime":"2022-03-19T05:28:00Z"}
+{"name":"synchronized-writer","vers":"1.2.0","deps":[],"cksum":"fb2e7af27c8bb8b0850e08fe331f08fc4b0763e95770a9b7f4be59dcc1fbb24c","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-20T15:44:06Z"}
