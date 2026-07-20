@@ -13,3 +13,4 @@
 {"name":"agntcy-slim-version","vers":"2.0.0-alpha.4","deps":[],"cksum":"bfa135cef8d8920ceb361b1c27f23636a6b3226fa3173726931339ddd18a4eae","features":{},"yanked":false,"pubtime":"2026-07-16T07:43:03Z"}
 {"name":"agntcy-slim-version","vers":"2.0.0-alpha.5","deps":[],"cksum":"424fbe0dd7171dc6bf184fdc3a55df805058e9b69e5c63711d8bd484ef11125d","features":{},"yanked":false,"pubtime":"2026-07-16T17:40:34Z"}
 {"name":"agntcy-slim-version","vers":"2.0.0-alpha.6","deps":[],"cksum":"245c7ce97b0a514a3532d1fa389413b671eb43d8112ad10f32b9247d6529e2e2","features":{},"yanked":false,"pubtime":"2026-07-20T11:25:44Z"}
+{"name":"agntcy-slim-version","vers":"2.0.0-alpha.7","deps":[],"cksum":"e1b9b83586d2291268127d8c44e430f18da32df2e5e99affffce3ee295b4c8dc","features":{},"yanked":false,"pubtime":"2026-07-20T17:02:05Z"}
