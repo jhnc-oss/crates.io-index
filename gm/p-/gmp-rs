@@ -1,3 +1,4 @@
 {"name":"gmp-rs","vers":"0.1.0","deps":[],"cksum":"2ff4c5993f874738fd77ee76341a372419f59396687e5e3fae873754eef6b1c4","features":{"default":[]},"yanked":false,"pubtime":"2026-07-20T22:50:33Z"}
 {"name":"gmp-rs","vers":"0.2.0","deps":[],"cksum":"13ebeb8abd8f36fa9efbc65151321714aba8b8ef3b5a3e3571b2f92ac2d2ce97","features":{"default":[]},"yanked":false,"pubtime":"2026-07-20T22:56:30Z"}
 {"name":"gmp-rs","vers":"0.2.1","deps":[],"cksum":"34be1d3a34cb4a8b9dd248ce1e6b0972694e5e33bceda96363bc551f7168c2c2","features":{"default":[]},"yanked":false,"pubtime":"2026-07-20T23:16:49Z"}
+{"name":"gmp-rs","vers":"0.3.0","deps":[],"cksum":"bf4408a8eef603a968fbbb16e496af6fe00f23801f6db57ea8a0b80fbcbe0349","features":{"default":[]},"yanked":false,"pubtime":"2026-07-20T23:39:06Z"}
