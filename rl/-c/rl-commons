@@ -2,3 +2,4 @@
 {"name":"rl-commons","vers":"0.2.0","deps":[],"cksum":"f091b77d109324ace26da2f93372ed37669b64377adb258c11bb36ec1155c177","features":{},"yanked":false,"pubtime":"2026-07-18T20:50:17Z"}
 {"name":"rl-commons","vers":"0.2.1","deps":[],"cksum":"f5c9abd0077d2e9e21463565a3211d49555b5801ea75b8c9dc06fbf0a52bb596","features":{},"yanked":false,"pubtime":"2026-07-19T11:15:49Z"}
 {"name":"rl-commons","vers":"0.2.2","deps":[],"cksum":"436ffe6bd8ceac52d4e866130a11e580ce41bc03c75ea51bb81e1745b1b67e13","features":{},"yanked":false,"pubtime":"2026-07-20T17:03:30Z"}
+{"name":"rl-commons","vers":"0.3.0","deps":[],"cksum":"bbce8bbf51d7a6f7de4e630b5e72545a9ffca3dca0bed54710065eaae9c30cf4","features":{},"yanked":false,"pubtime":"2026-07-20T20:33:12Z"}
