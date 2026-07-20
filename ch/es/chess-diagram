@@ -1,0 +1,1 @@
+{"name":"chess-diagram","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d44e3bb84e7ecb1ff9e4e35b1b219db953e95f2020030cf692ba3e1e185cd1ad","features":{"default":["svg"],"svg":[]},"yanked":false,"pubtime":"2026-07-20T13:25:04Z"}
