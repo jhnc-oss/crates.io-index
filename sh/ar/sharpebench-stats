@@ -3,3 +3,4 @@
 {"name":"sharpebench-stats","vers":"0.0.11","deps":[],"cksum":"ef00103620a6f4c5a172dc3f941df51554e5b4b74fa7a87b636262fddd1d5c47","features":{},"yanked":false,"pubtime":"2026-07-03T16:02:13Z"}
 {"name":"sharpebench-stats","vers":"0.0.12","deps":[],"cksum":"2cd1cc29d62e7854aaf3d4d6dfc1acd2a52e9c14b9f31659ce4c220c586d8c55","features":{},"yanked":false,"pubtime":"2026-07-20T13:04:14Z"}
 {"name":"sharpebench-stats","vers":"0.0.13","deps":[],"cksum":"6ce7e82171d61bc161cf969734b995884e96e1ae78b2b77468e339a647fad1a9","features":{},"yanked":false,"pubtime":"2026-07-20T13:32:51Z"}
+{"name":"sharpebench-stats","vers":"0.0.14","deps":[],"cksum":"f932f9b8ff39806c0106658b5270124d72030e46889192cffabfa2c6287beef9","features":{},"yanked":false,"pubtime":"2026-07-20T15:34:22Z"}
