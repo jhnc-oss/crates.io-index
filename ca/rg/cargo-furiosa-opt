@@ -1,3 +1,4 @@
 {"name":"cargo-furiosa-opt","vers":"0.1.0","deps":[],"cksum":"d926f066a674a5e303aea02731ae4d9f24216c4908b61a7bdb42e927e81e9e09","features":{},"yanked":false,"pubtime":"2026-04-27T02:43:16Z"}
 {"name":"cargo-furiosa-opt","vers":"0.2.0","deps":[],"cksum":"2fec2cebdc99cbf6e352dc4a5befcfa8b89bbd444897ac0be1e09b4e62058422","features":{},"yanked":false,"pubtime":"2026-05-27T04:47:28Z"}
 {"name":"cargo-furiosa-opt","vers":"0.3.0","deps":[],"cksum":"dd1567a2a05bbae64dbfbbb0ce319cfd48e3ec22681f68e1735ddcf52441d71f","features":{},"yanked":false,"pubtime":"2026-06-23T11:10:38Z"}
+{"name":"cargo-furiosa-opt","vers":"0.4.0","deps":[],"cksum":"281b2ae1296341d598a644353b1790c03ef6f1696da374c8e01d660b82fc8077","features":{},"yanked":false,"pubtime":"2026-07-20T08:50:27Z"}
