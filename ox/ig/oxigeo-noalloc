@@ -1,1 +1,2 @@
 {"name":"oxigeo-noalloc","vers":"0.0.1","deps":[],"cksum":"90845818b671e298b07906a16a980e0b0243a85df9263289f54b5f527de81063","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-15T22:28:09Z"}
+{"name":"oxigeo-noalloc","vers":"0.2.0","deps":[],"cksum":"269ed9fe7ec3438d5321af002b4938f38c7f4cfa638487100a2bac8d11074e52","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-07-20T10:58:01Z"}
