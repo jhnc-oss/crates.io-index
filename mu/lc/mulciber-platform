@@ -6,3 +6,4 @@
 {"name":"mulciber-platform","vers":"0.4.1","deps":[],"cksum":"d684d17df398a2980e95c941b79f29a829e6f8a769ee5b6e04127d2176f0bcae","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-20T14:28:40Z"}
 {"name":"mulciber-platform","vers":"0.4.2","deps":[],"cksum":"981459d6abfc32a30f5e7f953f4c4ee2dae494e8989f515a8a15d99e0c73d5ed","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-20T16:31:50Z"}
 {"name":"mulciber-platform","vers":"0.5.0","deps":[],"cksum":"92d708c99684e04748aeee363882d4d1dadcc1fbc6e0b953c0389517aefc5a93","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-20T19:27:42Z"}
+{"name":"mulciber-platform","vers":"0.5.1","deps":[],"cksum":"04d3cb1c7b1e9b8ca6fb3d4074ddcdc41f98c12915492cf1094155f9a45014e0","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-20T23:00:14Z"}
