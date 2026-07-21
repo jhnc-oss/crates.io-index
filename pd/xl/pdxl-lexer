@@ -1,1 +1,0 @@
-{"name":"pdxl-lexer","vers":"0.46.0","deps":[{"name":"pdxl-src","req":"^0.46.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f4624cd78e7fc05e91608481f0538b9df0c235f0eab81d9b820e0cdbfbdaad5","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-21T20:08:12Z"}
