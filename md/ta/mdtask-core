@@ -1,1 +1,2 @@
 {"name":"mdtask-core","vers":"0.1.0","deps":[],"cksum":"89901799945c78c9c9624ad04de0b970feae2a0c2b6cb869cebd7b00efafc6ff","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-21T05:44:15Z"}
+{"name":"mdtask-core","vers":"0.2.0","deps":[],"cksum":"29f82aedd0bd71ea5c1bc27c1211b35a267a6c25672be31cf62886c93726c682","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-21T08:30:50Z"}
