@@ -1,0 +1,1 @@
+{"name":"cleverhans-codegen","vers":"0.1.1","deps":[{"name":"cleverhans-core","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9fba03fae60bb43cfe726dfc530781505c84e04fe77a97954e5f6f3009f023f","features":{},"yanked":false,"pubtime":"2026-07-21T12:51:35Z"}
