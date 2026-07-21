@@ -1,0 +1,1 @@
+{"name":"tpt-appfront-html","vers":"0.1.0","deps":[{"name":"tpt-appfront-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f341bdafd7f25e9b1b011ccbe8b7a0eaaf399adb3a4c21fc547554457e0dce08","features":{},"yanked":false,"pubtime":"2026-07-21T12:27:14Z"}
