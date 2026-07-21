@@ -1,0 +1,1 @@
+{"name":"botpad","vers":"0.1.0","deps":[{"name":"gilrs","req":"^0.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c87d85fcdffe3a4614a99989ab24e312e9ea2b539711da41742a734b380a958b","features":{},"yanked":false,"pubtime":"2026-07-21T19:26:38Z"}
