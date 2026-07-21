@@ -1,0 +1,1 @@
+{"name":"papi-wrap","vers":"0.5.4","deps":[{"name":"libc","req":"^0.2.155","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3694da32b672405d6266e3a3c3feee0a4669e316602c719652ca12a8382faa82","features":{},"yanked":false,"pubtime":"2026-07-21T11:48:26Z"}
