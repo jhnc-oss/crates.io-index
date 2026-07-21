@@ -1,0 +1,1 @@
+{"name":"embedded-quaternion-f32","vers":"0.1.0","deps":[{"name":"embedded-trig-f32","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"978db3750814dbf82046ffa04c26505eee0ed1cf31569f0c4956adce114d2cad","features":{},"yanked":false,"pubtime":"2026-07-21T20:58:53Z"}
