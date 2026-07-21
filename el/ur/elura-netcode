@@ -1,0 +1,1 @@
+{"name":"elura-netcode","vers":"0.2.4","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4db42a17b4428211195dbbe3b80b2901ae24f81ff358366012853436b59cbb5b","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-21T01:07:17Z"}
