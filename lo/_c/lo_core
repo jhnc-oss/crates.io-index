@@ -20,3 +20,4 @@
 {"name":"lo_core","vers":"0.4.7","deps":[],"cksum":"c4837913f6aef60c5fd59443d7778dbb8504539fe78b8af26f33d39c76dbac55","features":{},"yanked":false,"pubtime":"2026-04-12T05:48:14Z"}
 {"name":"lo_core","vers":"0.4.8","deps":[],"cksum":"ba3d23babdb9f6a903f5a9b739ade9aa71556c004137b26a3771798bc62ace86","features":{},"yanked":false,"pubtime":"2026-05-28T20:38:07Z"}
 {"name":"lo_core","vers":"0.4.9","deps":[],"cksum":"3fe144e2622abfd45cb8a8ed0e885563f05f3d65d6ad4b96c361f0368d3ec36f","features":{},"yanked":false,"pubtime":"2026-07-16T19:41:49Z"}
+{"name":"lo_core","vers":"0.5.0","deps":[{"name":"image","req":"^0.25.10","features":["webp"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"155d9617a83ce8c6a42b876f51bac870db55abbde721e770c34e26d6380f5e8e","features":{},"yanked":false,"pubtime":"2026-07-21T01:37:45Z"}
