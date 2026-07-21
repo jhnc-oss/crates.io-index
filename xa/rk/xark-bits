@@ -1,0 +1,1 @@
+{"name":"xark-bits","vers":"0.2.0","deps":[{"name":"xark","req":"^0.2.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0c628c302f15abd00bb7076228aa0b4536323b33336d4aed92f18d9bee1368c1","features":{},"yanked":false,"pubtime":"2026-07-21T14:55:50Z"}
