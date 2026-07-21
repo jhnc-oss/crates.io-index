@@ -1,1 +1,2 @@
 {"name":"scxtui","vers":"0.0.1","deps":[],"cksum":"a19e34cfdfb729b985623abb535584e4584ed45a1dee6e853fa62ce6ab52adca","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-21T12:31:19Z"}
+{"name":"scxtui","vers":"0.0.2","deps":[],"cksum":"7e298f92175d61c4313db0608b66f57b7b0591d21bb83e9ac1808f7090018e57","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-21T12:33:24Z"}
