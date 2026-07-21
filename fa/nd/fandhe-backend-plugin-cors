@@ -1,0 +1,1 @@
+{"name":"fandhe-backend-plugin-cors","vers":"0.1.0","deps":[{"name":"fandhe-backend-http","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"437d42b1c6651ff1c6e6ed2adde3e2ec6dfa6de09b2e6a033a091f78a4a80366","features":{},"yanked":false,"pubtime":"2026-07-21T04:52:19Z"}
