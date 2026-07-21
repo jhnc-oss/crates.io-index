@@ -1,0 +1,1 @@
+{"name":"cita-core","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06c7961b62ebd762fb1f76bfeff4ff858a42102313626214d294288304aafd8d","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-21T12:16:24Z"}
