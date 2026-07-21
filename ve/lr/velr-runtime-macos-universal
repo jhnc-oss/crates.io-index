@@ -20,3 +20,4 @@
 {"name":"velr-runtime-macos-universal","vers":"0.2.38","deps":[],"cksum":"565d0c33b480af1ac5832b69122b8683d32f06e83fdf6b30af4c3078817dee65","features":{},"yanked":false,"pubtime":"2026-07-09T18:58:27Z"}
 {"name":"velr-runtime-macos-universal","vers":"0.2.39","deps":[],"cksum":"4c186e6cd13f2a9ba26d8922ea07dedd2f718e4fe8de216feca421bcec0ee2e4","features":{},"yanked":false,"pubtime":"2026-07-18T16:19:46Z"}
 {"name":"velr-runtime-macos-universal","vers":"0.2.40","deps":[],"cksum":"fe24335a9c7819fb36a454ebd7d63258e38d78cfe2bc8cfb0933a46b48318f30","features":{},"yanked":false,"pubtime":"2026-07-18T19:33:29Z"}
+{"name":"velr-runtime-macos-universal","vers":"0.2.41","deps":[],"cksum":"f845b1ba19c6288374c0f32f0c1c876bbe7afaeaa0994fc5e674fe8ead24b905","features":{},"yanked":false,"pubtime":"2026-07-21T08:07:40Z"}
