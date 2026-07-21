@@ -1,0 +1,1 @@
+{"name":"bwa-mem3-core","vers":"3.0.1","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"873d6d57450554d7d641271047d0a22b947de5993672a112284bc1cb330e9b85","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-21T18:08:49Z"}
