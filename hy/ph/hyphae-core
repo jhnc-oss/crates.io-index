@@ -1,1 +1,2 @@
 {"name":"hyphae-core","vers":"0.1.0","deps":[],"cksum":"a3a3a7a75dff8f45dad1afe59c33f4ef495904fd734769a96f1265e3234bbb55","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-07-16T19:04:07Z"}
+{"name":"hyphae-core","vers":"0.2.0","deps":[],"cksum":"0d26df44a39897d45d3ab6e048900f6552b300ac5681b2275518492bcfc1af93","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-07-21T13:22:07Z"}
