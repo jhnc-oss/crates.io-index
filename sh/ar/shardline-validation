@@ -1,0 +1,1 @@
+{"name":"shardline-validation","vers":"1.0.1","deps":[{"name":"thiserror","req":"^2.0.18","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"81728462012e3ad783f7fb14e6321baa79429b884b07da5bbc937f9159c0295d","features":{},"yanked":false,"pubtime":"2026-07-21T19:59:22Z"}
