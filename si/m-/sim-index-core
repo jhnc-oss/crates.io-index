@@ -1,0 +1,1 @@
+{"name":"sim-index-core","vers":"0.1.0","deps":[{"name":"sim-kernel","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d198e8b76a446cb39d3b6e05ae5b2905d072fd2f88768a37bf79a3c32ce76262","features":{},"yanked":false,"pubtime":"2026-07-22T04:38:07Z"}
