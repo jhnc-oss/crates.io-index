@@ -7,3 +7,4 @@
 {"name":"fono","vers":"0.15.0","deps":[],"cksum":"48d01a37f72791698defd5545eee29b1133e71c02df6b0d188be66dd79bdb272","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-05T17:09:16Z"}
 {"name":"fono","vers":"0.16.0","deps":[],"cksum":"70ae487bce615171d0a710301036b78a7aad045ab9c5a8bf1d5f5cfb55976cb7","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-15T07:19:08Z"}
 {"name":"fono","vers":"0.17.0","deps":[],"cksum":"373778a546870e4d042d7eae7dd2338baee89ab17cde2b06cb1d5577a25caf41","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-20T15:49:42Z"}
+{"name":"fono","vers":"0.17.1","deps":[],"cksum":"99a25d02b6315cea5e681c7dc11478b827fc2f5959b26272331fc1eb43ceec52","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-22T18:45:06Z"}
