@@ -9,3 +9,4 @@
 {"name":"moa_rand","vers":"0.4.0","deps":[],"cksum":"7805c87366eb0f7b094166199d43d2c9257a404cdc29156d232eaa4c0ba2e448","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-16T09:33:55Z"}
 {"name":"moa_rand","vers":"0.5.0","deps":[],"cksum":"26273fdb61947775642ccdc1d034dfa2e9a219583eb42ee220348408a191e84f","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-17T03:10:15Z"}
 {"name":"moa_rand","vers":"0.6.0","deps":[],"cksum":"0e07ab244c3858c20833adadafe6728852845f43ff4bc4484d9d22e54e492b4c","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-17T11:19:42Z"}
+{"name":"moa_rand","vers":"0.7.0","deps":[],"cksum":"1a5ed1da3e9c2864367f95ca776e09957a51262369b7913c34bc9bdb1cd41d89","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-22T13:40:33Z"}
