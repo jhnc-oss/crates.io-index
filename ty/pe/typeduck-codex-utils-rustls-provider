@@ -1,0 +1,1 @@
+{"name":"typeduck-codex-utils-rustls-provider","vers":"0.1.0","deps":[{"name":"rustls","req":"^0.23","features":["aws_lc_rs","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a70716b9a6d0fcf15fbb100c9e01d96c297d9f6f8176834c4250a659b122d2e4","features":{},"yanked":false,"pubtime":"2026-07-22T10:57:14Z"}
