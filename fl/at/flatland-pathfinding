@@ -1,0 +1,1 @@
+{"name":"flatland-pathfinding","vers":"0.2.10","deps":[{"name":"flatland-protocol","req":"^0.2.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75d6a9c695074098a828c39950b6ebcd15899faf3add34b326a6c55ed8b1b45a","features":{},"yanked":false,"pubtime":"2026-07-22T01:45:29Z"}
