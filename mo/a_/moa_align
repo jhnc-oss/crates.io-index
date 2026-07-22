@@ -4,3 +4,4 @@
 {"name":"moa_align","vers":"0.4.0","deps":[],"cksum":"36eb2ae73a14413a34e8925d71da76b8cff436a3f721b16f5c3ba8f9a94a22ea","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-16T09:31:12Z"}
 {"name":"moa_align","vers":"0.5.0","deps":[],"cksum":"db5f11cd2475954b37f9a1fc555c305da0aa6bc46bf9c121a563121de9513066","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-17T03:09:01Z"}
 {"name":"moa_align","vers":"0.6.0","deps":[],"cksum":"85c51f3ba12d01c2028b9097412544d05334d8adcc5fd703e37e6e6fbbfe81c8","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-17T11:19:19Z"}
+{"name":"moa_align","vers":"0.7.0","deps":[],"cksum":"925ffddf8e7fc981d6ceaa5b24a2e90e690ce1d191d98e2dd9508b8c7e8dd961","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-22T13:40:05Z"}
