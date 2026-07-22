@@ -10,3 +10,4 @@
 {"name":"rivet-depot-client-types","vers":"2.3.4","deps":[],"cksum":"9ecb61c7b9baeb4567f37375cdd40b597900d758789f2ab030cdad1cd9c72fc6","features":{},"yanked":false,"pubtime":"2026-07-15T16:24:12Z"}
 {"name":"rivet-depot-client-types","vers":"2.3.5-rc.1","deps":[],"cksum":"eb1a177f08dd50857ddb311762f3416a669345484cf3cd86974eb35964eb8735","features":{},"yanked":false,"pubtime":"2026-07-20T21:28:07Z"}
 {"name":"rivet-depot-client-types","vers":"2.3.5","deps":[],"cksum":"b42bc5e979aa74da5246679b2eadc44a93c1225e19a4e2e4a0eeb1b67c7aa0d9","features":{},"yanked":false,"pubtime":"2026-07-20T22:12:31Z"}
+{"name":"rivet-depot-client-types","vers":"2.3.6","deps":[],"cksum":"c836e1adf426d7300d640c8e002583c71a61ea9e627ce60438469d44e9512a96","features":{},"yanked":false,"pubtime":"2026-07-22T15:44:30Z"}
