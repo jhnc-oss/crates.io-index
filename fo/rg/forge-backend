@@ -1,0 +1,1 @@
+{"name":"forge-backend","vers":"1.0.0","deps":[{"name":"forgecore-backend-framework-daemon","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"forgecore-backend-framework-daemon"}],"cksum":"8524c72f2590923a8c42516aa4bac533f612adf389484caef70173929bba5c92","features":{},"yanked":false,"pubtime":"2026-07-22T14:38:25Z"}
