@@ -1,1 +1,2 @@
 {"name":"dijkstra-adjacency-list","vers":"0.1.0","deps":[],"cksum":"44aa12d2f655b02868fedd96f8ff77c5ff4e0125aff360cdf559266a49f13fbd","features":{},"yanked":false,"pubtime":"2025-11-09T19:40:18Z"}
+{"name":"dijkstra-adjacency-list","vers":"1.0.0","deps":[],"cksum":"0c9a83b4a4c590ab9f9dd4fc5ee00979b313eee1380c2955ed4c3b2bdd40bfcf","features":{},"yanked":false,"pubtime":"2026-07-22T14:43:03Z"}
