@@ -1,0 +1,1 @@
+{"name":"ntr-core","vers":"0.0.1","deps":[{"name":"windows","req":"^0.62.2","features":["Win32_Foundation"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e674636968ee37bc0d4d57ab5f3eacf637237f8dcf1e6250aec578c21cbbe00c","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-07-22T14:58:06Z"}
