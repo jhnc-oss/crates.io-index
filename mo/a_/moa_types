@@ -9,3 +9,4 @@
 {"name":"moa_types","vers":"0.4.0","deps":[],"cksum":"c40353ffa62fb62153a632723085dc056aee85c9dde91fd6fce89f67dc3df28d","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-16T09:38:14Z"}
 {"name":"moa_types","vers":"0.5.0","deps":[],"cksum":"9655504d3577dfdef17ab47a852cce1caaa368ae9c83b249aabae1e945820be7","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-17T03:11:29Z"}
 {"name":"moa_types","vers":"0.6.0","deps":[],"cksum":"e44d5bb9f10a7b86e194a3c8c59bfd80cf09b64338ab10b391ed8407e39c58d1","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-17T11:20:04Z"}
+{"name":"moa_types","vers":"0.7.0","deps":[],"cksum":"1b50cda4d3a3c2401e0a7b7fa685aa2e5afe16d6ca7782402f67c0d080e49eb8","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-22T13:40:58Z"}
