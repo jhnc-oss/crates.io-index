@@ -16,3 +16,4 @@
 {"name":"hjkl-hover","vers":"0.33.6","deps":[],"cksum":"c075f8e9e02101873c0f6a41ec03cbab78af90c510fbab6dc567da877f183079","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-15T14:51:49Z"}
 {"name":"hjkl-hover","vers":"0.34.1","deps":[],"cksum":"44f64f2a0ac00829378ab5a05373398bbca8175e8763f3df25c5a21fbce59abe","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-15T18:46:52Z"}
 {"name":"hjkl-hover","vers":"0.34.2","deps":[],"cksum":"552f1f45d24b7c1ffee4c98f70315e73cd89c73f4f7f241e0597c020370d428e","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-16T17:56:53Z"}
+{"name":"hjkl-hover","vers":"0.35.0","deps":[],"cksum":"85e148758aaefc8fa9457c5770634dca820532057b533ca05cd72fbc266990e2","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-22T02:24:44Z"}
