@@ -13,3 +13,4 @@
 {"name":"oxicuda-backend","vers":"0.4.0","deps":[],"cksum":"65929b5659377e5aacce26643b51c8c1b93e49ae8ac18a6fe09c8930779fb3f3","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-01T04:31:10Z"}
 {"name":"oxicuda-backend","vers":"0.4.1","deps":[],"cksum":"065bcf9dd9b8593b59adac53244ec616663a14002f21faaed7bb7c3d6d0603f3","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-07T11:29:19Z"}
 {"name":"oxicuda-backend","vers":"0.5.0","deps":[],"cksum":"99f6ca3ccc672344db4e1e7de3253f365c4e9772a2843f9d35de4881331295e9","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-14T05:09:50Z"}
+{"name":"oxicuda-backend","vers":"0.5.1","deps":[],"cksum":"8f5a31cc84a1a863a1d021aa8423e1c223f6ec5ef2ba2f5d9bb66d5159ae32ac","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-22T02:24:25Z"}
