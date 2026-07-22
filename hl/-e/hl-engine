@@ -4,3 +4,4 @@
 {"name":"hl-engine","vers":"0.1.12","deps":[],"cksum":"87152d93423136f425b0bd5cbb39108b96794ce44adf0304a30a15af777a8a8a","features":{},"yanked":false,"rust_version":"1.81","pubtime":"2026-07-21T11:56:22Z"}
 {"name":"hl-engine","vers":"0.1.13","deps":[],"cksum":"45a92325fdab6ab39232b84814229d76fefcecc729486dd54888ef73b3fe90b8","features":{},"yanked":false,"rust_version":"1.81","pubtime":"2026-07-21T15:07:53Z"}
 {"name":"hl-engine","vers":"0.1.14","deps":[],"cksum":"8ae15c401850080244f18b196935cc491f8717e63d7236310e5cbcbc823ef76a","features":{},"yanked":false,"rust_version":"1.81","pubtime":"2026-07-21T20:30:45Z"}
+{"name":"hl-engine","vers":"0.1.15","deps":[],"cksum":"98971a3f7738dedbd0fe52f6eb234e374814befef665108cc5779f6527010cc8","features":{},"yanked":false,"rust_version":"1.81","pubtime":"2026-07-22T02:40:14Z"}
