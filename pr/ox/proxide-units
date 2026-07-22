@@ -2,3 +2,4 @@
 {"name":"proxide-units","vers":"0.1.0-alpha.10","deps":[],"cksum":"9c3828e1d879e15851694cca18cf94e865edb9ce5fc7617cccdcb9a77f022136","features":{},"yanked":false,"pubtime":"2026-07-06T15:32:36Z"}
 {"name":"proxide-units","vers":"0.1.0-alpha.11","deps":[],"cksum":"690daf825671d332c439914c9faac477ecf7a3d10a489dd4fe537adfe7e87992","features":{},"yanked":false,"pubtime":"2026-07-06T18:35:54Z"}
 {"name":"proxide-units","vers":"0.1.0-alpha.12","deps":[],"cksum":"c032e79e8d2d04253e3e7bdbd4f07c3802f533cf2d095ee965687ead945dbf2a","features":{},"yanked":false,"pubtime":"2026-07-07T19:57:44Z"}
+{"name":"proxide-units","vers":"0.1.0-alpha.13","deps":[],"cksum":"f6b152a3e8be1ec53d2a5dc78a44b4ed41fee67e1f738f95971bc69e05b126c2","features":{},"yanked":false,"pubtime":"2026-07-22T14:11:17Z"}
