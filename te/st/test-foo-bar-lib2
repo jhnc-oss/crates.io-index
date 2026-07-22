@@ -1,0 +1,1 @@
+{"name":"test-foo-bar-lib2","vers":"0.1.0","deps":[{"name":"test-foo-bar-lib1","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d38176df40050b588ec076b0bd23210e37bca1982e5b0d5317499703dd182886","features":{},"yanked":false,"pubtime":"2026-07-22T15:55:21Z"}
