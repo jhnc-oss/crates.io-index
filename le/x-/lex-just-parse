@@ -5,3 +5,4 @@
 {"name":"lex-just-parse","vers":"0.4.1","deps":[],"cksum":"a46b9ad8e43ba62d1d17cf9c4b6ecef60163c1d737971b9a5d103b8186069a91","features":{"interning":[]},"yanked":false,"pubtime":"2026-07-01T18:39:01Z"}
 {"name":"lex-just-parse","vers":"0.4.2","deps":[],"cksum":"caf17034d822d87330f6ad5859a84519a9a7b9f676703f175e871824ae98470a","features":{"interning":[]},"yanked":false,"pubtime":"2026-07-06T19:44:37Z"}
 {"name":"lex-just-parse","vers":"1.0.0","deps":[],"cksum":"275da7f93addf4f574863849b03cab095d6ac24f7838d95b2e46b0c15de5577f","features":{"interning":[]},"yanked":false,"pubtime":"2026-07-15T19:51:47Z"}
+{"name":"lex-just-parse","vers":"1.1.0","deps":[],"cksum":"16830ad5aa4b4ae5873a615955c7c18bc6c6444b2875603b202c2d1090e588bf","features":{"interning":[]},"yanked":false,"pubtime":"2026-07-22T01:34:08Z"}
