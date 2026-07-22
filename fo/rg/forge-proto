@@ -1,0 +1,1 @@
+{"name":"forge-proto","vers":"1.0.0","deps":[{"name":"forgecore-backend-framework-daemon","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"forgecore-backend-framework-daemon"}],"cksum":"3391c2c192dd5550b167f7a1afc5d0892c6b61b673589d68208f9f2ea136b3ce","features":{},"yanked":false,"pubtime":"2026-07-22T14:38:40Z"}
