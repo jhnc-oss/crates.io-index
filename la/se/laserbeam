@@ -17,3 +17,4 @@
 {"name":"laserbeam","vers":"0.0.1-main-7965c0e","deps":[],"cksum":"91567ec78d4d65e5a7b432fd8a5d98b474cd2fc5f5e24686a94cf71f08d414d8","features":{},"yanked":false,"pubtime":"2026-07-21T05:38:56Z"}
 {"name":"laserbeam","vers":"0.0.1-main-001d5fd","deps":[],"cksum":"8c12a7eef6b77007f982498ec70412662ac5a310cf60acd19c7ec3226b96369d","features":{},"yanked":false,"pubtime":"2026-07-22T00:01:12Z"}
 {"name":"laserbeam","vers":"0.0.1-main-b13c454","deps":[],"cksum":"e178b17f5a12ff6088207952d38694337107403481aa4e853881f3f67ff72842","features":{},"yanked":false,"pubtime":"2026-07-22T00:22:21Z"}
+{"name":"laserbeam","vers":"0.0.1-main-b65f745","deps":[],"cksum":"5d81dd55e5a9a20f438c7a000c15fef6ed5417b70e65194168e967a416692631","features":{},"yanked":false,"pubtime":"2026-07-22T03:26:15Z"}
