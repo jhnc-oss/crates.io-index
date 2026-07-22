@@ -2,7 +2,7 @@
 {"name":"i-can-haz-rust-crate","vers":"0.1.0","deps":[],"cksum":"97be5557b1c248f54336b8e2d54ffbd578ba16b9f3fe01f64d2171d59fd9bdc0","features":{},"yanked":false,"pubtime":"2025-12-04T21:16:53Z"}
 {"name":"i-can-haz-rust-crate","vers":"0.1.0-1","deps":[],"cksum":"08c238bb73e7b74e2df07226fd1695635045e1e8946fd3cb9d1f24d0d39786dc","features":{},"yanked":false,"pubtime":"2025-12-04T21:20:32Z"}
 {"name":"i-can-haz-rust-crate","vers":"0.1.0-post2","deps":[],"cksum":"a26c76bffbddc6be93d9fbf1eac7c96c2728d21fb8f05790bbf5f90b437eba23","features":{},"yanked":false,"pubtime":"2025-12-04T21:21:23Z"}
-{"name":"i-can-haz-rust-crate","vers":"0.1.1","deps":[],"cksum":"a9cb8f8906c4e57d31f13ed8f5999defd305e142382f33af22d5d77aa2086063","features":{},"yanked":false,"pubtime":"2025-12-05T18:18:45Z"}
+{"name":"i-can-haz-rust-crate","vers":"0.1.1","deps":[],"cksum":"a9cb8f8906c4e57d31f13ed8f5999defd305e142382f33af22d5d77aa2086063","features":{},"yanked":true,"pubtime":"2025-12-05T18:18:45Z"}
 {"name":"i-can-haz-rust-crate","vers":"0.1.2+tester","deps":[],"cksum":"2b7d11016b55c7c355e904b8eaa24cc0d92e9c268b7f1d5719b2de8a491fd179","features":{},"yanked":false,"pubtime":"2025-12-09T17:30:47Z"}
 {"name":"i-can-haz-rust-crate","vers":"0.1.2-1+tester2","deps":[],"cksum":"ea697971b3f598f05e0883f6170f843e9f949921f730c6e81ba0c5a41cfd41e1","features":{},"yanked":false,"pubtime":"2025-12-09T17:32:07Z"}
 {"name":"i-can-haz-rust-crate","vers":"0.1.3-rc.1","deps":[],"cksum":"9d4fa2d780273379ab2b2a91912159ef79412aa59920d835351cb5ce01b2af2a","features":{},"yanked":false,"pubtime":"2025-12-09T19:46:50Z"}
