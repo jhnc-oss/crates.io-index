@@ -1,3 +1,4 @@
 {"name":"damask-template","vers":"0.1.0","deps":[],"cksum":"06873558d0c015118863c4a0165e36a4bbc410c21b71a8fed30f8a1a6ce9da8c","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-21T19:48:39Z"}
 {"name":"damask-template","vers":"0.1.1","deps":[],"cksum":"245f797315422509ff0452c8b4a31a5325daa91e8a8d304ee15841a2fff82b44","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-21T19:55:55Z"}
 {"name":"damask-template","vers":"0.1.2","deps":[],"cksum":"2d7eedffea284b49d5721dc3d4d9eeae383883ec48b29d95b8be413bbb4f4ece","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-21T20:54:56Z"}
+{"name":"damask-template","vers":"0.2.0","deps":[],"cksum":"dc4e866972586119cffa53dd08e2a86f6841c58ba685e645f419e0e91951af8a","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-22T11:16:32Z"}
