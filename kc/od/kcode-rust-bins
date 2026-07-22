@@ -1,0 +1,1 @@
+{"name":"kcode-rust-bins","vers":"1.0.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"320187f77e647fceb7433d1f5397ca7f8b314f50aaa20eb058bfe3436cff0f62","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-22T21:32:24Z"}
