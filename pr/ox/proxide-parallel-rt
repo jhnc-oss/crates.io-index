@@ -4,3 +4,4 @@
 {"name":"proxide-parallel-rt","vers":"0.1.0-alpha.12","deps":[],"cksum":"7dc0cbb4e3e2d4eba25d274b04e7dc184c08519d96c102c08dcb2f7ba19c8dba","features":{},"yanked":false,"pubtime":"2026-07-07T19:58:46Z"}
 {"name":"proxide-parallel-rt","vers":"0.1.0-alpha.13","deps":[],"cksum":"719219c5d28f3f591ae11d522404ab195da35ac18ca46b9afb215a77b527e064","features":{},"yanked":false,"pubtime":"2026-07-22T14:12:29Z"}
 {"name":"proxide-parallel-rt","vers":"0.1.0-alpha.14","deps":[],"cksum":"68ac2c691df499b7e4edeef5276748d701c967cea7d064f171760414d1db8500","features":{},"yanked":false,"pubtime":"2026-07-22T17:06:02Z"}
+{"name":"proxide-parallel-rt","vers":"0.1.0-alpha.15","deps":[],"cksum":"30e2d4bba8a9b77740e12ad0ad6e7929fe582d99c0fcd26a34a2b521e007f9fe","features":{},"yanked":false,"pubtime":"2026-07-22T20:26:52Z"}
