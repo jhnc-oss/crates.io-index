@@ -4,3 +4,4 @@
 {"name":"native-ipc-core","vers":"0.4.0","deps":[],"cksum":"cd87e75c9e46b802c2e7df6de8d14c6a093a0895cac28ad19236eb4cc5350802","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-11T11:25:41Z"}
 {"name":"native-ipc-core","vers":"0.5.0","deps":[],"cksum":"a94e41a819d705eee6670f92536e5d5c27749c2ffc745f6fa1ea48726ebb6d17","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-18T02:26:27Z"}
 {"name":"native-ipc-core","vers":"0.6.0","deps":[],"cksum":"88a21a4dcfae72a7afad5900b36cfc05443ff03d7c7d06c84e6661d0b6a02166","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-18T19:05:02Z"}
+{"name":"native-ipc-core","vers":"0.6.1","deps":[],"cksum":"d2c853ebae5cb84d215571fe60fb0a98641c1f219b723ce0de288cafff7edc09","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-22T09:36:40Z"}
