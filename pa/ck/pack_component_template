@@ -180,3 +180,4 @@
 {"name":"pack_component_template","vers":"1.2.0-dev.29731073391","deps":[],"cksum":"c2df37a6c950198f5c85120ae509e7f7fc10eba344f7ad85b2bca9c249436f99","features":{},"yanked":false,"pubtime":"2026-07-20T09:51:19Z"}
 {"name":"pack_component_template","vers":"1.2.0-dev.29805044329","deps":[],"cksum":"33d0556be3b1cc6bdf86903d265a1d6b839092a5c95e9664a9bb3d19242b93a5","features":{},"yanked":false,"pubtime":"2026-07-21T06:09:29Z"}
 {"name":"pack_component_template","vers":"1.2.0-dev.29807424987","deps":[],"cksum":"2669f1da838fbe86e28cdcc34462f11adcbdb48e7ab98297397dc81b4df9545a","features":{},"yanked":false,"pubtime":"2026-07-21T06:55:00Z"}
+{"name":"pack_component_template","vers":"1.2.0-dev.29898083932","deps":[],"cksum":"f9abd842c7a71772bd0370a32aacfb2d8daa7256e844d79ed65bb82b850293e1","features":{},"yanked":false,"pubtime":"2026-07-22T07:31:33Z"}
