@@ -39,3 +39,4 @@
 {"name":"compare_version","vers":"2.0.10","deps":[],"cksum":"84d0079b1411fd8949cec86b59c2b7a2ae584e325363653691e855c7beb22dce","features":{},"yanked":false,"pubtime":"2026-07-19T13:37:33Z"}
 {"name":"compare_version","vers":"2.0.11","deps":[],"cksum":"a5d7f1eba027910603d164c6be49fe402dad43661b5f7bd5cd25e6149397fee9","features":{},"yanked":false,"pubtime":"2026-07-21T13:53:22Z"}
 {"name":"compare_version","vers":"2.0.12","deps":[],"cksum":"0c5929017b8f4154f8c54314235c9f2f29606f00426f786b1d8ae277cbfa3d51","features":{},"yanked":false,"pubtime":"2026-07-22T14:41:06Z"}
+{"name":"compare_version","vers":"2.0.13","deps":[],"cksum":"8fb8853960a1d8d1f823a336f601162b456f42167a79e47b36bd8cb712c148db","features":{},"yanked":false,"pubtime":"2026-07-22T16:16:34Z"}
