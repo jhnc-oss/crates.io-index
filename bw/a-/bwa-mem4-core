@@ -1,0 +1,1 @@
+{"name":"bwa-mem4-core","vers":"4.0.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15ce09caf33c964ba70b152ca49ef599e30dcf1a40b31eb4d513f042faf24acc","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-22T01:55:46Z"}
