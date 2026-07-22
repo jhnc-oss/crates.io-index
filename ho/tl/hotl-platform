@@ -1,1 +1,2 @@
 {"name":"hotl-platform","vers":"0.2.0","deps":[],"cksum":"3a59148642b357c15e710c1f2fe67f6eec7460ce8f4141a12e66f894e08b3ee8","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-21T19:52:18Z"}
+{"name":"hotl-platform","vers":"0.2.1","deps":[],"cksum":"090a7a7fb368bd778a58ae6d2a0ba698a0613a6343ee5d8ee5893e6895d375cc","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-22T16:00:16Z"}
