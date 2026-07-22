@@ -6,3 +6,4 @@
 {"name":"j2k-profile","vers":"0.7.1","deps":[],"cksum":"da051673a90794f770f80ee625e2cd67259698946fceec188083f6806f08fe1d","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-15T04:08:18Z"}
 {"name":"j2k-profile","vers":"0.7.2","deps":[],"cksum":"de05122e266688ecfe33f9c25b232bfa294695e8cae17ab327e932fdc34688dc","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-15T06:28:11Z"}
 {"name":"j2k-profile","vers":"0.7.3","deps":[],"cksum":"5880ea87167de55e18c76e607a405a966f1aeb25411ebfa76782112d0ac9cfd9","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-15T11:45:41Z"}
+{"name":"j2k-profile","vers":"0.7.5","deps":[],"cksum":"ef8b67d37bf7714d85bcbfcc10348b8ecf423e1850c73e44cb6822fc2817117b","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-22T17:50:26Z"}
