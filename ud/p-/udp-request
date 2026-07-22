@@ -46,3 +46,4 @@
 {"name":"udp-request","vers":"0.3.24","deps":[],"cksum":"b2850b3b1dd738766e59e8240b2d46dc651b71fa15a8c91893dc950d39a37141","features":{},"yanked":false,"pubtime":"2026-07-21T13:44:28Z"}
 {"name":"udp-request","vers":"0.3.25","deps":[],"cksum":"4370ab031bfa5a81c9a2e670ed2378b9e53eb04c1815fc14e88460a416f4ea7b","features":{},"yanked":false,"pubtime":"2026-07-22T14:24:31Z"}
 {"name":"udp-request","vers":"0.3.26","deps":[],"cksum":"563332808dd3de632766ddc191e2ad7125b154b9d8f3375e22fa1a898336e0cb","features":{},"yanked":false,"pubtime":"2026-07-22T16:10:23Z"}
+{"name":"udp-request","vers":"0.3.27","deps":[],"cksum":"30b4fcd7707876c61c11d304898136f6bdea96a584549c55e70fa35000ac9fe3","features":{},"yanked":false,"pubtime":"2026-07-22T23:20:26Z"}
