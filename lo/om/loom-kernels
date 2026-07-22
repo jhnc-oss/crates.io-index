@@ -1,0 +1,1 @@
+{"name":"loom-kernels","vers":"1.0.0-alpha.1","deps":[{"name":"half","req":"^2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0721a9fa30411e768ac36cb5486c8f29aedd3e63bd7b6ac3b1996c3c3b16b60b","features":{},"yanked":false,"pubtime":"2026-07-22T14:49:48Z"}
