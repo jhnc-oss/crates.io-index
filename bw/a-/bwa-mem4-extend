@@ -1,1 +1,2 @@
 {"name":"bwa-mem4-extend","vers":"4.0.0","deps":[],"cksum":"39af84fdac82a8e38ab1410c1a51893b21b5d1a2d44a66dc4f86f1164c74efdc","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-22T01:55:56Z"}
+{"name":"bwa-mem4-extend","vers":"4.0.1","deps":[],"cksum":"f7f656c90e7fbf6e1f99212a15a6788b2e8287c704f3af5f458c53a41ab17f62","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-22T13:06:27Z"}
