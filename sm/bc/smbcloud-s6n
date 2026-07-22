@@ -11,3 +11,4 @@
 {"name":"smbcloud-s6n","vers":"0.4.10","deps":[],"cksum":"650dcf819a78a53d44d822817fa896587ae256f80f0f5f7226e95d1ec36d955f","features":{},"yanked":false,"pubtime":"2026-07-19T06:18:47Z"}
 {"name":"smbcloud-s6n","vers":"0.4.11","deps":[],"cksum":"b13626a601978f86c786ae893dcb44fd466cc548a8cb19776ce79d9f30dab2e4","features":{},"yanked":false,"pubtime":"2026-07-20T18:29:05Z"}
 {"name":"smbcloud-s6n","vers":"0.4.12","deps":[],"cksum":"cc33e5dc2ac5ffbf0ab08750ff811c33adf3c4fab99dbff4dfb07ec26e8b729c","features":{},"yanked":false,"pubtime":"2026-07-21T06:55:50Z"}
+{"name":"smbcloud-s6n","vers":"0.4.13","deps":[],"cksum":"b8e058ceac7f1d3476676b19bdee415242ba6af8fb573e86a3dc836cf3a9e82f","features":{},"yanked":false,"pubtime":"2026-07-22T15:00:23Z"}
