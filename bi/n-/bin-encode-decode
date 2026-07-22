@@ -59,3 +59,4 @@
 {"name":"bin-encode-decode","vers":"1.1.47","deps":[],"cksum":"ac564d60b1b2994fe7446d7c99ab608419cabd4ef2daaff3a652689c8687014a","features":{},"yanked":false,"pubtime":"2026-07-19T13:35:55Z"}
 {"name":"bin-encode-decode","vers":"1.1.48","deps":[],"cksum":"08e8534ac234c5630486adecdc21af9c1245f9bd8b06480e0e5b1f372f7d77fc","features":{},"yanked":false,"pubtime":"2026-07-21T13:51:29Z"}
 {"name":"bin-encode-decode","vers":"1.1.49","deps":[],"cksum":"41d8104fef62c57d54326b83860870e0c94f9202b5212871ca3abb64acdd068b","features":{},"yanked":false,"pubtime":"2026-07-22T14:35:55Z"}
+{"name":"bin-encode-decode","vers":"1.1.50","deps":[],"cksum":"63031b05fa90addda4115ac6b0a256e718dd68164a8833ba596537e0a4ee0e7d","features":{},"yanked":false,"pubtime":"2026-07-22T16:15:09Z"}
