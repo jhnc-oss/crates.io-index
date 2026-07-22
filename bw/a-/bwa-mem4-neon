@@ -1,0 +1,1 @@
+{"name":"bwa-mem4-neon","vers":"4.0.0","deps":[{"name":"bwa-extend","req":"^4.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"bwa-mem4-extend"}],"cksum":"a8de2feae6b23c20d149792c409589fc97342c35fde9a7e2ad060f92b6e156d3","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-22T01:56:00Z"}
