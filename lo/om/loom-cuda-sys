@@ -1,0 +1,1 @@
+{"name":"loom-cuda-sys","vers":"1.0.0-alpha.1","deps":[{"name":"cc","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"986db11e45b80f2153dd6d2c2a7f2b6ca2097440830554f315aa3bfc12962511","features":{"cuda":[],"default":[]},"yanked":false,"links":"loom_cuda_kernels","pubtime":"2026-07-22T14:50:02Z"}
