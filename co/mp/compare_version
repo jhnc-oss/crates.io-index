@@ -38,3 +38,4 @@
 {"name":"compare_version","vers":"2.0.9","deps":[],"cksum":"560f4007b14d6bf40159af6c713bd58609951bddb0a44f3ba2693d4d5fa8ecca","features":{},"yanked":false,"pubtime":"2026-07-11T10:14:41Z"}
 {"name":"compare_version","vers":"2.0.10","deps":[],"cksum":"84d0079b1411fd8949cec86b59c2b7a2ae584e325363653691e855c7beb22dce","features":{},"yanked":false,"pubtime":"2026-07-19T13:37:33Z"}
 {"name":"compare_version","vers":"2.0.11","deps":[],"cksum":"a5d7f1eba027910603d164c6be49fe402dad43661b5f7bd5cd25e6149397fee9","features":{},"yanked":false,"pubtime":"2026-07-21T13:53:22Z"}
+{"name":"compare_version","vers":"2.0.12","deps":[],"cksum":"0c5929017b8f4154f8c54314235c9f2f29606f00426f786b1d8ae277cbfa3d51","features":{},"yanked":false,"pubtime":"2026-07-22T14:41:06Z"}
