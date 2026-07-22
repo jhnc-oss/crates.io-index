@@ -1,2 +1,3 @@
 {"name":"pliego-starters","vers":"0.0.1","deps":[],"cksum":"e5ab8d331883c3074fd1dd7c05cfcb06a700279f4ea1f26847d2522997f1cc5a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-16T21:14:16Z"}
 {"name":"pliego-starters","vers":"0.0.2","deps":[],"cksum":"4301f4de19b9dd1d0958979ae30150e3cd189d91fc2ce1a68802139f73fd6ac7","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-18T22:55:31Z"}
+{"name":"pliego-starters","vers":"0.2.0-beta.1","deps":[],"cksum":"850273d4a2257d1c70882f3e192bd4d7d4b7e6a31d8c4d160cfc76d5173c210a","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-07-22T17:56:20Z"}
