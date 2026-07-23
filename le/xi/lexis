@@ -7,3 +7,4 @@
 {"name":"lexis","vers":"0.2.4","deps":[],"cksum":"cce1e161fd87b8fb2c15df3fd31a8bf29393db9d8012a736fbff317df8999e06","features":{},"yanked":false,"pubtime":"2026-04-02T11:14:09Z"}
 {"name":"lexis","vers":"0.2.5","deps":[],"cksum":"f8001e0de767e020c8d92bfb5a642acba94ca8ea3d241cad1f66da108a99c45f","features":{},"yanked":false,"pubtime":"2026-04-02T11:34:48Z"}
 {"name":"lexis","vers":"0.3.0","deps":[],"cksum":"4cb570ac6053a3f19276aeaa292d6b7e008f993bdacabfdb790bbf60b274fdf3","features":{},"yanked":false,"pubtime":"2026-07-23T09:30:45Z"}
+{"name":"lexis","vers":"0.4.0","deps":[],"cksum":"79a35db4f4c79207efad4c5eb070b4633f7f30515c71d1e39b4ae6871b9dda6f","features":{},"yanked":false,"pubtime":"2026-07-23T10:00:29Z"}
