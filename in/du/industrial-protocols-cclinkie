@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-cclinkie","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e74aae825480a9a17666a470f7ccec5a1cb6823acffc85f516d20435ac98c7d9","features":{},"yanked":false,"pubtime":"2026-07-23T07:29:39Z"}
