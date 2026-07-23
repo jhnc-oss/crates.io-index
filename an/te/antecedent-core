@@ -1,0 +1,1 @@
+{"name":"antecedent-core","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7fccd691b047fa3d340af81d22631a82caddc116b80eb67a1ce32bc91dab0c5","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-23T21:05:12Z"}
