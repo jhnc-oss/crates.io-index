@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-flexray","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b7b47ae21d67c83ed5201e3db763d08e0480da42ae8c879d8867701b5cfdfc03","features":{},"yanked":false,"pubtime":"2026-07-23T09:48:29Z"}
