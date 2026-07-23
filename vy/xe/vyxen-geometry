@@ -1,0 +1,1 @@
+{"name":"vyxen-geometry","vers":"0.1.0","deps":[{"name":"vyxen-math","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d619ab2676726e504b0eea1596130fa539ca7e0495895e83356370e4d4a10c83","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-07-23T11:53:29Z"}
