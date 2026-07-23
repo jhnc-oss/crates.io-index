@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-mqtt","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"874446f17cc424deeffe8db6da60b513f538350bc52040d5d4d4ff9f87999858","features":{},"yanked":false,"pubtime":"2026-07-23T06:31:38Z"}
