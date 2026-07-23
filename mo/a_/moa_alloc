@@ -5,3 +5,4 @@
 {"name":"moa_alloc","vers":"0.5.0","deps":[],"cksum":"7e748e33b0ac987f4ebeea34b126cbcf2422f9111cb752b0ed634e17380b5aaa","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-17T03:09:10Z"}
 {"name":"moa_alloc","vers":"0.6.0","deps":[],"cksum":"e4965a1eb6d0318b5cb19ab7c19d2c86c81b6cc224ae5e0ab4e036defc3b69ce","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-17T11:19:22Z"}
 {"name":"moa_alloc","vers":"0.7.0","deps":[],"cksum":"ab2557f91be6bc78ef97aae0aacfa0da063eac055087f9b663f19fe816ee7200","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-22T13:40:10Z"}
+{"name":"moa_alloc","vers":"0.8.0","deps":[],"cksum":"dd0bfdd762c5f4d504132e21c62c06733d5781efa8fc0e22f9f7a4a27451078b","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-23T08:39:34Z"}
