@@ -3,3 +3,4 @@
 {"name":"pipecrab-core","vers":"0.3.0","deps":[],"cksum":"d87d60125d2c5d6caeca2e6b8f750285de8fe2bc44e26b223fcbc73254a1c38b","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-13T21:51:51Z"}
 {"name":"pipecrab-core","vers":"0.4.0","deps":[],"cksum":"e4324984d2eab15c1f83deada24eb8214daecef11dc7ff2403c93e790e750011","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-07-17T22:10:19Z"}
 {"name":"pipecrab-core","vers":"0.5.0","deps":[],"cksum":"bb83dff6c59056a346fa87e53a326bed668f5f8c54d4dc5420f56ea7feabba85","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-07-22T01:05:35Z"}
+{"name":"pipecrab-core","vers":"0.5.1","deps":[],"cksum":"3e7e48cf363c489d6054942c5798569b71bb98b8cf0fb94fa5c7a57a66a3361a","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-07-23T16:33:41Z"}
