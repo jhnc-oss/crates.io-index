@@ -10,3 +10,4 @@
 {"name":"hpvca","vers":"0.1.9","deps":[],"cksum":"69745e50d90013442e6b1961cca7bc39d211186406a49a3f3b813913360082e7","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-06-21T10:04:23Z"}
 {"name":"hpvca","vers":"0.1.10","deps":[],"cksum":"8e762abbdc1e000bcbb7f4764936df76db1a7baf966319b80953b5d5f9d286e7","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-07-13T06:57:15Z"}
 {"name":"hpvca","vers":"0.1.11","deps":[],"cksum":"619d46f446a1517b85e06b16536afcf35ff1bb19cdc125bb9654823d321f0434","features":{"avx":[],"default":["avx","neon"],"neon":[]},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-07-15T07:12:51Z"}
+{"name":"hpvca","vers":"0.1.12","deps":[],"cksum":"6c06993dc52de1384913cba4e341031d8dbbf44c7ba3b427acf22c4e8e20713a","features":{"avx":[],"default":["avx","neon"],"neon":[]},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-07-23T06:59:24Z"}
