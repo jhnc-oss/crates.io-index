@@ -1,0 +1,1 @@
+{"name":"gridpx","vers":"0.0.1-alpha","deps":[{"name":"thiserror","req":"^2.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8087812a1fb918f6f10bb7c48f702fd2022c1fb6a95aa5740cdf668a11bd7157","features":{},"yanked":false,"pubtime":"2026-07-23T06:58:42Z"}
