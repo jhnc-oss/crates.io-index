@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-powerlink","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c19e42386532cae69b6ad31d14e97ce5ef9721bc28da3e37f25843920b5d6e0","features":{},"yanked":false,"pubtime":"2026-07-23T08:38:52Z"}
