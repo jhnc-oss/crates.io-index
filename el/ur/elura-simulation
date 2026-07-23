@@ -2,3 +2,4 @@
 {"name":"elura-simulation","vers":"0.2.5","deps":[],"cksum":"0df7ab8b81983a35dde7184291d94fec4254e6f315d74a60f01f6f788597fecd","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-21T10:16:29Z"}
 {"name":"elura-simulation","vers":"0.2.6","deps":[],"cksum":"9c41425be1489471a51c9c22d9b49dd67ff70bcee273c257a526bb1f62e7cff8","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-23T02:16:18Z"}
 {"name":"elura-simulation","vers":"0.2.7","deps":[],"cksum":"38f18590783444b4c469b1d442ae2fd89f43ec7db9d346fc20a53a87aaf6e4be","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-23T08:48:09Z"}
+{"name":"elura-simulation","vers":"0.2.9","deps":[],"cksum":"13a4d863b3db8b5eac8646e1b28e7b1e6293cccd1a5a9cad4f4bd239c1497cfb","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-23T12:19:06Z"}
