@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-bridge-socket","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3897b23955b0eeb67e45ff8b602c1ae9515d579d3374dee7898378163e929dfe","features":{},"yanked":false,"pubtime":"2026-07-23T04:06:38Z"}
