@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-opcua","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e2b3d73aea2d1f62b95ab4a82c1b4756c78b30fe380b00e357908ef29b704e6","features":{},"yanked":false,"pubtime":"2026-07-23T06:30:29Z"}
