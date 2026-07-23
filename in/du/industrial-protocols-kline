@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-kline","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"986d82343e350e3bb1dd24d6cc7050ac3569ac7086ae101a07131372187dc266","features":{},"yanked":false,"pubtime":"2026-07-23T08:04:07Z"}
