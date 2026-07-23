@@ -10,3 +10,4 @@
 {"name":"agentos-build-support","vers":"0.2.9","deps":[],"cksum":"c2aff59316532c00145226aa71b6ba27c99fcb532e9fef5d937f5f9db150a600","features":{},"yanked":false,"pubtime":"2026-07-22T13:34:13Z"}
 {"name":"agentos-build-support","vers":"0.2.10","deps":[],"cksum":"dd746c1b95dd2e4ca86d590f39c679fd80caa012201b2512a50141fb74c3a0f4","features":{},"yanked":false,"pubtime":"2026-07-22T18:20:26Z"}
 {"name":"agentos-build-support","vers":"0.2.11-rc.1","deps":[],"cksum":"f86a7b93469e78a570793abc3916623b241837cfec21ad48625f2c1538b70216","features":{},"yanked":false,"pubtime":"2026-07-23T14:28:46Z"}
+{"name":"agentos-build-support","vers":"0.2.11","deps":[],"cksum":"45e25fa08284a266b078c1ff758c8f8d8c446bb31ecdb1c97e1747e2f3287612","features":{},"yanked":false,"pubtime":"2026-07-23T15:21:26Z"}
