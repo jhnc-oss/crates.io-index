@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-devicenet","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19efd1c6ba48448ebd86cbbca3706ea8b4a81e58848951897998436473f0a523","features":{},"yanked":false,"pubtime":"2026-07-23T09:13:25Z"}
