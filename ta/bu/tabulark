@@ -1,1 +1,2 @@
 {"name":"tabulark","vers":"0.0.1","deps":[],"cksum":"c205834a1918293e295e8bfb2fe1a0d3392c98c0be6ae4256f5b18c1c1b4384b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-23T08:33:28Z"}
+{"name":"tabulark","vers":"0.0.4","deps":[],"cksum":"485dd2c03455c621237ece7e1999a2263f7a63c4ab98d791343d3c8ca58be0a4","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-23T09:16:32Z"}
