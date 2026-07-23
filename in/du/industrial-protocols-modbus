@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-modbus","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd21c5ffd8c998eaaef490ba70a658732413ac2dd8f1537b80bd1df02e7b63c6","features":{},"yanked":false,"pubtime":"2026-07-23T04:36:57Z"}
