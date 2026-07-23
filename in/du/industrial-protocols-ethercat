@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-ethercat","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4312538dd10b980020525ca57dd6051421e69ba7b471b7892fb712cda1a45254","features":{},"yanked":false,"pubtime":"2026-07-23T08:27:21Z"}
