@@ -23,3 +23,4 @@
 {"name":"osal-rs-build","vers":"0.5.0","deps":[],"cksum":"c19921e66b51264f5dfd58180de7e615943ddd66b736cf84508f97e412f32d02","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-05-30T21:21:48Z"}
 {"name":"osal-rs-build","vers":"0.5.1","deps":[],"cksum":"3094ac0794f929ba23740f29f277a12532654c2e883d9ea885694671ffb4331f","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-06-14T20:58:33Z"}
 {"name":"osal-rs-build","vers":"1.0.1","deps":[],"cksum":"49883f5c0f02a5bf9bff6742dd40824526c7d9a0036d094acee9b266ec7526c6","features":{"freertos":[],"posix":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-07-22T22:00:04Z"}
+{"name":"osal-rs-build","vers":"1.0.2","deps":[],"cksum":"bcdbdecb6e1e6a948ba9f6ed0785ead72d9a884d1bc74677e65f00b754a3ed37","features":{"freertos":[],"posix":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-07-23T13:11:11Z"}
