@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-ethernet-ip","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ca9b1feb830a2eee5bdf30e8d901b02d97cb13dcacd4807969d796735f2d32d","features":{},"yanked":false,"pubtime":"2026-07-23T06:31:04Z"}
