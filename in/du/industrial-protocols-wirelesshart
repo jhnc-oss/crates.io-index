@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-wirelesshart","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b3ebc398b78f81a6c01edd4e3abdca9ed67fd8a565281af07930ed30ef819779","features":{},"yanked":false,"pubtime":"2026-07-23T11:20:52Z"}
