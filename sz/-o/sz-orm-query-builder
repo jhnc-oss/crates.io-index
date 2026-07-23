@@ -1,0 +1,1 @@
+{"name":"sz-orm-query-builder","vers":"1.0.0","deps":[{"name":"sz-orm-core","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8732bf9e35667d86c77d41b027a4a10171c6a1f9e4b44f47e1d3754ba821db49","features":{},"yanked":false,"pubtime":"2026-07-23T04:40:42Z"}
