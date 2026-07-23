@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-dnp3","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7671267c9448c8d57d0344e96b9e483f4a6d387e1bbb890bab544cdc4417499","features":{},"yanked":false,"pubtime":"2026-07-23T06:43:11Z"}
