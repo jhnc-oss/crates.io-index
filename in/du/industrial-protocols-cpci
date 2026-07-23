@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-cpci","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6aaa03c1459d8f7761f3cdfae69c7b139d54dc3efc5bb5cdb078d4f101921584","features":{},"yanked":false,"pubtime":"2026-07-23T11:55:36Z"}
