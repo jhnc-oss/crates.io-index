@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-bacnet","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d705256904ec0fe14b7522733612f8d21e194037a65cb651e9a0ef60aade2042","features":{},"yanked":false,"pubtime":"2026-07-23T06:30:47Z"}
