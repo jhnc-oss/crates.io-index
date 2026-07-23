@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-canopen","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e04bcde35f6c88f096f0c5f2d8b2a41878bd5bceee3fb4d7e478d0d94b4b458","features":{},"yanked":false,"pubtime":"2026-07-23T07:18:05Z"}
