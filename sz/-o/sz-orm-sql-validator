@@ -1,0 +1,1 @@
+{"name":"sz-orm-sql-validator","vers":"1.0.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f52e452352d10f241b09c3d7c1ef1d6a6c7b9ad573b9f161cdc08a65a156125f","features":{},"yanked":false,"pubtime":"2026-07-23T04:39:13Z"}
