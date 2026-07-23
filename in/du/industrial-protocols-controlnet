@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-controlnet","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f367d6bb3e51ad7333f571383c462f20af844b85cf87a374752e3a2ef714c64f","features":{},"yanked":false,"pubtime":"2026-07-23T10:23:02Z"}
