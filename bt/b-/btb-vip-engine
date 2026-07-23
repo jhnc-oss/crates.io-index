@@ -1,0 +1,1 @@
+{"name":"btb-vip-engine","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08e2e6acd00395beb35db75771942b9d7d848d508f387cb8dca593ce9b470ef4","features":{},"yanked":false,"pubtime":"2026-07-23T03:44:35Z"}
