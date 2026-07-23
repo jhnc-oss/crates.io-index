@@ -16,3 +16,4 @@
 {"name":"ordeal-lrat","vers":"0.13.0","deps":[],"cksum":"bd5b08ba7d954f83f54cb78f15763bdf80e4e9e1b8228c73f564514c4f4061d4","features":{},"yanked":false,"pubtime":"2026-07-21T18:33:26Z"}
 {"name":"ordeal-lrat","vers":"0.14.0","deps":[],"cksum":"26b564c1c009e32b0cf696fb73665c8008dd59e7173e584fa039e1bdf31a6c96","features":{},"yanked":false,"pubtime":"2026-07-21T20:09:34Z"}
 {"name":"ordeal-lrat","vers":"0.15.0","deps":[],"cksum":"0c9891316e55b0e13574b94656ffd0817646c74352e58e0399d9a959a2912e09","features":{},"yanked":false,"pubtime":"2026-07-22T12:57:17Z"}
+{"name":"ordeal-lrat","vers":"0.16.0","deps":[],"cksum":"3ac74759543c60b36b59ec627e897620ff0e66747e4f83e2dac07fb02de570d3","features":{},"yanked":false,"pubtime":"2026-07-23T15:01:13Z"}
