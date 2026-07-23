@@ -4,3 +4,4 @@
 {"name":"ee-conio-engine","vers":"0.1.0-alpha.3","deps":[],"cksum":"3fd7226b60629b5f89c4c44d9a20e9193e59ed232a8e6035bb3625e4ea5acd41","features":{},"yanked":false,"pubtime":"2026-07-23T03:15:43Z"}
 {"name":"ee-conio-engine","vers":"0.1.0-alpha.4","deps":[],"cksum":"e8b2394b5b3fc46bcf9dfa0612310156f950364d3f081a4ad27e3f61efd8c869","features":{},"yanked":false,"pubtime":"2026-07-23T03:37:26Z"}
 {"name":"ee-conio-engine","vers":"0.1.0-alpha.5","deps":[],"cksum":"6bbe707fd22af14032f0f2b8fdf4dae64309f108e6fb23cd05254c4e505b7a11","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-23T04:26:31Z"}
+{"name":"ee-conio-engine","vers":"0.1.0-alpha.6","deps":[],"cksum":"584d48e070c4a7a38484e49d1bc65418b9da212f060ffd1555d87f1618e39c7a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-23T06:57:47Z"}
