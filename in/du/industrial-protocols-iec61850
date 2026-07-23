@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-iec61850","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1cb25c560e646183ab55d392afa2baf4781905a428019ed1c1950aef1a1439ff","features":{},"yanked":false,"pubtime":"2026-07-23T07:06:33Z"}
