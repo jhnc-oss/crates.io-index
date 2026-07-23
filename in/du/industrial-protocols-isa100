@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-isa100","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8da2bb0ca4970900d98bd470b0a12f53a5dea1f4445921c4cd9bab37d284eea","features":{},"yanked":false,"pubtime":"2026-07-23T11:09:20Z"}
