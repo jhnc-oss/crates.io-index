@@ -22,3 +22,4 @@
 {"name":"laserbeam","vers":"0.0.1-main-d1b6f17","deps":[],"cksum":"a76f6d098712a6c2cda6a6646b582a8f839b82e3fa2137bc1079dee5509600f2","features":{},"yanked":false,"pubtime":"2026-07-23T16:42:04Z"}
 {"name":"laserbeam","vers":"0.0.1-main-5049e90","deps":[],"cksum":"f13666e6219840de703360da13a153e3c65f53b7adbaf03304e504ca90732148","features":{},"yanked":false,"pubtime":"2026-07-23T18:00:48Z"}
 {"name":"laserbeam","vers":"0.0.1-main-9640a97","deps":[],"cksum":"1a27fba9b0c82706c2c3cb0ed8616e8efb3014a8671a5c3d3609bc849d4d0155","features":{},"yanked":false,"pubtime":"2026-07-23T20:14:53Z"}
+{"name":"laserbeam","vers":"0.0.1-main-ac2e49e","deps":[],"cksum":"1afefa949b853c36e9e91a991d09faa2af74c62a2d8127af40bb022f871ed4df","features":{},"yanked":false,"pubtime":"2026-07-23T23:46:26Z"}
