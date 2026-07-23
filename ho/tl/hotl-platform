@@ -2,3 +2,4 @@
 {"name":"hotl-platform","vers":"0.2.1","deps":[],"cksum":"090a7a7fb368bd778a58ae6d2a0ba698a0613a6343ee5d8ee5893e6895d375cc","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-22T16:00:16Z"}
 {"name":"hotl-platform","vers":"0.3.0","deps":[],"cksum":"f9609116de1d45df0a112ba98610a94fdc58e478bc5b99cfc8c0d43c60b5b69b","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-22T16:08:45Z"}
 {"name":"hotl-platform","vers":"0.4.0","deps":[],"cksum":"91784852e4b2b0b167c4185f0f4e49440ba41bec6fb3ab699b5f94ecaad919f0","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-23T17:07:13Z"}
+{"name":"hotl-platform","vers":"0.4.1","deps":[],"cksum":"1e9783c1ab07166331dee30d4996c7afd467390155632d8c4f277bbff0d87d18","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-23T20:06:14Z"}
