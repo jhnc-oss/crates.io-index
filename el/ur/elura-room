@@ -3,3 +3,4 @@
 {"name":"elura-room","vers":"0.2.6","deps":[],"cksum":"b44fe3507603fa790ee6aad14aabe54bb7644024aaa8b192f40ab7a197d95982","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-23T02:16:15Z"}
 {"name":"elura-room","vers":"0.2.7","deps":[],"cksum":"72dc402f926e8581a08cc65c5233ef2e4f515301cc0e3ed94f4a0e71e068d4ab","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-23T08:48:06Z"}
 {"name":"elura-room","vers":"0.2.9","deps":[],"cksum":"622d9e0b361e6aad8029e508746ce37b1c974d48ff2cee2ca2037a04f8a40d17","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-23T12:19:02Z"}
+{"name":"elura-room","vers":"0.2.10","deps":[],"cksum":"e5be3c628aa0c3d83f4b170b1a1116b593aeba598167b032be874ccef0f999ed","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-23T12:35:27Z"}
