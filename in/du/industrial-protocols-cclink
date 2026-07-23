@@ -1,0 +1,1 @@
+{"name":"industrial-protocols-cclink","vers":"1.1.0","deps":[{"name":"industrial-protocols-kernel","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f07a82aa06c054faffe81e623e019656a3ca60c4434cf27a9c316fb57bca2f97","features":{},"yanked":false,"pubtime":"2026-07-23T07:06:17Z"}
