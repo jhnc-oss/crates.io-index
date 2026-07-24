@@ -1,0 +1,1 @@
+{"name":"fig-schema","vers":"0.1.0","deps":[{"name":"fig","req":"^2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ca5bb8162521fab1b3bb39e1252b74e0ec13235ce1b4b15b79d625a59404015","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-24T23:06:05Z"}
