@@ -1,0 +1,1 @@
+{"name":"ecuforge-cli","vers":"0.8.0","deps":[{"name":"ecuforge-core","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f18ac7cf4903a236be0c2018f30f2e2bb826fe53687dd752bff2823f93d6d55","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-24T16:25:02Z"}
