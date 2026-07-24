@@ -1,0 +1,1 @@
+{"name":"rlnc-simdx","vers":"1.2.0","deps":[],"cksum":"8fa562eec69c3e6e2fab897be47cef85b73ac44a7a111be12f9aa637afa3dbbc","features":{"alloc":[],"bench-internals":[],"default":["alloc","std"],"std":["alloc"]},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-24T09:03:42Z"}
