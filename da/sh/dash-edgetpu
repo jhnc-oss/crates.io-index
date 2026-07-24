@@ -1,0 +1,1 @@
+{"name":"dash-edgetpu","vers":"0.0.0","deps":[{"name":"dash-core","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77134f301f3b0f1d1699277544cba09d3e3e0edc31af55d824791303d2d8bfbe","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-24T08:17:41Z"}
