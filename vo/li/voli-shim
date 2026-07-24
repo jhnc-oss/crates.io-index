@@ -1,0 +1,1 @@
+{"name":"voli-shim","vers":"0.2.0","deps":[{"name":"windows-sys","req":"^0.59","features":["Win32_System_Console"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"ee18514c6e798944b34c3fd44c96bc6b450da9ef06259f89016dec1b9a31259a","features":{},"yanked":false,"pubtime":"2026-07-24T12:47:28Z"}
