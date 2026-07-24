@@ -1,2 +1,3 @@
 {"name":"slate-hal","vers":"0.1.0","deps":[],"cksum":"a27eb6f519f91338b8e3e90618089d2dcf34b2f9ade071100497c9800f64d17a","features":{},"yanked":false,"pubtime":"2026-07-24T21:58:36Z"}
 {"name":"slate-hal","vers":"0.3.1","deps":[],"cksum":"dc6fb3e077aa60a215c8d52ec77f957d41d845e2276c3c0230f149f0179db68b","features":{},"yanked":false,"pubtime":"2026-07-24T22:03:40Z"}
+{"name":"slate-hal","vers":"0.3.2","deps":[],"cksum":"1b4d923481d0b784f2706221f9dc7b466db02501beda2c020ffe480ddb94e970","features":{},"yanked":false,"pubtime":"2026-07-24T22:11:36Z"}
