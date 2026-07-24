@@ -1,5 +1,5 @@
-{"name":"cg2","vers":"0.1.0","deps":[],"cksum":"3e673ac889e041d7efcde59e11691b59b3b3d747cf1cfb6638f1989b7b012ebd","features":{},"yanked":false,"pubtime":"2026-07-03T16:11:08Z"}
-{"name":"cg2","vers":"0.2.0","deps":[],"cksum":"c987fabd80e689388956b337d602e9f019ed21be8f4ea31bd09afa4ab3a7a037","features":{},"yanked":false,"pubtime":"2026-07-03T16:48:57Z"}
+{"name":"cg2","vers":"0.1.0","deps":[],"cksum":"3e673ac889e041d7efcde59e11691b59b3b3d747cf1cfb6638f1989b7b012ebd","features":{},"yanked":true,"pubtime":"2026-07-03T16:11:08Z"}
+{"name":"cg2","vers":"0.2.0","deps":[],"cksum":"c987fabd80e689388956b337d602e9f019ed21be8f4ea31bd09afa4ab3a7a037","features":{},"yanked":true,"pubtime":"2026-07-03T16:48:57Z"}
 {"name":"cg2","vers":"0.2.1","deps":[],"cksum":"4ff9ac9278e84c67baf8131dbfa6cdee877cbdff1af79eb6282044469fe4116d","features":{},"yanked":false,"pubtime":"2026-07-03T17:37:30Z"}
 {"name":"cg2","vers":"0.2.2","deps":[],"cksum":"f1c6198b5f6e8506c59e799c4dc5003b40e8b7db607bdb939444dbe2087e0026","features":{},"yanked":false,"pubtime":"2026-07-03T18:01:55Z"}
 {"name":"cg2","vers":"0.3.0","deps":[],"cksum":"34362e0a28206085b9b3303f04c630ccd0458a5a08b085f3207b79d73fa6b2df","features":{},"yanked":false,"pubtime":"2026-07-03T18:07:44Z"}
