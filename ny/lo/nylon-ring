@@ -1,0 +1,1 @@
+{"name":"nylon-ring","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.8","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f868d3e878f0d87fb393de959f328f34a934905b14f0e5e80bd52c6162b30ed4","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-24T06:37:51Z"}
