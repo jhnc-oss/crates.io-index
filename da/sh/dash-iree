@@ -1,0 +1,1 @@
+{"name":"dash-iree","vers":"0.0.0","deps":[{"name":"dash-core","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fddc2f14eca9a42e73b0b558ba465071d3a491845c344a90ce97565faef8bebe","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-24T08:17:24Z"}
