@@ -36,3 +36,4 @@
 {"name":"etcd-bin-vendored-windows-amd64","vers":"3.5.32","deps":[],"cksum":"f33d8038d112b6ef191fc96cac9f3ee508374eee5743a7e7b9997728e9c1fc38","features":{},"yanked":false,"pubtime":"2026-07-24T21:02:04Z"}
 {"name":"etcd-bin-vendored-windows-amd64","vers":"3.5.33","deps":[],"cksum":"9a0dc0207fb60f5782be7afc3f0678e09072c01fdd9582f88cc8b28503e22006","features":{},"yanked":false,"pubtime":"2026-07-24T21:05:25Z"}
 {"name":"etcd-bin-vendored-windows-amd64","vers":"3.6.13","deps":[],"cksum":"dcaa8912559f8d5173f90cea654d183c146cd452f034b9a2466936d8d5b59a6e","features":{},"yanked":false,"pubtime":"2026-07-24T21:07:42Z"}
+{"name":"etcd-bin-vendored-windows-amd64","vers":"3.6.14","deps":[],"cksum":"1ee84dd9df314438f1a4bcd0b918df4d494906735543ac9716fb38c3fa86e61f","features":{},"yanked":false,"pubtime":"2026-07-24T21:10:16Z"}
