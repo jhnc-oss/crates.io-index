@@ -3,3 +3,4 @@
 {"name":"kopuz-route","vers":"0.8.1","deps":[],"cksum":"101d2321fdc5a9556f84f2523be3f71baa1aec76625d5cbfada0951c7427da59","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-06-29T10:51:48Z"}
 {"name":"kopuz-route","vers":"0.8.2","deps":[],"cksum":"b58d8f8a593c8c3a68135009293c2a89b796666b3df434af3a8a23c7f4b0d553","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-06-30T16:54:27Z"}
 {"name":"kopuz-route","vers":"0.9.0","deps":[],"cksum":"3f7180a0e24e5e0af1024983a09790bfb6edbbfa127098c0032fd5386554f095","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-07-06T17:09:35Z"}
+{"name":"kopuz-route","vers":"0.12.0","deps":[],"cksum":"fddc2e465ab805cff37d0720ee9e074281b5e2699610809c05d2793c5068a4d0","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-07-24T22:32:40Z"}
