@@ -1,0 +1,1 @@
+{"name":"pmi-mpich-src","vers":"0.1.0-rc.1","deps":[{"name":"autotools","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55aa634c39683bea3e153e79d967af72d1245714daae2cfb80fb6038518483b0","features":{},"yanked":false,"pubtime":"2026-07-24T22:35:39Z"}
