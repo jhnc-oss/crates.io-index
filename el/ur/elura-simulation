@@ -5,3 +5,4 @@
 {"name":"elura-simulation","vers":"0.2.9","deps":[],"cksum":"13a4d863b3db8b5eac8646e1b28e7b1e6293cccd1a5a9cad4f4bd239c1497cfb","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-23T12:19:06Z"}
 {"name":"elura-simulation","vers":"0.2.10","deps":[],"cksum":"5ac84393773c561ade40412c066bf359789ff1584142bd6c8095b99749adb043","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-23T12:35:31Z"}
 {"name":"elura-simulation","vers":"0.3.0","deps":[],"cksum":"77766ca79c96d0b5d0de1dc4a708590ec795281a76359dd63e12428ad38053fe","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-24T08:54:08Z"}
+{"name":"elura-simulation","vers":"0.3.1","deps":[],"cksum":"db081c1983d19a7e05825649426f71259d29d38988e4220c952e01dc77645226","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-24T12:09:55Z"}
