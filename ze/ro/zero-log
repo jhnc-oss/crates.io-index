@@ -1,0 +1,1 @@
+{"name":"zero-log","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.8.2","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e609d90379e49a4af61f72996c29680f3a83643b175a8d768601422ea1e29975","features":{},"yanked":false,"pubtime":"2026-07-24T14:45:27Z"}
