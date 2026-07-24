@@ -1,0 +1,1 @@
+{"name":"quarb-aws","vers":"0.8.0","deps":[{"name":"quarb","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84c79db4a8a5e9205ab7f85adada0ec9e6ca05c4672a441993bfcf585bef1f4d","features":{},"yanked":false,"pubtime":"2026-07-24T21:12:47Z"}
