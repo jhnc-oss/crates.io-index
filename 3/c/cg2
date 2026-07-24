@@ -8,9 +8,9 @@
 {"name":"cg2","vers":"0.3.3","deps":[],"cksum":"8f01ffd83f5f466e6fae224872c1c7fb1aecaa98b005f130dcfe0ebea8205f3b","features":{},"yanked":true,"pubtime":"2026-07-03T18:38:40Z"}
 {"name":"cg2","vers":"0.3.4","deps":[],"cksum":"976c7672d4eff254c49d645e84f06554e365154b73fa9bd32266cbf281df0eb9","features":{},"yanked":true,"pubtime":"2026-07-03T18:41:30Z"}
 {"name":"cg2","vers":"0.3.5","deps":[],"cksum":"7b03258e9a5c721f88c7af2e3d5a4c43e66c9ef61514e07f76b271da7d60fa24","features":{},"yanked":true,"pubtime":"2026-07-03T18:43:21Z"}
-{"name":"cg2","vers":"0.3.6","deps":[],"cksum":"3a461938d62847b746bbdb6222569513a3511edb2aa827da7074e8c0a789d241","features":{},"yanked":false,"pubtime":"2026-07-03T22:15:49Z"}
-{"name":"cg2","vers":"0.3.7","deps":[],"cksum":"436520988183bd1b22dd3ad96042a71d443de5195a84b117d4bf44c2189c2ddf","features":{},"yanked":false,"pubtime":"2026-07-03T22:45:29Z"}
-{"name":"cg2","vers":"0.3.8","deps":[],"cksum":"a19478abff43b95bc6772733f25603631fc987f8c221c6817f4980e8362dd026","features":{},"yanked":false,"pubtime":"2026-07-03T22:50:51Z"}
+{"name":"cg2","vers":"0.3.6","deps":[],"cksum":"3a461938d62847b746bbdb6222569513a3511edb2aa827da7074e8c0a789d241","features":{},"yanked":true,"pubtime":"2026-07-03T22:15:49Z"}
+{"name":"cg2","vers":"0.3.7","deps":[],"cksum":"436520988183bd1b22dd3ad96042a71d443de5195a84b117d4bf44c2189c2ddf","features":{},"yanked":true,"pubtime":"2026-07-03T22:45:29Z"}
+{"name":"cg2","vers":"0.3.8","deps":[],"cksum":"a19478abff43b95bc6772733f25603631fc987f8c221c6817f4980e8362dd026","features":{},"yanked":true,"pubtime":"2026-07-03T22:50:51Z"}
 {"name":"cg2","vers":"0.4.0","deps":[],"cksum":"a09cff9d6079c93d717e41d29690b022649afda57d4b89446909175765146354","features":{},"yanked":false,"pubtime":"2026-07-13T05:29:53Z"}
 {"name":"cg2","vers":"0.4.1","deps":[],"cksum":"9cfc8810c9c786fa7c47f1d9d4398e0abccb90322404859fb0e4f175e4c3d286","features":{},"yanked":false,"pubtime":"2026-07-13T05:33:30Z"}
 {"name":"cg2","vers":"0.4.2","deps":[],"cksum":"87d2dd20a7973586fcfa06e46fa04f69f793f6f7b1fb57cd111e30cc11419803","features":{},"yanked":false,"pubtime":"2026-07-13T05:43:08Z"}
