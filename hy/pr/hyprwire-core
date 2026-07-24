@@ -6,3 +6,4 @@
 {"name":"hyprwire-core","vers":"0.4.2","deps":[],"cksum":"76c44590144af27e23498a4a8faf318c86ae607e1dc8b2a21f7689794dfcc3bc","features":{},"yanked":false,"pubtime":"2026-06-03T20:52:31Z"}
 {"name":"hyprwire-core","vers":"0.4.3","deps":[],"cksum":"0f8662682a215618b951e9a38c82efb513e61642af18a781523b8f88491c9511","features":{},"yanked":false,"pubtime":"2026-06-25T19:53:34Z"}
 {"name":"hyprwire-core","vers":"0.4.4","deps":[],"cksum":"59b355b3c182b462e5d0f005873c2127290da6a05c71424df5cc711637682d6d","features":{},"yanked":false,"pubtime":"2026-07-16T10:22:06Z"}
+{"name":"hyprwire-core","vers":"0.5.0","deps":[],"cksum":"59e850238bfcfc1de9dfb9ee129b9f82f253b21381bb12655298db4a7e8553e2","features":{},"yanked":false,"pubtime":"2026-07-24T15:40:45Z"}
