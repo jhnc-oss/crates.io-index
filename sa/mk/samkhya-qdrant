@@ -1,0 +1,1 @@
+{"name":"samkhya-qdrant","vers":"1.2.0","deps":[{"name":"samkhya-core","req":"^1.2.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"916db74645aae65906cc2ae4123fa2c0136060a4632057846cf2e4dc6d8c315e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-24T23:39:05Z"}
