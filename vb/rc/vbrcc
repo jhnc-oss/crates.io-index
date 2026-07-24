@@ -2,3 +2,4 @@
 {"name":"vbrcc","vers":"0.5.1","deps":[],"cksum":"2ea98f645e8bb42308fe45d710c6823d1d3b89ae9c2b679b47262e86d07589ff","features":{},"yanked":false,"pubtime":"2026-07-20T03:30:48Z"}
 {"name":"vbrcc","vers":"0.6.0","deps":[],"cksum":"0be0a3d75d3c6ba850d6daa3428f43c2ad06468d1bab7d1f32342d2a976c7ba8","features":{},"yanked":false,"pubtime":"2026-07-20T21:43:54Z"}
 {"name":"vbrcc","vers":"0.6.1","deps":[],"cksum":"4ab95215dd72ad1da58fcb6bb86cb53e28b1fb6aa8e084305233ad5f48b53445","features":{},"yanked":false,"pubtime":"2026-07-22T04:31:20Z"}
+{"name":"vbrcc","vers":"0.6.2","deps":[],"cksum":"fd277bf552a0d666e6d703a1ac32a89ae5f9550744bcd29f0c5f926d327bc3dd","features":{},"yanked":false,"pubtime":"2026-07-24T05:12:54Z"}
