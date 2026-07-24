@@ -3,3 +3,4 @@
 {"name":"vecmindb","vers":"1.0.0","deps":[],"cksum":"90fc5301350b0ba03fd0074268c9d3b91377d9c5fd51ab545290f3e01da9bb34","features":{},"yanked":false,"pubtime":"2026-07-16T03:44:21Z"}
 {"name":"vecmindb","vers":"1.0.1","deps":[],"cksum":"4bc3e28724451f5da7e85dea5ddfbe312963f0e3dae235646f9a50b4cc245377","features":{},"yanked":false,"pubtime":"2026-07-22T02:23:18Z"}
 {"name":"vecmindb","vers":"1.0.2","deps":[],"cksum":"917aee33da370263060dc6dafac28e2811f13fdf328ba703b636bd16919566ab","features":{},"yanked":false,"pubtime":"2026-07-23T11:12:39Z"}
+{"name":"vecmindb","vers":"1.0.3","deps":[],"cksum":"da51a584f8078855afd0f667aa2c1a394a9563c674da21484fab0e54614d346c","features":{},"yanked":false,"pubtime":"2026-07-24T02:46:32Z"}
