@@ -3,3 +3,4 @@
 {"name":"scanlex","vers":"0.1.2","deps":[],"cksum":"e6a2c84b697bc9496978f7457b17039a22b5d89c674964e8a480de4d5ddd55dc","features":{},"yanked":false,"pubtime":"2018-03-15T16:05:39Z"}
 {"name":"scanlex","vers":"0.1.3","deps":[],"cksum":"eaa4e4cdfdcd8186799882e8009299dd346b873d20793be4f2b913df4a6f7e07","features":{},"yanked":false,"pubtime":"2020-10-22T17:06:41Z"}
 {"name":"scanlex","vers":"0.1.4","deps":[],"cksum":"088c5d71572124929ea7549a8ce98e1a6fd33d0a38367b09027b382e67c033db","features":{},"yanked":false,"pubtime":"2020-11-08T16:59:59Z"}
+{"name":"scanlex","vers":"0.2.0","deps":[],"cksum":"2d1ccd92ba75bf41b8f357c0ed1c74c64d6361a3b22303872d89197cda291e42","features":{},"yanked":false,"pubtime":"2026-07-25T10:38:43Z"}
