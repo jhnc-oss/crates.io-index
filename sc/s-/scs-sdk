@@ -1,0 +1,1 @@
+{"name":"scs-sdk","vers":"0.1.0","deps":[{"name":"scs-sdk-sys","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3520e42ee83c892acc3f15a84a59df159bc1d0ff4f50784ebbce4d10880cbbf0","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-25T17:03:41Z"}
