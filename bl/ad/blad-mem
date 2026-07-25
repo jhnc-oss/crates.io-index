@@ -1,0 +1,1 @@
+{"name":"blad-mem","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47acbc11251f26d71502c7e4df7735e588dba6aed61373322cc0eef0b09293b5","features":{},"yanked":false,"pubtime":"2026-07-25T23:23:40Z"}
