@@ -1,2 +1,3 @@
 {"name":"fig-sys-windows-x64-msvc","vers":"2.5.1","deps":[],"cksum":"2cc9ec78e80f0fc6b14b67da9c74b418acf0e258105dc3485dd249237817649e","features":{},"yanked":false,"links":"fig_prebuilt_windows_x64_msvc","pubtime":"2026-07-19T00:01:00Z"}
 {"name":"fig-sys-windows-x64-msvc","vers":"2.5.2","deps":[],"cksum":"741146bb1b247b9a9dd1e35739c7f1e4df169d52ae5919112be78bb39577f752","features":{},"yanked":false,"links":"fig_prebuilt_windows_x64_msvc","pubtime":"2026-07-19T21:37:34Z"}
+{"name":"fig-sys-windows-x64-msvc","vers":"2.5.3","deps":[],"cksum":"139cd0b9e0eda66e8e87d5b73e71ddf1a8befc72831a9933bd07de6949e8d87e","features":{},"yanked":false,"links":"fig_prebuilt_windows_x64_msvc","pubtime":"2026-07-25T23:23:16Z"}
