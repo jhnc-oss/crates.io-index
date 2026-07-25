@@ -1,0 +1,1 @@
+{"name":"embedded-nn","vers":"0.2.0","deps":[],"cksum":"6ab3cfa523316cc1e2d2d01c52449ece29e417ae0366663a89d0c98a7092612d","features":{"alloc":[],"default":[],"float":[],"simd":[]},"yanked":false,"pubtime":"2026-07-25T23:53:05Z"}
