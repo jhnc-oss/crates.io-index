@@ -36,3 +36,4 @@
 {"name":"lucide-icon-name","vers":"3.22.0","deps":[],"cksum":"b14ce83e8633f83ada3060d2526c83ed321c0f8338cd6983900055300abc42d9","features":{},"yanked":false,"pubtime":"2026-06-28T18:43:49Z"}
 {"name":"lucide-icon-name","vers":"3.23.0","deps":[],"cksum":"f3f2fd3dc9ae4700e732c2092c4d60ba56877e2d324a12f6b6d7a9d7e0f37f98","features":{},"yanked":false,"pubtime":"2026-07-02T21:14:33Z"}
 {"name":"lucide-icon-name","vers":"3.24.0","deps":[],"cksum":"83403c44e53e5a01fb1c634ee86084a07600482e936d79d0a95ac04f5da1eb6a","features":{},"yanked":false,"pubtime":"2026-07-09T19:29:41Z"}
+{"name":"lucide-icon-name","vers":"3.25.0","deps":[],"cksum":"af9324b3ab14bc3ce53dd0bba520e1a614212fb5a45222ed77b881d5d98c6916","features":{},"yanked":false,"pubtime":"2026-07-25T10:32:03Z"}
