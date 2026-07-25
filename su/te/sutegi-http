@@ -5,3 +5,4 @@
 {"name":"sutegi-http","vers":"0.5.0","deps":[],"cksum":"de4040ec13c1b0fb3efeefe289765359cb8b03951fbe1ce83aa98a49ad77a858","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-02T10:00:19Z"}
 {"name":"sutegi-http","vers":"0.5.1","deps":[],"cksum":"24a07b5e0561fb5ddb79bcabf9b744ba556b8db6ee4f8da4f7584fe896da7d37","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-02T15:05:41Z"}
 {"name":"sutegi-http","vers":"0.6.0","deps":[],"cksum":"731c615c2aa00117d682a680b070e96bded72dbe578341b69858052c95786af4","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-18T06:49:50Z"}
+{"name":"sutegi-http","vers":"0.7.0","deps":[],"cksum":"4f81aff28c7c12c808b004a69a6b5b8e55b55e8ac893f7907e646a064edc09bf","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-25T16:30:07Z"}
