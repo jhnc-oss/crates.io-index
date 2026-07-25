@@ -1,0 +1,1 @@
+{"name":"auslander","vers":"0.1.0","deps":[{"name":"rustc-hash","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a866a966d3137b8cd13a7b93f41e0fe4ade34a258d6f3cf0cbef61d500649c12","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-25T16:40:25Z"}
