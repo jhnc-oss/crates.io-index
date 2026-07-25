@@ -1,1 +1,2 @@
 {"name":"noeta","vers":"0.0.0","deps":[],"cksum":"0acffc72d2131caf3a752064239b05055b600a5e2ca6d6f9dbee0886428d791e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-04T10:24:11Z"}
+{"name":"noeta","vers":"0.0.1","deps":[],"cksum":"4696ebfac9d37bed80815be093d57c2d4a6424b72f8ab4897962d8acffafe0f6","features":{},"yanked":false,"pubtime":"2026-07-25T21:46:18Z"}
