@@ -1,0 +1,1 @@
+{"name":"slate-kv-cli","vers":"0.3.3","deps":[{"name":"slate-kv","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38d70c079b9b4b360ce28527c9145549adcf036f0ac56e070995c47701d6a35a","features":{},"yanked":false,"pubtime":"2026-07-25T12:06:48Z"}
