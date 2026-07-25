@@ -1,1 +1,2 @@
 {"name":"lzvn-core","vers":"0.1.0","deps":[],"cksum":"48db7a2992202475d35c358a6a11a14c0a8ffb2d97ea2adae5766482243db356","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-17T04:26:11Z"}
+{"name":"lzvn-core","vers":"0.1.1","deps":[],"cksum":"120ac4e56d998bfea1633bdb5832c88f89e5cf19ee62df47cac05d1a9e4b882c","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-25T05:40:41Z"}
