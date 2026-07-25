@@ -6,3 +6,4 @@
 {"name":"kopitiam-syntax","vers":"0.1.5","deps":[],"cksum":"8a28016d826fd54cabc528572a914043e37b02df861f2c9794dede4f306f5db6","features":{},"yanked":false,"pubtime":"2026-07-18T01:37:53Z"}
 {"name":"kopitiam-syntax","vers":"0.1.6","deps":[],"cksum":"7c9d4d0c1c210d3602c90b125d36ac5b5a04c40bfc1c43e38f3906c206a020de","features":{},"yanked":false,"pubtime":"2026-07-18T01:54:42Z"}
 {"name":"kopitiam-syntax","vers":"0.1.7","deps":[],"cksum":"370311e0253851daaab43430e5e694c6e94dd41893cbf0117eded422f6ed030b","features":{},"yanked":false,"pubtime":"2026-07-18T02:21:35Z"}
+{"name":"kopitiam-syntax","vers":"0.1.8","deps":[],"cksum":"1f11155b38f81a4d358036c9f35ce2eac429f8bb2e065c65d31244a34b0b97eb","features":{},"yanked":false,"pubtime":"2026-07-25T03:02:52Z"}
