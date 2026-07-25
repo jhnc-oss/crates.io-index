@@ -1,0 +1,1 @@
+{"name":"argus-panoptes","vers":"0.3.3","deps":[{"name":"clap","req":"^4.6.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bae19bbe97d19a8871180b8f3157b8527f153cc33223259b9124f12139cde823","features":{},"yanked":false,"pubtime":"2026-07-25T14:59:50Z"}
