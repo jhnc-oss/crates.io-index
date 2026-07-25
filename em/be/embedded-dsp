@@ -1,0 +1,1 @@
+{"name":"embedded-dsp","vers":"0.1.0","deps":[{"name":"libm","req":"^0.2.11","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b5ed77a21797b1a88531ca81d58af6cf3cc06d05d7617c8f8cf20b3258b620c","features":{"std":[]},"features2":{"default":["std","libm"],"libm":["dep:libm"]},"yanked":false,"pubtime":"2026-07-25T23:52:57Z","v":2}
