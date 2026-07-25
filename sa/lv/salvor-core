@@ -1,0 +1,1 @@
+{"name":"salvor-core","vers":"0.5.0","deps":[{"name":"salvor-replay","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"206262d11b5eb01c360187132045052b5290312711925f9145a998814009d1f4","features":{},"yanked":false,"pubtime":"2026-07-25T02:32:46Z"}
