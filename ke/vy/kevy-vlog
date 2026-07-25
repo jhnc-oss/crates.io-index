@@ -1,0 +1,1 @@
+{"name":"kevy-vlog","vers":"4.0.0","deps":[{"name":"kevy-sys","req":"^4.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88d21c51e84fcb92dcdeb0535725d3c75ea6ac88b58e325381563f5e3863432e","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-25T16:34:44Z"}
