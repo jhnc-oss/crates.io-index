@@ -1,0 +1,1 @@
+{"name":"kevy-ranktree","vers":"4.0.0","deps":[],"cksum":"2b680e347ba384dc0d29ac3ec587ebaee9f4157bc68bb31d7890e2d86c63f1c0","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-25T16:34:06Z"}
