@@ -1,1 +1,2 @@
 {"name":"fui-rs","vers":"0.2.3-alpha1","deps":[],"cksum":"e569310d049d0dccc6dc721bcb2e0a4b84b1bdcff136e7cd6eb09c5128039c72","features":{"default":[],"native-runtime":[],"worker-runtime":[]},"yanked":false,"pubtime":"2026-07-25T13:25:34Z"}
+{"name":"fui-rs","vers":"0.2.3-alpha2","deps":[],"cksum":"fb6927b6e239cfe6ae8dc4641f9f8ee145909d09618b29b56a2fad4c03f0b65b","features":{"default":[],"native-runtime":[],"worker-runtime":[]},"yanked":false,"pubtime":"2026-07-25T13:41:18Z"}
