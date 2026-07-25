@@ -1,0 +1,1 @@
+{"name":"blad-cfa","vers":"0.0.1","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"718e47e6cb1d70488ba15689d172344f467bca8d51e29899fe067628e33c0fd6","features":{},"yanked":false,"pubtime":"2026-07-25T23:23:41Z"}
