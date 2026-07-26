@@ -1,0 +1,1 @@
+{"name":"geniex-rs","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.72.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"851185db45bf8e4ca2a66c05a324aa438294ed37c4bb592951505a3208b268d3","features":{},"yanked":false,"pubtime":"2026-07-26T12:55:09Z"}
