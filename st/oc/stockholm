@@ -1,0 +1,1 @@
+{"name":"stockholm","vers":"0.0.0","deps":[{"name":"clap","req":"^4.6.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e08102787f7b7a15e3ce807622340d72997c43c7d6f7e69750bb4db01ca25d41","features":{},"yanked":false,"pubtime":"2026-07-26T00:59:09Z"}
