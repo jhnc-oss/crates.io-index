@@ -4,3 +4,4 @@
 {"name":"mrk","vers":"0.4.0","deps":[],"cksum":"a2abea0fa53dddccc606f94f3621c71aff7a0f57ccedc3fbb505da8dfb4b87a6","features":{"default":[],"html":[]},"yanked":false,"pubtime":"2026-07-25T01:05:54Z"}
 {"name":"mrk","vers":"0.5.0","deps":[],"cksum":"23fcd72ccb0d6ef37384af0cd6fae822eedc0df9e459cd09c716eff5cde56062","features":{"default":[],"html":[]},"yanked":false,"pubtime":"2026-07-25T01:48:52Z"}
 {"name":"mrk","vers":"0.6.0","deps":[],"cksum":"3ce410b1ec67ab6ff941a3b23fc07939b180c4eeec0779d5c2d642520550abc4","features":{"default":[],"html":[]},"yanked":false,"pubtime":"2026-07-26T00:24:12Z"}
+{"name":"mrk","vers":"0.6.1","deps":[],"cksum":"3533f8c8ed6b0266a819815786a2d5788baaba7e5193c6ef7fe1907888f4b4a0","features":{"default":[],"html":[]},"yanked":false,"pubtime":"2026-07-26T00:34:11Z"}
