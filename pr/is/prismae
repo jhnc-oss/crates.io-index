@@ -1,0 +1,1 @@
+{"name":"prismae","vers":"0.2.0","deps":[{"name":"sdl3","req":"^0.18.4","features":["build-from-source"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6169c8e6f7deb7445644677d0930c6de58facbe2b6b69a3ee80ec7eb0522c065","features":{},"yanked":false,"pubtime":"2026-07-26T00:13:39Z"}
