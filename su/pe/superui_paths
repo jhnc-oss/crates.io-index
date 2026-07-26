@@ -1,2 +1,3 @@
 {"name":"superui_paths","vers":"0.1.0","deps":[],"cksum":"ed25a7c7bc2c158c4be37ddae25f2024843f6f80ad31c0596a4740ffea8a730f","features":{},"yanked":false,"pubtime":"2026-07-25T12:25:38Z"}
 {"name":"superui_paths","vers":"0.2.0","deps":[],"cksum":"7eeb77ab1ed8718db7a5eb85a8f41cb837a7bc737c08c12fc7098440189a4adc","features":{},"yanked":false,"pubtime":"2026-07-25T14:16:45Z"}
+{"name":"superui_paths","vers":"0.3.0","deps":[],"cksum":"52a5404c6f1f8b44af2d5b6eb385357b86ea197b3acf5dda283c69bd51e52ed4","features":{},"yanked":false,"pubtime":"2026-07-26T18:29:04Z"}
