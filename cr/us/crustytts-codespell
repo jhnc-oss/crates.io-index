@@ -1,0 +1,1 @@
+{"name":"crustytts-codespell","vers":"0.2.0","deps":[{"name":"crustytts-core","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25f81ba06b7860dbc7f9e00d455f3ea714f6431011c07bb0b4d185d1425104fc","features":{},"yanked":false,"pubtime":"2026-07-26T21:51:38Z"}
