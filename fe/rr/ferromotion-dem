@@ -1,0 +1,1 @@
+{"name":"ferromotion-dem","vers":"0.33.0","deps":[{"name":"nalgebra","req":"^0.35","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4951e0bf871d8ae533a633bb892ee1b07d3c2c6d684de6c2b657b1f091c487ca","features":{},"yanked":false,"pubtime":"2026-07-26T10:21:36Z"}
