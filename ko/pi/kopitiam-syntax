@@ -8,3 +8,4 @@
 {"name":"kopitiam-syntax","vers":"0.1.7","deps":[],"cksum":"370311e0253851daaab43430e5e694c6e94dd41893cbf0117eded422f6ed030b","features":{},"yanked":false,"pubtime":"2026-07-18T02:21:35Z"}
 {"name":"kopitiam-syntax","vers":"0.1.8","deps":[],"cksum":"1f11155b38f81a4d358036c9f35ce2eac429f8bb2e065c65d31244a34b0b97eb","features":{},"yanked":false,"pubtime":"2026-07-25T03:02:52Z"}
 {"name":"kopitiam-syntax","vers":"0.2.1","deps":[],"cksum":"e9643b1853d33e0dc54c83f6527563b4c014af6e3a188f3754a75105ebaba317","features":{},"yanked":false,"pubtime":"2026-07-26T07:05:04Z"}
+{"name":"kopitiam-syntax","vers":"0.2.2","deps":[],"cksum":"1bd12dffe069b983f38aa84a7203fd417821e632da49d0a3f8c9df3c4ec5fb28","features":{},"yanked":false,"pubtime":"2026-07-26T14:02:41Z"}
