@@ -1,0 +1,1 @@
+{"name":"humans","vers":"0.0.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e7dc8e25ecf7b58bc1f64f7e00f4c65f36dd5954963c140c46d1199a2671930d","features":{"all":[],"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-26T22:19:23Z"}
