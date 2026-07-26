@@ -9,3 +9,4 @@
 {"name":"soulseek-rs-lib","vers":"7.1.0","deps":[],"cksum":"a07c636dab924f85d488624e26c76f36d6e55b67ae0ae86174bd8330326cfd08","features":{},"yanked":false,"pubtime":"2026-07-25T06:05:27Z"}
 {"name":"soulseek-rs-lib","vers":"8.0.0","deps":[],"cksum":"61c75f3363ab7284314b54dd0271bea29a0a35c3a34c00faa768247adae9bcad","features":{},"yanked":false,"pubtime":"2026-07-26T09:47:18Z"}
 {"name":"soulseek-rs-lib","vers":"9.0.0","deps":[],"cksum":"d33262c5a15a72da4575938d22d0886a67b12c9b02beac7b904a26775434a62d","features":{},"yanked":false,"pubtime":"2026-07-26T10:26:29Z"}
+{"name":"soulseek-rs-lib","vers":"9.1.0","deps":[],"cksum":"be8aa269f5d0cd95c3beddf33ccb4bfea1ba0e6ac7deacc8af8159885ccf7615","features":{},"yanked":false,"pubtime":"2026-07-26T11:08:19Z"}
