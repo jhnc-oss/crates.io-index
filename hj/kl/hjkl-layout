@@ -19,3 +19,4 @@
 {"name":"hjkl-layout","vers":"0.35.0","deps":[],"cksum":"3e455e91538a773a047e5974d176f677701caaea9acda74ee404e6f983c7f9e7","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-22T02:28:29Z"}
 {"name":"hjkl-layout","vers":"0.36.0","deps":[],"cksum":"6a28e0e0f3cb27b8cb43111d3df172172d6fa8729dec128585b75fd0aa9df278","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-25T20:04:20Z"}
 {"name":"hjkl-layout","vers":"0.37.0","deps":[],"cksum":"78c9b33bac771e02a9c87e10f3ba0b7cdee6f60c89c3ffdbf5e4458fe20b969b","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-25T22:56:38Z"}
+{"name":"hjkl-layout","vers":"0.37.1","deps":[],"cksum":"fc9e33acea1508db3e4d49aa12551a16cf99e501230b16218b09cae82c54e797","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-26T10:22:02Z"}
