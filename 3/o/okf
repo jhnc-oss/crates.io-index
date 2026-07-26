@@ -1,1 +1,2 @@
 {"name":"okf","vers":"0.1.0-alpha.1","deps":[],"cksum":"7c9efaa455d841f45758ffe8f58b05bf864364ad819dde7433633a0f3f1f6f0f","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-06-16T20:05:48Z"}
+{"name":"okf","vers":"0.2.0","deps":[],"cksum":"6c668fbb378e81fbdc684d9684a498aaf06540f1b9106393b3d2f476c615bcea","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-07-26T11:48:40Z"}
