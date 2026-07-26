@@ -1,0 +1,1 @@
+{"name":"entrokey","vers":"0.0.0","deps":[{"name":"bytemuck","req":"^1.25.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c8526d58f3424afb4a919cad39f03413154df00eefe38b23b43fdf3d64ddc2d","features":{},"yanked":false,"pubtime":"2026-07-26T14:15:29Z"}
