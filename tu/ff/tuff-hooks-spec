@@ -1,0 +1,1 @@
+{"name":"tuff-hooks-spec","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d15d0f3bde7a1fa427d2b440dbe7ac1ffa2c0312d77096ab58d122e91a75120e","features":{},"yanked":false,"pubtime":"2026-07-26T09:45:00Z"}
