@@ -17,3 +17,4 @@
 {"name":"jerrycan-macros","vers":"0.6.6","deps":[],"cksum":"cc781bf81068f696d046d1c941356f627e9bc5d017c717bd4927815dcbb0c10a","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-24T02:54:13Z"}
 {"name":"jerrycan-macros","vers":"0.6.7","deps":[],"cksum":"dfdb6e11ff126468b1b6676f2ca46a9111f309646db2884b4e55967da2ed4111","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-26T10:14:28Z"}
 {"name":"jerrycan-macros","vers":"0.6.8","deps":[],"cksum":"7a7f9af9657bd92716a8186681a4dd4ee1a84a32a2a5398d47ff422a16864135","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-26T11:41:49Z"}
+{"name":"jerrycan-macros","vers":"0.6.9","deps":[],"cksum":"fd42c66a55d232f193d31e9ae1a59a6084ae8ca5d34f1a8bbb977b32230470f8","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-26T12:47:07Z"}
