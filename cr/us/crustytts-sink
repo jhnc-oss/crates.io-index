@@ -1,0 +1,1 @@
+{"name":"crustytts-sink","vers":"0.2.0","deps":[{"name":"crustytts-core","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9e22a2effd0b129e6e3e585c8b68592a716b3e0b30ccc0112a63a1fa821bcf6","features":{},"yanked":false,"pubtime":"2026-07-26T21:35:48Z"}
