@@ -1,0 +1,1 @@
+{"name":"crustytts-normalize","vers":"0.2.0","deps":[{"name":"crustytts-core","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dfea4f38c820d8fd0f770a71a249407340bd6d59632d6e9416444e920f23b427","features":{},"yanked":false,"pubtime":"2026-07-26T21:35:35Z"}
