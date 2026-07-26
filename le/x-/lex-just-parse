@@ -7,3 +7,4 @@
 {"name":"lex-just-parse","vers":"1.0.0","deps":[],"cksum":"275da7f93addf4f574863849b03cab095d6ac24f7838d95b2e46b0c15de5577f","features":{"interning":[]},"yanked":false,"pubtime":"2026-07-15T19:51:47Z"}
 {"name":"lex-just-parse","vers":"1.1.0","deps":[],"cksum":"16830ad5aa4b4ae5873a615955c7c18bc6c6444b2875603b202c2d1090e588bf","features":{"interning":[]},"yanked":false,"pubtime":"2026-07-22T01:34:08Z"}
 {"name":"lex-just-parse","vers":"1.2.0","deps":[],"cksum":"31513ffc43e2ea417cd16d0398d3903aca757ec3dc7d9ff8f60cb0f646dd4c21","features":{"interning":[]},"yanked":false,"pubtime":"2026-07-26T23:43:34Z"}
+{"name":"lex-just-parse","vers":"1.2.1","deps":[],"cksum":"1436336f14acbcd1439072ea9b31424d99c4b2d30dba4d9f6d6ba07ca5fe4367","features":{"interning":[]},"yanked":false,"pubtime":"2026-07-26T23:47:57Z"}
