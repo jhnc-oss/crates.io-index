@@ -6,3 +6,4 @@
 {"name":"blip_buf","vers":"0.1.5","deps":[],"cksum":"d5f98f9570c511659ef3ea75294fd12ecbe94dced01c233736149ea4a1101ede","features":{},"yanked":false,"pubtime":"2025-01-03T09:11:56Z"}
 {"name":"blip_buf","vers":"0.1.6","deps":[],"cksum":"d01761ce5061c5345c211c47958ee76989241021a9e3c16d3c0a35a309462fb5","features":{},"yanked":false,"pubtime":"2025-10-09T18:15:28Z"}
 {"name":"blip_buf","vers":"0.2.0","deps":[],"cksum":"367cc5a0356eb903894e2475b544ee82fe7618c7426f05ce572eca4a6283a54c","features":{},"yanked":false,"pubtime":"2026-07-26T15:49:41Z"}
+{"name":"blip_buf","vers":"0.2.1","deps":[],"cksum":"52e1842dbecf7006b0745567084d53b2f90cd1a826083c41ddc01bd2a4e467e6","features":{},"yanked":false,"pubtime":"2026-07-26T18:18:38Z"}
