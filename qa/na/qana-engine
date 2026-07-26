@@ -1,0 +1,1 @@
+{"name":"qana-engine","vers":"0.0.1","deps":[{"name":"qana-grammar","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"834ec253c2745587a2009f235bc0dc44c0292a4f4ce7e2208afc8c9ea582f72e","features":{},"yanked":false,"pubtime":"2026-07-26T18:01:04Z"}
