@@ -10,3 +10,4 @@
 {"name":"kopitiam-syntax","vers":"0.2.1","deps":[],"cksum":"e9643b1853d33e0dc54c83f6527563b4c014af6e3a188f3754a75105ebaba317","features":{},"yanked":false,"pubtime":"2026-07-26T07:05:04Z"}
 {"name":"kopitiam-syntax","vers":"0.2.2","deps":[],"cksum":"1bd12dffe069b983f38aa84a7203fd417821e632da49d0a3f8c9df3c4ec5fb28","features":{},"yanked":false,"pubtime":"2026-07-26T14:02:41Z"}
 {"name":"kopitiam-syntax","vers":"0.2.3","deps":[],"cksum":"e24b4aaa1d6e15829239b2ca3a532fa1bdb6f9b8765e939b447825b47c443221","features":{},"yanked":false,"pubtime":"2026-07-27T01:13:14Z"}
+{"name":"kopitiam-syntax","vers":"0.2.4","deps":[],"cksum":"71f9924cb8979b66c2468b65584c86515a847ddd33aaafc80861727feb6b191e","features":{},"yanked":false,"pubtime":"2026-07-27T01:49:47Z"}
