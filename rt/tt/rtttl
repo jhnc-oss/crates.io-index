@@ -1,0 +1,1 @@
+{"name":"rtttl","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"686c5086f45ef4262087e5efe346203d79029e3f373b3fb67f7d680d0c3f19ec","features":{},"yanked":false,"pubtime":"2026-07-27T03:40:08Z"}
