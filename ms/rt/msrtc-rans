@@ -1,0 +1,1 @@
+{"name":"msrtc-rans","vers":"0.1.0","deps":[{"name":"msrtc-rans-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c10215358bfb26ab0888fa47759198ccac2b7861ec3d356e0db5473d5f7dd311","features":{"default":[]},"yanked":false,"pubtime":"2026-07-27T04:21:36Z"}
