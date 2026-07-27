@@ -1,0 +1,1 @@
+{"name":"resolvefy-core","vers":"1.0.0","deps":[{"name":"ffmpeg-next","req":"^8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"695ffc23c83d873914ffc3e119a0c983e71a7b61facf9da6cf5ac7cb4ea02b2b","features":{},"yanked":false,"pubtime":"2026-07-27T09:13:09Z"}
