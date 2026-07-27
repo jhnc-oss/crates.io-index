@@ -6,3 +6,4 @@
 {"name":"as_repr-derive","vers":"1.7.0","deps":[],"cksum":"50634b9c0ec233a80ab6cfeb232c16dc0d4a43ff871b6e276cfc8e1ebbd69dcc","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-04-11T22:28:03Z"}
 {"name":"as_repr-derive","vers":"1.8.0","deps":[],"cksum":"d8d1371da3ce512d7667f2ccfa72cb0aee3833d0237000464d7e3cc29ac4bac6","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-06-20T23:05:50Z"}
 {"name":"as_repr-derive","vers":"1.9.0","deps":[],"cksum":"0df7ada559e99f892de35521d12739583d8d95e02f436e2a632147b24e8640bd","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-07-27T02:57:08Z"}
+{"name":"as_repr-derive","vers":"1.10.0","deps":[],"cksum":"9729565eb23cb204c019955ac39e92858e22e9a10265678eecf5f460797ed2a1","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-07-27T04:55:42Z"}
