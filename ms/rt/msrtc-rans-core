@@ -1,2 +1,3 @@
 {"name":"msrtc-rans-core","vers":"0.1.0","deps":[],"cksum":"711bea90ae179e7167946a46ba9bbbe90ad7639ef1174bcd9397cf15fdb01ccb","features":{"default":[],"division_reference":[]},"yanked":false,"pubtime":"2026-07-27T04:21:10Z"}
 {"name":"msrtc-rans-core","vers":"0.1.1","deps":[],"cksum":"9d6ed00d6f3e15a5cbac4034f686524793721af5ecce1ef89fd90912a15fe6fb","features":{"default":[],"division_reference":[]},"yanked":false,"pubtime":"2026-07-27T05:01:16Z"}
+{"name":"msrtc-rans-core","vers":"0.1.2","deps":[],"cksum":"9af12ae4039585e4bf89f7f6996512bb32909b7755a78fef2e8a2c6700a6dfdc","features":{"default":[],"division_reference":[],"std":[]},"yanked":false,"pubtime":"2026-07-27T05:10:33Z"}
