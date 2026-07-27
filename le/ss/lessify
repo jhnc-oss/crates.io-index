@@ -5,3 +5,4 @@
 {"name":"lessify","vers":"0.3.1","deps":[],"cksum":"a6cbf88b0a279209761e4db002610eba66a2662ad4f11ae27079238b548ad64e","features":{},"yanked":false,"pubtime":"2025-03-22T10:59:57Z"}
 {"name":"lessify","vers":"0.4.0","deps":[],"cksum":"89e0f6ba27dc2612e7309ca5911aed706dca0afe47f14a4da6ed2c35bf161df0","features":{},"yanked":false,"pubtime":"2025-04-01T20:57:27Z"}
 {"name":"lessify","vers":"0.5.0","deps":[],"cksum":"3fd9d402c935614a9674578006d1920d36edba672b54c04f15eb829cc2a7d30f","features":{},"yanked":false,"pubtime":"2025-05-10T09:09:46Z"}
+{"name":"lessify","vers":"0.6.0","deps":[],"cksum":"76f085128bedce805586967170ca915ac639b52cf67b508ac898e8207cc88216","features":{},"yanked":false,"pubtime":"2026-07-27T19:13:53Z"}
