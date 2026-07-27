@@ -2,3 +2,4 @@
 {"name":"tokio-dbus-core","vers":"0.0.15","deps":[],"cksum":"294d0453894937675825859f7011da01164024c8fe7764623fa0b975a2ffc981","features":{},"yanked":false,"rust_version":"1.66","pubtime":"2023-12-01T18:12:37Z"}
 {"name":"tokio-dbus-core","vers":"0.0.16","deps":[],"cksum":"772838522d7fea2d9f262092b9c7587a88cbb5cdbc2937ca82c438d056d6fe74","features":{},"yanked":false,"rust_version":"1.66","pubtime":"2023-12-01T18:31:31Z"}
 {"name":"tokio-dbus-core","vers":"0.0.17","deps":[],"cksum":"9e567f20e700102f78f3b33723b35a1e3ef6d933047a64995750492506787089","features":{},"yanked":false,"rust_version":"1.66","pubtime":"2024-02-19T00:26:30Z"}
+{"name":"tokio-dbus-core","vers":"0.1.0","deps":[],"cksum":"b91641bbd91881755c0b3911359ffc0ca8df15d2e8a35f10b42222136eee8e69","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-27T10:44:07Z"}
