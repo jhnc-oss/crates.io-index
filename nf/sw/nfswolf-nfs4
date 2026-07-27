@@ -1,1 +1,0 @@
-{"name":"nfswolf-nfs4","vers":"0.7.0","deps":[{"name":"nfswolf-xdr","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18f5665ff0c7a961c8b835991d931c7c60b28bc4766184316c1d36bf6d107128","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-27T16:42:46Z"}
