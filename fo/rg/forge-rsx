@@ -6,3 +6,4 @@
 {"name":"forge-rsx","vers":"1.0.0","deps":[],"cksum":"dac95796227366a8864b0fc80e8c38e08600eb91ed081d44c54c3837e9caff4d","features":{},"yanked":false,"pubtime":"2026-03-11T00:31:50Z"}
 {"name":"forge-rsx","vers":"1.1.0","deps":[],"cksum":"d266b971c7343ee913b11f3cd89e35451f0e2c6c425516a83cf9ebf1ad33fb42","features":{},"yanked":false,"pubtime":"2026-07-16T16:38:13Z"}
 {"name":"forge-rsx","vers":"1.1.1","deps":[],"cksum":"5d60b743dd381eda3a3b804986ab1819207790742d00b47b18ae3a77597c39f9","features":{},"yanked":false,"pubtime":"2026-07-27T21:03:09Z"}
+{"name":"forge-rsx","vers":"1.1.2","deps":[],"cksum":"fc187e9a08d858058d72029cc252164f444ddf6167b7e66fbc3e3d2b814ac63e","features":{},"yanked":false,"pubtime":"2026-07-27T21:20:39Z"}
