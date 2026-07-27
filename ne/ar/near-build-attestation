@@ -1,1 +1,2 @@
 {"name":"near-build-attestation","vers":"0.1.0","deps":[],"cksum":"9fda4c6f3d472018b4136af6a506fdcd87cb32f38b1d5340dbdc2b4d1e773026","features":{},"yanked":false,"pubtime":"2026-07-27T02:43:30Z"}
+{"name":"near-build-attestation","vers":"0.1.1","deps":[],"cksum":"21d5db18b9b35c3b2048ac52b48744f8a6d66144e5803c81cfd6e365835328a0","features":{},"yanked":false,"pubtime":"2026-07-27T03:10:35Z"}
