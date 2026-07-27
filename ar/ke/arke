@@ -1,1 +1,2 @@
 {"name":"arke","vers":"0.1.0","deps":[],"cksum":"dbfab249652a57ef76468e0cb8e618d2f7c1bbf83ca7532b034cec9c4100bd7e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-27T17:07:46Z"}
+{"name":"arke","vers":"0.2.0","deps":[{"name":"arke-derive","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e5748d767531f6cd2a665d65de4ffe97f9713f96d7a8e2ce8d8eabcd52b77a6","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-27T17:41:21Z"}
