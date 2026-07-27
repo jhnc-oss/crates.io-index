@@ -1,0 +1,1 @@
+{"name":"autd3-cpu-wire","vers":"0.4.0","deps":[{"name":"zerocopy","req":"^0.8.52","features":["derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d29fbb643aa19a7742b277028006a76d568c8d16b04680a36d6ef55e7396eeaf","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-27T05:14:23Z"}
