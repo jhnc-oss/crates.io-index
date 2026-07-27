@@ -1,0 +1,1 @@
+{"name":"harn-flock","vers":"0.10.41","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"590b0f1503a31d307aee4fd06671efcb7a477135b66545ddabea7146d06f320a","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-27T10:38:47Z"}
