@@ -1,1 +1,2 @@
 {"name":"weavatrix-search-vector","vers":"0.1.0","deps":[],"cksum":"c71f1f88bcc1d4b8e4799c427564b677a7abc6c8100344434ec042c1fabca5be","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-27T07:22:14Z"}
+{"name":"weavatrix-search-vector","vers":"0.2.0","deps":[],"cksum":"6af29c3428b75fb9c6ac23551b481cc0a47d8fe38c4c5d30e4a52bac90df4d1f","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-27T07:56:56Z"}
