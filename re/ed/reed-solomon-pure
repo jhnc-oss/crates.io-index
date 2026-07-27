@@ -1,0 +1,1 @@
+{"name":"reed-solomon-pure","vers":"0.1.0","deps":[{"name":"reed-solomon-simd","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d1b995f6c3c6cd37b4f8ba99a7bdb5fec89e75272f50aefc2c6ed20b7e9a8a88","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.83","pubtime":"2026-07-27T12:46:57Z"}
