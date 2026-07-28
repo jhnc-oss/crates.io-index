@@ -1,0 +1,1 @@
+{"name":"mjmx-allocator","vers":"0.1.0","deps":[{"name":"bumpalo","req":"^3","features":["collections","boxed"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"597f9fc9f82032d97265d702d4a668303c7ae0b642d7a66f2cfa660ff2f62bb8","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-28T08:17:35Z"}
