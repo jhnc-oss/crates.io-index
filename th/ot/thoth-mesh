@@ -1,0 +1,1 @@
+{"name":"thoth-mesh","vers":"0.0.1","deps":[{"name":"thoth-mesh-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef1c02b26f30bac3b7cface7b68133ece0efbd93919ac803447d6af51a523499","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-28T22:16:42Z"}
