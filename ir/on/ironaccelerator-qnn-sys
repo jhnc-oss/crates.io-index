@@ -1,0 +1,1 @@
+{"name":"ironaccelerator-qnn-sys","vers":"2.0.0","deps":[{"name":"libloading","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"185946c2d49267528e256fc4c835b42799514f343caa153015f74a2325d06c6a","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-28T08:22:32Z"}
