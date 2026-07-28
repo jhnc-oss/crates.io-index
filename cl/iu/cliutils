@@ -1,2 +1,3 @@
 {"name":"cliutils","vers":"0.1.0","deps":[],"cksum":"286adc49f44df6cbf7cde035727b28cec0cc821a6e740bbfee06ed57dad5897f","features":{},"yanked":false,"pubtime":"2026-07-28T01:33:17Z"}
 {"name":"cliutils","vers":"0.1.1","deps":[],"cksum":"f3ff9fa777a9b2632b5d76d3938d69e355121307a93d1028ef192775c6fc3101","features":{},"yanked":false,"pubtime":"2026-07-28T01:36:55Z"}
+{"name":"cliutils","vers":"0.1.2","deps":[],"cksum":"7a96327c4d027d95f3e0d68bf96e2cca7694b4a86192b0a1bd7ed5ba998ff028","features":{},"yanked":false,"pubtime":"2026-07-28T14:10:49Z"}
