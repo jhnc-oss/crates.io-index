@@ -1,0 +1,1 @@
+{"name":"tclrs","vers":"0.1.0","deps":[{"name":"fusevm","req":"^0.14.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96d7eddbf8c907be3b0e3c6e8c781fd729765c7c7b712853f32c1abfe3c26416","features":{},"yanked":false,"pubtime":"2026-07-28T02:33:33Z"}
