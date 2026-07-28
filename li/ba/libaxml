@@ -1,0 +1,1 @@
+{"name":"libaxml","vers":"0.0.1","deps":[{"name":"quick-xml","req":"^0.41.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7a8b13236497d660e35115dbe78632d3c3eeb9219e41c50a5d5fd27de4ef50b","features":{},"yanked":false,"pubtime":"2026-07-28T15:01:46Z"}
