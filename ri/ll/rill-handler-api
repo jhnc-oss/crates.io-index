@@ -10,3 +10,4 @@
 {"name":"rill-handler-api","vers":"1.0.0-rc.3","deps":[],"cksum":"8e5fe91d32f0332b7e1650b9e5a228809344553276599b1b8aa52ac222d64ca1","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-28T04:24:11Z"}
 {"name":"rill-handler-api","vers":"1.0.0-rc.4","deps":[],"cksum":"40be31068cfb1f55e3894c31c721c402661fe60d63a9438b4ad5df09d2a385c1","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-28T04:38:36Z"}
 {"name":"rill-handler-api","vers":"1.0.0-rc.5","deps":[],"cksum":"ee6b384728756b3d82fd86f0e4f665847a5b17230f6d6c7473f1107a3321abff","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-28T04:53:49Z"}
+{"name":"rill-handler-api","vers":"1.0.0-rc.6","deps":[],"cksum":"6a590b95c6d615e82f72739f0b3d07815801281bda0a54bf372e18e924b16d11","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-28T08:50:08Z"}
