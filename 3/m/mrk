@@ -8,3 +8,4 @@
 {"name":"mrk","vers":"0.7.0","deps":[],"cksum":"823a8fb9b7824e8ea456316f32adf85066297efd5f45b52bde491066ff43aa4f","features":{"components":[],"default":[],"html":[],"ir":["components"],"svg":[]},"yanked":false,"pubtime":"2026-07-27T15:58:50Z"}
 {"name":"mrk","vers":"0.7.1","deps":[],"cksum":"8ddaebadd961ec154bd9240edb295f2e6d79a4a620f59151001831be03788c47","features":{"components":[],"default":[],"html":[],"ir":["components"],"svg":[]},"yanked":false,"pubtime":"2026-07-27T22:12:12Z"}
 {"name":"mrk","vers":"0.7.2","deps":[],"cksum":"0ed6840dbb6b2f83962c203032de62b010ded285954d14a7d88cffcd0500035c","features":{"components":[],"default":[],"html":[],"ir":["components"],"svg":[]},"yanked":false,"pubtime":"2026-07-27T23:12:25Z"}
+{"name":"mrk","vers":"0.8.0","deps":[],"cksum":"4652cd6eb08670a2c531dd47fa16ccf9a244cfaee29de1be83b842f0d52cfbfd","features":{"components":[],"default":[],"html":[],"ir":["components"],"svg":[]},"yanked":false,"pubtime":"2026-07-28T15:37:07Z"}
