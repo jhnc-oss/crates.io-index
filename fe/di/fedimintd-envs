@@ -20,3 +20,4 @@
 {"name":"fedimintd-envs","vers":"0.11.0-rc.1","deps":[],"cksum":"e88028dcf441fea8bb9a345185cefa39e32450a9b8c02156ddd00832a7b6090d","features":{},"yanked":false,"pubtime":"2026-04-16T13:10:32Z"}
 {"name":"fedimintd-envs","vers":"0.11.0","deps":[],"cksum":"d0d1a7de10e2045a9c2bf7d2cd5ce6fb28e9d5a4747583cb2d2694c7d5d7e6e1","features":{},"yanked":false,"pubtime":"2026-04-17T09:18:55Z"}
 {"name":"fedimintd-envs","vers":"0.11.1","deps":[],"cksum":"bd8468cde9299ea36eb3c020bbb81a48e6331fdaf32d0f9c1d85a8c73d419b65","features":{},"yanked":false,"pubtime":"2026-04-21T12:41:03Z"}
+{"name":"fedimintd-envs","vers":"0.12.0-beta.2","deps":[],"cksum":"a75da900910aee33243f125fa44b47f7f15bfac587bb2b8b296bdcef7521c484","features":{},"yanked":false,"pubtime":"2026-07-28T17:58:44Z"}
