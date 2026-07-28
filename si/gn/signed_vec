@@ -8,3 +8,4 @@
 {"name":"signed_vec","vers":"1.0.8","deps":[],"cksum":"70345cd8fc79239ffd409aaf5c1b701ec587613fa94d821bed5e91061f5faebd","features":{},"yanked":false,"pubtime":"2026-07-28T07:18:25Z"}
 {"name":"signed_vec","vers":"1.0.9","deps":[],"cksum":"46c27399c27354f61592afb819725246360c115ab08896c69583f5dc9b1342be","features":{},"yanked":false,"pubtime":"2026-07-28T07:48:08Z"}
 {"name":"signed_vec","vers":"1.0.10","deps":[],"cksum":"8530e974b8d980b6507ab923bf24811798fe77ae3a7278923812beb06cd7c846","features":{},"yanked":false,"pubtime":"2026-07-28T07:52:28Z"}
+{"name":"signed_vec","vers":"1.0.11","deps":[],"cksum":"73dc8b996726313449a9cc767df6e52195c6c869fd48c62f73e40eb9012cb688","features":{},"yanked":false,"pubtime":"2026-07-28T08:16:06Z"}
