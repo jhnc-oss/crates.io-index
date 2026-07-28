@@ -7,3 +7,4 @@
 {"name":"aion_verify","vers":"3.3.0","deps":[],"cksum":"1617882988cb0525a7fad39258fb9f7b69eb76701e55d758d1ce603ebe04c84d","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-28T22:57:10Z"}
 {"name":"aion_verify","vers":"3.4.0","deps":[],"cksum":"61a7c6df36056826bebaed49e95e2bafa0054bed79cde19258d857cedefa6817","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-28T23:03:44Z"}
 {"name":"aion_verify","vers":"3.5.0","deps":[],"cksum":"8d1f6f1797640b665f2b664ffe5d0dacea2d43bcdf13001b7024aed0e5e33493","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-28T23:41:26Z"}
+{"name":"aion_verify","vers":"3.6.0","deps":[],"cksum":"0b6aef24a9d234720e529df04cacece45e5766eb3d9e7bfbbf2d9f4a67964319","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-28T23:55:02Z"}
