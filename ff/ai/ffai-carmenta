@@ -1,0 +1,1 @@
+{"name":"ffai-carmenta","vers":"0.2.0","deps":[{"name":"ffai-core","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c8bf6a9273ff0dbe3dc2a671c3109879b8bf4a5bb97c56bbe4d93847922aaca","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-28T19:13:37Z"}
