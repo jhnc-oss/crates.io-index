@@ -5,3 +5,4 @@
 {"name":"salps","vers":"0.5.0","deps":[],"cksum":"af62230c0f09a2f9bc37d0560d5e158c9616c253ab7267d3a2a57c66fdb2a7b0","features":{},"yanked":false,"pubtime":"2025-09-30T06:26:02Z"}
 {"name":"salps","vers":"0.6.0","deps":[],"cksum":"7b91b8ed12b5a0f9cdd56c5ea9e4bb4d1e6041090c804ea9da542bbb6515675c","features":{},"yanked":false,"pubtime":"2025-09-30T06:40:34Z"}
 {"name":"salps","vers":"1.0.0","deps":[],"cksum":"acf2abcc79a8e94f1283e7cb8155a24f975a352743aca86f8b3f8fa1d385f599","features":{},"yanked":false,"pubtime":"2025-12-19T03:18:14Z"}
+{"name":"salps","vers":"1.0.1","deps":[],"cksum":"ad741f6bdccbc82c7de50e04334d03b81e0a7b306cf771b3f4c9623a1ec529de","features":{},"yanked":false,"pubtime":"2026-07-28T17:07:30Z"}
