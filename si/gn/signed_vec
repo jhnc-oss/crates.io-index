@@ -1,4 +1,4 @@
-{"name":"signed_vec","vers":"1.0.0","deps":[],"cksum":"505490f4fb697eba26b29d062382600d372abf839023ee0eb1b7be621992d2b4","features":{},"yanked":false,"pubtime":"2026-07-27T21:06:03Z"}
+{"name":"signed_vec","vers":"1.0.0","deps":[],"cksum":"505490f4fb697eba26b29d062382600d372abf839023ee0eb1b7be621992d2b4","features":{},"yanked":true,"pubtime":"2026-07-27T21:06:03Z"}
 {"name":"signed_vec","vers":"1.0.2","deps":[],"cksum":"258a9d3dc00f913a5f5a6045228fa69713bf41f4f65c935940fa8dcaad523c21","features":{},"yanked":false,"pubtime":"2026-07-27T21:21:01Z"}
 {"name":"signed_vec","vers":"1.0.3","deps":[],"cksum":"477aae12cdaaba32076fe0e8df00f9c9006f2ccbe191b33c3f7a94a9e5e39247","features":{},"yanked":false,"pubtime":"2026-07-27T21:26:04Z"}
 {"name":"signed_vec","vers":"1.0.4","deps":[],"cksum":"70915adeadb598a617d1e6b1d3d3c676266d44d535fb5ef6e1aaf29ce8bcc2b0","features":{},"yanked":false,"pubtime":"2026-07-27T21:30:04Z"}
