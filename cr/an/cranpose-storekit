@@ -1,0 +1,1 @@
+{"name":"cranpose-storekit","vers":"0.1.78","deps":[{"name":"cranpose-services","req":"^0.1.78","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4a49aa5b6f9d837644ebd03de6a46c08eb6e1601ec458780f356013b8d913e7f","features":{},"yanked":false,"pubtime":"2026-07-28T14:48:47Z"}
