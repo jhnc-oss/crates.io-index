@@ -1,1 +1,2 @@
 {"name":"aion_verify","vers":"0.1.0","deps":[],"cksum":"327f2eb56ffbfcdfbee294f22075bc55302c231d057f90be613e584dc343e251","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-28T20:56:10Z"}
+{"name":"aion_verify","vers":"0.2.0","deps":[],"cksum":"16dae190d03586cb282560270611e84a9ea3b0c41fd03cc29ae59ec4642e1afb","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-28T21:10:46Z"}
