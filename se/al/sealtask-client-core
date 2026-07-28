@@ -1,0 +1,1 @@
+{"name":"sealtask-client-core","vers":"0.3.0","deps":[{"name":"thiserror","req":"^2.0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34f7779b6df75c40acaa1f108902a2348806431a4cd3c639ef0b25d342091b89","features":{},"yanked":false,"pubtime":"2026-07-28T17:57:51Z"}
