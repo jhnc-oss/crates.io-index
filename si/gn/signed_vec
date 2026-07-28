@@ -3,3 +3,4 @@
 {"name":"signed_vec","vers":"1.0.3","deps":[],"cksum":"477aae12cdaaba32076fe0e8df00f9c9006f2ccbe191b33c3f7a94a9e5e39247","features":{},"yanked":false,"pubtime":"2026-07-27T21:26:04Z"}
 {"name":"signed_vec","vers":"1.0.4","deps":[],"cksum":"70915adeadb598a617d1e6b1d3d3c676266d44d535fb5ef6e1aaf29ce8bcc2b0","features":{},"yanked":false,"pubtime":"2026-07-27T21:30:04Z"}
 {"name":"signed_vec","vers":"1.0.5","deps":[],"cksum":"6f75b768e6f6a11e3253091eb3a9b1ff2e799228eef1759c12ddd7e6a93cbe44","features":{},"yanked":false,"pubtime":"2026-07-28T07:05:31Z"}
+{"name":"signed_vec","vers":"1.0.6","deps":[],"cksum":"9aa81fbec358f9b1958c2beb118cab6ebab52bd685ca112b8b87594b1bc1d6e6","features":{},"yanked":false,"pubtime":"2026-07-28T07:08:34Z"}
