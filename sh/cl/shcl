@@ -1,0 +1,1 @@
+{"name":"shcl","vers":"1.0.0","deps":[{"name":"pprof","req":"^0.14","features":["flamegraph"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc8017c63ab9cbf1a6930f174d8031949b94b7ba89f6f5fca6a284dc469fb777","features":{},"features2":{"profiling":["dep:pprof"]},"yanked":false,"pubtime":"2026-07-28T21:03:26Z","v":2}
