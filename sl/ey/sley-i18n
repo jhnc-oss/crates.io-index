@@ -1,1 +1,2 @@
 {"name":"sley-i18n","vers":"0.5.0","deps":[],"cksum":"640d15c6110fb176b91df374cfe9f65a3f2be2ce5d9edb7f45dfcfedfc6a9821","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-12T22:44:31Z"}
+{"name":"sley-i18n","vers":"0.5.1","deps":[{"name":"encoding_rs","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"264e3a87de0544214307b33a42cec8a4cf3776c619c98e21a0a8049350eec763","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-29T15:15:30Z"}
