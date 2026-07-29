@@ -8,3 +8,4 @@
 {"name":"kobako-runtime","vers":"0.10.2","deps":[],"cksum":"84515e229a0fcd38b7fbe545bb5d49ebd6593421ea44410d476286cc6a1b45ab","features":{},"yanked":false,"pubtime":"2026-07-18T13:38:56Z"}
 {"name":"kobako-runtime","vers":"0.11.0","deps":[],"cksum":"6086c199c5c1ee1c2fac6d69de6d00d3997ba75e760c3990461ef16d7e76ce26","features":{},"yanked":false,"pubtime":"2026-07-19T06:59:06Z"}
 {"name":"kobako-runtime","vers":"0.12.0","deps":[],"cksum":"4c68a57403e7e66b237a334d629c0f98821e03502dbd645646f7d909155bf254","features":{},"yanked":false,"pubtime":"2026-07-24T18:52:00Z"}
+{"name":"kobako-runtime","vers":"0.13.0","deps":[{"name":"kobako-transport","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11e1137377e263667be96b9803f55d5eb0507cbc0c6b12b1869128a47c51e0c6","features":{},"yanked":false,"pubtime":"2026-07-29T15:49:29Z"}
