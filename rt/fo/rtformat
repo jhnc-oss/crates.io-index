@@ -1,0 +1,1 @@
+{"name":"rtformat","vers":"0.1.0","deps":[{"name":"rtformat-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb2027ceec7a33b959b1ee84321d94d2f24db65791a9543434ff747002a21d8c","features":{},"yanked":false,"pubtime":"2026-07-29T01:37:13Z"}
