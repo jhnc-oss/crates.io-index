@@ -1,1 +1,0 @@
-{"name":"ci-test-rust-lib","vers":"1.0.0","deps":[{"name":"hyperi-rustlib","req":">=2.5.4","features":["logger"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e0af85f6be611b4d2f110d21193f611977ce31d5d44604498e452be190fe01b5","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-29T06:14:37Z"}
