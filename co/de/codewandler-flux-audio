@@ -50,3 +50,4 @@
 {"name":"codewandler-flux-audio","vers":"0.33.0","deps":[],"cksum":"3b58f9ccba9455c3afe1fc9bcffd117a51dadbd774e001aac96620a57e99ab5d","features":{},"yanked":false,"pubtime":"2026-07-28T23:50:23Z"}
 {"name":"codewandler-flux-audio","vers":"0.34.0","deps":[],"cksum":"27707f0bb9d6ddbe14bd49f170ea4cef0c28da1009c932c29e937f0db1ae9efc","features":{},"yanked":false,"pubtime":"2026-07-29T10:49:41Z"}
 {"name":"codewandler-flux-audio","vers":"0.35.0","deps":[],"cksum":"d8b2610cbf39fb444d64fe40b4259477c6d552ba1193db031e9b7579d0927667","features":{},"yanked":false,"pubtime":"2026-07-29T19:31:27Z"}
+{"name":"codewandler-flux-audio","vers":"0.36.0","deps":[],"cksum":"4896707d5532effe16c2a740a07e58f4934829cdbeab23c0a2e322a19c65bfd3","features":{},"yanked":false,"pubtime":"2026-07-29T22:23:45Z"}
