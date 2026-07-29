@@ -4,3 +4,4 @@
 {"name":"cliutils","vers":"0.1.3","deps":[],"cksum":"604898bf94208fe26504f10ec09b715dfeae0973e800a19cdd4d33160fd251b8","features":{},"yanked":false,"pubtime":"2026-07-28T18:13:54Z"}
 {"name":"cliutils","vers":"0.1.4","deps":[],"cksum":"5deeae964a6c7e32e9bb6686ed2bf702768781404706e3a4dea1778451909e57","features":{},"yanked":false,"pubtime":"2026-07-28T18:59:17Z"}
 {"name":"cliutils","vers":"0.1.6","deps":[],"cksum":"c2a6d7b5dcd72f57afb3aed1867e8119836e546fe5624d7c0670df7821b951dc","features":{},"yanked":false,"pubtime":"2026-07-28T20:44:46Z"}
+{"name":"cliutils","vers":"0.1.8","deps":[],"cksum":"8eb3d8ddb95f16ca57389bc16bbf6edac20d7c26fe94fd5beebc9437fe0d6d10","features":{},"yanked":false,"pubtime":"2026-07-29T14:52:11Z"}
