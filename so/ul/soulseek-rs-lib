@@ -13,3 +13,4 @@
 {"name":"soulseek-rs-lib","vers":"10.0.0","deps":[],"cksum":"5efb35132eabdc34dc188f2a177fb8435d07747b588566c0fd1d7d7f86358c7b","features":{},"yanked":false,"pubtime":"2026-07-26T12:40:22Z"}
 {"name":"soulseek-rs-lib","vers":"11.0.0","deps":[],"cksum":"c1f661dc2e042d6d84bc02938ebe7dbf4e563204ca1482d936b3a16537ea60f2","features":{},"yanked":false,"pubtime":"2026-07-26T13:14:27Z"}
 {"name":"soulseek-rs-lib","vers":"12.0.0","deps":[],"cksum":"787547549cdce12113662508175f1831593fdf6095df82c92b3dc143267de1fc","features":{},"yanked":false,"pubtime":"2026-07-26T17:24:24Z"}
+{"name":"soulseek-rs-lib","vers":"13.0.0","deps":[],"cksum":"8a3e048f7386770fe397d7a9670b506766a34709394492283b7bfb1a2d13e1ba","features":{},"yanked":false,"pubtime":"2026-07-29T15:29:44Z"}
