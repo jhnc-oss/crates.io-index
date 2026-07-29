@@ -1,0 +1,1 @@
+{"name":"consortium-ipc-macros","vers":"0.1.0","deps":[{"name":"consortium-ipc-macros-impl","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c80a6e5e4a939d1717c897a5072eea5c69cf19a628e4fb9d3cfe9801df38c51e","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-07-29T04:54:19Z"}
