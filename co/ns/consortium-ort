@@ -1,0 +1,1 @@
+{"name":"consortium-ort","vers":"0.1.0","deps":[{"name":"ort","req":"^2.0.0-rc.12","features":["api-24","ndarray","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9683942dbc776c35b2d76f117d52fc2670b2eefa95d329998013600aa3a3e06e","features":{"tracing":["ort/tracing"]},"yanked":false,"rust_version":"1.87","pubtime":"2026-07-29T08:29:49Z"}
