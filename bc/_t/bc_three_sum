@@ -1,1 +1,0 @@
-{"name":"bc_three_sum","vers":"0.1.0","deps":[{"name":"bcsort","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e788f7da36a60b72773937502a02eb53e207af090c391493889f8c95cc46b4f6","features":{},"yanked":false,"pubtime":"2026-07-29T11:08:21Z"}
