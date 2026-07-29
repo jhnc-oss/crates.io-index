@@ -1,0 +1,1 @@
+{"name":"oxixml-langtag","vers":"0.1.0","deps":[],"cksum":"3d2c8fdd2e5abcd55a22d77efc071c870138ddb5d8f48a731fc7cd444cc9dfac","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-29T18:14:52Z"}
