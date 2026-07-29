@@ -1,0 +1,1 @@
+{"name":"oxixml-text","vers":"0.1.0","deps":[{"name":"oxixml-support","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad947d6c131f13652d3d2ddcb2fba175dde80980585d6d9734b31048ca28075b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-29T18:47:08Z"}
