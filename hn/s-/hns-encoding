@@ -1,0 +1,1 @@
+{"name":"hns-encoding","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f15cd894ebb231089eb2313da65c7754d25abc80e2bee57fe954a6b70eb65786","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-29T06:00:48Z"}
