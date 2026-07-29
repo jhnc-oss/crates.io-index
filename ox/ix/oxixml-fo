@@ -1,0 +1,1 @@
+{"name":"oxixml-fo","vers":"0.1.0","deps":[{"name":"oxixml-xml","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb2b23afbc0e3c57c6808edcd0f61aa9f47cdff262ccd58b912718ccfa16b10c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-29T19:51:28Z"}
