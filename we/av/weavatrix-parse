@@ -1,1 +1,2 @@
 {"name":"weavatrix-parse","vers":"0.1.0","deps":[],"cksum":"03b396f3e182231038d92f4e3402f35f783913e0c74efa0f6b1de36c88a7e737","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-29T10:01:39Z"}
+{"name":"weavatrix-parse","vers":"0.1.1","deps":[],"cksum":"c18c7e7eac4b0e68bdbe580630979aa096cab605e57af648071542765af85f81","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-29T11:28:31Z"}
