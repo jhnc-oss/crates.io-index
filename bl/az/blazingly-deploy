@@ -1,1 +1,2 @@
 {"name":"blazingly-deploy","vers":"0.1.0","deps":[],"cksum":"57666e999c444f5ae076a042e95c543415323f8b73393daa7a9583a3b64f7490","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-29T13:52:24Z"}
+{"name":"blazingly-deploy","vers":"0.1.1","deps":[],"cksum":"b02e9920c5e6d3651b897b14eed39838a8d1be124e3c2f0f53cac319ef3b452b","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-29T15:34:43Z"}
