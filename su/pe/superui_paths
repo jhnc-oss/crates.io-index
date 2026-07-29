@@ -5,3 +5,4 @@
 {"name":"superui_paths","vers":"0.2.1","deps":[],"cksum":"65a7ba88d8ffb8f54c8ec8116433d387352155217d9e463116b9af8b1bf64460","features":{},"yanked":false,"pubtime":"2026-07-29T00:03:39Z"}
 {"name":"superui_paths","vers":"0.3.1","deps":[],"cksum":"18195aa47a4a21d8c147d0276dad51d40e0ed7a61038cf6d0b693e95f0090e62","features":{},"yanked":false,"pubtime":"2026-07-29T00:44:09Z"}
 {"name":"superui_paths","vers":"0.1.2","deps":[],"cksum":"9b32c3a5b025e04c93403acc3b2a0261fa0eed3ce9c2b3f6774b50672da2acb9","features":{},"yanked":false,"pubtime":"2026-07-29T01:41:26Z"}
+{"name":"superui_paths","vers":"0.2.2","deps":[],"cksum":"d402b1810722bf122fad0746ef406644c10254aae80070ca2340f1162f6d4ff8","features":{},"yanked":false,"pubtime":"2026-07-29T01:52:44Z"}
