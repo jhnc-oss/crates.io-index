@@ -14,3 +14,4 @@
 {"name":"ryg-rans-rs-core","vers":"0.1.13","deps":[],"cksum":"e319f98cb3d7f772451f797afebbbacbc2d50cf983f39a6d5537c777627bc185","features":{"alloc":[],"default":[],"std":[]},"yanked":false,"pubtime":"2026-07-29T04:39:02Z"}
 {"name":"ryg-rans-rs-core","vers":"0.1.14","deps":[],"cksum":"243a79c7a1a3d8d03980a2ba054055d5c9d3b17529d729793bf6dca1443eeeda","features":{"alloc":[],"default":[],"std":[]},"yanked":false,"pubtime":"2026-07-29T05:35:53Z"}
 {"name":"ryg-rans-rs-core","vers":"0.1.15","deps":[],"cksum":"4a13b2f5f6e6e93084c909edaa7fefc63da3cfc04a9863bd6c4e0676c8aea540","features":{"alloc":[],"default":[],"std":[]},"yanked":false,"pubtime":"2026-07-29T07:45:18Z"}
+{"name":"ryg-rans-rs-core","vers":"0.1.16","deps":[],"cksum":"4573466181c0f4b7816c1d93ddd6d5c1bc87822af2f5da0f8a5595965a663de0","features":{"alloc":[],"default":[],"std":[]},"yanked":false,"pubtime":"2026-07-29T08:24:17Z"}
