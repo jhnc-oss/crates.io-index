@@ -1,0 +1,1 @@
+{"name":"oxixml-regex","vers":"0.1.0","deps":[{"name":"oxixml-unicode","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd085b0060d77c9d07264604bf59c022177dcdea11921dce4de1d5436109761c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-29T18:36:29Z"}
