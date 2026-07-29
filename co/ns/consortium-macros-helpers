@@ -1,0 +1,1 @@
+{"name":"consortium-macros-helpers","vers":"0.1.0","deps":[{"name":"syn","req":"^2.0.117","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f846822901471169ce6211eae405f9a5827591af654664e7b783528af6b07303","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-07-29T03:40:44Z"}
