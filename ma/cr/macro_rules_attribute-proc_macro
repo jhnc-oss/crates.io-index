@@ -16,3 +16,4 @@
 {"name":"macro_rules_attribute-proc_macro","vers":"0.2.1","deps":[],"cksum":"33cb111f629f9cf8425bd0cb5315b04b1ba13931199bb540fabeeeec932b3e06","features":{"verbose-expansions":[]},"yanked":false,"pubtime":"2025-06-02T11:16:47Z"}
 {"name":"macro_rules_attribute-proc_macro","vers":"0.2.2-rc1","deps":[],"cksum":"48a22a6e1bdea7e8d95401465c1ac98841188099e3d76787c38138c14537bb5f","features":{"verbose-expansions":[]},"yanked":false,"pubtime":"2025-06-02T11:52:09Z"}
 {"name":"macro_rules_attribute-proc_macro","vers":"0.2.2","deps":[],"cksum":"670fdfda89751bc4a84ac13eaa63e205cf0fd22b4c9a5fbfa085b63c1f1d3a30","features":{"verbose-expansions":[]},"yanked":false,"pubtime":"2025-06-02T11:58:52Z"}
+{"name":"macro_rules_attribute-proc_macro","vers":"0.2.3","deps":[],"cksum":"fc04a4c58212d57930a24bf47d3fa87485264a3a054e9c10e042eb373573ad3c","features":{"verbose-expansions":[]},"yanked":false,"pubtime":"2026-07-29T15:38:18Z"}
