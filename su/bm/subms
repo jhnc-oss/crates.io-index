@@ -12,3 +12,4 @@
 {"name":"subms","vers":"0.7.0","deps":[],"cksum":"533e39b4b8397e2f04386cef82a2ec1ec4c3c25057c1b7709e307437a1317bd0","features":{},"yanked":true,"rust_version":"1.85","pubtime":"2026-07-27T20:07:07Z"}
 {"name":"subms","vers":"0.7.1","deps":[],"cksum":"9242af027dce8f078f574a96e0a6280ceaa48b34eff021233978f8ec6767bfdc","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-27T20:26:44Z"}
 {"name":"subms","vers":"0.8.0","deps":[],"cksum":"97f1d729b1720d35174f21c0bb0674b674c2a52f03210363387148fd725daa5f","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-29T18:01:11Z"}
+{"name":"subms","vers":"0.8.1","deps":[],"cksum":"04c2a4c7b1607e39877d25e51a5301d8d0490fbfa530cf10778c4ccf7eb5487f","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-30T12:30:12Z"}
