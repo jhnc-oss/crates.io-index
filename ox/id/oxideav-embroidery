@@ -1,0 +1,1 @@
+{"name":"oxideav-embroidery","vers":"0.0.1","deps":[{"name":"oxideav-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"127a224f81b161fb020ee5894268f9a1c6bc0a0d315d3d1d561a402b1fb3d612","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-07-30T15:44:33Z"}
