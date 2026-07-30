@@ -1,0 +1,1 @@
+{"name":"et-k-rs","vers":"0.2.0","deps":[{"name":"et-abi","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0ed0ef4378dd44fe47136d2c48ea43c9f6cef26c4c21d15c6b33093a9ea287c","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-30T14:17:10Z"}
