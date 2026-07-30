@@ -1,1 +1,2 @@
 {"name":"gwk","vers":"0.0.1","deps":[],"cksum":"c8c7195712d0ee2e5655d75886abc2190997601a81b976ecdc7d6ccdb538ea2f","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-28T17:36:13Z"}
+{"name":"gwk","vers":"0.0.2","deps":[],"cksum":"76f6276674267fdf24b604675a052068b512bd388fc31279ec37b21a306ee4b4","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-30T15:11:29Z"}
