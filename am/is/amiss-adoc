@@ -1,0 +1,1 @@
+{"name":"amiss-adoc","vers":"0.13.0","deps":[{"name":"amiss-wire","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e40708b335aed34b64582fd733a069c88dd1771e422028ac7dc0fe7bdf63d672","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-30T20:07:46Z"}
