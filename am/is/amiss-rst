@@ -1,0 +1,1 @@
+{"name":"amiss-rst","vers":"0.13.0","deps":[{"name":"amiss-wire","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17724ba30a60ef45f1c0971943dcc2954c7c9fbf3c1199ef8cfbea471dc2fe09","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-07-30T20:07:52Z"}
