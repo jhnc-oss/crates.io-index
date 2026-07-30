@@ -1,1 +1,1 @@
-{"name":"ofat","vers":"0.2.0","deps":[],"cksum":"24b8236a1121da8a3a3002083f7149a0dddd674322115debaf4fdc8ebba1abc6","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-30T03:03:39Z"}
+{"name":"ofat","vers":"0.2.0","deps":[],"cksum":"24b8236a1121da8a3a3002083f7149a0dddd674322115debaf4fdc8ebba1abc6","features":{},"yanked":true,"rust_version":"1.85","pubtime":"2026-07-30T03:03:39Z"}
