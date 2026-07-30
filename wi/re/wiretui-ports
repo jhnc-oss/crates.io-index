@@ -1,0 +1,1 @@
+{"name":"wiretui-ports","vers":"0.0.0","deps":[{"name":"domain","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"wiretui-domain"}],"cksum":"f13b1059bd4e173f8113c4ea3b265d9445712e77811a9b94226b1a269868240b","features":{},"yanked":false,"pubtime":"2026-07-30T19:20:14Z"}
