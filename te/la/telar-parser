@@ -1,0 +1,1 @@
+{"name":"telar-parser","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c61f8dce7a45965c9dfbde6915d132dc3f50923acaa62a3396b49ad11fe73f2a","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-30T21:42:27Z"}
