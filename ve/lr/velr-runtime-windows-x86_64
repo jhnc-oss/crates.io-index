@@ -22,3 +22,4 @@
 {"name":"velr-runtime-windows-x86_64","vers":"0.2.40","deps":[],"cksum":"d775d5b6bc4108eb343cc9833c3ea5bfb33053ed3556a6c7a17fc1edd40cca15","features":{},"yanked":false,"pubtime":"2026-07-18T19:33:32Z"}
 {"name":"velr-runtime-windows-x86_64","vers":"0.2.41","deps":[],"cksum":"347c3dbcef7e95a4c2f0ac38178ac0318a64b659fb7304340d95e0126802057e","features":{},"yanked":false,"pubtime":"2026-07-21T08:07:44Z"}
 {"name":"velr-runtime-windows-x86_64","vers":"0.2.42","deps":[],"cksum":"d04d590c66e90d39735512b562dc6e75f56fe7155a98c3c7998374187914b37f","features":{},"yanked":false,"pubtime":"2026-07-28T10:53:22Z"}
+{"name":"velr-runtime-windows-x86_64","vers":"0.2.43","deps":[],"cksum":"b63edce36cc778d3fb9211f24e76de138ae33ff64e0fca73999dbafc6b5fde0f","features":{},"yanked":false,"pubtime":"2026-07-30T20:28:11Z"}
