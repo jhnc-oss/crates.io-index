@@ -1,0 +1,1 @@
+{"name":"libmuslim-rs","vers":"0.1.0","deps":[{"name":"cc","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1eac53d9c384d1d160d7fcdffa75cc5205674a07ba449264a53d736d182aeb24","features":{},"yanked":false,"links":"prayertimes","rust_version":"1.85","pubtime":"2026-07-30T13:15:38Z"}
