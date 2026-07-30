@@ -1,0 +1,1 @@
+{"name":"fastlaz","vers":"0.1.0","deps":[{"name":"las","req":"^0.10","features":["laz-parallel"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2182a958e130a334f34011aea451db7f82317ce6f0ede1a262ec98f765445983","features":{},"yanked":false,"pubtime":"2026-07-30T14:37:22Z"}
