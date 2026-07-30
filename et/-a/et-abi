@@ -1,1 +1,2 @@
 {"name":"et-abi","vers":"0.1.0","deps":[],"cksum":"29a8c50fec605fa3950342064b648094e71bcb97798159fac6cb944499dcc8da","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-30T14:03:12Z"}
+{"name":"et-abi","vers":"0.2.0","deps":[],"cksum":"dc4eb0c633a893c2fadd9cd54f356d5e2ccc406a7593bce482b8a58b2b2361a3","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-30T14:08:22Z"}
