@@ -16,3 +16,4 @@
 {"name":"dark_iron_ecs","vers":"0.9.5","deps":[],"cksum":"aec0c94162377372353d704a734a424525953485365932755708fefb2c17842c","features":{},"yanked":false,"pubtime":"2026-02-26T20:41:29Z"}
 {"name":"dark_iron_ecs","vers":"1.0.0","deps":[],"cksum":"11801213f1ac999abe5f265590f2e166db42f9153540ce220cd55e8428833f39","features":{},"yanked":false,"pubtime":"2026-07-29T20:01:11Z"}
 {"name":"dark_iron_ecs","vers":"1.0.1","deps":[],"cksum":"811392d6dfb9b41271bf699cee124e741b6999ef01f7ea69be3f8c907972e900","features":{},"yanked":false,"pubtime":"2026-07-30T13:45:06Z"}
+{"name":"dark_iron_ecs","vers":"1.0.2","deps":[],"cksum":"335de4b090669e23c017b572f613ce49d5b4731e0054febaf96d83d5989b7706","features":{},"yanked":false,"pubtime":"2026-07-30T13:47:16Z"}
