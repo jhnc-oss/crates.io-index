@@ -1,0 +1,1 @@
+{"name":"fml","vers":"0.1.0","deps":[{"name":"chumsky","req":"^0.13.0","features":["regex"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"075cc96b78612d76275d745dbc17913839de1cf2e45de4d6b2943459637979c9","features":{"parser":[]},"yanked":false,"pubtime":"2026-07-30T13:33:12Z"}
