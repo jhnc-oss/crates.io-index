@@ -7,3 +7,4 @@
 {"name":"pdfboss-encoding","vers":"0.7.2","deps":[],"cksum":"1a86456fa6a969bd624b1c5cfd461304b932d73f29deefcb9461a7bbde3c4f13","features":{},"yanked":false,"pubtime":"2026-07-28T23:11:40Z"}
 {"name":"pdfboss-encoding","vers":"0.8.0","deps":[],"cksum":"73aa4d743f2a7f1bc3cc14ce4781348372f79aa48858838df0a6f1cb7fa3401c","features":{},"yanked":false,"pubtime":"2026-07-29T00:17:04Z"}
 {"name":"pdfboss-encoding","vers":"0.9.0","deps":[],"cksum":"62e7c290c4e1274da764815b64ad4a664b4dc20e05ed2627b4e7d4fbafbee1ce","features":{},"yanked":false,"pubtime":"2026-07-30T19:38:05Z"}
+{"name":"pdfboss-encoding","vers":"0.10.0","deps":[],"cksum":"002e0915299143a64f4a428a8f95ce3e76deaf9cc9e3e95dcb743e89731eab5e","features":{},"yanked":false,"pubtime":"2026-07-30T20:26:17Z"}
