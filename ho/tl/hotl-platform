@@ -8,3 +8,4 @@
 {"name":"hotl-platform","vers":"0.7.1","deps":[],"cksum":"8f2367868bba565cfb3183e9059cebebdb3dd3e802d69827f1b0b30c175fe3f1","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-27T19:24:42Z"}
 {"name":"hotl-platform","vers":"0.8.0","deps":[],"cksum":"f1a47ea784f790f493efb395369e08f354bdf9894d6d483c0d53ca9ab1c7ec7b","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-29T14:10:40Z"}
 {"name":"hotl-platform","vers":"0.9.0","deps":[],"cksum":"43210cd509613181c3a7d66e070ef15d33c40f0d6a5fa1b0c34277f681821a69","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-29T16:19:56Z"}
+{"name":"hotl-platform","vers":"0.9.1","deps":[],"cksum":"21eaf269f7ffdb357b3f7fc1c9feb7fc5bbb22b0b6b039d16d68df45ac6bb82b","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-30T06:23:15Z"}
