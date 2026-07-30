@@ -1,0 +1,1 @@
+{"name":"mrk-css","vers":"0.1.0","deps":[{"name":"mrk","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"276734ed67b8ff8df7be1b7a06c3f3397b9ea2aa7477ab87b650d0549abc71de","features":{},"yanked":false,"pubtime":"2026-07-30T17:16:24Z"}
