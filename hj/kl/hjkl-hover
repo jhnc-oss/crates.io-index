@@ -22,3 +22,4 @@
 {"name":"hjkl-hover","vers":"0.37.1","deps":[],"cksum":"eb69cfc2b64195fa167c434f8f1053d955d3b026cc2cb92613c3bb183e20d78d","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-26T10:18:20Z"}
 {"name":"hjkl-hover","vers":"0.38.0","deps":[],"cksum":"13755f29ebb10fd743e4b0453f1982c015ea2e372b9935dc0f41a052749faad7","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-27T03:16:14Z"}
 {"name":"hjkl-hover","vers":"0.39.0","deps":[],"cksum":"1ecad0158ec5dfbf93255c110b9dcd12e46ac0296550ac7ff7367c044ad8df96","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-27T09:58:26Z"}
+{"name":"hjkl-hover","vers":"0.39.1","deps":[],"cksum":"7aa1ba88d009e6c67ff95e98ea30ce0443f5b2c192f989e46522caed38795734","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-30T19:05:30Z"}
