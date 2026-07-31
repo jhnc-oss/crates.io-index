@@ -1,2 +1,3 @@
 {"name":"kevy-tmpdir","vers":"4.0.0","deps":[],"cksum":"84797cf391f59d247efd1136092c63a6a0d790d92ed12cb1b8e7d854ebf0e07d","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-25T16:33:29Z"}
 {"name":"kevy-tmpdir","vers":"4.1.0","deps":[],"cksum":"0660dcacd3934b253f90d0c10b7651cababb1426338f818b41523b9933cd72fd","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-28T06:07:07Z"}
+{"name":"kevy-tmpdir","vers":"4.1.1","deps":[],"cksum":"26c21c95d516bc383ae4834bfce705c5b717b71dcdd86a65594ca9765baab9c4","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-31T00:05:46Z"}
