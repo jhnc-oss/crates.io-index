@@ -1,0 +1,1 @@
+{"name":"ferrosintesis-samples-drumkit2","vers":"0.1.0","deps":[{"name":"ferrosintesis-samples-drumkit","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64dee48fc5a97553e740b83f353f957cc5520bfe2d23d7b4403e6a474391ed4f","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-07-31T06:05:57Z"}
