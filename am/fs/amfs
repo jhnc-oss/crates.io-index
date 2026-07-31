@@ -1,0 +1,1 @@
+{"name":"amfs","vers":"0.0.1","deps":[{"name":"clap","req":"^4.6.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb580943c057e0f344debb8e0c2ad60aee18b2c9096615ec1f9d1674eaac346f","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-31T17:20:57Z"}
