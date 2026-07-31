@@ -1,1 +1,2 @@
 {"name":"cuttlefish","vers":"0.0.0","deps":[],"cksum":"7aef71537a4fb4ed5034f1abeddbc51eca627ec414746b203e44b0f504f273f2","features":{},"yanked":false,"rust_version":"1.62.1","pubtime":"2022-08-25T16:45:27Z"}
+{"name":"cuttlefish","vers":"0.0.1","deps":[],"cksum":"1e9351916d2504ccbf8b097f044e7fafce54b766f0f2b69dc78e97100bdd737c","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-31T21:12:38Z"}
