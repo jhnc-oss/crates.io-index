@@ -1,0 +1,1 @@
+{"name":"adxl3xx","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26c50ce6ce605ceecc07e3deafe1321a712128fee67540c8954de18a1bd0b238","features":{},"yanked":false,"pubtime":"2026-07-31T00:25:08Z"}
