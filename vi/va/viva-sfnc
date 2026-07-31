@@ -6,3 +6,4 @@
 {"name":"viva-sfnc","vers":"0.2.7","deps":[],"cksum":"436faf14dd5e48e519dfd33dc8c06cb6d3d3846f1481b9bddca0c4d813612b85","features":{"default":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-28T19:37:28Z"}
 {"name":"viva-sfnc","vers":"0.2.8","deps":[],"cksum":"50a4e7f25d5a9d3882225fe2bebe0d1175058061763fbc580f3b5a9354291bb9","features":{"default":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-28T19:58:14Z"}
 {"name":"viva-sfnc","vers":"0.3.0","deps":[],"cksum":"82dbf0880555f199fa0f245aabbc49a30548fc8f034e2799206585476c53eb3c","features":{"default":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-30T07:02:42Z"}
+{"name":"viva-sfnc","vers":"0.3.1","deps":[],"cksum":"7636573ec7ac9382cb4b79d71e5b2e037d9788316a74c0768c2423ac6f726df7","features":{"default":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-31T11:20:44Z"}
