@@ -34,3 +34,4 @@
 {"name":"wasmtime-internal-slab","vers":"36.0.10","deps":[],"cksum":"7b28104d57b5bdb5d8facb3a8418463ec6c2cb40bb4adf9833b727ebf6a254eb","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-05-21T19:03:02Z"}
 {"name":"wasmtime-internal-slab","vers":"36.0.11","deps":[],"cksum":"1c3295d1f1de2f3769b749a15e8f64341c38da6faa7fcd737ed485eb3fa40158","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-06-15T15:48:47Z"}
 {"name":"wasmtime-internal-slab","vers":"36.0.12","deps":[],"cksum":"8eaee97281dd3fe47ec3d46c16fb9fe2dd32f37d0523c2d5c484f11b348734e4","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-06-24T19:36:19Z"}
+{"name":"wasmtime-internal-slab","vers":"36.0.13","deps":[],"cksum":"b771494bead25e1f0c4c89a9476dd0b65eacca314ed82125f1e197fbc3f0396b","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-07-31T15:41:14Z"}
