@@ -78,3 +78,4 @@
 {"name":"kevy-hash","vers":"3.18.0","deps":[],"cksum":"db90e74823b21f895a0359783da5e7ef49e14a07849268cb0cd133e084d82229","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-10T18:37:12Z"}
 {"name":"kevy-hash","vers":"4.0.0","deps":[],"cksum":"fb54ffef9063267b08c3d070d58fd3aaefa00438729cfe68331035b812ff645b","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-25T16:35:22Z"}
 {"name":"kevy-hash","vers":"4.1.0","deps":[],"cksum":"152a8806f84a993b618039b224bc9ab58398040e69f9860541f8f7a5fffb9828","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-28T06:08:59Z"}
+{"name":"kevy-hash","vers":"4.1.1","deps":[],"cksum":"140e12f26ced819c2498ddb49045bf2bf7f1e5a8ee31e1ac19d132b020ba14a6","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-31T00:07:38Z"}
