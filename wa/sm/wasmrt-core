@@ -7,3 +7,4 @@
 {"name":"wasmrt-core","vers":"0.6.1","deps":[],"cksum":"0e27e76b0662b06836934791ca08d1147142ce47fcdc802c9fe0bef31e9dfd07","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-31T14:45:33Z"}
 {"name":"wasmrt-core","vers":"0.6.2","deps":[],"cksum":"f6f7e62d581928b6d832fa1aac8a73980cabe4d13bc28bafb3560a120762440f","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-31T15:41:08Z"}
 {"name":"wasmrt-core","vers":"0.6.3","deps":[],"cksum":"0e3520e7b571611e77d70d842b4accd0afc295f6804827c8c892f36aaaa8c0e7","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-31T16:05:10Z"}
+{"name":"wasmrt-core","vers":"0.6.4","deps":[],"cksum":"5d8935cbc39e96dd11a3a0992a4023df46df6d05677e010e9a13e1e5627ad50d","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-31T16:32:06Z"}
