@@ -7,3 +7,4 @@
 {"name":"luxc","vers":"0.12.1","deps":[],"cksum":"ba0dd988aba85d48cf2b496bcc7dd117338c5da8cfd1285f37199e8aca12918b","features":{},"yanked":false,"pubtime":"2026-07-31T04:40:28Z"}
 {"name":"luxc","vers":"0.12.2","deps":[],"cksum":"5b37801a803413f690d7605130b0a692dbbafdee8a3274fe0bafcc8a14360eb0","features":{},"yanked":false,"pubtime":"2026-07-31T05:27:32Z"}
 {"name":"luxc","vers":"0.13.0","deps":[],"cksum":"3f09ecc1c028e7e6d1cc04e8cc1d4e484048f7c89378e5123a12635026198bcf","features":{},"yanked":false,"pubtime":"2026-07-31T15:03:15Z"}
+{"name":"luxc","vers":"0.14.0","deps":[],"cksum":"82417766e2861edd0bc8b080b557de717762b9f4854b08fd48447f044e1491b4","features":{},"yanked":false,"pubtime":"2026-07-31T23:41:48Z"}
