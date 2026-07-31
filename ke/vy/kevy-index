@@ -8,3 +8,4 @@
 {"name":"kevy-index","vers":"3.18.0","deps":[],"cksum":"f9e1722c365d71428ea34a35078d710fdf1f3b59aa025af00497cafda8923075","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-10T18:45:16Z"}
 {"name":"kevy-index","vers":"4.0.0","deps":[],"cksum":"0eee1245f4122fa6c397e0b805b5d3fc80eed30363410c79a4a405b0ed5e0b3f","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-25T16:43:37Z"}
 {"name":"kevy-index","vers":"4.1.0","deps":[],"cksum":"ab209b56d0a9fe21f48095b9f6634e5425f5afe9393578aa59d0c1b98fcb3814","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-28T06:17:15Z"}
+{"name":"kevy-index","vers":"4.1.1","deps":[],"cksum":"645df0b1f657d253446165c10d4ad546bff3d0d9ada5740b556b5b9d6c33ca27","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-31T00:17:40Z"}
