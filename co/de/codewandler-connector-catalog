@@ -1,0 +1,1 @@
+{"name":"codewandler-connector-catalog","vers":"0.7.0","deps":[{"name":"flux-lang","req":"^0.41","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev","package":"codewandler-flux-lang"}],"cksum":"4f108d61063d3e5f69c9a851e5ddca8b5c74a32eac892ea4442025b54863c747","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-07-31T19:55:49Z"}
