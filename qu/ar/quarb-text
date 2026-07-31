@@ -1,0 +1,1 @@
+{"name":"quarb-text","vers":"0.16.0","deps":[{"name":"quarb","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4717ecaad4245df25cdbd2e6f04ced34ec228368399e71c430b965a92f76d4d4","features":{},"yanked":false,"pubtime":"2026-07-31T01:19:31Z"}
