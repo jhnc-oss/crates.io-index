@@ -1,0 +1,1 @@
+{"name":"cuttlefish-sdk","vers":"0.0.1","deps":[{"name":"cuttlefish-abi","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"763f883cbb7483b325d62927d64df618a99ee0792a38731a27a2d6d55fc68d24","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-31T21:11:48Z"}
