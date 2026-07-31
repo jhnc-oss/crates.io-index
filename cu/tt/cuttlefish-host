@@ -1,0 +1,1 @@
+{"name":"cuttlefish-host","vers":"0.0.1","deps":[{"name":"cuttlefish-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1bde7ef2ce289816ffc6fe04a5f454303c84d45462120e07f1ad652287f74e84","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-31T21:12:04Z"}
