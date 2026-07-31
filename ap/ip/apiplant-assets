@@ -1,1 +1,2 @@
 {"name":"apiplant-assets","vers":"0.1.0","deps":[],"cksum":"c5a06bda24f78699c69acadeec85d54f3678de7ced37dbca339208f587a536f9","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-07-28T21:28:22Z"}
+{"name":"apiplant-assets","vers":"0.2.0","deps":[],"cksum":"51128785e06d3d207fffcc7c14eb2e37f23cea42a2d42d3655c956159c4c087d","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-07-31T21:37:25Z"}
