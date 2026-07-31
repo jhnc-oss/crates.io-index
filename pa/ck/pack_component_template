@@ -189,3 +189,4 @@
 {"name":"pack_component_template","vers":"1.2.0-dev.30350389155","deps":[],"cksum":"be9b8024f3d7fd2df3e89273b47c8ed079e84f5a0f4743ac19eb1b575fce1e88","features":{},"yanked":false,"pubtime":"2026-07-28T10:43:41Z"}
 {"name":"pack_component_template","vers":"1.2.0-dev.30351871128","deps":[],"cksum":"853f535f0ce38031023e745e1532dd8e2fd0f5815c4eae5505928a6d03f3aba4","features":{},"yanked":false,"pubtime":"2026-07-28T10:59:16Z"}
 {"name":"pack_component_template","vers":"1.2.0-dev.30517394876","deps":[],"cksum":"544e5eacb2a13574dd34ae231ee021d44dc8ed986e02f7026b0620963957582b","features":{},"yanked":false,"pubtime":"2026-07-30T06:58:14Z"}
+{"name":"pack_component_template","vers":"1.2.0-dev.30611663393","deps":[],"cksum":"aa198174d7d61fceed345d55a9fe81b111d4c7f83e0aaf46802a4cc418ab89e9","features":{},"yanked":false,"pubtime":"2026-07-31T08:14:20Z"}
