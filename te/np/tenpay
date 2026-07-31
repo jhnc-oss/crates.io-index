@@ -1,0 +1,1 @@
+{"name":"tenpay","vers":"0.0.1","deps":[{"name":"chrono","req":"^0.4","features":["clock","std","serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"272e59474604dfab4694dbbd3de130255b5957a54758dfe49ac289370b14375b","features":{"default":["full"],"full":[]},"yanked":false,"pubtime":"2026-07-31T07:37:52Z"}
