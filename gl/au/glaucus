@@ -1,0 +1,1 @@
+{"name":"glaucus","vers":"0.0.0","deps":[{"name":"chrono","req":"^0.4.45","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7ff98b31677b80de2d69c1e17297cdd360713ede9b81ab0eff1f26f35c9b1cc4","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-07-31T22:43:33Z"}
