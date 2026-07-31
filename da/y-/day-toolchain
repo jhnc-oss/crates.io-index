@@ -13,3 +13,4 @@
 {"name":"day-toolchain","vers":"0.0.17","deps":[],"cksum":"8cd7151d732213a6e8261901268aebde4cfbb3d81b641847a663ce141a82f541","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-29T10:52:18Z"}
 {"name":"day-toolchain","vers":"0.0.18","deps":[],"cksum":"6c6817daac6291aba2fa9dd9fa12d794cf500d26e3b55ddc613794fc59b7a8af","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-29T22:09:51Z"}
 {"name":"day-toolchain","vers":"0.0.19","deps":[],"cksum":"5f97eeed9915e7ab11e9af70d02fe534bccd185fa2500b5d55509b9ff8a5d7a9","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-30T23:52:02Z"}
+{"name":"day-toolchain","vers":"0.1.0","deps":[],"cksum":"f5443b320b3c1aeae9d328101c38693e47fd23b8b05f35b350d913d8ef7170c5","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-31T01:02:54Z"}
