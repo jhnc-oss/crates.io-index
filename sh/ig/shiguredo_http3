@@ -3,3 +3,4 @@
 {"name":"shiguredo_http3","vers":"2026.1.0-canary.2","deps":[],"cksum":"239e926a2a1e2ef997598cd705344f52383c35c2b7f2465180161f9f544dbc7b","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-30T05:16:58Z"}
 {"name":"shiguredo_http3","vers":"2026.1.0-canary.3","deps":[],"cksum":"34eba1516387af1d06c84e6d654aa5504e526f7263c293ee76644da0d94a124d","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-06-07T10:59:46Z"}
 {"name":"shiguredo_http3","vers":"2026.1.0-canary.4","deps":[],"cksum":"3ec0b4774e2d366ffe4217b36faad4074010fdf3b8f5fe78f93c9098cf371438","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-07-31T01:19:08Z"}
+{"name":"shiguredo_http3","vers":"2026.1.0-canary.5","deps":[],"cksum":"ef26ca0d55eef87b23f412d7e43c8f7095d3e9a28059937741d87d963c7b6a8a","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-07-31T02:11:54Z"}
