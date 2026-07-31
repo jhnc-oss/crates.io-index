@@ -1,0 +1,1 @@
+{"name":"statekit","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"053cfbf343f1a5b8b1907f32702c6483bfd526deaac80319a2d064f8a195af40","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-31T01:58:34Z"}
