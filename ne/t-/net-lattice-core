@@ -2,3 +2,4 @@
 {"name":"net-lattice-core","vers":"0.2.0","deps":[],"cksum":"48c8a9d48c62f0c2852fe84fcd6e984d90c42517090e77e57e2115712599da5d","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-07-30T17:51:34Z"}
 {"name":"net-lattice-core","vers":"0.2.1","deps":[],"cksum":"c408c3fe60845c5099f1b4cbc94cc0bef08416f8c5f9fcec9511f9cb2eda7a2e","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-07-31T03:28:29Z"}
 {"name":"net-lattice-core","vers":"0.3.0","deps":[],"cksum":"7c674f8ead165eee6a1c8297bf2c371432394ec46c9a8c81da148a4effdc1d75","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-07-31T20:13:30Z"}
+{"name":"net-lattice-core","vers":"0.3.1","deps":[],"cksum":"52b02415b723d0479a82bd12d5207d640dc6399329f45265c0b36abcb80d80cd","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-01T09:55:11Z"}
