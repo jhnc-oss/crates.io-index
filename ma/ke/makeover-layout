@@ -4,3 +4,4 @@
 {"name":"makeover-layout","vers":"0.4.0","deps":[],"cksum":"bab23683bb15b9855a8fd7f22d71d72500b99c310cb3ffdbad0ff73833a2e320","features":{},"yanked":false,"pubtime":"2026-07-30T12:25:34Z"}
 {"name":"makeover-layout","vers":"0.5.0","deps":[],"cksum":"0a733d3943b405611b466caab47159ae11fd0d8f01ab4e50bdeabd0b66b477e8","features":{},"yanked":false,"pubtime":"2026-07-30T13:01:52Z"}
 {"name":"makeover-layout","vers":"0.6.0","deps":[],"cksum":"ad745601b5220b2244d73a5da3f3854aefe4cdc955dd45c6d3aa5781ad645f5a","features":{},"yanked":false,"pubtime":"2026-07-30T14:12:46Z"}
+{"name":"makeover-layout","vers":"0.6.1","deps":[],"cksum":"f029dc60fe5771baf20c64265dbfc2e2d97c12e2c5cb00fd6e40d97e5c1dc885","features":{},"yanked":false,"pubtime":"2026-08-01T14:44:18Z"}
