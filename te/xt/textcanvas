@@ -15,3 +15,4 @@
 {"name":"textcanvas","vers":"3.7.1","deps":[],"cksum":"2608113501c78c4cdbf4d41a90a5c1615353c0bce3b821bec5387edbb50c190c","features":{},"yanked":false,"pubtime":"2025-03-22T17:22:23Z"}
 {"name":"textcanvas","vers":"3.7.2","deps":[],"cksum":"1e86a612a564bb7fbece32d2121550d4227d84ea05803dbda7e61d9caefeaaff","features":{},"yanked":false,"pubtime":"2025-03-24T23:38:47Z"}
 {"name":"textcanvas","vers":"3.8.0","deps":[],"cksum":"3722ca4db637a7ca1f954282bcb68e248f92824d59942bd65893011a69fbd9df","features":{},"yanked":false,"pubtime":"2025-04-26T10:00:49Z"}
+{"name":"textcanvas","vers":"3.9.0","deps":[],"cksum":"bdc260c6f7dd4cc82b2a3c7983e73d2a1def74509631b26edb76d3b9fbf18841","features":{},"yanked":false,"pubtime":"2026-08-01T23:20:23Z"}
