@@ -1,1 +1,2 @@
 {"name":"tpt-telos-parser","vers":"0.1.0","deps":[],"cksum":"e82276fbb7259785386865adbf5a8358b8cb30552559968ff2197d59e6f13430","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-07-16T09:41:36Z"}
+{"name":"tpt-telos-parser","vers":"0.1.1","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3cfcba81db7f13cde60a3e0dd42d89ace568fbb1c370cea93a546400e10c18e6","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-01T22:51:20Z"}
