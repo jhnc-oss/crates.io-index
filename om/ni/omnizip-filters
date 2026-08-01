@@ -1,0 +1,1 @@
+{"name":"omnizip-filters","vers":"0.1.0","deps":[{"name":"omnizip-codecs","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c197cc4f2df3324e57fe40ddc51c3ec726c810d9c7ffd12d2b5755cb447f330","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-01T11:52:56Z"}
