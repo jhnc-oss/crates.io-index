@@ -1,0 +1,1 @@
+{"name":"lanekeep-rules","vers":"0.1.1","deps":[{"name":"lanekeep-testkit","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2917de3b28485ce52fe27981404228ff68804771ed00ed598fbdf1b95f08f3e3","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-01T22:21:13Z"}
