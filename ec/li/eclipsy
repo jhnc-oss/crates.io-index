@@ -10,3 +10,4 @@
 {"name":"eclipsy","vers":"0.1.9","deps":[],"cksum":"52f03f6851f4196688cd8dfac165057905bab9c03d501113e292cdac140b1776","features":{},"yanked":false,"pubtime":"2026-08-01T07:13:27Z"}
 {"name":"eclipsy","vers":"0.1.10","deps":[],"cksum":"a7a8d69b7b68d2cae73bd7d26b0463d772a53356c2245f3ee80b9964d0e9669b","features":{},"yanked":false,"pubtime":"2026-08-01T16:57:24Z"}
 {"name":"eclipsy","vers":"0.1.11","deps":[],"cksum":"4cc0b2733eb25e723ad460d14f62b1bbaa85dd619e2a0a4197b229ca903a6929","features":{},"yanked":false,"pubtime":"2026-08-01T17:31:05Z"}
+{"name":"eclipsy","vers":"0.1.12","deps":[],"cksum":"dacda7c4b2a6bca6b84a8ee3aa0084900fc3c00f888e39d85d0ace3894cb9469","features":{},"yanked":false,"pubtime":"2026-08-01T17:38:01Z"}
