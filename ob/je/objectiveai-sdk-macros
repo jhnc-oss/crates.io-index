@@ -24,3 +24,4 @@
 {"name":"objectiveai-sdk-macros","vers":"2.2.12","deps":[],"cksum":"b07079ab7681fbfdb8f226a4219df562e8bd1b0bd2b2365e9e35f8ff55601180","features":{},"yanked":false,"pubtime":"2026-07-17T23:03:55Z"}
 {"name":"objectiveai-sdk-macros","vers":"2.2.13","deps":[],"cksum":"dfd8f0f85c0f61b28b7f406dfc2eefd3b6e3ba1304054378b1d3c36aca2fe08f","features":{},"yanked":false,"pubtime":"2026-07-28T07:48:34Z"}
 {"name":"objectiveai-sdk-macros","vers":"2.2.14","deps":[],"cksum":"af36e7ce777ba0883ea45bfc3facf9f83232bafa48de5fd87e6a278b8b49bd43","features":{},"yanked":false,"pubtime":"2026-07-30T08:32:52Z"}
+{"name":"objectiveai-sdk-macros","vers":"2.2.15","deps":[],"cksum":"a8d3e49353dae869f556a90a431d3956044056afa9e89006177f2921323fea64","features":{},"yanked":false,"pubtime":"2026-08-01T03:08:00Z"}
