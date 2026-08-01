@@ -8,3 +8,4 @@
 {"name":"eclipsy","vers":"0.1.7","deps":[],"cksum":"2d90cb6da0019e7f86aee37d6aa31168539c67047df932327406b179b1e96cbf","features":{},"yanked":false,"pubtime":"2026-08-01T06:29:47Z"}
 {"name":"eclipsy","vers":"0.1.8","deps":[],"cksum":"6e8a13a30abebe0cec410415c64edba41227d4211e06a8b621d22fee06ab7fda","features":{},"yanked":false,"pubtime":"2026-08-01T06:33:43Z"}
 {"name":"eclipsy","vers":"0.1.9","deps":[],"cksum":"52f03f6851f4196688cd8dfac165057905bab9c03d501113e292cdac140b1776","features":{},"yanked":false,"pubtime":"2026-08-01T07:13:27Z"}
+{"name":"eclipsy","vers":"0.1.10","deps":[],"cksum":"a7a8d69b7b68d2cae73bd7d26b0463d772a53356c2245f3ee80b9964d0e9669b","features":{},"yanked":false,"pubtime":"2026-08-01T16:57:24Z"}
