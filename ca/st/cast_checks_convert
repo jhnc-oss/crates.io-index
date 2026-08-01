@@ -6,3 +6,4 @@
 {"name":"cast_checks_convert","vers":"0.1.5","deps":[],"cksum":"2794a887efab1c03c774eb442a710bd37a605a65fb0a608472b93a0be2ba539b","features":{},"yanked":false,"pubtime":"2024-05-03T17:30:59Z"}
 {"name":"cast_checks_convert","vers":"0.1.6","deps":[],"cksum":"07832b84341778d3b2bf64c0325e0cb81f9f0b588ed9e9a983071edf73d3e11c","features":{},"yanked":false,"pubtime":"2025-04-20T22:39:56Z"}
 {"name":"cast_checks_convert","vers":"0.1.7","deps":[],"cksum":"aa16f35b5451385b4754631414de805ca822e052e15ce751baceaeebc3f17d96","features":{},"yanked":false,"pubtime":"2026-07-27T23:26:09Z"}
+{"name":"cast_checks_convert","vers":"0.1.8","deps":[],"cksum":"528f6241eab7f6cfa2abe06a403bfb68e2d9d0e3be9a06e24834db829e9931fa","features":{},"yanked":false,"pubtime":"2026-08-01T22:17:41Z"}
