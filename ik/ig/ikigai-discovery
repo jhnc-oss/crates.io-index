@@ -1,0 +1,1 @@
+{"name":"ikigai-discovery","vers":"0.1.9","deps":[{"name":"mdns-sd","req":"^0.20","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"801c410f2c6496bb25026cb8067e3cdee77a8659d57162987882fd3961a449a3","features":{},"yanked":false,"pubtime":"2026-08-01T13:54:41Z"}
