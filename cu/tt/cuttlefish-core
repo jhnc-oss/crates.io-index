@@ -1,1 +1,2 @@
 {"name":"cuttlefish-core","vers":"0.0.1","deps":[],"cksum":"e7f6d2a4f51f9984e7817f930d22a701ba2056eacdeccc3281949430d5cc77ad","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-31T21:11:30Z"}
+{"name":"cuttlefish-core","vers":"0.0.2","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf4b1ad23d4b8586bfe64baa212e10cb5f3f80c2291df5058e51643b1251ef61","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-08-01T15:28:36Z"}
