@@ -1,0 +1,1 @@
+{"name":"geneweb","vers":"0.1.0","deps":[{"name":"ged_io","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef3225404a449c70497c56d23b68abef802d5b3d424cfced5239831df095420a","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-01T12:36:26Z"}
