@@ -1,0 +1,1 @@
+{"name":"codewandler-connector-address","vers":"0.9.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6c36369460fc371a5844faca03e29b105b3505f156b40894495a2a6de3c2020","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-08-01T13:09:02Z"}
