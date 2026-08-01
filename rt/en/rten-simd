@@ -13,3 +13,4 @@
 {"name":"rten-simd","vers":"0.22.1","deps":[],"cksum":"c970be9fe37a05428a4ac6876fc32e126d6fc9c0e5cef78a7e69a751ccc8535b","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2025-09-18T18:20:06Z"}
 {"name":"rten-simd","vers":"0.23.0","deps":[],"cksum":"3459e4fdcb59d89d6d5fb004bdfd2a08347042cd690a3e9c22d98710a89839bd","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2025-10-16T06:28:46Z"}
 {"name":"rten-simd","vers":"0.24.0","deps":[],"cksum":"b19a0032dfcb70dd20960c1c51a37674b237586cbc1ce586f45b46605d108e82","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2025-12-23T14:59:34Z"}
+{"name":"rten-simd","vers":"0.25.0","deps":[],"cksum":"b5b7fa7c387ec732563348c923e5a0442e3a2a0977b380b90173e5cf2b50aae1","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-08-01T07:25:40Z"}
