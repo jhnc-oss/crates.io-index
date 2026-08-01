@@ -1,2 +1,3 @@
 {"name":"brynja-core","vers":"0.1.0","deps":[],"cksum":"0e9287822f972071207b3793f829c012a846f89407b7a745e20e5eb9b9e3b540","features":{"default":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-26T17:19:57Z"}
 {"name":"brynja-core","vers":"0.2.0","deps":[],"cksum":"4690617147595f8d19b47bd5d46912c78708d2656ae3fbd39287884351864324","features":{"default":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-07-31T12:34:58Z"}
+{"name":"brynja-core","vers":"0.3.0","deps":[],"cksum":"f33791f3692266a6bfe53e3a8e3bd656212c00552a50bc1907a89c4d513c3d2d","features":{"default":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-08-01T14:57:56Z"}
