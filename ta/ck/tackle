@@ -1,0 +1,1 @@
+{"name":"tackle","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.53.1","features":["macros","rt-multi-thread"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2cade58c927d28b240353a5487bf95e31a597a6c40140df60915786eccd93227","features":{},"yanked":false,"rust_version":"1.75.0","pubtime":"2026-08-01T19:13:28Z"}
