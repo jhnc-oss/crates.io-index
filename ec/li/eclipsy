@@ -5,3 +5,4 @@
 {"name":"eclipsy","vers":"0.1.4","deps":[],"cksum":"03d95c054d8a2a478419674e67c02ca502738f67bf7f245117d5901535558f75","features":{},"yanked":false,"pubtime":"2026-08-01T06:25:15Z"}
 {"name":"eclipsy","vers":"0.1.5","deps":[],"cksum":"fde63d184e8631ec8da14698d83b3e33b8b00dc554fad0cf33130cbf0f9223c8","features":{},"yanked":false,"pubtime":"2026-08-01T06:27:26Z"}
 {"name":"eclipsy","vers":"0.1.6","deps":[],"cksum":"80521ea6574a03a5f65e106c878ea288eb617e491bfb661cd392d91167d7a771","features":{},"yanked":false,"pubtime":"2026-08-01T06:28:14Z"}
+{"name":"eclipsy","vers":"0.1.7","deps":[],"cksum":"2d90cb6da0019e7f86aee37d6aa31168539c67047df932327406b179b1e96cbf","features":{},"yanked":false,"pubtime":"2026-08-01T06:29:47Z"}
