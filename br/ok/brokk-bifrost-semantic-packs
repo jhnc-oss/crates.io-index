@@ -1,0 +1,1 @@
+{"name":"brokk-bifrost-semantic-packs","vers":"0.8.18","deps":[{"name":"brokk-bifrost-analysis","req":"=0.8.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b8a6d798437fc72d35d98f393862c3d3c057e354e5c262eeab7c6011d120ed78","features":{},"yanked":false,"pubtime":"2026-08-02T15:37:48Z"}
