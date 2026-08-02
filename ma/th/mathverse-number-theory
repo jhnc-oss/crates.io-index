@@ -1,0 +1,1 @@
+{"name":"mathverse-number-theory","vers":"0.1.1","deps":[{"name":"mathverse-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"151fb55a672445fefb04d3ec40e596a4ff363c39b6198a20041648542e2813f6","features":{},"yanked":false,"pubtime":"2026-08-02T08:24:24Z"}
