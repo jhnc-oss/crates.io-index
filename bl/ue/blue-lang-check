@@ -1,0 +1,1 @@
+{"name":"blue-lang-check","vers":"0.0.2","deps":[{"name":"tatara-lisp","req":"^0.3.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1cc145eb5d8678f160c713c2370021e055712d6f4dfe4f6400ff63d9b273408","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-02T00:12:43Z"}
