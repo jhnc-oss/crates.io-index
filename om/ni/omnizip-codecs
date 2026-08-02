@@ -1,3 +1,4 @@
 {"name":"omnizip-codecs","vers":"0.1.0","deps":[],"cksum":"3292b4238247b9afbdb8376b637b8991a52629e89c33d8448014f5ed8954a7be","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-01T11:18:43Z"}
 {"name":"omnizip-codecs","vers":"0.2.0","deps":[],"cksum":"d8c320f2755144eb6aa8b22afd07aa84d542fbe2d211506e198792fccbab479d","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-01T15:08:39Z"}
 {"name":"omnizip-codecs","vers":"0.3.0","deps":[],"cksum":"abc0f8ee5d33ed65bd9446b4b075a3176f7f5159abaa8c0270f2b6127d8e9dab","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-01T23:17:44Z"}
+{"name":"omnizip-codecs","vers":"0.4.0","deps":[],"cksum":"4bd71032126b1b86b7629e5f73185c960b60c8655792b5f8c9451b75c2a9a2a8","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-02T00:45:50Z"}
