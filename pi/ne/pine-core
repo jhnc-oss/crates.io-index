@@ -1,0 +1,1 @@
+{"name":"pine-core","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de5e92c802d7125048366fa292f0c31e233f7704a7380a64e90be6a2b7a64ab7","features":{},"yanked":false,"pubtime":"2026-08-02T18:34:28Z"}
