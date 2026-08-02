@@ -1,0 +1,1 @@
+{"name":"secbench-adversary","vers":"0.0.1","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4c6f6e2a3ad990b54fe858a87ff219c840cc4001145602e373fec65a7c08d71c","features":{},"yanked":false,"pubtime":"2026-08-02T06:12:38Z"}
