@@ -1,0 +1,1 @@
+{"name":"omnizip-ricepp","vers":"0.4.0","deps":[{"name":"omnizip-codecs","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e67f194dbf68e6e650daf99f6f23a736cf319173aff9d76fe79362a8dcaad386","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-02T00:48:00Z"}
