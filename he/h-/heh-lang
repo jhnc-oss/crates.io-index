@@ -1,1 +1,2 @@
 {"name":"heh-lang","vers":"1.0.1","deps":[],"cksum":"5d3d049db3ff7d22b0ddfb1a008f350b724427cf808070d18a313c1386854f10","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-08-02T12:34:33Z"}
+{"name":"heh-lang","vers":"1.0.2","deps":[],"cksum":"e329f19fcc58a52cadb1d60b38649c96cce9cf6eaaeb68275135b54cf695839a","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-08-02T13:06:55Z"}
