@@ -1,0 +1,1 @@
+{"name":"blit-sd-notify","vers":"0.43.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"b296f584275e85f326058afd2d8764b9f2c113f98883b13d44a698004f7b27e5","features":{},"yanked":false,"pubtime":"2026-08-02T20:49:22Z"}
