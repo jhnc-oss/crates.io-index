@@ -1,1 +1,0 @@
-{"name":"winix-ffi","vers":"0.1.1","deps":[{"name":"winix-build-specs","req":"^0.1.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"364ae09149823dbb9d16a55f217e05cbbf82760bbb220bed4beee00c87416568","features":{"alloc":[],"default":["std","alloc"],"std":[]},"yanked":false,"pubtime":"2026-08-02T08:11:49Z"}
