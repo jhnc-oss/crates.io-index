@@ -6,3 +6,4 @@
 {"name":"twig-sys-macos-arm64","vers":"2.5.0","deps":[],"cksum":"ae0bbee57a63dd557c72ff049b1886fbfcfa551b3e83b1730296fff7a248cd18","features":{},"yanked":false,"links":"twig_prebuilt_macos_arm64","pubtime":"2026-07-25T18:33:39Z"}
 {"name":"twig-sys-macos-arm64","vers":"2.5.1","deps":[],"cksum":"b76dce715ecdc65b8666c977e99842f7d2a3c49844fe44be7fb506d18d9e29f8","features":{},"yanked":false,"links":"twig_prebuilt_macos_arm64","pubtime":"2026-07-28T18:51:02Z"}
 {"name":"twig-sys-macos-arm64","vers":"2.6.0","deps":[],"cksum":"922623c95adc218a758c6deaf5743867fa5ed96089c2ca89c515661bce011f61","features":{},"yanked":false,"links":"twig_prebuilt_macos_arm64","pubtime":"2026-07-29T01:47:40Z"}
+{"name":"twig-sys-macos-arm64","vers":"2.7.0","deps":[],"cksum":"12f69b18b14264429ddc78a7c0c6cc867b50363d9e50878498f0485a044008a4","features":{},"yanked":false,"links":"twig_prebuilt_macos_arm64","pubtime":"2026-08-02T04:20:46Z"}
