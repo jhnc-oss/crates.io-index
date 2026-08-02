@@ -1,0 +1,1 @@
+{"name":"kcode-speaker-dataset","vers":"0.1.0","deps":[{"name":"kcode-speaker-types","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d26e1d1ba4ee220e123f099b56fe174eae9d3779e1ba6826520bae7ec79010d7","features":{},"yanked":false,"pubtime":"2026-08-02T05:03:31Z"}
