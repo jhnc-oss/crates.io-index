@@ -1,0 +1,1 @@
+{"name":"omnizip-bzip2","vers":"0.11.1","deps":[{"name":"omnizip-codecs","req":"^0.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4886af984c6d188914dc16745b59fb72200cd767510026d8eeecde1561d40647","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-02T15:36:32Z"}
