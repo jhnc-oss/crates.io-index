@@ -1,0 +1,1 @@
+{"name":"omnizip-fsst","vers":"0.4.0","deps":[{"name":"omnizip-codecs","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f24416fe1bf21f2cbe2dc2166ed5d5d2e2cbc2fdd394d6fa633225b1cc043ac6","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-02T00:47:44Z"}
