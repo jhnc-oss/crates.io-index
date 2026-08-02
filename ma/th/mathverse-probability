@@ -1,0 +1,1 @@
+{"name":"mathverse-probability","vers":"0.1.0","deps":[{"name":"mathverse-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b62d11b7595ac17929980b6c4de32cd6af2e5d44c8b1096d52ae23df2ef1627b","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-08-02T05:36:16Z"}
