@@ -6,3 +6,4 @@
 {"name":"twig-sys-linux-x64-gnu","vers":"2.5.0","deps":[],"cksum":"6854f639e25503382265df06b62abc5a96886fe37e557d7810576f5f111e73ea","features":{},"yanked":false,"links":"twig_prebuilt_linux_x64_gnu","pubtime":"2026-07-25T18:33:43Z"}
 {"name":"twig-sys-linux-x64-gnu","vers":"2.5.1","deps":[],"cksum":"90a7f9d75d50e67af2ec2a1e440e3995a9e907a0725398dd0fe7dda5c3ae149e","features":{},"yanked":false,"links":"twig_prebuilt_linux_x64_gnu","pubtime":"2026-07-28T18:51:05Z"}
 {"name":"twig-sys-linux-x64-gnu","vers":"2.6.0","deps":[],"cksum":"5bd97019c4394bce79d0c9b5497c823368f2282b94d446d2f75db7746661d14e","features":{},"yanked":false,"links":"twig_prebuilt_linux_x64_gnu","pubtime":"2026-07-29T01:47:42Z"}
+{"name":"twig-sys-linux-x64-gnu","vers":"2.7.0","deps":[],"cksum":"fdf70e09b6d893646407cc2792e5bf59af28ed3549d9b2b33937f6244f8f42f6","features":{},"yanked":false,"links":"twig_prebuilt_linux_x64_gnu","pubtime":"2026-08-02T04:20:49Z"}
