@@ -1,0 +1,1 @@
+{"name":"ferronote-search","vers":"0.1.0","deps":[{"name":"regex","req":"^1.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df177778c5c00a140631b811d3df085916e32f904b4275153bbb256c89e9f281","features":{},"yanked":false,"pubtime":"2026-08-02T04:47:32Z"}
