@@ -1,0 +1,1 @@
+{"name":"rostra-util-error","vers":"0.1.0","deps":[{"name":"snafu","req":"^0.8.5","features":["rust_1_81"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"302a67458334774b1ef0013c1383a24611cde91352cc73ce2d9a7cc3003c82bd","features":{"default":[]},"yanked":false,"rust_version":"1.91","pubtime":"2026-08-02T05:06:54Z"}
