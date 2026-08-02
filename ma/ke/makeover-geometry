@@ -4,3 +4,4 @@
 {"name":"makeover-geometry","vers":"0.4.0","deps":[],"cksum":"ec63a50eb9934c2cd416912048c9437a61657064c1947e40571f5fd37a22ffe6","features":{},"yanked":false,"pubtime":"2026-07-31T19:57:31Z"}
 {"name":"makeover-geometry","vers":"0.5.0","deps":[],"cksum":"82ee120283cbd1bf83cb0b51531ccf8b90ee33e72421c57eb8fd11b314259275","features":{},"yanked":false,"pubtime":"2026-08-02T15:40:49Z"}
 {"name":"makeover-geometry","vers":"0.6.0","deps":[],"cksum":"b2466b8ca54dba9ef62f3679b33c90a0554e507c23e7b725c178ce9d277f542e","features":{},"yanked":false,"pubtime":"2026-08-02T16:47:34Z"}
+{"name":"makeover-geometry","vers":"0.6.1","deps":[],"cksum":"a77509284612547c48a23a1773cba70ac4b6510ff5c7618979d49cac7976878b","features":{},"yanked":false,"pubtime":"2026-08-02T21:09:45Z"}
