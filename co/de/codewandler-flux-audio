@@ -68,3 +68,4 @@
 {"name":"codewandler-flux-audio","vers":"0.49.0","deps":[],"cksum":"3fcd1eec2c8bcf1e1f077a45b3663f1efb9fce7eb1e464f7a4fc0666a118bba4","features":{},"yanked":false,"pubtime":"2026-08-02T01:38:25Z"}
 {"name":"codewandler-flux-audio","vers":"0.50.0","deps":[],"cksum":"aca20e9b9f7aaae48c4435731250faa7c07e16b970ac7c791289a853bebeddec","features":{},"yanked":false,"pubtime":"2026-08-02T05:16:21Z"}
 {"name":"codewandler-flux-audio","vers":"0.51.0","deps":[],"cksum":"16ab8a3acc75b7d31b29fc42fb3a1c262f53c0d10925e315e7b76e32f999e605","features":{},"yanked":false,"pubtime":"2026-08-02T10:57:35Z"}
+{"name":"codewandler-flux-audio","vers":"0.51.1","deps":[],"cksum":"142cd62be4f9b0425f3dad301b4935b0ff6f60099d4b5b2041df2c0b0f7cd37b","features":{},"yanked":false,"pubtime":"2026-08-02T11:35:34Z"}
