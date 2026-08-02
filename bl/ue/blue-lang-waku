@@ -1,0 +1,1 @@
+{"name":"blue-lang-waku","vers":"0.0.2","deps":[{"name":"tatara-lisp","req":"^0.3.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ce12bcdfa0d6e5866c4b414f4eeab1fe7879c4b5c580a3fc1ddd83f64d12f94","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-02T00:12:45Z"}
