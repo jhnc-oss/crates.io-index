@@ -3,3 +3,4 @@
 {"name":"fandhe-frontend-cli","vers":"0.2.1","deps":[],"cksum":"e8c93b63c0cda4322d7c2b160e25ed8570364ee162eb6e82755fbff12d9d005e","features":{},"yanked":false,"pubtime":"2026-08-01T18:14:24Z"}
 {"name":"fandhe-frontend-cli","vers":"0.3.0","deps":[],"cksum":"524aef272944f1c18b5f86ffa8e127412990679828dcdf1ddb5bf325cfe8d1a5","features":{},"yanked":false,"pubtime":"2026-08-02T04:25:18Z"}
 {"name":"fandhe-frontend-cli","vers":"0.3.1","deps":[],"cksum":"dcc58d3339986eb4a43f63fd39f28a1642638d61cd2d26c248850b0595edbd90","features":{},"yanked":false,"pubtime":"2026-08-02T05:27:35Z"}
+{"name":"fandhe-frontend-cli","vers":"0.3.2","deps":[],"cksum":"5170cb4a291bbd7dc7ad2ddcb7d5acb6f95125d54a575e2efde9702a67d62a72","features":{},"yanked":false,"pubtime":"2026-08-02T08:46:05Z"}
