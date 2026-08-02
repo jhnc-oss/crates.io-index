@@ -1,0 +1,1 @@
+{"name":"ps-crockford32","vers":"0.1.0-0","deps":[],"cksum":"7438099ef4f3face90877f7bd65ac5d2a4665aa54810fbfe7245cd2b330cd36e","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.81","pubtime":"2026-08-02T10:39:48Z"}
