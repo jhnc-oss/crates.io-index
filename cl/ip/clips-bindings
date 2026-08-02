@@ -1,0 +1,1 @@
+{"name":"clips-bindings","vers":"0.1.0+clips-6.4.2","deps":[{"name":"cc","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5d009f1eb45374cc26e08d69c12c5891a513cd0b4763c2b1d6bd64c43813efba","features":{},"yanked":false,"links":"clips","rust_version":"1.85","pubtime":"2026-08-02T14:36:37Z"}
