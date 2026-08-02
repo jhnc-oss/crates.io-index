@@ -1,0 +1,1 @@
+{"name":"omnizip-glza","vers":"0.10.0","deps":[{"name":"omnizip-codecs","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02d8576bde48b62e503cbc211a5d317f68e97fee1e598b3a6397295992a97c7c","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-02T11:53:08Z"}
