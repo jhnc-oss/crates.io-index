@@ -86,3 +86,4 @@
 {"name":"ra_ap_edition","vers":"0.0.342","deps":[],"cksum":"af11f393ae5c6da7a2d8812bce3bdf7fbe9cf79afa065a722e121978c11c80ff","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-13T04:22:49Z"}
 {"name":"ra_ap_edition","vers":"0.0.343","deps":[],"cksum":"b159154d322d3c40866c69e616f280aa1bc78271e59773e5beba4d08623a1fdd","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-20T05:05:31Z"}
 {"name":"ra_ap_edition","vers":"0.0.344","deps":[],"cksum":"ead3a01e604f1c73ec113fa05a7010b4354c36467f42b651326c880c2817d181","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-27T04:39:28Z"}
+{"name":"ra_ap_edition","vers":"0.0.345","deps":[],"cksum":"b48b663833cda8a32cf8b42745ba0e8b3c762b1587770b53b0183b4a2038204f","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-03T04:12:11Z"}
