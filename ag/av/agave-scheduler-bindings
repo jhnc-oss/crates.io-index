@@ -43,3 +43,4 @@
 {"name":"agave-scheduler-bindings","vers":"4.3.0-alpha.2","deps":[],"cksum":"6b5cb6bd0bd3cc6324156f92466fc7c36d4b294532e988951f9fc63ad79bbfbf","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-07-21T13:55:20Z"}
 {"name":"agave-scheduler-bindings","vers":"4.2.0-rc.0","deps":[],"cksum":"32958e68b425165fa9e4c0b15abc9bbcb6cb0c5254be9fe0406bfb9e5e4eaaf5","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-07-24T13:10:00Z"}
 {"name":"agave-scheduler-bindings","vers":"4.2.0-rc.1","deps":[],"cksum":"cc67fdfcacc43354ddfc4bb992f0efcfb3d6d8d1972c96d3c4c6ca0b9b2d48c2","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-07-31T15:56:47Z"}
+{"name":"agave-scheduler-bindings","vers":"5.0.0","deps":[],"cksum":"4729a9b34a80022313a748b9d47f0f1bcb74a96975e8d633f43cd4da8446260f","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-03T15:55:30Z"}
