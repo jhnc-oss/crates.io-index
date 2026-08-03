@@ -1,0 +1,1 @@
+{"name":"deckfile","vers":"1.2.1","deps":[{"name":"tishlang_runtime","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5ebb9e3ed085c8cbd8f3b12c3bd02abfd92ba44886a0c2a549c7a3cc1378d0d","features":{},"yanked":false,"pubtime":"2026-08-03T22:11:10Z"}
