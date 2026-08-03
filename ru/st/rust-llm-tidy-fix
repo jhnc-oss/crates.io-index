@@ -1,0 +1,1 @@
+{"name":"rust-llm-tidy-fix","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"812e5b62bab77e8aedbe3b4daf9a12581586d8b3ae4e1684f44136d758608ac4","features":{},"yanked":false,"pubtime":"2026-08-03T00:50:58Z"}
