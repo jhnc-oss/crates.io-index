@@ -3,3 +3,4 @@
 {"name":"ax-memory-addr","vers":"0.6.7","deps":[],"cksum":"f127518a3a28a94ff995c1f8e61907925b2bb8a297afa923d7bfa81c25f90767","features":{},"yanked":false,"pubtime":"2026-05-08T07:09:18Z"}
 {"name":"ax-memory-addr","vers":"0.6.8","deps":[],"cksum":"6dae99198ed49098a46f417ee0364e330503cf05e1cedd48dd4351065df2586b","features":{},"yanked":false,"pubtime":"2026-05-09T04:33:45Z"}
 {"name":"ax-memory-addr","vers":"0.6.9","deps":[],"cksum":"e861996f613f44e52b2a04a1123bf72c8de2a1766a9fd7132967bf649d5e068f","features":{},"yanked":false,"pubtime":"2026-06-03T07:19:32Z"}
+{"name":"ax-memory-addr","vers":"0.6.10","deps":[{"name":"axtest","req":"^0.5.13","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d341cf69021da47c016a29debf4a324cab7590587c8f700a29b40e76a9e5c71","features":{},"features2":{"axtest":["dep:axtest"]},"yanked":false,"pubtime":"2026-08-03T03:26:21Z","v":2}
