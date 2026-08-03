@@ -1,1 +1,2 @@
 {"name":"agent-repos","vers":"0.0.0","deps":[],"cksum":"36e9badf976f9870919b0323e41001cb1e43eefa9af18cd09f31dd2f658e2bcb","features":{},"yanked":false,"rust_version":"1.96.1","pubtime":"2026-08-03T05:49:01Z"}
+{"name":"agent-repos","vers":"0.0.1","deps":[],"cksum":"c03033e4e5f81466ab75eba911ca6804a1de21f625ab716d54cf580589e98716","features":{},"yanked":false,"rust_version":"1.96.1","pubtime":"2026-08-03T06:46:01Z"}
