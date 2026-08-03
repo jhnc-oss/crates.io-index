@@ -1,1 +1,2 @@
 {"name":"humanize_proper","vers":"0.1.0","deps":[],"cksum":"0e9d08f9a81ed5054550c856dcd83ab8e2a28512899fcbf146935b369ab7e3b8","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-08-03T13:13:56Z"}
+{"name":"humanize_proper","vers":"0.1.1","deps":[],"cksum":"2fe8b160ef47ae699adad71dd14d99b80cf6352017081f17c9a4eebfaed554c8","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-08-03T18:47:15Z"}
