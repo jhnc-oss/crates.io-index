@@ -1,0 +1,1 @@
+{"name":"naopenapi","vers":"1.0.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa2b74df47c045b3001cd217174b17ad00ecad9a976b8236653f0e3b71dcdf6c","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-08-03T05:35:30Z"}
