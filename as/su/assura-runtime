@@ -2,3 +2,4 @@
 {"name":"assura-runtime","vers":"0.2.0","deps":[],"cksum":"bf6c3344c90415bbcf6f2187422ea0f7bce6f4909a8793f3b668508ba7a00635","features":{},"yanked":false,"pubtime":"2026-07-04T17:14:46Z"}
 {"name":"assura-runtime","vers":"0.3.0","deps":[],"cksum":"1eba45b23ee924c30b679ef1cad1d0151c2d8e28f025f42322b643ce88f4f878","features":{},"yanked":false,"pubtime":"2026-07-07T19:49:25Z"}
 {"name":"assura-runtime","vers":"0.4.0","deps":[],"cksum":"2c9a725dd3c6970a374a0d23f396f6c45e35d8909edd6f4e1a9119b6512a37d4","features":{},"yanked":false,"pubtime":"2026-07-14T18:36:13Z"}
+{"name":"assura-runtime","vers":"0.4.1","deps":[],"cksum":"9fae3688279852fa1b2a6a35ab031fe30bce9e4aeb25812a2a44305281413f1b","features":{},"yanked":false,"pubtime":"2026-08-03T12:38:54Z"}
