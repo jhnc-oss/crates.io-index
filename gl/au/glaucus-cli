@@ -1,0 +1,1 @@
+{"name":"glaucus-cli","vers":"0.1.0-1","deps":[{"name":"glaucus","req":"^0.1.0-1","features":["cli"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c393894f793a134aaff04e8a5f4922be867de723a5b6849650432a190793d47b","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-08-03T01:22:29Z"}
