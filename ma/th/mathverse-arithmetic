@@ -1,0 +1,1 @@
+{"name":"mathverse-arithmetic","vers":"0.1.0","deps":[{"name":"mathverse-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9e3492ff7e44f3c505b76374a3154817719b3dc8f54fe1d7a8b49c86e5eadb5","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-08-03T14:08:52Z"}
