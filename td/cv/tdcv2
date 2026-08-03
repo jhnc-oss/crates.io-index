@@ -1,1 +1,2 @@
 {"name":"tdcv2","vers":"0.1.3","deps":[],"cksum":"4a11a8da44b2283a7f6d7bec184fa0abf625fab5120606e4d2a6c1d4e1c3810a","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-02T19:46:39Z"}
+{"name":"tdcv2","vers":"0.1.4","deps":[],"cksum":"9d765ffdd4e9ab53aed04c8b9e277f09006c84479ddead1fed08604cb6440715","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-03T08:15:35Z"}
