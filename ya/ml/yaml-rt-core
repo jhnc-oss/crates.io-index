@@ -1,1 +1,2 @@
 {"name":"yaml-rt-core","vers":"0.1.0","deps":[],"cksum":"b52d9efa3c164a5c5c1e16ea48a84f37a152652d77cf81c23fedef49c9ac472c","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-24T20:47:17Z"}
+{"name":"yaml-rt-core","vers":"0.1.1","deps":[],"cksum":"c190af4c5c3161fbbda96946693e1c99abc1d054e7be1d5613d20accb5f6af74","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-03T13:47:45Z"}
