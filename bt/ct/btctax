@@ -14,3 +14,4 @@
 {"name":"btctax","vers":"0.13.0","deps":[],"cksum":"8cc4dc3ddd729475486f3ca96e94d91666de8e16d6fba385a16b16df4e056343","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-27T22:59:57Z"}
 {"name":"btctax","vers":"0.14.0","deps":[],"cksum":"323c60f360fa0c44218999ea0b655f7c75e3f17f00e6ac9dd968a376c5ce4888","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-29T08:26:10Z"}
 {"name":"btctax","vers":"0.15.0","deps":[],"cksum":"b7c8ff7f8ea8542643c85d46b887657684b30151faada024e99f48a05bccf016","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-03T17:45:58Z"}
+{"name":"btctax","vers":"0.16.0","deps":[],"cksum":"e2d0568094cb88fea795b2834c2d494bd4f9d9ff471bae90ee7561cb178ea1b5","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-03T20:27:54Z"}
