@@ -2,3 +2,4 @@
 {"name":"weavatrix-parse","vers":"0.1.1","deps":[],"cksum":"c18c7e7eac4b0e68bdbe580630979aa096cab605e57af648071542765af85f81","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-29T11:28:31Z"}
 {"name":"weavatrix-parse","vers":"0.2.0","deps":[],"cksum":"e7f002397c99bf1e6f06728931befa2f2afaf46a22e935b82e6560c863062583","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-29T14:43:13Z"}
 {"name":"weavatrix-parse","vers":"0.2.1","deps":[],"cksum":"0cf7fedfa96c39719e662076136d0aaa17e06cadcb1b60c2396891ce2038852e","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-30T06:23:37Z"}
+{"name":"weavatrix-parse","vers":"0.3.0","deps":[],"cksum":"45c35f7f17946d859ac88a0f318b8c1a22bb4c2969a0b435aa99cb0beee35697","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-03T13:28:29Z"}
