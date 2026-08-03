@@ -1,1 +1,2 @@
 {"name":"marver","vers":"0.0.0","deps":[],"cksum":"d094037a8dcfba447ef1c981078635b627eae33d34bd2d2068a8d9fdc2eec2ca","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-03T11:05:18Z"}
+{"name":"marver","vers":"0.0.1","deps":[],"cksum":"eef8a11a48993e191cc0498d7c8f76369f3053126c9b88142da0b5f06533ba7c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-03T11:08:00Z"}
