@@ -7,3 +7,4 @@
 {"name":"hydra-engine-uds","vers":"5.1.0","deps":[],"cksum":"f9b5aef5335fa0d17d9e45e42dbefe762042db00600fdc5058c59da5ff9cd2a4","features":{},"yanked":false,"pubtime":"2026-07-31T19:19:54Z"}
 {"name":"hydra-engine-uds","vers":"6.0.0","deps":[],"cksum":"6990b48098b7b856c0e5eddfd911f26f3068d6c055004497e34283fdd0adf1d9","features":{},"yanked":false,"pubtime":"2026-08-01T00:25:35Z"}
 {"name":"hydra-engine-uds","vers":"7.0.0","deps":[],"cksum":"f97ce888ace5aa04fe6f0932dfffc87efd96228f731297e63d73866d8fa2d4a8","features":{},"yanked":false,"pubtime":"2026-08-01T05:14:16Z"}
+{"name":"hydra-engine-uds","vers":"7.0.1","deps":[],"cksum":"1331edca6c65932294b41299805ca6582b9d73a2f593961860d96f5255a665d8","features":{},"yanked":false,"pubtime":"2026-08-03T03:47:20Z"}
