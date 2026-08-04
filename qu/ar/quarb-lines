@@ -1,0 +1,1 @@
+{"name":"quarb-lines","vers":"0.21.0","deps":[{"name":"quarb","req":"^0.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3913bae3073381a46778ae7f9f10ca2b819d6ae6634523762cfa82ae992790f","features":{},"yanked":false,"pubtime":"2026-08-04T21:45:18Z"}
