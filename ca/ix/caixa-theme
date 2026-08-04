@@ -1,0 +1,1 @@
+{"name":"caixa-theme","vers":"0.1.2","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a507117dc1cbfd4f5befb2d9c327a525a87107a42fb0fd9b06df482f888fa7c","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-04T13:41:31Z"}
