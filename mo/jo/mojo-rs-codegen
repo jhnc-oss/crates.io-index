@@ -1,0 +1,1 @@
+{"name":"mojo-rs-codegen","vers":"0.1.0","deps":[{"name":"mojo-rs-mojom","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b525bf6f2210d25c556bf6c02e8ee6f1cc9dde765de9901281ee8246c3b14dc","features":{},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-08-04T23:35:34Z"}
