@@ -1,0 +1,1 @@
+{"name":"xtxt","vers":"0.2.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"54e0ed7eec9a8fa34c8cd2c89f81883ed8a186cbf73f51fc8575c6be173daf11","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-08-04T19:08:11Z"}
