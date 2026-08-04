@@ -1,1 +1,2 @@
 {"name":"amont-runtime","vers":"1.1.0","deps":[],"cksum":"d0ff60ece1738418333011f28e17c493ae31785e848e679fcda82d09ca0fb331","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-04T00:33:31Z"}
+{"name":"amont-runtime","vers":"1.2.0","deps":[],"cksum":"65fc35ca72ff2fccb6d77987eaeb35d56c8a24aefa14e28755b0d2ff26a5cab7","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-04T05:18:20Z"}
