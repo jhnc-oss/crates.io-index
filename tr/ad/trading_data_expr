@@ -1,0 +1,1 @@
+{"name":"trading_data_expr","vers":"0.3.0","deps":[{"name":"iai-callgrind","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"50cbdc0a61d40249e619c6857c792c91c09fd411df7eec695d2f17d5f73334a9","features":{},"yanked":false,"pubtime":"2026-08-04T22:01:39Z"}
