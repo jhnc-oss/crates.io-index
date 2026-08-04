@@ -1,0 +1,1 @@
+{"name":"hyperscan-src","vers":"5.4.2","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52a2c2c4ba08636b040affc6f1c930a43cd99253a16f5ebe393862849df20210","features":{},"yanked":false,"pubtime":"2026-08-04T09:39:12Z"}
