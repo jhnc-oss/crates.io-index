@@ -1,1 +1,2 @@
 {"name":"escriba-memori","vers":"0.1.26","deps":[],"cksum":"8b75ca7937f5201c4f8deffe599106b1e01d7804d4e908c68b7a237be85160ce","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-04T10:14:04Z"}
+{"name":"escriba-memori","vers":"0.1.27","deps":[],"cksum":"d6d4a528b7ef628921bc337e9e22fbd861692eace30150684819e35713d53a0c","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-04T10:56:06Z"}
