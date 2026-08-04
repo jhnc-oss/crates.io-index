@@ -1,0 +1,1 @@
+{"name":"memra-gguf","vers":"0.69.0","deps":[{"name":"memmap2","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12c40c4476f3d2e97be72d011ea8bf6ae6a91b492eca1598e737e7d9d220df29","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-04T21:21:50Z"}
