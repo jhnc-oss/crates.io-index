@@ -3,3 +3,4 @@
 {"name":"validador-br","vers":"0.1.2","deps":[],"cksum":"9aa67d9df2f69782843c524e15217b1d6efbccf9fca45659a0c8ba8f1769c875","features":{},"yanked":false,"pubtime":"2023-06-11T20:58:35Z"}
 {"name":"validador-br","vers":"0.1.3","deps":[],"cksum":"ccff66947e8f5ac928e59fc13cb4297992c7fde93757332238b9e54c4d478281","features":{},"yanked":false,"pubtime":"2023-06-12T03:53:31Z"}
 {"name":"validador-br","vers":"0.1.4","deps":[],"cksum":"1070663e0f65d095bd8ed1f49197c85f1a5fcd5f087941087e201d230502ef3b","features":{},"yanked":false,"pubtime":"2026-08-03T13:50:24Z"}
+{"name":"validador-br","vers":"0.1.5","deps":[],"cksum":"ac5cb051f3935e7b0d9f7b644ddb2536007025139d15d3060782276ad1b99f1b","features":{},"yanked":false,"pubtime":"2026-08-04T17:14:06Z"}
