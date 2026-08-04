@@ -1,0 +1,1 @@
+{"name":"sesh-ast","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fafc4e8a165742e52801ad739212739392af63a204d201f95ab3e113abcc7ac3","features":{},"yanked":false,"pubtime":"2026-08-04T12:40:22Z"}
