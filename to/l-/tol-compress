@@ -1,0 +1,1 @@
+{"name":"tol-compress","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4e96be9b96e89ab49724aa286d330906bbec7613779f12c5a75709ec48926d50","features":{"corpus":[],"default":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-04T00:16:23Z"}
