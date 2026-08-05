@@ -1,0 +1,1 @@
+{"name":"snapshot-interpolator","vers":"1.0.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79cf6df72ec421da065faaddc26af5fd9bb3400b247b33bd3ecde90847096ee0","features":{},"yanked":false,"pubtime":"2026-08-05T22:55:17Z"}
