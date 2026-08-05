@@ -2,3 +2,4 @@
 {"name":"ferrotherm","vers":"0.2.0","deps":[],"cksum":"4c6ed01a5a2469ed62cfc41c2edc7b52cb17f8df9b73b51909a086b715638afd","features":{},"yanked":false,"pubtime":"2026-08-05T02:02:25Z"}
 {"name":"ferrotherm","vers":"0.3.0","deps":[],"cksum":"a620050b563d3ff8ee35a8ac737105b2fa3d07a1cabb0db8bebed80e5145a8eb","features":{},"yanked":false,"pubtime":"2026-08-05T02:14:17Z"}
 {"name":"ferrotherm","vers":"0.4.0","deps":[],"cksum":"2bbb60224a62985a1c20b99c443026776046085076caa43aaaf870cafa63c926","features":{},"yanked":false,"pubtime":"2026-08-05T03:05:16Z"}
+{"name":"ferrotherm","vers":"0.5.0","deps":[],"cksum":"a34bd5eab88127b543cbe9356a413fe4eac2be7d610093f3b222fa3a05e6df5e","features":{},"yanked":false,"pubtime":"2026-08-05T03:17:03Z"}
