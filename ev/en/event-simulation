@@ -3,3 +3,4 @@
 {"name":"event-simulation","vers":"0.1.2","deps":[],"cksum":"385e158790550ea8adf4f98b041f56495ffedad0fcb1c86ea269bd304a84fcb1","features":{},"yanked":false,"pubtime":"2025-02-17T14:12:39Z"}
 {"name":"event-simulation","vers":"0.2.0","deps":[],"cksum":"a326e593bd5d5d7f14633e43ae53c70a538509d74556bb3f5215f77c9aecb644","features":{},"yanked":false,"pubtime":"2026-03-04T17:25:56Z"}
 {"name":"event-simulation","vers":"0.2.1","deps":[],"cksum":"cf245e86bf4d23ca73d5679d838861d49f03874213e2b155175fb1db68aa0d00","features":{},"yanked":false,"pubtime":"2026-07-08T18:10:44Z"}
+{"name":"event-simulation","vers":"0.2.2","deps":[],"cksum":"8b7f8fe1f099a854e3c0250eb20dd2c4210d9607e792f30ab30a74fc2171c5a6","features":{},"yanked":false,"pubtime":"2026-08-05T14:00:29Z"}
