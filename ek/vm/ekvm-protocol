@@ -1,1 +1,2 @@
 {"name":"ekvm-protocol","vers":"0.0.0","deps":[],"cksum":"fff3b2eeae36f393d08ab17a0db465698905ccc8d48cef1d743de49671474a7d","features":{},"yanked":false,"pubtime":"2026-08-02T17:08:55Z"}
+{"name":"ekvm-protocol","vers":"0.0.1","deps":[],"cksum":"4f2371a49123f38c30db100d1c08012c816d1fd254c02530186252166449b228","features":{},"yanked":false,"pubtime":"2026-08-05T17:03:40Z"}
