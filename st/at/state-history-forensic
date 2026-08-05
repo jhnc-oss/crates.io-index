@@ -1,1 +1,2 @@
 {"name":"state-history-forensic","vers":"0.1.0","deps":[],"cksum":"06d95f05c0dd49a5dfae0eb6cb6fae7bb3bd5c1f787300c94a3a5adecb44d98f","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-16T05:34:31Z"}
+{"name":"state-history-forensic","vers":"0.1.1","deps":[],"cksum":"41b218f92b938038c4a8c7e38389e9751711d8cd9099991061e52bc274c398b6","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-05T01:07:38Z"}
