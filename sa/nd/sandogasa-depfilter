@@ -25,3 +25,4 @@
 {"name":"sandogasa-depfilter","vers":"0.18.1","deps":[],"cksum":"03c4a6018d1a06b7094ef99bde8c7e3aba09807433f223493b8dad5c4aef64f4","features":{},"yanked":false,"pubtime":"2026-07-23T13:24:33Z"}
 {"name":"sandogasa-depfilter","vers":"0.18.2","deps":[],"cksum":"8dd0a97bd5ea409f54653998346ff0c1230015b34ae960b6f32f05ba33a9d82d","features":{},"yanked":false,"pubtime":"2026-07-28T20:04:33Z"}
 {"name":"sandogasa-depfilter","vers":"0.19.0","deps":[],"cksum":"8603f88e9456d40add73f6899a78c0156466bc35e71a83c3c01ed8c64b8e1a9d","features":{},"yanked":false,"pubtime":"2026-08-04T21:43:34Z"}
+{"name":"sandogasa-depfilter","vers":"0.19.1","deps":[],"cksum":"04dcf2c7b7b0df0e70e248005dc17128c6d76588c6d3576161b384e4a9a043ef","features":{},"yanked":false,"pubtime":"2026-08-05T17:02:39Z"}
