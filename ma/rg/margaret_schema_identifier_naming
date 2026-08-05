@@ -1,0 +1,1 @@
+{"name":"margaret_schema_identifier_naming","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"513b40e43ecb8f073a4eec711972bc19cd09c1b2a5179771c363ba2dd5efa1bd","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-08-05T12:20:07Z"}
