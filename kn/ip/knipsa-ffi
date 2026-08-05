@@ -1,0 +1,1 @@
+{"name":"knipsa-ffi","vers":"0.1.0","deps":[{"name":"knipsa","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7dd3c6cc7175f907be6a5064488e0d8f86cc77d5de3ebf24d0e6593620692bed","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-05T16:26:35Z"}
