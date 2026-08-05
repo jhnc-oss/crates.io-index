@@ -1,0 +1,1 @@
+{"name":"ferrotherm-serve","vers":"0.1.0","deps":[{"name":"ferrotherm","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bb24e6840d93ee8c5b6c8e6cccee695d8eba33aebda1f9792022836f10844ae","features":{},"yanked":false,"pubtime":"2026-08-05T22:22:43Z"}
