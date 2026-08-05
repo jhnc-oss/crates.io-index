@@ -2,3 +2,4 @@
 {"name":"oxigeo-noalloc","vers":"0.2.0","deps":[],"cksum":"269ed9fe7ec3438d5321af002b4938f38c7f4cfa638487100a2bac8d11074e52","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-07-20T10:58:01Z"}
 {"name":"oxigeo-noalloc","vers":"0.2.1","deps":[],"cksum":"c0e60e72242fd94d25590386320f5a3699750b608e9c2f1910b4f4458c426a31","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-07-28T15:43:47Z"}
 {"name":"oxigeo-noalloc","vers":"0.2.2","deps":[],"cksum":"92cc9901291e2f510335dc741c2c4f27eb306aa01e86b40755f164b3ac1cd87e","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-07-30T04:05:22Z"}
+{"name":"oxigeo-noalloc","vers":"0.2.3","deps":[],"cksum":"33ca959ec55ce2c75893df13abc41584c7c27f843f87fe7bb3f2264a45b22076","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-08-05T09:11:29Z"}
