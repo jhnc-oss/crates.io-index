@@ -31,3 +31,4 @@
 {"name":"gbp-core","vers":"1.8.2","deps":[],"cksum":"2a958dd3c519bdc95b0de5f562e388cfae8a179683ceda83b52531e8ad302269","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-06-21T11:01:46Z"}
 {"name":"gbp-core","vers":"1.9.0","deps":[],"cksum":"4313233b3d9a6cd19a2d1ef67c71872d3aa87258d4786e6ba49d1e0f6e09c7f7","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-08-04T15:38:29Z"}
 {"name":"gbp-core","vers":"1.9.1","deps":[],"cksum":"74f93aad57725d3eda9f4e067d3b7d0327fc9bcfd6f3dbde42d6f675b85721a6","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-08-04T16:13:02Z"}
+{"name":"gbp-core","vers":"1.9.2-rc1","deps":[],"cksum":"2fce906b903938328647f51f3acac9a599fec15c104fec6466b732bf940d0508","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-08-05T14:58:20Z"}
