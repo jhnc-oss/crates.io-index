@@ -1,0 +1,1 @@
+{"name":"vbumpp","vers":"6.0.0","deps":[{"name":"vbumpp-core","req":">=5.1, <7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23e515807ee13770225bec4815fd1143ebf49bd2534e7818469d438a782fbed2","features":{},"yanked":false,"pubtime":"2026-08-05T19:48:26Z"}
