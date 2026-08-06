@@ -5,3 +5,4 @@
 {"name":"apiplant-assets","vers":"0.4.0","deps":[],"cksum":"62893c6b628c9dc7188af4449db76fef2bf14a0ab176b7751a2d57dff29b9f50","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-08-03T20:34:19Z"}
 {"name":"apiplant-assets","vers":"0.5.0","deps":[],"cksum":"2b664eb5556935af6dae10a873b3db1391a50bb2c1297c3818b637bb7833211f","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-08-05T17:15:52Z"}
 {"name":"apiplant-assets","vers":"0.6.0","deps":[],"cksum":"bce9f2ae00d6bb8e7188b61c9ea74eb24e6c07d77990266c5f194bfaf447a4c8","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-08-05T23:11:38Z"}
+{"name":"apiplant-assets","vers":"0.6.1","deps":[],"cksum":"c48eedab9f166d64bb0cc0efb4a36fa5898e5e54a39fe67a2061051f3ecb2ec8","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-08-06T07:00:52Z"}
