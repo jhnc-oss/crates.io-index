@@ -1,0 +1,1 @@
+{"name":"anywake","vers":"0.0.0","deps":[{"name":"mea","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67b3a59acb07fdd1ac0f9b3ceb0efd24756f62ca376f0ffd7ebd99277ba5cae8","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-06T05:50:26Z"}
