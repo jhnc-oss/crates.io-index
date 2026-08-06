@@ -1,2 +1,3 @@
 {"name":"memra-sampling","vers":"0.69.0","deps":[],"cksum":"69dfecd6b2ac4b4afa4f0001929dbec11eb34b82736b1b42a8fcca69d72805bd","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-04T21:21:51Z"}
 {"name":"memra-sampling","vers":"0.70.0","deps":[],"cksum":"d66dede2df87751b124718c371571c0e269c32d5a9ecc5921f81f6b71d79774f","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-05T16:22:28Z"}
+{"name":"memra-sampling","vers":"0.71.0","deps":[],"cksum":"2805a0e8539899b9940196cb2ab9b92a8e5201073670e42b8a47fe97360a1bf4","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-06T11:33:43Z"}
