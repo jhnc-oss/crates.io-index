@@ -1,2 +1,2 @@
-{"name":"oxixml-xsd","vers":"0.1.0","deps":[],"cksum":"8c505f9afd02550c577c3482d6922dae6f140cdac903739356a5de6edf1fdb46","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-29T18:13:05Z"}
+{"name":"oxixml-xsd","vers":"0.1.0","deps":[],"cksum":"8c505f9afd02550c577c3482d6922dae6f140cdac903739356a5de6edf1fdb46","features":{},"yanked":true,"rust_version":"1.85","pubtime":"2026-07-29T18:13:05Z"}
 {"name":"oxixml-xsd","vers":"0.1.1","deps":[],"cksum":"649d25a87d534866ffba0add6e4cf2d6faa10e3aa21d3f9c260a48ead96ed0f4","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-06T06:10:55Z"}
