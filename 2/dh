@@ -17,3 +17,4 @@
 {"name":"dh","vers":"0.11.2","deps":[],"cksum":"18a285f14e2478ac24f0ce8a887255e8e57049dbacb4a34bf8b5416346561a89","features":{"vli":[]},"yanked":false,"pubtime":"2026-08-05T14:41:56Z"}
 {"name":"dh","vers":"0.12.0","deps":[],"cksum":"905f7526b64f55e2fb56a42f647f4017d1603afbc89990bbd754c9470992fb95","features":{"vli":[]},"yanked":false,"pubtime":"2026-08-06T14:24:24Z"}
 {"name":"dh","vers":"0.12.1","deps":[],"cksum":"102fbdfc1a0dbd4b937354d35c2515033db6d671585535cf5771cb07d5038843","features":{"vli":[]},"yanked":false,"pubtime":"2026-08-06T18:07:10Z"}
+{"name":"dh","vers":"0.12.2","deps":[],"cksum":"634f339970ab1159938624acff4b55fea13a9d58d474a1eb84a1616984fafd6f","features":{"vli":[]},"yanked":false,"pubtime":"2026-08-06T19:17:30Z"}
