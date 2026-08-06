@@ -1,0 +1,1 @@
+{"name":"stackyard","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.8","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"928b551bcce8224e18429fe158e981987411fe5a86fe1e9f3afb47e0c359a08e","features":{"alloc":[],"default":["alloc"]},"yanked":false,"pubtime":"2026-08-06T08:34:22Z"}
