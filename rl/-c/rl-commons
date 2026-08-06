@@ -3,3 +3,4 @@
 {"name":"rl-commons","vers":"0.2.1","deps":[],"cksum":"f5c9abd0077d2e9e21463565a3211d49555b5801ea75b8c9dc06fbf0a52bb596","features":{},"yanked":false,"pubtime":"2026-07-19T11:15:49Z"}
 {"name":"rl-commons","vers":"0.2.2","deps":[],"cksum":"436ffe6bd8ceac52d4e866130a11e580ce41bc03c75ea51bb81e1745b1b67e13","features":{},"yanked":false,"pubtime":"2026-07-20T17:03:30Z"}
 {"name":"rl-commons","vers":"0.3.0","deps":[],"cksum":"bbce8bbf51d7a6f7de4e630b5e72545a9ffca3dca0bed54710065eaae9c30cf4","features":{},"yanked":false,"pubtime":"2026-07-20T20:33:12Z"}
+{"name":"rl-commons","vers":"1.0.0","deps":[{"name":"rl-ast","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27ff827ade007abbb5c16bf89808b35cc931bec6776258a2b6894dd7200b4002","features":{},"yanked":false,"pubtime":"2026-08-06T04:56:52Z"}
