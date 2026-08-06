@@ -1,0 +1,1 @@
+{"name":"google-protobuf-codegen","vers":"0.35.2-test-internal-do-not-use","deps":[{"name":"googletest","req":"^0.14.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"16de5f275eca567a5126e260403883900089e86098b9db4006cf98e01e75eda1","features":{},"yanked":false,"rust_version":"1.79","pubtime":"2026-08-06T22:19:19Z"}
