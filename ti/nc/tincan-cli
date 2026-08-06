@@ -1,0 +1,1 @@
+{"name":"tincan-cli","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.45","features":["clock"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"df2b9e5ef419c132697f8cf8a942dcb95ea095e5e83bf965b3ac4a1efea44b7e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-06T09:20:07Z"}
