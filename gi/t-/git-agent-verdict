@@ -5,3 +5,4 @@
 {"name":"git-agent-verdict","vers":"0.1.5","deps":[],"cksum":"46458eb4d8bde178440ed625247f01a9fee8a91d1878420edc8f356bf63ee239","features":{},"yanked":false,"pubtime":"2026-08-05T04:12:33Z"}
 {"name":"git-agent-verdict","vers":"0.1.6","deps":[],"cksum":"62f04f6dbb9f4c29d548edae068bb234e38d15243a134c38be1c8ce2da5b4b62","features":{},"yanked":false,"pubtime":"2026-08-05T04:21:57Z"}
 {"name":"git-agent-verdict","vers":"0.2.0","deps":[],"cksum":"c168885f08590b0ec8a1acc8335c4b3e2cb69356a2331b8f9986af97fb4ecd32","features":{},"yanked":false,"pubtime":"2026-08-06T02:59:32Z"}
+{"name":"git-agent-verdict","vers":"0.3.0","deps":[],"cksum":"a5c09bc512a2bb8517d0a4dc8f384397bcbe58edc2fb0675ebaa0946e1ddca6f","features":{},"yanked":false,"pubtime":"2026-08-06T03:25:27Z"}
