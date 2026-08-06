@@ -39,3 +39,4 @@
 {"name":"azure_canary_core","vers":"1.0.0-beta.6652875","deps":[],"cksum":"73077e19bfaef60da06a96e732b3d555c3bb4819be5e55cb3b2a2f79c97b6fd0","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-03T21:20:39Z"}
 {"name":"azure_canary_core","vers":"1.0.0-beta.6653148","deps":[],"cksum":"9266d41a3b119695021004fbfbe5be5d67588a34d3ee7c70fd3f3ba63a9c7dd2","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-03T22:21:31Z"}
 {"name":"azure_canary_core","vers":"1.0.0-beta.6664625","deps":[],"cksum":"a0ba0eaee4b432f21d7b4929bb67e62ea436db3372198ceb97f594b3b4980ea2","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-05T22:34:23Z"}
+{"name":"azure_canary_core","vers":"1.0.0-beta.6669916","deps":[],"cksum":"213a69727f76745c49873f20ca7f99bbee7040864d2622fd86df5af9e63acc59","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-06T22:15:07Z"}
