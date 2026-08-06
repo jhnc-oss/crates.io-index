@@ -25,3 +25,4 @@
 {"name":"hjkl-hover","vers":"0.39.1","deps":[],"cksum":"7aa1ba88d009e6c67ff95e98ea30ce0443f5b2c192f989e46522caed38795734","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-07-30T19:05:30Z"}
 {"name":"hjkl-hover","vers":"0.40.0","deps":[],"cksum":"e02af86a9d7709e1b18fcabe167765d61a137c37a56ca9d38b1bdaf8439baecc","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-01T03:49:38Z"}
 {"name":"hjkl-hover","vers":"0.41.0","deps":[],"cksum":"c9f9293f289a5e5e4235515ba2daaff724de0ce6b22721b794c9dc576e5d14bd","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-03T22:53:09Z"}
+{"name":"hjkl-hover","vers":"0.41.1","deps":[],"cksum":"0625e040080acadeab22d6c1445ac8686f483bc50a4baba1ec7d06a2ace64f4f","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-06T10:31:51Z"}
