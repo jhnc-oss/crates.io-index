@@ -3,3 +3,4 @@
 {"name":"fig-sys-macos-arm64","vers":"2.5.3","deps":[],"cksum":"121409231dc954e2ea28048c4b937f377df122ff2428bd28fa8e8bd93a730704","features":{},"yanked":false,"links":"fig_prebuilt_macos_arm64","pubtime":"2026-07-25T23:23:09Z"}
 {"name":"fig-sys-macos-arm64","vers":"3.0.0","deps":[],"cksum":"c617d85e3b0e107029c4908cb7f3dc5b3ca2c6dc1e228ba24615e98f33a9e5c9","features":{},"yanked":false,"links":"fig_prebuilt_macos_arm64","pubtime":"2026-07-25T23:33:09Z"}
 {"name":"fig-sys-macos-arm64","vers":"3.0.1","deps":[],"cksum":"5a5c6cf48bf9c511c646251ac8acadfb0d7b1f5f1c53ce4aa84b2358eb121572","features":{},"yanked":false,"links":"fig_prebuilt_macos_arm64","pubtime":"2026-08-07T03:00:38Z"}
+{"name":"fig-sys-macos-arm64","vers":"3.0.2","deps":[],"cksum":"28e332782d090f9e0a8fde061122ad7b78564ac44d8f86eebf287aa37db10b37","features":{},"yanked":false,"links":"fig_prebuilt_macos_arm64","pubtime":"2026-08-07T03:21:00Z"}
