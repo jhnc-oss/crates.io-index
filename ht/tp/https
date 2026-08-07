@@ -44,3 +44,4 @@
 {"name":"https","vers":"2.3.1","deps":[],"cksum":"3a6ccb7ee2c72549fa3a1e88dd9574e7977dd2546cb7300504a779e00241f0e8","features":{},"yanked":false,"pubtime":"2025-07-30T16:33:26Z"}
 {"name":"https","vers":"2.4.0","deps":[],"cksum":"9cbe9ca7dc9e9b5f573141acb2c51c72f97e35ffb6d3bf6a94eb4b184a86bc69","features":{},"yanked":false,"pubtime":"2025-10-08T18:54:22Z"}
 {"name":"https","vers":"2.5.0","deps":[],"cksum":"0b27c5a440f0f4aaa12d36ca66936d9d8ae92c2bc7c49789da83881c3096fef6","features":{},"yanked":false,"pubtime":"2025-11-20T22:34:51Z"}
+{"name":"https","vers":"2.6.0","deps":[],"cksum":"eada362f5588dd8e3247ce7cd73ce71f329e5b0ffbd70ffc13157f66965dfd33","features":{},"yanked":false,"pubtime":"2026-08-07T18:14:53Z"}
