@@ -1,0 +1,1 @@
+{"name":"smix-usbmux","vers":"2.3.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b296791f06beef4c6c803de67e53a9a2caacb1a7c5c2d1ca1d7d944e88f35fe","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-08-07T13:20:05Z"}
