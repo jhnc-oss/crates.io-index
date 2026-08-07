@@ -3,3 +3,4 @@
 {"name":"fig-sys-linux-x64-gnu","vers":"2.5.3","deps":[],"cksum":"c6e86d71b82d836de698cb41d22ef84e2062d57aba42bd6c01039651ba78305c","features":{},"yanked":false,"links":"fig_prebuilt_linux_x64_gnu","pubtime":"2026-07-25T23:23:11Z"}
 {"name":"fig-sys-linux-x64-gnu","vers":"3.0.0","deps":[],"cksum":"51054ab590fdd35547b5aec171faa38db13a074de184f56874d73b9e753e0aff","features":{},"yanked":false,"links":"fig_prebuilt_linux_x64_gnu","pubtime":"2026-07-25T23:33:12Z"}
 {"name":"fig-sys-linux-x64-gnu","vers":"3.0.1","deps":[],"cksum":"32c07f73c50354110504ae1baeab1780ea4d0ea27c28973463f8f22324b894b7","features":{},"yanked":false,"links":"fig_prebuilt_linux_x64_gnu","pubtime":"2026-08-07T03:00:40Z"}
+{"name":"fig-sys-linux-x64-gnu","vers":"3.0.2","deps":[],"cksum":"93b9b79afb142d3310573ab8412ae1d6e875e521d6cea5b9ff304b3924da4898","features":{},"yanked":false,"links":"fig_prebuilt_linux_x64_gnu","pubtime":"2026-08-07T03:21:02Z"}
