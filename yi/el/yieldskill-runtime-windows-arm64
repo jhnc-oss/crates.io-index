@@ -1,1 +1,2 @@
 {"name":"yieldskill-runtime-windows-arm64","vers":"0.1.35","deps":[],"cksum":"369b376f49836016391f523bcc2cfdb6e80acfaf55de1fe4cfe5c3956f8094c3","features":{},"yanked":false,"pubtime":"2026-08-07T22:18:45Z"}
+{"name":"yieldskill-runtime-windows-arm64","vers":"0.1.36","deps":[],"cksum":"90c6234123dfeec36dba315aec16718d7b9b010348f5ab6d09fe7ad68cd1331c","features":{},"yanked":false,"pubtime":"2026-08-07T22:39:36Z"}
