@@ -8,3 +8,4 @@
 {"name":"j2k-types","vers":"0.7.3","deps":[],"cksum":"d0094623ee4efb46049c2cae0409ddf9a784e48f1dc63cc77538528b622c89ed","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-15T11:48:38Z"}
 {"name":"j2k-types","vers":"0.7.5","deps":[],"cksum":"5f4b9a929b469cd43d4d99e82e8341c79552c6bbf3e941c5a393958f686abf3d","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-22T17:50:28Z"}
 {"name":"j2k-types","vers":"0.8.0","deps":[],"cksum":"a62d9fc57af46c1226b040a8fcd28269762af84b123f987e6af72c336406e647","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-29T05:43:48Z"}
+{"name":"j2k-types","vers":"0.8.1","deps":[],"cksum":"dae71c13c5e4c230bbc5dcf338faa3e5e45cc2906acef762e613b33110e9423d","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-07T03:50:17Z"}
