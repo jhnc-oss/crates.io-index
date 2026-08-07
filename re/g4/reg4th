@@ -1,3 +1,4 @@
 {"name":"reg4th","vers":"0.1.0","deps":[],"cksum":"bb806c3336c868859353241d78cb7618effad02e6852f0dc37d41c79160870d7","features":{},"yanked":false,"pubtime":"2026-08-06T03:04:03Z"}
 {"name":"reg4th","vers":"0.2.0","deps":[],"cksum":"36dc150c61a26b813c0444d5f0da552a2f62c52723ee4d84fbb4eba066f75dec","features":{},"yanked":true,"pubtime":"2026-08-06T08:54:31Z"}
 {"name":"reg4th","vers":"0.1.1","deps":[],"cksum":"9235994c89a1973572dd2fdc01bdf04314d62f5dca11dda999672c101a54199e","features":{},"yanked":false,"pubtime":"2026-08-06T09:53:37Z"}
+{"name":"reg4th","vers":"0.1.2","deps":[],"cksum":"f42fbe564f4375b40ac15cf59a89786305c290c6d8ee18feccc83d69308dda81","features":{},"yanked":false,"pubtime":"2026-08-07T04:19:22Z"}
