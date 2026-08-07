@@ -1,0 +1,1 @@
+{"name":"guanghechen-commander","vers":"0.1.0","deps":[{"name":"guanghechen-chalk","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09d6d9cb68e27441d3f854872b226fd076ffab2b5f15374fa59f230769c5fd9e","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-07T06:03:22Z"}
