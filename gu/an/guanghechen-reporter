@@ -1,0 +1,1 @@
+{"name":"guanghechen-reporter","vers":"0.1.0","deps":[{"name":"guanghechen-chalk","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"640560604f45b81cb053db88a890aae522524bcf79b4c1907e6b0c672bd71a72","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-07T06:02:18Z"}
