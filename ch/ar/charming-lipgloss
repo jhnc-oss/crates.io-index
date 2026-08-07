@@ -1,0 +1,1 @@
+{"name":"charming-lipgloss","vers":"2.0.5","deps":[{"name":"unicode-segmentation","req":"^1.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f03a398a567806c823dc03cb186651436a688bd7d872909c7ac60896b9895a0","features":{},"yanked":false,"pubtime":"2026-08-07T17:50:08Z"}
