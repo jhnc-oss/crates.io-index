@@ -6,3 +6,4 @@
 {"name":"monosashi","vers":"0.3.37","deps":[],"cksum":"ef89839eeb0dbbc233634d55dcf1139559968cc27347da9e5ec486dc09d6cd63","features":{},"yanked":false,"pubtime":"2026-08-06T11:43:11Z"}
 {"name":"monosashi","vers":"0.3.38","deps":[],"cksum":"188d4caddd2a3d18366f72496387052c45dad2f06a88154a1e4c855b40b2d0e3","features":{},"yanked":false,"pubtime":"2026-08-07T18:10:41Z"}
 {"name":"monosashi","vers":"0.3.39","deps":[],"cksum":"ee3f041caff3d493c2c2da041590def95be1052cc7aeb5b7dea9b11f99cd842b","features":{},"yanked":false,"pubtime":"2026-08-07T19:52:08Z"}
+{"name":"monosashi","vers":"0.3.41","deps":[],"cksum":"e8131d0a8373cf64b81a2cea7b98adbf1be0da76a3755b873846d9f1b5b077e0","features":{},"yanked":false,"pubtime":"2026-08-07T21:12:43Z"}
