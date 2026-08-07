@@ -4,3 +4,4 @@
 {"name":"shigoto-fsm","vers":"0.1.12","deps":[],"cksum":"9fb2ff3ab8b835c4bb3e5c952f034390d31a5c78c3c50485b163c55a8394ccde","features":{},"yanked":false,"pubtime":"2026-07-31T10:11:28Z"}
 {"name":"shigoto-fsm","vers":"0.1.13","deps":[],"cksum":"72b5b1e2859c1d583dd9f0a6dd71e1ff25403cf498008785d8a9081050ea9e71","features":{},"yanked":false,"pubtime":"2026-08-03T06:24:41Z"}
 {"name":"shigoto-fsm","vers":"0.1.14","deps":[],"cksum":"53f29bf1d30f5ee48554bc7f7a21aa02655fda7b46cab5db149565c97b5e2d1c","features":{},"yanked":false,"pubtime":"2026-08-05T02:46:59Z"}
+{"name":"shigoto-fsm","vers":"0.1.15","deps":[],"cksum":"1c6555d95c33d49bdc1ffb007ba260380c337262b15198f979f9d812868c6ca6","features":{},"yanked":false,"pubtime":"2026-08-07T09:00:20Z"}
