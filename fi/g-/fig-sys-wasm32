@@ -3,3 +3,4 @@
 {"name":"fig-sys-wasm32","vers":"2.5.3","deps":[],"cksum":"d119c449cab4211094a0f93bbfaf43433cb2cc45dea8c87ab4f0dd56fa91fba9","features":{},"yanked":false,"links":"fig_prebuilt_wasm32","pubtime":"2026-07-25T23:23:18Z"}
 {"name":"fig-sys-wasm32","vers":"3.0.0","deps":[],"cksum":"07f0912901953ba6d22cc3e63e432fae782c5afdeda3b9eca2a2408b737f0b0b","features":{},"yanked":false,"links":"fig_prebuilt_wasm32","pubtime":"2026-07-25T23:33:19Z"}
 {"name":"fig-sys-wasm32","vers":"3.0.1","deps":[],"cksum":"a19efff64a07746f5fcb316b91d25b0032350760e983cf221f35c0cb7819d228","features":{},"yanked":false,"links":"fig_prebuilt_wasm32","pubtime":"2026-08-07T03:00:48Z"}
+{"name":"fig-sys-wasm32","vers":"3.0.2","deps":[],"cksum":"525d3fd464945a642d13bd0c8713a78561b00b7fbdb87aa0c2700bb065397e45","features":{},"yanked":false,"links":"fig_prebuilt_wasm32","pubtime":"2026-08-07T03:21:10Z"}
