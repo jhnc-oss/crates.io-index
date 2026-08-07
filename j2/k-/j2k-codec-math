@@ -4,3 +4,4 @@
 {"name":"j2k-codec-math","vers":"0.7.3","deps":[],"cksum":"6158bda69dce66921b5400bf99501223ddd1321a37da2e6d962c4b8e99de7b4e","features":{},"yanked":false,"links":"j2k_codec_math","rust_version":"1.96","pubtime":"2026-07-15T11:51:38Z"}
 {"name":"j2k-codec-math","vers":"0.7.5","deps":[],"cksum":"8ae749d7b75f1b2931e2550d28e2831baa82f56f4cf61420b3621c3b005b4a7f","features":{},"yanked":false,"links":"j2k_codec_math","rust_version":"1.96","pubtime":"2026-07-22T17:50:30Z"}
 {"name":"j2k-codec-math","vers":"0.8.0","deps":[],"cksum":"ca5b8676b744cbf133e9ec8b682b00d182c957d366c294d07dddab105123652b","features":{},"yanked":false,"links":"j2k_codec_math","rust_version":"1.96","pubtime":"2026-07-29T05:43:50Z"}
+{"name":"j2k-codec-math","vers":"0.8.1","deps":[],"cksum":"165366ed0d18b737c6f6cd2c3ffeb20c94dc40aac70e77c2f6dd1c8b518aec3e","features":{},"yanked":false,"links":"j2k_codec_math","rust_version":"1.96","pubtime":"2026-08-07T03:50:19Z"}
