@@ -2,3 +2,4 @@
 {"name":"yieldskill-runtime-darwin-arm64","vers":"0.1.36","deps":[],"cksum":"b824c4f08d1d5b735ff1a830ed52490a48a98174e35c21f7b3320c2c98920d29","features":{},"yanked":false,"pubtime":"2026-08-07T22:39:27Z"}
 {"name":"yieldskill-runtime-darwin-arm64","vers":"0.1.37","deps":[],"cksum":"075fd225f0a27977ad490ea84c17b30d83fd0d7a7a4dd5eeb45d5efa42032c2b","features":{},"yanked":false,"pubtime":"2026-08-07T23:00:08Z"}
 {"name":"yieldskill-runtime-darwin-arm64","vers":"0.1.38","deps":[],"cksum":"4037600be6be5e87b0811f3c06e3db1bf14d5299c703bdf5c80db27fff1999a1","features":{},"yanked":false,"pubtime":"2026-08-08T01:30:07Z"}
+{"name":"yieldskill-runtime-darwin-arm64","vers":"0.2.0","deps":[],"cksum":"a860e0ccb34b9570a80321617c7e2f7f432155e8effc2ca2116d62836f7dd5d8","features":{},"yanked":false,"pubtime":"2026-08-08T20:38:01Z"}
