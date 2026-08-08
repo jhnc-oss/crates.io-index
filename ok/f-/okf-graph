@@ -1,0 +1,1 @@
+{"name":"okf-graph","vers":"0.1.0","deps":[{"name":"serde_yaml","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf66a7cae325c8d8ae4623d321713f2f162f8dc9b8392120c6777cb2459516d1","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-08T03:03:48Z"}
