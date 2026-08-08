@@ -2,3 +2,4 @@
 {"name":"yieldskill-runtime-linux-amd64","vers":"0.1.36","deps":[],"cksum":"574351ff32c7a37405b7a488debf6e7aaaf4771dbccf733a50305465e430ca1f","features":{},"yanked":false,"pubtime":"2026-08-07T22:39:30Z"}
 {"name":"yieldskill-runtime-linux-amd64","vers":"0.1.37","deps":[],"cksum":"947e626c9faf24b4dbc611695d7ad5c4ffa48159cd39d0583304713995ef871a","features":{},"yanked":false,"pubtime":"2026-08-07T23:00:11Z"}
 {"name":"yieldskill-runtime-linux-amd64","vers":"0.1.38","deps":[],"cksum":"6dc43cec0a476442c155d802fdd61e5929ff3abaeaf66d20fb99ef9518fa4cd2","features":{},"yanked":false,"pubtime":"2026-08-08T01:30:10Z"}
+{"name":"yieldskill-runtime-linux-amd64","vers":"0.2.0","deps":[],"cksum":"0dec25a7b3e52c244c441bfc9bac1363aec04ad81a6a418e687f997f624ed675","features":{},"yanked":false,"pubtime":"2026-08-08T20:38:05Z"}
