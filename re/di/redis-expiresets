@@ -1,0 +1,1 @@
+{"name":"redis-expiresets","vers":"0.1.0","deps":[{"name":"redis","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dae08cf60cac09109f51b9c3a1d3df5b0162c91f07fa5901e9f0965cded9f6f9","features":{"async":["redis/aio"],"cluster":["redis/cluster"]},"yanked":false,"pubtime":"2026-08-08T16:36:46Z"}
