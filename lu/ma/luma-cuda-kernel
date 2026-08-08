@@ -1,0 +1,1 @@
+{"name":"luma-cuda-kernel","vers":"0.0.1","deps":[{"name":"bindgen_cuda","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c7586573cf075800f412f32d5ee52047c8413cb30ebc82384fb3903be4618830","features":{},"yanked":false,"pubtime":"2026-08-08T19:58:32Z"}
