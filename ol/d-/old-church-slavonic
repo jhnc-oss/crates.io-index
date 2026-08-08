@@ -1,0 +1,1 @@
+{"name":"old-church-slavonic","vers":"0.1.0","deps":[{"name":"old-church-slavonic-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4bcc3e99d6f98c7903ea754a165a4d688d2d6f2dadb6c8bfe3dce906a9f8719","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-08T03:07:41Z"}
