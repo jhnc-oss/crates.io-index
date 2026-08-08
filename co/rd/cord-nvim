@@ -79,3 +79,4 @@
 {"name":"cord-nvim","vers":"2.3.26","deps":[],"cksum":"1abb3bfe0771bd4065059a90d2f66a0553e4771abc26bb2dc884f8d27cfa4656","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-04T20:52:40Z"}
 {"name":"cord-nvim","vers":"2.3.27","deps":[],"cksum":"f1f740d491149a86fd04b38b52221c914f816bfc5ecbeb9a155b54c98a7c5d05","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-05T17:36:34Z"}
 {"name":"cord-nvim","vers":"2.3.28","deps":[],"cksum":"e647bc67f6c31d9dbecbdce6b2a0a694887aad97f7a809fff850bf6b63708db2","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-07T11:16:18Z"}
+{"name":"cord-nvim","vers":"2.3.29","deps":[],"cksum":"fea94528fbe428ce60e4985702b8ff2ef3237611a5c98bef9ca279434b75a723","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-08T19:52:38Z"}
