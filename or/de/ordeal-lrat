@@ -19,3 +19,4 @@
 {"name":"ordeal-lrat","vers":"0.16.0","deps":[],"cksum":"3ac74759543c60b36b59ec627e897620ff0e66747e4f83e2dac07fb02de570d3","features":{},"yanked":false,"pubtime":"2026-07-23T15:01:13Z"}
 {"name":"ordeal-lrat","vers":"0.16.1","deps":[],"cksum":"d1dd8471cb03a6290624af9b033e071479a63bbdb7820d23c2a673f16e9984df","features":{},"yanked":false,"pubtime":"2026-07-24T00:22:22Z"}
 {"name":"ordeal-lrat","vers":"0.17.0","deps":[],"cksum":"daabcf6ce6dc57e83824e83619114573913b6af02ead3fb08223ee1514fa43c3","features":{},"yanked":false,"pubtime":"2026-07-29T11:40:32Z"}
+{"name":"ordeal-lrat","vers":"0.18.0","deps":[],"cksum":"514834f970104c492975d07788f7afcc9cd16f27b4aa9c6122a03d52bbab3328","features":{},"yanked":false,"pubtime":"2026-08-08T05:48:49Z"}
