@@ -1,3 +1,4 @@
 {"name":"yieldskill-runtime-windows-amd64","vers":"0.1.35","deps":[],"cksum":"579b86f3088195ec2b68af86848d8242b12200ce9933b96d343dd2be7202d359","features":{},"yanked":false,"pubtime":"2026-08-07T21:53:44Z"}
 {"name":"yieldskill-runtime-windows-amd64","vers":"0.1.36","deps":[],"cksum":"7d07d85e6d4292389baeb5a751d7adb8168a8fc5dfc6b04934364678c4e5e4bd","features":{},"yanked":false,"pubtime":"2026-08-07T22:39:34Z"}
 {"name":"yieldskill-runtime-windows-amd64","vers":"0.1.37","deps":[],"cksum":"19fac8321404948aa61ab5e77e409b9be86fd9fd329f79c573b34236f9f9e17e","features":{},"yanked":false,"pubtime":"2026-08-07T23:00:16Z"}
+{"name":"yieldskill-runtime-windows-amd64","vers":"0.1.38","deps":[],"cksum":"a4d3ad3e3e9928cb8058a4216fc17a22fdaacaba211f550ed8aa8908f57cf056","features":{},"yanked":false,"pubtime":"2026-08-08T01:30:16Z"}
