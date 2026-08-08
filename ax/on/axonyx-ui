@@ -35,3 +35,4 @@
 {"name":"axonyx-ui","vers":"0.0.66","deps":[],"cksum":"420dd7d421dd51253bcb02f38066eb3a5a840eef313c1e5a26304a1653477767","features":{},"yanked":false,"pubtime":"2026-08-08T22:20:22Z"}
 {"name":"axonyx-ui","vers":"0.0.67","deps":[],"cksum":"f8f8f62774a8b0069f5748a7837ead6f48ea5ade43b606064c641ab2406d7669","features":{},"yanked":false,"pubtime":"2026-08-08T22:40:30Z"}
 {"name":"axonyx-ui","vers":"0.0.68","deps":[],"cksum":"614e447b3b42b1fae7247ea1c2a5f8f90979d1fbbf188b1a336089543370f893","features":{},"yanked":false,"pubtime":"2026-08-08T23:00:45Z"}
+{"name":"axonyx-ui","vers":"0.0.69","deps":[],"cksum":"f5537333e121f4363a6c84c500e62969836ae518ac33cb0fa3c7fb94e72adcb3","features":{},"yanked":false,"pubtime":"2026-08-08T23:09:34Z"}
