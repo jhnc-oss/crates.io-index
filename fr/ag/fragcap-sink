@@ -1,0 +1,1 @@
+{"name":"fragcap-sink","vers":"0.1.0","deps":[{"name":"fragcap-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b06475a71b65aceee8a6855e39a9775129e91c9513021b1ac0fb992083e8bf7","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-08-08T10:33:27Z"}
