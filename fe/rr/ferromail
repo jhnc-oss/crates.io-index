@@ -1,0 +1,1 @@
+{"name":"ferromail","vers":"0.0.1","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"16cd026559e4ffb4c87c2a3cc96c6a4bddb50d60ef101b67c80d026f35938368","features":{},"yanked":false,"pubtime":"2026-08-08T11:45:30Z"}
