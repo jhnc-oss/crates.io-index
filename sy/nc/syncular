@@ -65,3 +65,4 @@
 {"name":"syncular","vers":"0.15.44","deps":[],"cksum":"6348583cb3e260eef60dcce0fbb65107c56f3d041fb8a6d6b1bd7d8ba29b5460","features":{},"yanked":false,"pubtime":"2026-07-28T07:27:26Z"}
 {"name":"syncular","vers":"0.15.45","deps":[],"cksum":"17ba65d0038f41dcd34fc0b1be918784e5f5073e09974649297a95eb2cb991b0","features":{},"yanked":false,"pubtime":"2026-08-03T06:49:06Z"}
 {"name":"syncular","vers":"0.15.46","deps":[],"cksum":"6b4b8cf5fca7daee455c928ace6c7096a770f897bd579391b715f5a9d6d70f29","features":{},"yanked":false,"pubtime":"2026-08-08T08:07:16Z"}
+{"name":"syncular","vers":"0.15.47","deps":[],"cksum":"39b269b204ea63c5fb0953cf870bfc5d4074bce6d3482fbf348a59ffccb07510","features":{},"yanked":false,"pubtime":"2026-08-08T09:26:42Z"}
