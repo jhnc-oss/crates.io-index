@@ -1,0 +1,1 @@
+{"name":"rlitrs","vers":"0.1.0","deps":[{"name":"your_literals","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3d3f4febbeb9004af1c76c3696243aa753120d522a4aa09f29e55897204d5be","features":{},"yanked":false,"pubtime":"2026-08-08T15:22:18Z"}
