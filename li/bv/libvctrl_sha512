@@ -1,0 +1,1 @@
+{"name":"libvctrl_sha512","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.8","features":["cargo_bench_support"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"8c24f746b871c9a6bb520acc53e6e48be3d2f8a3e7bc64ebd586f77466bdfea7","features":{"default":["sha384"],"opt_size":[],"sha384":[]},"yanked":false,"pubtime":"2026-08-08T13:18:09Z"}
