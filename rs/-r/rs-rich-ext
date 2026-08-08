@@ -1,0 +1,1 @@
+{"name":"rs-rich-ext","vers":"0.0.1","deps":[{"name":"rich","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"rs-rich"}],"cksum":"b821d90ecd1ac83f24cd70971d0da88c8f11c4cf1bf0e003a407d40b3abccf77","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-08T09:27:39Z"}
