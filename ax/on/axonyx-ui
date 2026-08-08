@@ -33,3 +33,4 @@
 {"name":"axonyx-ui","vers":"0.0.64","deps":[],"cksum":"1e2a69cd42243630b945b1df87e9f67209ac4cd6362c94136f5a774ac3530111","features":{},"yanked":false,"pubtime":"2026-08-08T21:07:43Z"}
 {"name":"axonyx-ui","vers":"0.0.65","deps":[],"cksum":"21d94ca0fbd857f167fb0ce8b40eca534117aeac818c72cbfd96ca0ec01ffe02","features":{},"yanked":false,"pubtime":"2026-08-08T22:02:29Z"}
 {"name":"axonyx-ui","vers":"0.0.66","deps":[],"cksum":"420dd7d421dd51253bcb02f38066eb3a5a840eef313c1e5a26304a1653477767","features":{},"yanked":false,"pubtime":"2026-08-08T22:20:22Z"}
+{"name":"axonyx-ui","vers":"0.0.67","deps":[],"cksum":"f8f8f62774a8b0069f5748a7837ead6f48ea5ade43b606064c641ab2406d7669","features":{},"yanked":false,"pubtime":"2026-08-08T22:40:30Z"}
