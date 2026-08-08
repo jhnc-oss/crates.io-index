@@ -4,3 +4,4 @@
 {"name":"fig-sys-windows-x64-msvc","vers":"3.0.0","deps":[],"cksum":"a6c83e259f43c9a8cc7d67f1c672830c7502f3e5209f01662e48dd3d38cc1f60","features":{},"yanked":false,"links":"fig_prebuilt_windows_x64_msvc","pubtime":"2026-07-25T23:33:16Z"}
 {"name":"fig-sys-windows-x64-msvc","vers":"3.0.1","deps":[],"cksum":"dc7a150459cd9c74909911ac95469df7ba26c7d92211d28fc794ed59740d2662","features":{},"yanked":false,"links":"fig_prebuilt_windows_x64_msvc","pubtime":"2026-08-07T03:00:46Z"}
 {"name":"fig-sys-windows-x64-msvc","vers":"3.0.2","deps":[],"cksum":"641e845368214729aca505585a9f7e84498c0231fe8338a7f07a7ee42f040779","features":{},"yanked":false,"links":"fig_prebuilt_windows_x64_msvc","pubtime":"2026-08-07T03:21:08Z"}
+{"name":"fig-sys-windows-x64-msvc","vers":"3.0.3","deps":[],"cksum":"81ab5df87bd185e23181937b5159a32bbe17002c3ba1bb4ef3f4084af5773813","features":{},"yanked":false,"links":"fig_prebuilt_windows_x64_msvc","pubtime":"2026-08-08T03:18:39Z"}
