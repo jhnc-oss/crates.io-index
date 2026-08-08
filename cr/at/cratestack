@@ -43,3 +43,4 @@
 {"name":"cratestack","vers":"0.7.5","deps":[],"cksum":"1d1bbd035ae344cc91c074e96b4d0d0a977667d4fb9a538489fdbc420bdaef50","features":{},"yanked":false,"pubtime":"2026-08-06T10:48:02Z"}
 {"name":"cratestack","vers":"0.7.6","deps":[],"cksum":"bcc225fe1c92c13f8eb48c192c120b85629c2109dcc179191f12166571125158","features":{},"yanked":false,"pubtime":"2026-08-07T00:51:50Z"}
 {"name":"cratestack","vers":"0.7.7","deps":[],"cksum":"9f7f2ee598a5026bbf0e4c96dd1a69b8e957be42f87b79d98c606e909c46053d","features":{},"yanked":false,"pubtime":"2026-08-08T04:03:51Z"}
+{"name":"cratestack","vers":"0.7.8","deps":[],"cksum":"a9abcc045a73148145b479d54a70cf5e478b00c34dc3954c6901ca023288a757","features":{},"yanked":false,"pubtime":"2026-08-08T12:13:44Z"}
