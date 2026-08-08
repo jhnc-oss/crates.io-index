@@ -4,3 +4,4 @@
 {"name":"arc-web-cli","vers":"0.4.1","deps":[],"cksum":"9ad712097f4e5de38cf69c078446a57a51d2122c9f84a07d05840ba2acb71acd","features":{},"yanked":false,"pubtime":"2026-08-07T21:21:22Z"}
 {"name":"arc-web-cli","vers":"0.4.2","deps":[],"cksum":"8a32ded6852843590c7b56b425977ae999a2cedf1f626e93756c4f4ad5823ab9","features":{},"yanked":false,"pubtime":"2026-08-07T22:05:14Z"}
 {"name":"arc-web-cli","vers":"0.5.0","deps":[],"cksum":"2e8c1ff1e0d061263b7b09fef12c9b5f09a38b2e1468635219984ce53a285534","features":{},"yanked":false,"pubtime":"2026-08-08T16:06:41Z"}
+{"name":"arc-web-cli","vers":"0.5.1","deps":[],"cksum":"90c279f3102512b79dc5e16720ae6958b685d0b1988419514c819fae9a7c4b15","features":{},"yanked":false,"pubtime":"2026-08-08T20:11:19Z"}
