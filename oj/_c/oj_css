@@ -1,0 +1,1 @@
+{"name":"oj_css","vers":"0.0.1","deps":[{"name":"lightningcss","req":"^1.0.0-alpha.72","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52b8889841528b3854e12688a3aea542c5f86b45063750f494737cf81a218f99","features":{},"yanked":false,"pubtime":"2026-08-08T23:17:43Z"}
