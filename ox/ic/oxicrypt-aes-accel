@@ -1,1 +1,2 @@
 {"name":"oxicrypt-aes-accel","vers":"0.22.0","deps":[],"cksum":"ab1cfe46c619c03869214051c672be30ef788352d2065fa688f78871c50c1ea8","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-07T17:25:05Z"}
+{"name":"oxicrypt-aes-accel","vers":"0.23.0","deps":[],"cksum":"e0c159ffd358eeab097358595a4463530aca3ca42c59602eb1fb359972e5ca78","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-09T20:38:14Z"}
