@@ -1,1 +1,2 @@
 {"name":"oxicrypt-sha-accel","vers":"0.22.0","deps":[],"cksum":"9070c52ae28b2350c50762e13ad46a3278ec16e7d4b39955cb3e6d7be1fb0dbe","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-07T17:36:03Z"}
+{"name":"oxicrypt-sha-accel","vers":"0.23.0","deps":[],"cksum":"d5edae2b32143f93e64a3a021609e246cbe33129bd4fa262fac0d3293b82de5d","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-09T20:39:37Z"}
