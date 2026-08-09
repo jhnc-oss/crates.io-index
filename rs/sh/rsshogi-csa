@@ -1,1 +1,2 @@
 {"name":"rsshogi-csa","vers":"0.1.1","deps":[],"cksum":"0c3d34ce78fa6ba884702ed8a55c2d6193e7482d7acfa3ebfff2fc6846da02d5","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-09T04:35:27Z"}
+{"name":"rsshogi-csa","vers":"0.1.2","deps":[],"cksum":"343f44ce1835f172c5512a56b407898538a12360b26fe337ab80275b696237d6","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-09T08:25:42Z"}
