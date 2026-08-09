@@ -10,3 +10,4 @@
 {"name":"sql-dialect-fmt-text","vers":"1.20.1","deps":[],"cksum":"60867649bacd2804ff76c1895ddec31f7fcb7e82296bfbd80a97f6e9b8b18d74","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-30T05:05:35Z"}
 {"name":"sql-dialect-fmt-text","vers":"1.21.0","deps":[],"cksum":"d275c8013fee99e24b96d860d67f3b9af34a3682314bed033c7fa00875c04b6b","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-08-09T09:01:32Z"}
 {"name":"sql-dialect-fmt-text","vers":"1.22.0","deps":[],"cksum":"e4a5c7c569bba0dd862470a4d48b3e9962379e9abcec2254f7ced396f99f420d","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-08-09T09:48:35Z"}
+{"name":"sql-dialect-fmt-text","vers":"1.22.1","deps":[],"cksum":"11d91233cb2e202d2f0f3c19e224af70c4fe1ddfc4cda94f4e588fe4fb0fd6be","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-08-09T11:38:38Z"}
