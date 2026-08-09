@@ -62,3 +62,4 @@
 {"name":"lisette-stdlib","vers":"0.10.0","deps":[],"cksum":"29629ab363f6487b6e217a5fda8b021e832b29f1fde978e203a59081c5110533","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-26T13:47:57Z"}
 {"name":"lisette-stdlib","vers":"0.11.0","deps":[],"cksum":"cc1f605cfb37238d3803f65e65d26f96193db1905b3e9f6bb597cde7adf3b1db","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-08-02T14:05:54Z"}
 {"name":"lisette-stdlib","vers":"0.11.1","deps":[],"cksum":"7656b90134a096e7b5f1bbe30b398777f8e6bcaa7236311f1ebf58bb892ad840","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-08-02T20:10:00Z"}
+{"name":"lisette-stdlib","vers":"0.11.2","deps":[],"cksum":"4c2d1072f7e5fa46b94478ade19d753dd1c21fb1c786f0a49afaf90541262d3f","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-08-09T13:58:20Z"}
