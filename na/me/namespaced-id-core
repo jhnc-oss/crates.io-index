@@ -1,0 +1,1 @@
+{"name":"namespaced-id-core","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9166ab15e2ad375bae815d7c4edd317f24847c43a886ae1ef6c7d436cc6f5ead","features":{},"yanked":false,"pubtime":"2026-08-09T02:51:58Z"}
