@@ -1,1 +1,2 @@
 {"name":"oxicrypt-keccak-accel","vers":"0.22.0","deps":[],"cksum":"4e8f29387c8bc923266fda22282e9d23e8ad760d5f00d706226202e73f40d4f7","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-07T17:25:39Z"}
+{"name":"oxicrypt-keccak-accel","vers":"0.23.0","deps":[],"cksum":"689ed2952dca3e27b8b9a5e095730ce40b970c90fb11d997e071efb0e0e45354","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-09T20:39:08Z"}
