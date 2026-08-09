@@ -1,1 +1,2 @@
 {"name":"oxicrypt-zeroize","vers":"0.22.0","deps":[],"cksum":"6d3aa199b2af66d5070d19365ce8516c078e3c597479ee9616d7e3ec7e017438","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-07T17:24:35Z"}
+{"name":"oxicrypt-zeroize","vers":"0.23.0","deps":[],"cksum":"07d6a9c9949defc63aaa70b66538bf63845bfe376839b360386f8491dce86143","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-09T20:40:13Z"}
