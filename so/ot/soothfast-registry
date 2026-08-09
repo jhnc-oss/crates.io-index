@@ -1,0 +1,1 @@
+{"name":"soothfast-registry","vers":"0.1.0","deps":[{"name":"linkme","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80c89c6ad934939f023ca0e92ebdf7a6a5227e0c9cb055ab419b93c10b363ca4","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-09T15:48:28Z"}
