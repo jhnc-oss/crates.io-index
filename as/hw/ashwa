@@ -1,0 +1,1 @@
+{"name":"ashwa","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_family = \"wasm\"))","kind":"dev"}],"cksum":"e91e21473c1172b0e77c68d98f7a8dec7ae15799b0906bcda4bb2a80cd2261db","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-09T08:32:51Z"}
