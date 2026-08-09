@@ -1,1 +1,2 @@
 {"name":"mmap-chunker-core","vers":"0.2.0","deps":[],"cksum":"8a7746cd610a930b338787ec047725704341d054f9cacfcb161c980b0fe56085","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-08-08T23:44:58Z"}
+{"name":"mmap-chunker-core","vers":"0.2.1","deps":[{"name":"memchr","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2596b51209a483fe4b393f83c80a51a41c1b7fcc153d4dd3cb31fde46b89007a","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-08-09T22:15:40Z"}
