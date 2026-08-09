@@ -1,1 +1,2 @@
 {"name":"oxicrypt-timer","vers":"0.22.0","deps":[],"cksum":"8848644901d0e52e1aaee5550820cd25df296f87320fce627528d47947768fd3","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-07T17:24:58Z"}
+{"name":"oxicrypt-timer","vers":"0.23.0","deps":[],"cksum":"c6f32dfcedb9f9657c483b139381300e8a8f4b1c9ede6e7ce08c7ee7dba4d3c1","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-09T20:40:03Z"}
