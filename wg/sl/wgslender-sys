@@ -1,1 +1,2 @@
 {"name":"wgslender-sys","vers":"1.2.0","deps":[],"cksum":"f63271b0ddecdb15a59746b0062b624b9d92d3830956a3817f1f312ea79153ba","features":{},"yanked":false,"links":"wgslender","rust_version":"1.85","pubtime":"2026-08-09T10:34:55Z"}
+{"name":"wgslender-sys","vers":"1.2.1","deps":[],"cksum":"7fe0b37dd5a8f1a6edf6c84438839b3a28b706a69e8f6271f9827be5f639dab8","features":{},"yanked":false,"links":"wgslender","rust_version":"1.85","pubtime":"2026-08-09T10:55:36Z"}
