@@ -1,0 +1,1 @@
+{"name":"atlas-ui-icons","vers":"0.2.0","deps":[{"name":"atlas-ui-tokens","req":"=0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6850c0efb8cdbec1f6ea94a6c8c305aa5554a1a2440c263c9b03126e6da64f0","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-09T16:14:57Z"}
