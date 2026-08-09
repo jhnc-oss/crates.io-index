@@ -1,1 +1,2 @@
 {"name":"oxicrypt-test-vectors","vers":"0.22.0","deps":[],"cksum":"36688601d338ac19e43f33d90e226a620cdaecddb3c6b4e3388858639ecfd36b","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-07T17:24:50Z"}
+{"name":"oxicrypt-test-vectors","vers":"0.23.0","deps":[],"cksum":"570f61a3c5146e556faff1e94eba1fb72f3b2282f77cffefb22e42a8c6eab207","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-09T20:39:49Z"}
