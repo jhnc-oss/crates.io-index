@@ -22,3 +22,4 @@
 {"name":"dcrypt-params","vers":"1.2.1","deps":[],"cksum":"9ad3c0dcb3398b5ad26fd9bffc73b5bf45934493cd48049d102a4422a90b9a76","features":{},"yanked":false,"pubtime":"2025-12-08T15:22:27Z"}
 {"name":"dcrypt-params","vers":"1.2.2","deps":[],"cksum":"5b54fbdfe834e0fed4e3f67a12badc3b726971c7dd6c24b48f1592f8bcd20e95","features":{},"yanked":false,"pubtime":"2025-12-10T20:20:57Z"}
 {"name":"dcrypt-params","vers":"1.2.3","deps":[],"cksum":"452d51c23707de2e120b65032eab6083023301207564027432f78e5a06b6cbcb","features":{},"yanked":false,"pubtime":"2026-04-03T23:50:15Z"}
+{"name":"dcrypt-params","vers":"2.0.0","deps":[],"cksum":"871d84bd4c8452fba41c8c47f83df78fbd55111cae70668c203751719bcea23d","features":{},"yanked":false,"pubtime":"2026-08-09T11:41:35Z"}
