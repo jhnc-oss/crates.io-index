@@ -7,3 +7,4 @@
 {"name":"arc-web-cli","vers":"0.5.1","deps":[],"cksum":"90c279f3102512b79dc5e16720ae6958b685d0b1988419514c819fae9a7c4b15","features":{},"yanked":false,"pubtime":"2026-08-08T20:11:19Z"}
 {"name":"arc-web-cli","vers":"0.6.0","deps":[],"cksum":"bb743e4dffeadb44061996fe1e95438c6b6ab3734f5832ab681d1e7b03bd8421","features":{},"yanked":false,"pubtime":"2026-08-08T21:46:06Z"}
 {"name":"arc-web-cli","vers":"0.7.0","deps":[],"cksum":"c565a34038e0bce94e3b57e410386bd30808e6db99e7f25b6dd42a88ae3506d7","features":{},"yanked":false,"pubtime":"2026-08-08T23:51:10Z"}
+{"name":"arc-web-cli","vers":"0.7.1","deps":[{"name":"tera","req":"^1.20.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"74db4e84be42f3d73f8e310caa7bcb3808a9dab41d0661634095fc8abce8946b","features":{},"yanked":false,"pubtime":"2026-08-09T02:42:37Z"}
