@@ -1,0 +1,1 @@
+{"name":"rils_compiler","vers":"0.1.0","deps":[{"name":"rils_frontend","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c385bb721a6786948425b20c4f575f08c878083007e5004592384a2f97a2223c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-09T05:21:31Z"}
