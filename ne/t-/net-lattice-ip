@@ -3,3 +3,4 @@
 {"name":"net-lattice-ip","vers":"0.2.1","deps":[],"cksum":"8e4b1f9ae71bdbc5ff2614f214359c541c1f219224b1dddfef3862de88136d89","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-01T09:55:15Z"}
 {"name":"net-lattice-ip","vers":"0.2.2","deps":[],"cksum":"df841d0087069cd733289048549c19cd3c3b8ef453846e0922068ee2249be3af","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-01T10:05:38Z"}
 {"name":"net-lattice-ip","vers":"0.3.0","deps":[],"cksum":"20e466a41bdd1f350cf07fd23881e002f550e5477f5fc99dc732849a1358c959","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-01T12:46:39Z"}
+{"name":"net-lattice-ip","vers":"0.4.0","deps":[],"cksum":"408e07dbe8723c8cc593e2abc89da750ccff093e9206e92b9b9ef547d315ff3f","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-09T16:48:10Z"}
