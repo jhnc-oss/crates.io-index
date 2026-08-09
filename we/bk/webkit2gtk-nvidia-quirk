@@ -6,3 +6,4 @@
 {"name":"webkit2gtk-nvidia-quirk","vers":"1.2.1","deps":[{"name":"udev","req":"^0.9","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"102125618bb4ff04ef181a9420f34ff777646f3b414932f5baab6e083e065e66","features":{},"yanked":false,"pubtime":"2026-04-07T20:08:24Z"}
 {"name":"webkit2gtk-nvidia-quirk","vers":"1.3.0","deps":[],"cksum":"0fde8fe8f4986fe10ea5247f7b00dad36826e45b67cbc13dce55c13ae1368855","features":{},"yanked":false,"pubtime":"2026-04-08T08:04:34Z"}
 {"name":"webkit2gtk-nvidia-quirk","vers":"1.4.0","deps":[],"cksum":"1fc2638b248b207d2be5a5beef8bc4f1b9c656b093153f268fa1ed8557493290","features":{},"yanked":false,"pubtime":"2026-08-01T07:54:22Z"}
+{"name":"webkit2gtk-nvidia-quirk","vers":"1.4.1","deps":[],"cksum":"ed7007fee9afffbd31acc6f2d6f37fb0d250f55053b5b5208a167386fc78c280","features":{},"yanked":false,"pubtime":"2026-08-09T12:03:38Z"}
