@@ -1,0 +1,1 @@
+{"name":"uacrypt","vers":"0.3.0","deps":[{"name":"dstu-core","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af2fdbcac1a7d65d31883682ecb0b12535cc92fca34f22903ca9d17380ec4a88","features":{},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-08-09T17:53:49Z"}
