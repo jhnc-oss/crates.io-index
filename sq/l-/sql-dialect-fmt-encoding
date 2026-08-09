@@ -9,3 +9,4 @@
 {"name":"sql-dialect-fmt-encoding","vers":"1.18.0","deps":[],"cksum":"3172334b9cd52c88b92dd718d7abb6151d9b2cefc5d24a26ad17aa62c0795084","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-26T01:17:59Z"}
 {"name":"sql-dialect-fmt-encoding","vers":"1.19.0","deps":[],"cksum":"a7b13d695a9d9aad35afc56266b83049e96e6bbbebdcb6678fc021573c3fd2ce","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-27T12:40:14Z"}
 {"name":"sql-dialect-fmt-encoding","vers":"1.20.1","deps":[],"cksum":"7544bd747523b12361c6bd8da567beeb81deeb2fb3bc928be94478b30b8aa49a","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-30T05:06:53Z"}
+{"name":"sql-dialect-fmt-encoding","vers":"1.21.0","deps":[],"cksum":"4af66313c6eb1338d50db20bb28a7320a196a3e5b417a728e9bf06615bb0e5f3","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-08-09T09:01:53Z"}
