@@ -10,3 +10,4 @@
 {"name":"hydra-engine-och","vers":"7.0.1","deps":[],"cksum":"c59f90b57aaa079a1d368da0c5823d17599733b91b72fd06a9007a25ea73744d","features":{},"yanked":false,"pubtime":"2026-08-03T03:47:19Z"}
 {"name":"hydra-engine-och","vers":"8.0.0","deps":[],"cksum":"578c13dbdc9d4a58ce39681e118dfe91125b7decf6e9e3b6e6cddd30cd12af14","features":{},"yanked":false,"pubtime":"2026-08-06T00:48:52Z"}
 {"name":"hydra-engine-och","vers":"8.1.0","deps":[],"cksum":"2995acbfbae2d17c237b13232418c0f04dc93fcd38edd19c8a97e3eec4b0a378","features":{},"yanked":false,"pubtime":"2026-08-08T18:47:35Z"}
+{"name":"hydra-engine-och","vers":"9.0.0","deps":[],"cksum":"fa074acde563ac050bdd42af92f15eae04fcd0e0fb47ec948ed7f90533a841ed","features":{},"yanked":false,"pubtime":"2026-08-09T22:41:13Z"}
