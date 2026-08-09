@@ -8,3 +8,4 @@
 {"name":"sql-dialect-fmt-text","vers":"1.18.0","deps":[],"cksum":"eeb32d47be1bf43b53bb541867dda69d65747b1efbbfbadd5402a0c93396043c","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-26T01:16:43Z"}
 {"name":"sql-dialect-fmt-text","vers":"1.19.0","deps":[],"cksum":"e614e4b6ae98340985057aae73bde2cd58ad1c59aea92580403e69be95791178","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-27T12:39:03Z"}
 {"name":"sql-dialect-fmt-text","vers":"1.20.1","deps":[],"cksum":"60867649bacd2804ff76c1895ddec31f7fcb7e82296bfbd80a97f6e9b8b18d74","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-07-30T05:05:35Z"}
+{"name":"sql-dialect-fmt-text","vers":"1.21.0","deps":[],"cksum":"d275c8013fee99e24b96d860d67f3b9af34a3682314bed033c7fa00875c04b6b","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-08-09T09:01:32Z"}
