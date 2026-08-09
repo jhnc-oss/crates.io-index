@@ -1,0 +1,1 @@
+{"name":"pico-entity-store","vers":"0.3.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"af81a8e7a8d53aa9396a03325189429487f719e4c3e4c7106febca6368269f31","features":{},"yanked":false,"pubtime":"2026-08-09T01:02:02Z"}
