@@ -26,3 +26,4 @@
 {"name":"msb_krun_arch_gen","vers":"0.1.25","deps":[],"cksum":"b14a030e7cd5740010a9d6eedd1002d2d42cc1481670cfa22a4dc5a89143048f","features":{},"yanked":false,"pubtime":"2026-07-07T01:21:28Z"}
 {"name":"msb_krun_arch_gen","vers":"0.1.26","deps":[],"cksum":"df8472690b285cf4ead92816b468662b5468fce99a0597f4f6f54696d313254e","features":{},"yanked":false,"pubtime":"2026-08-05T15:05:27Z"}
 {"name":"msb_krun_arch_gen","vers":"0.1.27","deps":[],"cksum":"9fea61a85d430a45e6fa4585990630477a86b9c44a552acc95242b41869dbb05","features":{},"yanked":false,"pubtime":"2026-08-10T01:57:15Z"}
+{"name":"msb_krun_arch_gen","vers":"0.1.28","deps":[],"cksum":"ce8e2f19da08eafa0ad8b2f71654c20f393b3682132a3254c0bbe4f045e88060","features":{},"yanked":false,"pubtime":"2026-08-10T09:08:42Z"}
