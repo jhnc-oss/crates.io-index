@@ -1,0 +1,1 @@
+{"name":"internet","vers":"0.0.1","deps":[],"cksum":"eae6f30f909b801e103e0465c3eed701490d0253bf18cfe8abb4206ac342ef25","features":{"alloc":[],"default":["std","http1_1","ipv4","icmpv4"],"http1_1":[],"icmpv4":["ipv4"],"ip":[],"ipv4":["ip"],"std":["alloc"]},"yanked":false,"pubtime":"2026-08-10T20:55:38Z"}
