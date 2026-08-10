@@ -1,1 +1,2 @@
 {"name":"hx-proto","vers":"0.3.0","deps":[],"cksum":"20c45921d28f49cc118a042fe7ad5685553934b5e48961bcf7c1b6f00712b744","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-08-10T13:14:45Z"}
+{"name":"hx-proto","vers":"0.3.1","deps":[],"cksum":"bd66da128fd94d46f0d4f208980d4ac8d04fff2f7e9153a896aef7ac55edf74f","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-08-10T14:58:42Z"}
