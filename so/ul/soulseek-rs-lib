@@ -14,3 +14,4 @@
 {"name":"soulseek-rs-lib","vers":"11.0.0","deps":[],"cksum":"c1f661dc2e042d6d84bc02938ebe7dbf4e563204ca1482d936b3a16537ea60f2","features":{},"yanked":false,"pubtime":"2026-07-26T13:14:27Z"}
 {"name":"soulseek-rs-lib","vers":"12.0.0","deps":[],"cksum":"787547549cdce12113662508175f1831593fdf6095df82c92b3dc143267de1fc","features":{},"yanked":false,"pubtime":"2026-07-26T17:24:24Z"}
 {"name":"soulseek-rs-lib","vers":"13.0.0","deps":[],"cksum":"8a3e048f7386770fe397d7a9670b506766a34709394492283b7bfb1a2d13e1ba","features":{},"yanked":false,"pubtime":"2026-07-29T15:29:44Z"}
+{"name":"soulseek-rs-lib","vers":"14.0.0","deps":[{"name":"libc","req":"^0.2.189","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"ef138fd9bf591323e193bedfe45251b3555ba578e19df06bb7955e9aae5dc669","features":{},"yanked":false,"pubtime":"2026-08-10T08:24:57Z"}
