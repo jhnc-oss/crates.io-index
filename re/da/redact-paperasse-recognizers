@@ -1,0 +1,1 @@
+{"name":"redact-paperasse-recognizers","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a64a8cec25b3dc155f8c259c598c47cdaec87fcd2aa1f58d5767629cd4d25ffd","features":{},"yanked":false,"pubtime":"2026-08-10T09:14:11Z"}
