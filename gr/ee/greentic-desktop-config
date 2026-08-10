@@ -6,3 +6,4 @@
 {"name":"greentic-desktop-config","vers":"0.1.13","deps":[],"cksum":"4ed6f83a97a0005fca29a3281b12fe8f39195a1ba22173bbaa3a1d91c256b984","features":{},"yanked":false,"pubtime":"2026-07-02T06:55:13Z"}
 {"name":"greentic-desktop-config","vers":"0.1.14","deps":[],"cksum":"eadef297f39a7a7ee18fed9f326d1813c1cbb28d7bbaf701bde818f631f4697f","features":{},"yanked":false,"pubtime":"2026-07-03T03:49:35Z"}
 {"name":"greentic-desktop-config","vers":"0.1.16","deps":[],"cksum":"a16365732745a08c55da29645541fb8059e2f470e5262ad24bead0709c5a6013","features":{},"yanked":false,"pubtime":"2026-08-08T11:19:32Z"}
+{"name":"greentic-desktop-config","vers":"0.1.17","deps":[],"cksum":"267ee32ea493291032d128a1d410ce525921a83bde7b6b6fc038784a1e22ba39","features":{},"yanked":false,"pubtime":"2026-08-10T11:20:36Z"}
