@@ -1,3 +1,4 @@
 {"name":"saddle-core","vers":"0.1.0","deps":[],"cksum":"926a65cd27518b4cc57da1d75e7298fa7d6b680649c5c04eeec295c74ac41683","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-23T01:48:50Z"}
 {"name":"saddle-core","vers":"0.1.1","deps":[],"cksum":"b9c48e48ec9d67780a4e11c39edbba755f90668a8c093e5775a32fd51f3c742d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-23T06:39:35Z"}
 {"name":"saddle-core","vers":"0.2.0-rc.1","deps":[],"cksum":"64e7a26067f974606f644ac28324da9e0c040f9e0db5041df0a020851c621a8e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-10T02:01:37Z"}
+{"name":"saddle-core","vers":"0.2.0-rc.2","deps":[],"cksum":"0091fbb0fa4f9a1e4d6157b0dcc05f8c49a8bc60d8f4f4ef08fd21fd3d273714","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-10T15:30:36Z"}
