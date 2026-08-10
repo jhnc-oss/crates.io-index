@@ -34,3 +34,4 @@
 {"name":"terrazzo-fixture","vers":"0.2.12","deps":[],"cksum":"15a0e8e938931e137c88002d8292a2f4436bf9a04ea30dbaa1b8d716dc82cca2","features":{},"yanked":false,"pubtime":"2026-06-22T12:01:39Z"}
 {"name":"terrazzo-fixture","vers":"0.2.13","deps":[],"cksum":"bf817f1a3ac1c1c9a4de11c033b45e93ed3e165bf94d90f493ecb1a45e181fde","features":{},"yanked":false,"pubtime":"2026-06-28T19:39:14Z"}
 {"name":"terrazzo-fixture","vers":"0.2.14","deps":[],"cksum":"916537e687669b584d0c873b5b5154d66e53ea8aa880c9c9ffe20ba9b44b895a","features":{},"yanked":false,"pubtime":"2026-08-07T19:28:42Z"}
+{"name":"terrazzo-fixture","vers":"0.2.15","deps":[],"cksum":"c2da7fe9a8674985883d464445133625ac83f6311b41e6f400cf1401da727ab0","features":{},"yanked":false,"pubtime":"2026-08-10T13:27:17Z"}
