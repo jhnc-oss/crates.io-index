@@ -9,3 +9,4 @@
 {"name":"kevy-text","vers":"4.0.0","deps":[],"cksum":"a3baa959a74cbd39b8923b6e4fc2dfa73eebd08ed1ef3ac51192b251e9a46d31","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-25T16:42:21Z"}
 {"name":"kevy-text","vers":"4.1.0","deps":[],"cksum":"a2bd7d6d085018ec9c4b8aa3e1b0841ddefc760c03e481b4c6ff141ca0a04c5b","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-28T06:15:59Z"}
 {"name":"kevy-text","vers":"4.1.1","deps":[],"cksum":"73d49128e9bc9b22cc4ed98df80b0e09e933952589b0c484a4bcb2d6839d9102","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-31T00:16:12Z"}
+{"name":"kevy-text","vers":"5.0.0","deps":[],"cksum":"a9e484199f578627a712276cc2c3992e79327d85826c2098dd7a2255a598927f","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-10T22:12:13Z"}
