@@ -1,0 +1,1 @@
+{"name":"boxferry-engine","vers":"0.1.1","deps":[{"name":"boxferry-model","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"262c5226d22b091d03d112f43cb37c1da90c3b648cd3f6b51e00cb68d55b3a6d","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-10T18:23:00Z"}
