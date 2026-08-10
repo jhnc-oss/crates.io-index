@@ -1,0 +1,1 @@
+{"name":"aronenao","vers":"0.3.9","deps":[{"name":"quickcheck","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0661a4010fa61a03cb1e721ed953341bea012b1995b74e8c914f889d595efc65","features":{},"yanked":false,"pubtime":"2026-08-10T08:56:52Z"}
