@@ -1,0 +1,1 @@
+{"name":"pso-antispam","vers":"0.2.0","deps":[{"name":"sha2","req":"^0.10","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d298fe639e8ce94b0d7eb665919cc37f47d5828aa84db3612064c9fefcc1f1d5","features":{"default":[],"std":["sha2/std"]},"yanked":false,"pubtime":"2026-08-10T16:43:10Z"}
