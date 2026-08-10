@@ -12,3 +12,4 @@
 {"name":"pdfboss-encoding","vers":"0.12.0","deps":[],"cksum":"7712c93db274ea177ec1d08b442adffeccfcece2249e5a987c6b6f505a0cf93c","features":{},"yanked":false,"pubtime":"2026-07-31T18:52:31Z"}
 {"name":"pdfboss-encoding","vers":"0.12.1","deps":[],"cksum":"527cbf3a34431af3835c372a6f2c933949ff303cc2309592962da5e9b070ebc2","features":{},"yanked":false,"pubtime":"2026-08-01T03:41:05Z"}
 {"name":"pdfboss-encoding","vers":"0.13.0","deps":[],"cksum":"b3ed76c7ce39574bce67f3c0ab5cbc75fa86f016aa9107828a9c0afe2683b130","features":{},"yanked":false,"pubtime":"2026-08-09T12:05:11Z"}
+{"name":"pdfboss-encoding","vers":"0.14.0","deps":[],"cksum":"30773c928e3d5e39528d3d32c38c9d1ffb18985ab1794ed44f1882280fe178d2","features":{},"yanked":false,"pubtime":"2026-08-10T06:25:22Z"}
