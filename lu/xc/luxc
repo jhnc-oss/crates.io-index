@@ -35,3 +35,4 @@
 {"name":"luxc","vers":"0.19.10","deps":[],"cksum":"64a63705faf40accc91ff57b43b62d33535283622dff6209797ebdf848dbd03f","features":{},"yanked":false,"pubtime":"2026-08-08T19:16:26Z"}
 {"name":"luxc","vers":"0.19.11","deps":[],"cksum":"3ca312d038fde70e1b0d69fbd02f7273cc404eba8b6a3938de797ca7b426322f","features":{},"yanked":false,"pubtime":"2026-08-10T00:20:26Z"}
 {"name":"luxc","vers":"0.19.12","deps":[],"cksum":"ab05f3c2396c085ebc327da76b9a4c556c1f578612d1ad30c9fba6e18a852acb","features":{},"yanked":false,"pubtime":"2026-08-10T00:52:34Z"}
+{"name":"luxc","vers":"0.19.13","deps":[],"cksum":"8144db1e0d830596699ec3078074dbf98b1debd62e41162715e8f9da45619576","features":{},"yanked":false,"pubtime":"2026-08-10T01:07:50Z"}
