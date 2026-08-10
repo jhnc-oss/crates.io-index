@@ -1,0 +1,1 @@
+{"name":"kevy-scalar","vers":"5.0.0","deps":[{"name":"kevy-time","req":"^5.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa459d74817a2c93dc159f68880dd94e2dc6778d303c0b8d4465362bfef8407c","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-10T22:14:07Z"}
