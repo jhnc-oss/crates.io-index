@@ -6,3 +6,4 @@
 {"name":"yieldskill-runtime-windows-arm64","vers":"0.3.0","deps":[],"cksum":"8ca4e492a9b417394d4263fe0052b43d73842eeb1502457da8ca08c4623a8d25","features":{},"yanked":false,"pubtime":"2026-08-08T22:16:13Z"}
 {"name":"yieldskill-runtime-windows-arm64","vers":"0.4.0","deps":[],"cksum":"de7ac8e1f422072c450fba7daa8099c1ba4feb1d96346d59299778a7236ff19f","features":{},"yanked":false,"pubtime":"2026-08-09T09:59:44Z"}
 {"name":"yieldskill-runtime-windows-arm64","vers":"0.5.0","deps":[],"cksum":"70eab1876a4673283b5ee19e3a3540b544b5cd9e8120317de5e8ac609077248e","features":{},"yanked":false,"pubtime":"2026-08-09T14:19:18Z"}
+{"name":"yieldskill-runtime-windows-arm64","vers":"0.5.1","deps":[],"cksum":"44ee7d505f71ed0e5fc2f4d7f1fc57e92ac2ce3a5dfd7f079db14973f77b5a47","features":{},"yanked":false,"pubtime":"2026-08-10T12:55:48Z"}
