@@ -1,0 +1,1 @@
+{"name":"easyofd-layout","vers":"0.1.0","deps":[{"name":"easyofd-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fec2053d06b5174641efc953fe3f95ca4ee4e5ed4e85d5072671ad62f85afc3","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-10T01:43:46Z"}
