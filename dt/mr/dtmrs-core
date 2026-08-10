@@ -1,0 +1,1 @@
+{"name":"dtmrs-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7aecf132f07f91d2d8983e57eb5033182d545d44678d69054a633c5f0551b40e","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-08-10T23:50:49Z"}
