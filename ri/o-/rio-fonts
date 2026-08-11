@@ -2,3 +2,4 @@
 {"name":"rio-fonts","vers":"0.5.16","deps":[],"cksum":"e21c732fce769634f954f3d3cda24716a84b988236ed4dce06d2073dc5147d30","features":{"default":[],"symbols-nerd-font":[]},"yanked":false,"pubtime":"2026-08-06T15:37:44Z"}
 {"name":"rio-fonts","vers":"0.5.18","deps":[],"cksum":"bf79237afdd030aa85ffc90480fff5f9a36c4f3fcd3293f17e4a614e872d3300","features":{"default":[],"symbols-nerd-font":[]},"yanked":false,"pubtime":"2026-08-06T22:44:38Z"}
 {"name":"rio-fonts","vers":"0.5.19","deps":[],"cksum":"08c957a6d1c3ed030491449c65026598309117e9217439c2a46a56a3f9eb1e2b","features":{"default":[],"symbols-nerd-font":[]},"yanked":false,"pubtime":"2026-08-07T00:09:27Z"}
+{"name":"rio-fonts","vers":"0.5.20","deps":[],"cksum":"5d112931a31f934d4adf4146cc9cef881f18adee68f26c8e8c80b0611d492064","features":{"default":[],"symbols-nerd-font":[]},"yanked":false,"pubtime":"2026-08-11T23:06:56Z"}
