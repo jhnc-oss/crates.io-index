@@ -213,3 +213,4 @@
 {"name":"cljrs-logging","vers":"0.1.228","deps":[],"cksum":"00cb1ca62716cbf3a09c43ef02e97448ad846d86c454d5a5ef2e631d4115e0ad","features":{},"yanked":false,"pubtime":"2026-07-23T05:25:08Z"}
 {"name":"cljrs-logging","vers":"0.1.229","deps":[],"cksum":"77b2046869fdbad0b64d7a0d019d9d6804dd8220771378b6aab6f18a68e1cfc7","features":{},"yanked":false,"pubtime":"2026-08-11T06:56:28Z"}
 {"name":"cljrs-logging","vers":"0.1.230","deps":[],"cksum":"1481d1427390ef91b2225588d367b7caf9eb2a513a9efbb1aff7d094b7e02013","features":{},"yanked":false,"pubtime":"2026-08-11T14:03:44Z"}
+{"name":"cljrs-logging","vers":"0.1.231","deps":[],"cksum":"eed5172c0be5c18ee6e2b90cedfa8756fe849b0c97efad3dad189229f87acc5e","features":{},"yanked":false,"pubtime":"2026-08-11T16:35:10Z"}
