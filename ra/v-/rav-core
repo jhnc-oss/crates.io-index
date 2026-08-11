@@ -1,0 +1,1 @@
+{"name":"rav-core","vers":"1.0.0-beta.7","deps":[{"name":"libm","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f28b31edd0df3226bf5ac97c4f4eaff26079f964a5a3bcc702eb50e927b537ef","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-11T18:52:24Z"}
