@@ -1,0 +1,1 @@
+{"name":"oj_env","vers":"0.0.2","deps":[{"name":"serde_json","req":"^1.0.151","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22d222a3b2034ecaebf58ba2b7210f495c1cda4d64a568fd0f8837007f79a225","features":{},"yanked":false,"pubtime":"2026-08-11T11:41:44Z"}
