@@ -18,3 +18,4 @@
 {"name":"day-fonts","vers":"0.1.2","deps":[],"cksum":"820ccfb859983014db926ceec582dd5434919c214c4a4fe9833744154d0c8768","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-08-02T10:47:04Z"}
 {"name":"day-fonts","vers":"0.1.4","deps":[],"cksum":"36d140a9371e57d3b5c9db80886f3338e15469245ffeebc794e1683570643f1a","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-08-05T13:37:50Z"}
 {"name":"day-fonts","vers":"0.2.1","deps":[],"cksum":"0a0632b3f402b214a7dabd6eb4b495cb4fbb1b6c5b40797aa7e96f530106101b","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-08-10T23:20:32Z"}
+{"name":"day-fonts","vers":"0.2.2","deps":[],"cksum":"60793f1eecfe276c8d3823fe44f0a73fdf0c0d69ec76fb630112abe16500fce2","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-08-11T23:25:11Z"}
