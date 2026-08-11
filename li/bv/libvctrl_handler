@@ -9,3 +9,4 @@
 {"name":"libvctrl_handler","vers":"3.1.0","deps":[],"cksum":"515befc799fa7d673951bde2cacbdbb7abbe2bfe05c6524813f3fb908b926887","features":{},"yanked":false,"pubtime":"2026-08-09T19:25:50Z"}
 {"name":"libvctrl_handler","vers":"3.1.1","deps":[],"cksum":"ed1802720e57c16dafcd95bd262490a16f00ab8f3c1650eba8ae3b973e393941","features":{},"yanked":false,"pubtime":"2026-08-09T20:06:42Z"}
 {"name":"libvctrl_handler","vers":"4.0.0","deps":[],"cksum":"44d3b64b205b6f96197cace43fc4479164997bb87e3683dad35e4e0ca6243af3","features":{},"yanked":false,"pubtime":"2026-08-10T14:45:40Z"}
+{"name":"libvctrl_handler","vers":"4.1.0","deps":[],"cksum":"4d31b0e2b359578eadb4ad884bdaadf034f5561726db5d437e6e23ec4659297f","features":{},"yanked":false,"pubtime":"2026-08-11T14:08:57Z"}
