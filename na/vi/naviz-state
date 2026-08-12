@@ -3,3 +3,4 @@
 {"name":"naviz-state","vers":"0.4.0","deps":[],"cksum":"cc67761148fc269fbfaacc5bdc93eb8b63774be1bd50fc1e4f379f00e4c7ceb7","features":{},"yanked":false,"pubtime":"2025-10-19T22:33:36Z"}
 {"name":"naviz-state","vers":"0.5.0","deps":[],"cksum":"09da08dfc28c40aa175dcd243f9862c018c10ef72b3b65c15a12e95229e99743","features":{},"yanked":false,"pubtime":"2025-10-19T22:36:28Z"}
 {"name":"naviz-state","vers":"0.6.0","deps":[],"cksum":"3b267db7376a0fa567b1175e0e5dd575c9828dd362eff381e207611851f9bbf5","features":{},"yanked":false,"pubtime":"2025-10-19T22:57:32Z"}
+{"name":"naviz-state","vers":"0.7.0","deps":[],"cksum":"bcb16a3fdb6f6700a31fa97278996d29e01091a4932d683467f29a5ad31c42b5","features":{},"yanked":false,"pubtime":"2026-08-12T22:54:18Z"}
