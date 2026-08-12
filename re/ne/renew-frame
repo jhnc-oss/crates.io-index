@@ -1,0 +1,1 @@
+{"name":"renew-frame","vers":"0.1.0","deps":[{"name":"proptest","req":"^1.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"af90da1721f54caa24a3193c50593331af2e232893add61d9a6683db8b55a127","features":{"sanitized":[]},"yanked":false,"rust_version":"1.97","pubtime":"2026-08-12T10:45:00Z"}
