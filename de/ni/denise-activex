@@ -1,1 +1,2 @@
 {"name":"denise-activex","vers":"0.0.0","deps":[],"cksum":"efd3dd5532db27221a62639da60f63fbacde0850fd649463ec808400888aec18","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-12T03:48:32Z"}
+{"name":"denise-activex","vers":"0.0.1","deps":[],"cksum":"88bd4d31de1df3f3f9c55db8d61ac0b43674ec7693747da3afe90e57cb017aa0","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-12T03:50:32Z"}
