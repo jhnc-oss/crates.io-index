@@ -1,0 +1,1 @@
+{"name":"renew-math","vers":"0.1.0","deps":[{"name":"proptest","req":"^1.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ef452cdc7fc063bfe22dd3515758b16613d10ae2eb6723d2e9e89dd158c35e46","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-08-12T10:23:42Z"}
