@@ -1,1 +1,2 @@
 {"name":"fragcap-core","vers":"0.1.0","deps":[],"cksum":"3f53d9cd0a2fb32ff2faa103bd15a31d1b3477be287a6dfec25ddebe7a1782a8","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-08-08T10:33:08Z"}
+{"name":"fragcap-core","vers":"0.2.0","deps":[{"name":"bytes","req":"^1.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"408576b855d08151bfe5f126330d65c73d578a53d98b07b61d43a48dafb4106d","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-08-12T05:28:37Z"}
