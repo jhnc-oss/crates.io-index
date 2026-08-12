@@ -1,2 +1,3 @@
 {"name":"nextjson-derive","vers":"0.1.0","deps":[],"cksum":"5cfe67dafd239c47162afea3bc5f1f4937b9273e46a80ff3a737e72e11d0fcae","features":{},"yanked":false,"pubtime":"2026-08-10T11:51:26Z"}
 {"name":"nextjson-derive","vers":"0.1.1","deps":[],"cksum":"a55ceadf1c65bc367beb74fb849a30d092d2fcbba5902bbae3acdc4de1e80b63","features":{},"yanked":false,"pubtime":"2026-08-11T08:26:44Z"}
+{"name":"nextjson-derive","vers":"0.1.2","deps":[],"cksum":"9e45bfc32d8781df21c3a8538f82d684a39cab601b5bdc7af6f00c6fcb4df789","features":{},"yanked":false,"pubtime":"2026-08-12T09:00:09Z"}
