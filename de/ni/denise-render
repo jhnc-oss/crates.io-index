@@ -1,0 +1,1 @@
+{"name":"denise-render","vers":"0.0.0","deps":[{"name":"denise","req":"^0.0.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2c40f3ffced3f97406243c844d44bf032a517640aad83799f66985435746dba6","features":{"default":["std"],"std":["denise/std"]},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-12T03:48:27Z"}
