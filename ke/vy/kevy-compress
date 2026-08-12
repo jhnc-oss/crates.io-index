@@ -1,1 +1,2 @@
 {"name":"kevy-compress","vers":"5.0.0","deps":[],"cksum":"ea1b9a34ddbe4a5cbdfe1a570b78fd6fb218bf55831b7613868ae19886b09eef","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-10T16:29:10Z"}
+{"name":"kevy-compress","vers":"5.1.0","deps":[],"cksum":"12a6d2d34cb6552e30766c5444ecf97ba2110732804a98c1f28aad63a257fb23","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-12T20:48:07Z"}
