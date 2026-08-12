@@ -1,1 +1,2 @@
 {"name":"deed-fetch","vers":"0.2.9","deps":[],"cksum":"941833d4bdc689c427ca29613543f21e11439879b57688fcc104ea01df841639","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-08T20:22:21Z"}
+{"name":"deed-fetch","vers":"0.2.10","deps":[],"cksum":"918af694c58af512557b98636c97252e54ff98e4ac0e71730c521871ade41b2e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-12T14:16:04Z"}
