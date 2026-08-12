@@ -4,3 +4,4 @@
 {"name":"tdcv2","vers":"0.1.6","deps":[],"cksum":"96ca87f9250d719b5c78af3c1f1f111c8dc98632245ceb1785d8a8ce416882ab","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-03T22:03:21Z"}
 {"name":"tdcv2","vers":"0.1.7","deps":[],"cksum":"377d62fa3015f246be79f36d2093be6362497b410dc2feeca92051d113bf5f0c","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-05T01:39:16Z"}
 {"name":"tdcv2","vers":"0.2.0","deps":[],"cksum":"e910e3b741294e8c4d8bacf583c66e59cea16bf3119cff934118fed0b064328e","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-07T07:04:57Z"}
+{"name":"tdcv2","vers":"0.2.1","deps":[],"cksum":"9966d7a022fc6c790fcb728d7ff1677832aa8681952fdf677fb3c9938be65669","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-12T02:58:58Z"}
