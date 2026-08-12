@@ -1,1 +1,0 @@
-{"name":"csi-core","vers":"0.1.0-beta","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c70cf15644989070ac6dff0f6bd53c77f6038b145e188797028722f414d14ee6","features":{},"yanked":true,"pubtime":"2026-08-12T11:29:10Z"}
