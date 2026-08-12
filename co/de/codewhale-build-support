@@ -5,3 +5,4 @@
 {"name":"codewhale-build-support","vers":"0.9.3","deps":[],"cksum":"096fc753a533f903fe5313145e36ba5ec745120d4ffa0b635f84be0fac00eef3","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-31T15:06:21Z"}
 {"name":"codewhale-build-support","vers":"0.9.4","deps":[],"cksum":"e9fa2226153d4baabf19bfb05a075913ace793bd18cecb661d7633c2abe40eec","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-08T03:28:49Z"}
 {"name":"codewhale-build-support","vers":"0.9.5","deps":[],"cksum":"a5524912d28f562a37b64d73df8ff8b81d4ae7d7ca7b22ba3fb13b4379449f3d","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-08T16:41:32Z"}
+{"name":"codewhale-build-support","vers":"0.9.6","deps":[],"cksum":"6a7b6f086c5966c057073c5d20fe99a364a63c8098b17df620ffefbf1e0bf4eb","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-12T08:54:38Z"}
