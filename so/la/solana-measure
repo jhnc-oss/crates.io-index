@@ -579,3 +579,4 @@
 {"name":"solana-measure","vers":"4.2.0-rc.1","deps":[],"cksum":"b5547251c402fa183f712e9680c8f6844f645636eab0c396b8d6a563bfd56879","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-07-31T15:11:55Z"}
 {"name":"solana-measure","vers":"4.3.0-alpha.3","deps":[],"cksum":"8752c683901105f9fb99d77984732ece75fe7492794c6fa10829c5fc5df262a7","features":{"agave-unstable-api":[]},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-08-05T19:45:50Z"}
 {"name":"solana-measure","vers":"4.2.0","deps":[],"cksum":"30c6fb9cc5a08ba430d4c9d6cdfd975777c9a4007b03c47186a8f086ccc5b3f3","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-08-07T20:36:08Z"}
+{"name":"solana-measure","vers":"4.2.1","deps":[],"cksum":"7efcc69fcf820688a4ef183e993eb9de5bf3d56ff64aeea8b8afdc121f81afe3","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-08-13T18:56:38Z"}
