@@ -23,3 +23,4 @@
 {"name":"pawkit-holy-array","vers":"0.1.22","deps":[],"cksum":"77cdcd97b4768e1128608435b2027576bd4fd55da3c5ee5a5a7040f3d357a8ec","features":{},"yanked":false,"pubtime":"2026-05-11T19:21:53Z"}
 {"name":"pawkit-holy-array","vers":"0.1.23","deps":[],"cksum":"cf00ef1984d8618668282487c66175463d2f97aa0e53d10604a820ea36f95997","features":{},"yanked":false,"pubtime":"2026-05-12T00:23:51Z"}
 {"name":"pawkit-holy-array","vers":"0.1.24","deps":[],"cksum":"3fefb2b444b93265cc712a98295cda43fa175fce50f15ee9e42c38933d96147b","features":{},"yanked":false,"pubtime":"2026-05-27T18:31:05Z"}
+{"name":"pawkit-holy-array","vers":"0.1.25","deps":[],"cksum":"8b4bd1956bfb32ae995b946ce85fbe994dff17dc000038f67d868655fe83fa41","features":{},"yanked":false,"pubtime":"2026-08-13T02:33:59Z"}
