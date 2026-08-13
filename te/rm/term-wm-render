@@ -31,3 +31,4 @@
 {"name":"term-wm-render","vers":"0.9.22-alpha","deps":[],"cksum":"a39a2639b2aca2b6a03d6db11d786ab101a7d20f9a93e78e515c7e14c3cd8a4f","features":{},"yanked":false,"pubtime":"2026-08-11T20:16:46Z"}
 {"name":"term-wm-render","vers":"0.9.23-alpha","deps":[],"cksum":"a314c4a6f16ea0aa3b16d6b9281b3d47a137c01846d104dfb384c5d0e7d485a5","features":{},"yanked":false,"pubtime":"2026-08-12T18:02:30Z"}
 {"name":"term-wm-render","vers":"0.9.24-alpha","deps":[],"cksum":"ed87e3e99549a45b7c33476a1b035a405289de8577215d4af4f01f5b47430be7","features":{},"yanked":false,"pubtime":"2026-08-13T03:46:16Z"}
+{"name":"term-wm-render","vers":"0.9.25-alpha","deps":[],"cksum":"00574c0771b3823d7d27d95c2fae0a88c5863dfacdb9caf9de857c1a760ca26a","features":{},"yanked":false,"pubtime":"2026-08-13T23:50:44Z"}
