@@ -1,0 +1,1 @@
+{"name":"mxc-alpha-process-security-environment-spec","vers":"0.7.0","deps":[{"name":"flatbuffers","req":"^25","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54d1be83f6fe12e02cfe8f4b64db0084416a3f8ef20f05e6f901784d27f78aed","features":{},"yanked":false,"pubtime":"2026-08-13T19:25:28Z"}
