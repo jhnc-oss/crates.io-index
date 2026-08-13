@@ -1,0 +1,1 @@
+{"name":"mxc-alpha-windows-secenv-projection","vers":"0.7.0","deps":[{"name":"flatbuffers","req":"^25","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6751fc7ebbaa659426bdacea3f373151aaf3b6a8664bda5bfe368201ec7a8868","features":{},"yanked":false,"pubtime":"2026-08-13T19:29:30Z"}
