@@ -8,3 +8,4 @@
 {"name":"libtracer","vers":"0.9.0","deps":[],"cksum":"669a039efbb5ef53383557f92b0c0f2e143c8f1cf617b6f1d41f2354b12f99fc","features":{},"yanked":false,"pubtime":"2026-08-10T16:45:52Z"}
 {"name":"libtracer","vers":"0.9.1","deps":[],"cksum":"74be5f2738a25428287f8f81efb3415146f49b4425e84faf099fcda9182597fe","features":{},"yanked":false,"pubtime":"2026-08-10T20:24:01Z"}
 {"name":"libtracer","vers":"0.10.0","deps":[],"cksum":"2d8c71f2c573eeaad0b7a575eb537a148b0dd14fea0d2a6401fd4d806351309b","features":{},"yanked":false,"pubtime":"2026-08-12T17:16:24Z"}
+{"name":"libtracer","vers":"0.11.0","deps":[],"cksum":"1301f7e4842376a97ab6828c599098f84a67456f7cf1d4b265042275a2d9c2be","features":{},"yanked":false,"pubtime":"2026-08-13T05:21:20Z"}
