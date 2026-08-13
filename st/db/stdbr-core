@@ -1,0 +1,1 @@
+{"name":"stdbr-core","vers":"0.0.2","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ad65cc403f6f597d30a5f54e658f07bc413dca3630bf89e5df9f8e1ed9b8589b","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-13T18:19:44Z"}
