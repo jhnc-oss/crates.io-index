@@ -1,0 +1,1 @@
+{"name":"lookma-git","vers":"1.2.1","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d26d1a34f5e02a788c4368e95054617704c5311dc5313076d4923a89b157ed48","features":{},"yanked":false,"pubtime":"2026-08-13T18:53:54Z"}
