@@ -1,1 +1,2 @@
 {"name":"rdar","vers":"0.5.0","deps":[],"cksum":"c2f8abd61b2c4817d3fbecd2b50912d25c82e746c776134878c760e63e4492e2","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-13T16:24:26Z"}
+{"name":"rdar","vers":"0.5.1","deps":[],"cksum":"04495ddb82daade400d98fd4fb40cf508928b4f45cfab5b9ea85713f8706d01c","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-13T18:17:44Z"}
