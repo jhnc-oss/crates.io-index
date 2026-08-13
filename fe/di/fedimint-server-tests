@@ -50,3 +50,4 @@
 {"name":"fedimint-server-tests","vers":"0.11.1","deps":[],"cksum":"645e03461bf6ef0c39e8dd579656b6973281244e2e4df017c1c7f24d2bc7d07c","features":{},"yanked":false,"pubtime":"2026-04-21T13:49:32Z"}
 {"name":"fedimint-server-tests","vers":"0.12.0-beta.2","deps":[],"cksum":"73bb8de60e5ff330b38ada6b5acec69d5f23aa8c424028eed06d7845fa746b3c","features":{},"yanked":false,"pubtime":"2026-07-28T18:32:15Z"}
 {"name":"fedimint-server-tests","vers":"0.10.1","deps":[],"cksum":"9f665e8042d3cebcead01c7cec377a09418642ca824e53f6c23c0cae6c45f160","features":{},"yanked":false,"pubtime":"2026-08-13T14:40:50Z"}
+{"name":"fedimint-server-tests","vers":"0.11.2","deps":[],"cksum":"88da46227649dc0249c277ed0da3d16352df57beca1eaf1e1e4dc2baf237f43d","features":{},"yanked":false,"pubtime":"2026-08-13T16:00:52Z"}
