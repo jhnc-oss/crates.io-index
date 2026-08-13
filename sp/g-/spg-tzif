@@ -2,3 +2,4 @@
 {"name":"spg-tzif","vers":"7.37.14","deps":[],"cksum":"9f83611b9b2ec66e61f1225d51876db79d4214b350892bc3c49f018b2bed3287","features":{},"yanked":false,"pubtime":"2026-08-12T01:34:07Z"}
 {"name":"spg-tzif","vers":"7.37.15","deps":[],"cksum":"85da0d53c0f4a289e29d458f9d5ed78672bea2e42a825c80f84f8ecfaf2be97e","features":{},"yanked":false,"pubtime":"2026-08-12T12:13:47Z"}
 {"name":"spg-tzif","vers":"7.37.16","deps":[],"cksum":"4152fb2f7de0d7d706fcb14bdbec2ea7b167d104f20bb3b5199a8c46b3d26fce","features":{},"yanked":false,"pubtime":"2026-08-12T23:34:17Z"}
+{"name":"spg-tzif","vers":"7.37.17","deps":[],"cksum":"880b3e77b10c8be40c9299838cb94123e4b8c8fc2b56bac878f978312abd16ea","features":{},"yanked":false,"pubtime":"2026-08-13T19:33:55Z"}
