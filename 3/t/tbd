@@ -1,0 +1,1 @@
+{"name":"tbd","vers":"0.0.1","deps":[{"name":"crossterm","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2280b230882b51cf675ad52b4f04e9f99213ec63c8ed275f4fef0996f6f1d132","features":{},"yanked":false,"pubtime":"2026-08-13T16:04:20Z"}
