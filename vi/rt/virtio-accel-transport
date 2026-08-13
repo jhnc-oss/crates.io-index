@@ -1,3 +1,4 @@
 {"name":"virtio-accel-transport","vers":"0.1.0","deps":[],"cksum":"c179aca3eef84fb8f6999eb581e4b045633aaf060a38dbf2c751aa052009783b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-28T22:44:56Z"}
 {"name":"virtio-accel-transport","vers":"0.1.2","deps":[],"cksum":"7c387549661802c5f8ca7efb289ebcd92981bfd933c32b28e30a288b78af1856","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-13T00:31:25Z"}
 {"name":"virtio-accel-transport","vers":"0.2.0","deps":[],"cksum":"a686c81fc9a10b7ceba982b507adcfeb6ed511e4da3e670b9891a977042f4a21","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-13T03:59:15Z"}
+{"name":"virtio-accel-transport","vers":"0.2.1","deps":[],"cksum":"377c96678e61a4537f3f7c5141de1ab8c12c267420f6a5bdc157657b92e015a8","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-13T20:54:18Z"}
