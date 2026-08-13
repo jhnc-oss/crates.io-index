@@ -10,3 +10,4 @@
 {"name":"sandogasa-review","vers":"0.19.2","deps":[],"cksum":"13c9c75952d68a1ae59c39bfd38d6f68e136855d9f7c7f9e608d0237648d2a44","features":{},"yanked":false,"pubtime":"2026-08-11T15:36:25Z"}
 {"name":"sandogasa-review","vers":"0.19.3","deps":[],"cksum":"33506a5544b39c3429476355e3ac837dba7e9d69f3591f2d4b17e35acaa62c43","features":{},"yanked":false,"pubtime":"2026-08-12T13:31:09Z"}
 {"name":"sandogasa-review","vers":"0.19.4","deps":[],"cksum":"55427fd59a0a3650b0f07bd6ce6874ce59c97aac98ce3d329dfafc347d4a9b1e","features":{},"yanked":false,"pubtime":"2026-08-12T18:47:40Z"}
+{"name":"sandogasa-review","vers":"0.20.0","deps":[],"cksum":"d056cb098f27605f7f2ae4d2c94ed300d358ea77de376a264d7a8764d4f9c6d5","features":{},"yanked":false,"pubtime":"2026-08-13T22:39:55Z"}
