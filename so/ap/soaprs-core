@@ -1,1 +1,2 @@
 {"name":"soaprs-core","vers":"0.1.0","deps":[],"cksum":"da7e42e05daf1ee12b8a343223ab324487f4a461668ac861bc1b69744b46751a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-13T06:02:48Z"}
+{"name":"soaprs-core","vers":"0.2.0","deps":[],"cksum":"dbe216fc8b86ef86fb88598ab6783a2a93695bb3dce4dcc70e8299123bd920b1","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-14T16:18:41Z"}
