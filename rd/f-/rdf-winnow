@@ -1,0 +1,1 @@
+{"name":"rdf-winnow","vers":"0.1.0","deps":[{"name":"winnow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6a29be2fc12415c691d1a57a33ea6395aa1619b018f7ed0d2faf2e268d5ebae","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-14T10:13:21Z"}
