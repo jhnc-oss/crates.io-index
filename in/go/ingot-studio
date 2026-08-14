@@ -1,1 +1,2 @@
 {"name":"ingot-studio","vers":"0.5.1","deps":[],"cksum":"85343b48645f40d4f62d5a7250f30aeb5c3c376c8da405726cfec885fbd6bbae","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-14T15:58:44Z"}
+{"name":"ingot-studio","vers":"0.5.2","deps":[],"cksum":"061f344501a1c80ad7029b04dc3ebd11b5e494a13476cac14a4660ceb1bb568d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-14T17:01:59Z"}
