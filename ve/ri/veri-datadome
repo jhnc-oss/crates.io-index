@@ -1,1 +1,0 @@
-{"name":"veri-datadome","vers":"0.1.0","deps":[{"name":"veri-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73730ba4fd9d1a9122eb2dde7808206cf5bf6ba5417d9014b801fe671a892a62","features":{},"yanked":false,"pubtime":"2026-08-14T15:03:32Z"}
