@@ -1,0 +1,1 @@
+{"name":"elme-db","vers":"0.0.1","deps":[{"name":"sqlx","req":"^0.8.6","features":["macros","postgres","runtime-tokio"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0aff2a9b21a550e70e6c100ca4b5bb713d59101cc567f9638c9dbdb7a4efc526","features":{"repo-traits":[]},"yanked":false,"rust_version":"1.89","pubtime":"2026-08-14T08:52:13Z"}
