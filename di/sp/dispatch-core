@@ -1,1 +1,2 @@
 {"name":"dispatch-core","vers":"0.1.0","deps":[],"cksum":"39b1c36792a223ec94dbc06b02b051de9d9867fd66b0aa79720adb03bf5a6119","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-13T07:52:23Z"}
+{"name":"dispatch-core","vers":"0.2.0","deps":[],"cksum":"b3383eb6dd38594eafabff53164bc7ab183811ad7dc602b51e953cc5eadd45ca","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-14T06:29:49Z"}
