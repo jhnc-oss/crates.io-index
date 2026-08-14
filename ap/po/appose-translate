@@ -1,0 +1,1 @@
+{"name":"appose-translate","vers":"0.1.0","deps":[{"name":"appose-ir","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b4d9146e0e601b136986eea515b1965c6d3bd62509f6014b22d8b0228831415b","features":{},"yanked":false,"pubtime":"2026-08-14T04:07:56Z"}
