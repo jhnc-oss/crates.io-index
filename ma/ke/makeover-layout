@@ -21,3 +21,4 @@
 {"name":"makeover-layout","vers":"0.19.0","deps":[],"cksum":"2c5e6bd13bcf40df8f4eae9736591a1ecef32aedc7205eb497e0633a8a9d2b35","features":{},"yanked":false,"links":"makeover-layout","pubtime":"2026-08-13T14:02:13Z"}
 {"name":"makeover-layout","vers":"0.19.1","deps":[],"cksum":"6752c263c93eb808ac878e54887257792e487d1713e98e2dcbac68d31363c9f9","features":{},"yanked":false,"links":"makeover-layout","pubtime":"2026-08-13T17:01:33Z"}
 {"name":"makeover-layout","vers":"0.21.0","deps":[],"cksum":"cd297f0832ba18e17409931a57d8c2272cbae5a5d57cf3370899b23af32f15e0","features":{},"yanked":false,"links":"makeover-layout","pubtime":"2026-08-14T16:38:58Z"}
+{"name":"makeover-layout","vers":"0.22.0","deps":[],"cksum":"58dad575602dd23c8f69297e9ef774be84e4c6e4c58a54892448175cb6a096da","features":{},"yanked":false,"links":"makeover-layout","pubtime":"2026-08-14T21:15:03Z"}
