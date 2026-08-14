@@ -7,3 +7,4 @@
 {"name":"finance_enums","vers":"0.5.0","deps":[],"cksum":"4fd616e7240453b1c23faf267d25b1bd465044a9adf8c109972efa90d3e10cf5","features":{},"yanked":false,"pubtime":"2026-05-25T20:20:13Z"}
 {"name":"finance_enums","vers":"0.5.1","deps":[],"cksum":"b7eceebee450cadf200bbd010361214cdc9813d9e382403d8776f4e5e1ed9276","features":{},"yanked":false,"pubtime":"2026-05-25T22:41:42Z"}
 {"name":"finance_enums","vers":"0.6.0","deps":[],"cksum":"439044dcfc5ff891e553fa55f4a5cd12ba8c385cd13d3c2f5ecd771d74923654","features":{},"yanked":false,"pubtime":"2026-05-30T02:28:49Z"}
+{"name":"finance_enums","vers":"0.7.0","deps":[{"name":"polars-core","req":"^0.46","features":["dtype-categorical"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"63102ee62a486b46637f05f168e4ebf32e02f31fd1b9d0d187decdb993c85a0e","features":{"default":[]},"features2":{"polars":["dep:polars-core"]},"yanked":false,"pubtime":"2026-08-14T17:04:05Z","v":2}
