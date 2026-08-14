@@ -1,0 +1,1 @@
+{"name":"qos-threads","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"9a1429871fb2134c62fb28dd06131e04c0d45b0c4cd242bab2461775fe23ff0a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-14T13:41:36Z"}
