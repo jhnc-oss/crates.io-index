@@ -1,0 +1,1 @@
+{"name":"soaprs-auth","vers":"0.3.0","deps":[{"name":"soaprs-core","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f28320d4ea59c41873fb94fa093442cf01f1b41767ce3119e5f3255e70dce2f","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-14T19:46:44Z"}
