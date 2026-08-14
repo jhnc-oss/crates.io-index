@@ -1,0 +1,1 @@
+{"name":"elme-config","vers":"0.0.1","deps":[{"name":"envy","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85281d1af2bf0e11e46518b7f94bfd91e4c943f9eb55985157578b6f9f0a9f4c","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-08-14T08:52:12Z"}
