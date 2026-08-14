@@ -7,3 +7,4 @@
 {"name":"superui_paths","vers":"0.1.2","deps":[],"cksum":"9b32c3a5b025e04c93403acc3b2a0261fa0eed3ce9c2b3f6774b50672da2acb9","features":{},"yanked":false,"pubtime":"2026-07-29T01:41:26Z"}
 {"name":"superui_paths","vers":"0.2.2","deps":[],"cksum":"d402b1810722bf122fad0746ef406644c10254aae80070ca2340f1162f6d4ff8","features":{},"yanked":false,"pubtime":"2026-07-29T01:52:44Z"}
 {"name":"superui_paths","vers":"0.3.2","deps":[],"cksum":"1730dcb7f008c6dce511cdcfe48b03dec7318150dcc131c3090077ec4b2177c7","features":{},"yanked":false,"pubtime":"2026-07-29T02:07:56Z"}
+{"name":"superui_paths","vers":"0.1.3","deps":[],"cksum":"e8fe64c5ee6f132db729bfd9383b3db4de3846345818242fd8b4703f2e45ee15","features":{},"yanked":false,"pubtime":"2026-08-14T19:38:32Z"}
