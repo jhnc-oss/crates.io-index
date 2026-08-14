@@ -9,3 +9,4 @@
 {"name":"trqp","vers":"0.9.0","deps":[],"cksum":"bb8fa97bbeea822fcb2beba4d37ecdcfff59fbb930a2265e3a19084eb8e5693a","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-07-27T11:58:15Z"}
 {"name":"trqp","vers":"0.10.0","deps":[],"cksum":"a5566778d10be9ed532b3b8ecc067a979ba048a0e59a880d402a2528c4cb6a19","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-07-29T07:50:33Z"}
 {"name":"trqp","vers":"0.11.0","deps":[],"cksum":"c05235a7c84ea5855e09fca650ac0129dd7e35a01cbff223b68beba0e2368690","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-08-10T08:11:34Z"}
+{"name":"trqp","vers":"0.12.0","deps":[],"cksum":"c827e60e04b736e8cccdcc6cc7a90ec3e31af15a7229deeed1313bdf2c6565dd","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-08-14T14:18:46Z"}
