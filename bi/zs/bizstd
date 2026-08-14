@@ -1,0 +1,1 @@
+{"name":"bizstd","vers":"1.0.0","deps":[{"name":"zstd","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83c2d7418c30155688059f64f2d8679d255ac4213aed1d970e7e264ad870cd22","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-14T19:22:40Z"}
