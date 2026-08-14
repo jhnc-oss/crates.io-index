@@ -10,3 +10,4 @@
 {"name":"keyroost-proto","vers":"0.7.5","deps":[],"cksum":"cb0b233b7f637ab82c1d0077755687bb7640b109df23697517b16c7527a0a1b0","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-14T22:50:23Z"}
 {"name":"keyroost-proto","vers":"0.7.6","deps":[],"cksum":"1c1a75e29c0137be8a85f9f14ee45ac08e05e01b707147ebc348c6a1c4889080","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-18T03:09:46Z"}
 {"name":"keyroost-proto","vers":"0.7.7","deps":[],"cksum":"9559724d72e4b81444225526f62ec4e92f31d8938980f9f432a021cc7d7eae63","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-04T13:18:30Z"}
+{"name":"keyroost-proto","vers":"0.7.8","deps":[],"cksum":"89f7f7fc82411891013c20091b66d81536103b7b7f9693f2a4dd421cd4f83bc8","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-14T00:42:50Z"}
