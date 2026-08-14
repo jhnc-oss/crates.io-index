@@ -1,0 +1,1 @@
+{"name":"soaprs-events","vers":"0.2.0","deps":[{"name":"soaprs-core","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8419cfa97bb0be98f12d2164ad7dd6631d8363cbd6646eca93f319a41a903c48","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-14T16:18:49Z"}
