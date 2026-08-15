@@ -1,0 +1,1 @@
+{"name":"corvid_float","vers":"0.1.1","deps":[{"name":"const_soft_float","req":"^0.1.4","features":["no_std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"016637db5d5912890bc921364688c81f84b44900c152f10acda050ea3ead5b21","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-08-15T22:14:19Z"}
