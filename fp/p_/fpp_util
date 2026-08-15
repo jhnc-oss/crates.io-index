@@ -4,3 +4,4 @@
 {"name":"fpp_util","vers":"3.3.3","deps":[],"cksum":"b4725dbb77cbac64d3377aaf5dc15ec43c4ca6d8e9a6a6c03ded58ab52ce9f0c","features":{},"yanked":false,"pubtime":"2026-08-12T03:52:55Z"}
 {"name":"fpp_util","vers":"3.3.4","deps":[],"cksum":"c46181480e2992a17545663b315e7607a9f74f50accf282c477650141d3c01e8","features":{},"yanked":false,"pubtime":"2026-08-13T16:54:50Z"}
 {"name":"fpp_util","vers":"3.3.5","deps":[],"cksum":"a2bbc0799f77a0d1d0be09d0ebe595c34017b85906854057f0bc158031c4a90d","features":{},"yanked":false,"pubtime":"2026-08-14T14:09:07Z"}
+{"name":"fpp_util","vers":"3.3.6","deps":[],"cksum":"ba70cf78bf6fc92250b20d52de6b61b2467a3fcba7e1c6980bfa38f9831cb33f","features":{},"yanked":false,"pubtime":"2026-08-15T02:29:36Z"}
