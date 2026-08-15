@@ -7,3 +7,4 @@
 {"name":"oj_graph","vers":"0.0.7","deps":[],"cksum":"f1571da3a37fb79ffdd32ebc8dac091ea81b72af7bdfae7e20013f8a5f5fb807","features":{},"yanked":false,"pubtime":"2026-08-14T13:49:05Z"}
 {"name":"oj_graph","vers":"0.0.8","deps":[],"cksum":"5fe79b85504b81c59823212830569df132edace9b59f03b1d154be289edd69f2","features":{},"yanked":false,"pubtime":"2026-08-14T14:55:45Z"}
 {"name":"oj_graph","vers":"0.0.9","deps":[],"cksum":"66854eeb9d9317720d0668090e4e4ba5268df40e98af2d1786d4deea27cf9bbb","features":{},"yanked":false,"pubtime":"2026-08-15T13:05:32Z"}
+{"name":"oj_graph","vers":"0.0.10","deps":[],"cksum":"47feefe5267a3d928095a5d912e5cfc13341f0aea3b1be8c6f3ecd4d3a3ada4d","features":{},"yanked":false,"pubtime":"2026-08-15T14:44:40Z"}
