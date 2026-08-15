@@ -1,0 +1,1 @@
+{"name":"hermes-support","vers":"0.1.0","deps":[{"name":"hermes_unicode","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"hermes-unicode"}],"cksum":"a2169af099ebaad812a1ce090ac98a886264d4d577a48b57eead2854d28f9788","features":{},"yanked":false,"pubtime":"2026-08-15T00:23:33Z"}
