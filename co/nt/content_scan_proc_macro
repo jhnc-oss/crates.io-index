@@ -1,1 +1,2 @@
 {"name":"content_scan_proc_macro","vers":"0.1.1","deps":[],"cksum":"9f1c02c2949a372f02c2502887b3ea4d08b92240c22603fe8c22efbb8bdfa482","features":{},"yanked":false,"pubtime":"2026-08-07T10:08:01Z"}
+{"name":"content_scan_proc_macro","vers":"0.1.2","deps":[],"cksum":"23f02c2cde2e6d3311647510fb767bef25b3c57874bbca0ef01fd8fa1a1a4fa0","features":{},"yanked":false,"pubtime":"2026-08-15T19:21:45Z"}
