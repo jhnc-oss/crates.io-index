@@ -9,3 +9,4 @@
 {"name":"br_tax_id","vers":"0.2.1","deps":[],"cksum":"7aa737b82ed4c630bdfee24ddc1b349d5620769207b56926b622857735307ead","features":{},"yanked":false,"pubtime":"2026-08-14T10:56:11Z"}
 {"name":"br_tax_id","vers":"0.2.2","deps":[],"cksum":"f4ca575487df4619d9d1fe531492a529690f4f3ced17f47bb6b5ef9218c9c54b","features":{},"yanked":false,"pubtime":"2026-08-15T20:30:09Z"}
 {"name":"br_tax_id","vers":"0.2.3","deps":[],"cksum":"4556c6f834f929b2f582066a78c27117a3a2eec319e91ea0ea9222241b7250fa","features":{},"yanked":false,"pubtime":"2026-08-15T20:32:59Z"}
+{"name":"br_tax_id","vers":"0.2.4","deps":[],"cksum":"b75fdf0b2709b11d68123ec26fe2a994b533029f8e80d8e85fd816dc1e72a0ee","features":{},"yanked":false,"pubtime":"2026-08-15T20:37:47Z"}
