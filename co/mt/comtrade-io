@@ -1,0 +1,1 @@
+{"name":"comtrade-io","vers":"0.0.1","deps":[{"name":"encoding_rs","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20a1a606aabc87a52b88c325b3c748b45d8ca50fd2f94b76f6b9af130028aa46","features":{"default":[],"gbk-builtin":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-15T02:52:03Z"}
