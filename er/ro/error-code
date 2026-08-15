@@ -24,3 +24,4 @@
 {"name":"error-code","vers":"3.3.1","deps":[],"cksum":"a5d9305ccc6942a704f4335694ecd3de2ea531b114ac2d51f5f843750787a92f","features":{"std":[]},"yanked":false,"pubtime":"2024-09-10T00:08:02Z"}
 {"name":"error-code","vers":"3.3.2","deps":[],"cksum":"dea2df4cf52843e0452895c455a1a2cfbb842a1e7329671acf418fdc53ed4c59","features":{"std":[]},"yanked":false,"pubtime":"2025-05-08T04:22:18Z"}
 {"name":"error-code","vers":"3.3.3","deps":[],"cksum":"05d95ad4acff85fa844260e88b8abd91a1508473086519f4e0a64da21f46dded","features":{"std":[]},"yanked":false,"pubtime":"2026-08-15T08:59:26Z"}
+{"name":"error-code","vers":"3.4.0","deps":[],"cksum":"0b5343afd4a8365a643ac588dab4cf234a190c7f6c88c9f6dd6ffe00837661b7","features":{"std":[]},"yanked":false,"pubtime":"2026-08-15T09:38:47Z"}
