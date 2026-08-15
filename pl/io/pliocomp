@@ -5,3 +5,4 @@
 {"name":"pliocomp","vers":"0.4.0","deps":[],"cksum":"85d2bc4d1dd95c174a3c62248eca2778e7e3a00a95b2fc405158e65e32194ab5","features":{},"yanked":false,"pubtime":"2026-07-11T06:52:11Z"}
 {"name":"pliocomp","vers":"0.5.0","deps":[],"cksum":"f0c3bcbf384038c96865eb5058375356ef1de73feffd34c760511f4f94a322a7","features":{},"yanked":false,"pubtime":"2026-08-13T15:03:27Z"}
 {"name":"pliocomp","vers":"0.6.0","deps":[],"cksum":"5d7dec17903c760541132de11f4c6e5e074e2e3cb0cb6a00ba29585476b26b02","features":{},"yanked":false,"pubtime":"2026-08-14T14:47:49Z"}
+{"name":"pliocomp","vers":"0.7.0","deps":[],"cksum":"087d91f83232b1c4d0416027c3079306238da1e7670e69ccb52e94a39f6e3a6c","features":{},"yanked":false,"pubtime":"2026-08-15T13:03:44Z"}
