@@ -1,0 +1,1 @@
+{"name":"rahti-icons","vers":"0.0.1","deps":[{"name":"rahti","req":"^0.0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1be24182b0768c8a74cdda8fcef11c4cbd4cfb38adfd50727234ebe2b59d91aa","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-15T04:46:15Z"}
