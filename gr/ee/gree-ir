@@ -5,3 +5,4 @@
 {"name":"gree-ir","vers":"0.2.3","deps":[],"cksum":"46ce138fa5a09aebbecee6a925bec76e329d9ba843449901299d740d2ea9e79c","features":{},"yanked":false,"pubtime":"2024-09-13T12:45:51Z"}
 {"name":"gree-ir","vers":"0.2.4","deps":[],"cksum":"9869ec86881d387346de9f0fcadb96849487e23376102e3976f8a31a78ffa9b0","features":{},"yanked":false,"pubtime":"2024-09-19T11:26:33Z"}
 {"name":"gree-ir","vers":"0.2.5","deps":[],"cksum":"fee2b5584dee29a9a3085ba3bbf14c9386aabe546ad5ac559ccdf0c6e1437708","features":{},"yanked":false,"pubtime":"2024-09-19T11:28:44Z"}
+{"name":"gree-ir","vers":"0.2.6","deps":[],"cksum":"b0c0c181b60b91c6e00589ab0e434c226e5b805e4e289e35003c1971deb58e48","features":{},"yanked":false,"pubtime":"2026-08-15T03:16:08Z"}
