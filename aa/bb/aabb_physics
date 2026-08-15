@@ -1,0 +1,1 @@
+{"name":"aabb_physics","vers":"0.1.0","deps":[{"name":"macroquad","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44e01bd4a61f1271b85ea8f2dd52b5898fb3acde8fb6462d4244d08a760d00d4","features":{},"yanked":false,"pubtime":"2026-08-15T15:33:39Z"}
