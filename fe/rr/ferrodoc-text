@@ -1,0 +1,1 @@
+{"name":"ferrodoc-text","vers":"0.1.0","deps":[{"name":"ferrodoc-ast","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9ca9ec8a59784ccfd5b117b689100d857c0e2691dd97648fa6efcc7a033c681","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-15T02:02:07Z"}
