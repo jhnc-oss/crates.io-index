@@ -3,3 +3,4 @@
 {"name":"kevy-tmpdir","vers":"4.1.1","deps":[],"cksum":"26c21c95d516bc383ae4834bfce705c5b717b71dcdd86a65594ca9765baab9c4","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-31T00:05:46Z"}
 {"name":"kevy-tmpdir","vers":"5.0.0","deps":[],"cksum":"f758b8ff64ccd7e7b1f21a0d1df7d2494584d142101660bff2d34ef8d3652ca0","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-10T16:03:43Z"}
 {"name":"kevy-tmpdir","vers":"5.1.0","deps":[],"cksum":"92930f8fc5ce961aa6485bd99e9051a486908358f3345e8cb46548876f87d93c","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-12T21:02:36Z"}
+{"name":"kevy-tmpdir","vers":"5.2.0","deps":[],"cksum":"29bf966641cf02b28ac8f1f5b511adf67c335106834800a68a2cd4c36a4df2df","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-15T12:27:21Z"}
