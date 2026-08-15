@@ -1,0 +1,1 @@
+{"name":"cargo-rahti-icons","vers":"0.0.1","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"166d8b859d84bc50e750937f1cccc4daf1ab3e6d1451d43b406e43ab3229519e","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-15T04:46:30Z"}
