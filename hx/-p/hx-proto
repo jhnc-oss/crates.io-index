@@ -5,3 +5,4 @@
 {"name":"hx-proto","vers":"0.4.2","deps":[],"cksum":"3777939be117706def5b8711adeaff74e2a183bfbf7b9416159000a189757a2d","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-08-15T11:29:47Z"}
 {"name":"hx-proto","vers":"0.4.3","deps":[],"cksum":"ab077ff88f90ba8ad6c48fe4020e3a64a34e8867ab08fa85700479e9e7233e15","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-08-15T16:58:37Z"}
 {"name":"hx-proto","vers":"0.4.4","deps":[],"cksum":"48bdb9431c73b5c4c13067a1c06b9eea9bc03b4465e5264444a22ff978a52e17","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-08-15T22:37:16Z"}
+{"name":"hx-proto","vers":"0.4.5","deps":[],"cksum":"fc3fd2cc203b15903f94a2a876c8f5e7ea08592289aacdeeb8321d36779db052","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-08-15T23:40:58Z"}
