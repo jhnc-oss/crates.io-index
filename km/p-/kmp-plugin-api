@@ -1,0 +1,1 @@
+{"name":"kmp-plugin-api","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"509af4f1914a7cfd2e9f1b964f9c55f3e8d4c6712a5439da0d5400cb9f16eda7","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-08-15T19:11:52Z"}
