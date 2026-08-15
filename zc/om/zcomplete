@@ -1,0 +1,1 @@
+{"name":"zcomplete","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.189","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"053c7573a62a31aa51222b576b285573b803bee5cc66671090795a4e259e0fd8","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-08-15T05:10:45Z"}
