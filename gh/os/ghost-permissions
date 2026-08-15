@@ -11,3 +11,4 @@
 {"name":"ghost-permissions","vers":"0.1.11","deps":[],"cksum":"9896caa593a34799198556d0aeb7867b9f448493adc28320612e8751f6fc7f7e","features":{},"yanked":false,"pubtime":"2026-08-12T10:13:12Z"}
 {"name":"ghost-permissions","vers":"0.1.12","deps":[],"cksum":"ef36156a0285622771fcc59a4bdd4fd001d3d1b5f23c56f35e907771c9026747","features":{},"yanked":false,"pubtime":"2026-08-13T10:24:34Z"}
 {"name":"ghost-permissions","vers":"0.1.13","deps":[],"cksum":"4e13a6f660822da67b0dfc075d560c441b9ae0e3b2609c96cdebb1a344e00b9d","features":{},"yanked":false,"pubtime":"2026-08-14T17:34:25Z"}
+{"name":"ghost-permissions","vers":"0.1.14","deps":[],"cksum":"183cca14cf150a9d7c6e916266309439e0f7ec9351729d4f7c989077e01c9c87","features":{},"yanked":false,"pubtime":"2026-08-15T04:45:52Z"}
