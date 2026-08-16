@@ -37,3 +37,4 @@
 {"name":"dyn_trie","vers":"7.0.3","deps":[],"cksum":"4806b17b7e7c11c11d508fd085178707842b7ca7b6fd58e3fd01bbde1078e059","features":{},"yanked":false,"pubtime":"2026-04-02T19:30:36Z"}
 {"name":"dyn_trie","vers":"7.0.4","deps":[],"cksum":"f4503eeecbfc2530c03caa1e05ab10cf457665a7ee449ea5b228d2b02ae8c384","features":{},"yanked":false,"pubtime":"2026-04-19T19:14:53Z"}
 {"name":"dyn_trie","vers":"7.0.5","deps":[],"cksum":"c5829bd043316a24d6160baf5be1f071788662e2817a745d9be10a17c5661410","features":{"rh-aide-tests":[],"rh-uc-tests":[]},"yanked":false,"pubtime":"2026-05-12T20:22:29Z"}
+{"name":"dyn_trie","vers":"7.0.6","deps":[],"cksum":"01ed4e89353ec7c3e960fa2b6638497f69437f45d8840aa1fb4d0365bf39148a","features":{"rh-aide-tests":[],"rh-uc-tests":[]},"yanked":false,"pubtime":"2026-08-16T20:06:32Z"}
