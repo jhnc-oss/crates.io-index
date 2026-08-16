@@ -10,3 +10,4 @@
 {"name":"issuing","vers":"0.6.1","deps":[],"cksum":"53244883a307ececc12000acc20520ce75d77756f3d988b310847e6963a52415","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-07-19T12:48:36Z"}
 {"name":"issuing","vers":"0.6.2","deps":[],"cksum":"7b8c3f971ad99f8a81c7add5a0db244f255678f92afbc3ecc11851107af2d979","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-08-10T04:30:37Z"}
 {"name":"issuing","vers":"0.6.3","deps":[],"cksum":"78b4cbd22030bb008ff820e70f1a244f10872c6356ff11522091514996fbb8f7","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-08-10T04:49:37Z"}
+{"name":"issuing","vers":"1.0.0","deps":[{"name":"enum_dispatch","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8041afb3e9605100b8b9726b505081792eac1e1d6b7342edc064082d870714ad","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-08-16T08:51:00Z"}
