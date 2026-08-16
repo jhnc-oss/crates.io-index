@@ -5,3 +5,4 @@
 {"name":"generic_discrete_2d_rotations","vers":"0.1.4","deps":[],"cksum":"a535c7953578e884f39300b653ff47c9d01b848b202287aabc68c86d7c5868e7","features":{},"yanked":false,"pubtime":"2026-08-10T16:18:31Z"}
 {"name":"generic_discrete_2d_rotations","vers":"0.1.5","deps":[],"cksum":"9283be784f07f3e20533bc017bd32a43235167d79c440a47a13906df8dd5f2a9","features":{},"yanked":false,"pubtime":"2026-08-16T20:17:18Z"}
 {"name":"generic_discrete_2d_rotations","vers":"0.1.6","deps":[],"cksum":"a30a6cb5987359deaf6f3a473b4a943125c64985f715e7bb9fea24708be9e251","features":{},"yanked":false,"pubtime":"2026-08-16T20:27:15Z"}
+{"name":"generic_discrete_2d_rotations","vers":"0.1.7","deps":[],"cksum":"ed6ca19768a102c5edf736a43f8a36f87ff114ba6f5e6b836f7246baab462759","features":{},"yanked":false,"pubtime":"2026-08-16T20:38:52Z"}
