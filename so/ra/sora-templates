@@ -13,3 +13,4 @@
 {"name":"sora-templates","vers":"0.8.0","deps":[],"cksum":"e63394cd4ae481e308268746f20eca9ef55f9206be4e91b9f3d18c5db655149a","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-15T14:38:49Z"}
 {"name":"sora-templates","vers":"0.9.0","deps":[],"cksum":"2491409afe5d3c930c3340baf03298140fda3322e94f6214d867e00d73f4f25a","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-16T00:54:02Z"}
 {"name":"sora-templates","vers":"0.9.1","deps":[],"cksum":"871e510f9d8f6fce6afd3288fb12d82968ca738970cfb547fe8cff33ba769e8a","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-16T01:33:50Z"}
+{"name":"sora-templates","vers":"0.10.0","deps":[],"cksum":"122d8c60813ab441fa9ecfa71b7592342c5da7f980abcf3de2e051895e291964","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-16T02:35:11Z"}
