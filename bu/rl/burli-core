@@ -1,1 +1,2 @@
 {"name":"burli-core","vers":"0.0.0","deps":[],"cksum":"bfd7972214146366c822794fe7f95ace0ff01fcc04f9685a7c30e0f1ebfd0a3b","features":{"alloc":[],"default":["std"],"nightly":[],"paranoid":[],"std":["alloc"]},"yanked":false,"rust_version":"1.89","pubtime":"2026-08-16T06:49:17Z"}
+{"name":"burli-core","vers":"0.1.0","deps":[],"cksum":"e89e08808b0732574f26ea79f832acffe9cc37e99fb426b0b743c725967f8adb","features":{"alloc":[],"default":["std"],"nightly":[],"paranoid":[],"std":["alloc"]},"yanked":false,"rust_version":"1.89","pubtime":"2026-08-16T07:57:29Z"}
