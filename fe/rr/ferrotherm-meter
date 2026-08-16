@@ -1,0 +1,1 @@
+{"name":"ferrotherm-meter","vers":"0.1.0","deps":[{"name":"ferrotherm","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9882513bd0dae8043e6301a1b89de5dfb2a8e4bc4aa48f05a5c95a1c3aed1f25","features":{},"yanked":false,"pubtime":"2026-08-16T00:03:16Z"}
