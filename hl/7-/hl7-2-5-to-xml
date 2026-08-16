@@ -1,1 +1,0 @@
-{"name":"hl7-2-5-to-xml","vers":"0.3.0","deps":[{"name":"er7","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f2ad6595303e7b5e3089f3b7096411343fa3161678abd0e3b451e7764ce1e31","features":{},"yanked":false,"pubtime":"2026-08-15T23:07:43Z"}
