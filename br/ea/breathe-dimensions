@@ -1,0 +1,1 @@
+{"name":"breathe-dimensions","vers":"0.1.29","deps":[{"name":"breathe-provider","req":"^0.1.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b4ff351f229119adff4ed60eb8dbb94e2e66d2b67bcdd4da4450125469bac8e9","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-08-16T22:27:24Z"}
