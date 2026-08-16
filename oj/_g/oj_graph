@@ -11,3 +11,4 @@
 {"name":"oj_graph","vers":"0.0.11","deps":[],"cksum":"8b36ab73a2979420cde52b15d7ae18210d40d177bbe9d7496421ce739b05e2bb","features":{},"yanked":false,"pubtime":"2026-08-15T15:02:47Z"}
 {"name":"oj_graph","vers":"0.0.12","deps":[],"cksum":"5456defe128cbac5377c1b2247bde1ea0340e964ca33e0509ece38cffe749629","features":{},"yanked":false,"pubtime":"2026-08-16T06:49:26Z"}
 {"name":"oj_graph","vers":"0.0.13","deps":[],"cksum":"8bfe828e28ac7a3787eeafea41cf94b9b17c45dc1c1fba3015df2cb4e0114801","features":{},"yanked":false,"pubtime":"2026-08-16T07:53:05Z"}
+{"name":"oj_graph","vers":"0.0.14","deps":[],"cksum":"e662e50310fcdd1f7445c92c38b018a133623624fc0aea01d6dbeaf3a81ae0fd","features":{},"yanked":false,"pubtime":"2026-08-16T22:34:16Z"}
