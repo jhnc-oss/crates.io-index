@@ -10,3 +10,4 @@
 {"name":"libtracer","vers":"0.10.0","deps":[],"cksum":"2d8c71f2c573eeaad0b7a575eb537a148b0dd14fea0d2a6401fd4d806351309b","features":{},"yanked":false,"pubtime":"2026-08-12T17:16:24Z"}
 {"name":"libtracer","vers":"0.11.0","deps":[],"cksum":"1301f7e4842376a97ab6828c599098f84a67456f7cf1d4b265042275a2d9c2be","features":{},"yanked":false,"pubtime":"2026-08-13T05:21:20Z"}
 {"name":"libtracer","vers":"0.12.0","deps":[],"cksum":"a448b73ddb0b47dc08db93ae41e174c1880f47b1ca549576885f9fdd20ded550","features":{},"yanked":false,"pubtime":"2026-08-14T11:33:00Z"}
+{"name":"libtracer","vers":"0.13.0","deps":[],"cksum":"baffd5c5d68e1fc140f4053fbfa58f9878359a2a88756ab22ba002f34dfbc700","features":{},"yanked":false,"pubtime":"2026-08-16T13:52:16Z"}
