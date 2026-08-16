@@ -1,1 +1,2 @@
 {"name":"bind9-rs-core","vers":"0.1.0","deps":[],"cksum":"78764c4fb007127f2de6874983f136f1d0b979dd18779e334c6625a70235032a","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-16T00:09:04Z"}
+{"name":"bind9-rs-core","vers":"0.1.1","deps":[],"cksum":"e0cfe92ee7466bcdea76c032013f90569652d090e00a57cedcee752ce7836df8","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-16T00:45:33Z"}
