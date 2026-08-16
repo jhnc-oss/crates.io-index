@@ -9,3 +9,4 @@
 {"name":"ferrotherm","vers":"0.8.0","deps":[],"cksum":"cdffa934db04bed986bda4cf72dda158104d500f204457833034360b20782dd3","features":{},"yanked":false,"pubtime":"2026-08-14T09:01:57Z"}
 {"name":"ferrotherm","vers":"0.9.0","deps":[],"cksum":"614fe89809f05e1060f93536f5799319ee633cd9ed722ad91550c9259ca4d959","features":{},"yanked":false,"pubtime":"2026-08-15T13:25:43Z"}
 {"name":"ferrotherm","vers":"0.10.0","deps":[],"cksum":"f8a8a26692278559333e8cc56f468a2738c2ff66b3c1c0767b0bc6ab0206ef63","features":{},"yanked":false,"pubtime":"2026-08-16T00:02:30Z"}
+{"name":"ferrotherm","vers":"0.11.0","deps":[],"cksum":"5628227965dec60bea9c6ca436f7d069a34d832c83b63bbe0163a77f6976604e","features":{},"yanked":false,"pubtime":"2026-08-16T11:26:37Z"}
