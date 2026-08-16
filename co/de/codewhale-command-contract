@@ -1,0 +1,1 @@
+{"name":"codewhale-command-contract","vers":"0.9.8","deps":[{"name":"codewhale-core","req":"^0.9.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"654d3d81e66a4ea7354fbaf01a2d896e7ed750183d9fee172b7ef2653dc65e7f","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-16T19:29:24Z"}
