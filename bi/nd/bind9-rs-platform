@@ -1,0 +1,1 @@
+{"name":"bind9-rs-platform","vers":"0.1.0","deps":[{"name":"getrandom","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"324d0a23f1d27cede050200954258c68b686d35b4db9f5825e6414dd024ff046","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-16T00:09:01Z"}
