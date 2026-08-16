@@ -1,0 +1,1 @@
+{"name":"ytsaurus-proto","vers":"0.3.0","deps":[{"name":"prost","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"254ef42f40eb3f72af7ba9d175786383786cb2d628310ee12c2febcad6875dc3","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-08-16T15:45:11Z"}
