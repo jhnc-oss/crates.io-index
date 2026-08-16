@@ -2,3 +2,4 @@
 {"name":"gdck-syntax","vers":"0.3.0","deps":[],"cksum":"ae6b59972a0b02641163062587c1d3fc7701b8e6547989c0dfca0085d4dda4f6","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-16T01:00:06Z"}
 {"name":"gdck-syntax","vers":"0.4.0","deps":[],"cksum":"3be06216983c07ab9ec8652bbb6ea4847be44d1001f7f169a88756d95588b872","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-16T19:12:03Z"}
 {"name":"gdck-syntax","vers":"0.5.0","deps":[],"cksum":"383f8f214ee47f827ed993a59abac7987b936aca62456714ad420272c7f15089","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-16T21:50:44Z"}
+{"name":"gdck-syntax","vers":"0.5.1","deps":[],"cksum":"175b104d4af121925b7e6e5efeaedbfafc1aaf5cd57c9fa2de52f213584eef54","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-16T22:22:38Z"}
