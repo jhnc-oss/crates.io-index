@@ -41,3 +41,4 @@
 {"name":"everruns-openui","vers":"0.17.24","deps":[],"cksum":"57f38a0a8ebe762f84b4f9d62cc57a9321217b5fa39aa8f389366ac0df97790b","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-08-09T05:10:55Z"}
 {"name":"everruns-openui","vers":"0.17.25","deps":[],"cksum":"23551c9ad083cde5c9da9471a44b53ee06a627b9d134ec0ed67304e3a6927122","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-08-09T06:10:47Z"}
 {"name":"everruns-openui","vers":"0.17.26","deps":[],"cksum":"ebc478063a78d16c2ce1925de6797de3980279a5f904347815e4f3202ae074af","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-08-10T04:12:43Z"}
+{"name":"everruns-openui","vers":"0.18.0","deps":[],"cksum":"f974706396a3ef1d9f19c5c2d41374b496069aa02b39f75c09b3eb39c3fb5283","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-08-16T05:13:05Z"}
