@@ -1,1 +1,2 @@
 {"name":"dotenv-verbatim","vers":"0.1.0","deps":[],"cksum":"09996aaebbc9ab14b489b2bc09c74ceed986001df4198f22311c2b0add3d8f06","features":{},"yanked":false,"rust_version":"1.65","pubtime":"2026-08-16T16:17:37Z"}
+{"name":"dotenv-verbatim","vers":"0.2.0","deps":[],"cksum":"ece603e3e358c5ccffdd6ae34e9c9e2cfcfd88ff17eb42de9a12ac165a300da8","features":{},"yanked":false,"rust_version":"1.65","pubtime":"2026-08-16T18:16:19Z"}
