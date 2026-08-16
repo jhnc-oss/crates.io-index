@@ -3,3 +3,4 @@
 {"name":"api-bones-protos","vers":"0.3.0","deps":[],"cksum":"a41c14313e2a2a31db1cb0498adefd55943e22c3b35072107cb0d60a54da73a6","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-01T21:11:18Z"}
 {"name":"api-bones-protos","vers":"0.4.0","deps":[],"cksum":"e05b82fe7d95621374fb03720c6ad18018adbe0e875281aa79263d638f724901","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-15T10:44:12Z"}
 {"name":"api-bones-protos","vers":"0.4.1","deps":[],"cksum":"741e92ab52396390705ac9524e14e55e67ae2b0b5532ebe28009bc10ec5167b9","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-15T15:04:00Z"}
+{"name":"api-bones-protos","vers":"0.4.2","deps":[],"cksum":"a9d6f94169f82a06561908f1d4d9d6ea95fe6be6f7352a945218778eec29764f","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-16T11:35:47Z"}
