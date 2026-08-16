@@ -5,3 +5,4 @@
 {"name":"btmx","vers":"0.1.0-gd6b468658c1e","deps":[],"cksum":"648630c6ba3d01652a5208b290273447329f344e64e69a20798ea4c5b0e83621","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-08-16T21:47:25Z"}
 {"name":"btmx","vers":"0.1.0-g56e1a23618f6","deps":[],"cksum":"03b5e26d0420d914abc2cc5ebc446ea7f957fd0412e506c80497d5491b153037","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-08-16T21:55:56Z"}
 {"name":"btmx","vers":"0.1.0-ge1b2f8dd7731","deps":[],"cksum":"331883c6d303af1602049950cabab61d2b1134dc0f25391496f066ed2f96d285","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-08-16T21:58:30Z"}
+{"name":"btmx","vers":"0.1.0-g78977ce16e61","deps":[],"cksum":"3cdd273b1d5ed8d8ab1c3ce01a58cf811ca5a81b5549fbc7a67bf77d9d9cf99c","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-08-16T22:05:57Z"}
