@@ -1,1 +1,2 @@
 {"name":"brass_foundry","vers":"0.13.7","deps":[],"cksum":"9d5fec59258fd060f4ace26d2f3f539655e348d43b182d10702441f97d9ed8be","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-17T18:41:59Z"}
+{"name":"brass_foundry","vers":"0.13.8","deps":[],"cksum":"9b6df9c67fa7fcfd844d76118ad3b1941fe2d90a9edd849e9ab976f6bbf6746c","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-17T22:14:14Z"}
