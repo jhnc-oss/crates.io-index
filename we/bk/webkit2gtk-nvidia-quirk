@@ -8,3 +8,4 @@
 {"name":"webkit2gtk-nvidia-quirk","vers":"1.4.0","deps":[],"cksum":"1fc2638b248b207d2be5a5beef8bc4f1b9c656b093153f268fa1ed8557493290","features":{},"yanked":false,"pubtime":"2026-08-01T07:54:22Z"}
 {"name":"webkit2gtk-nvidia-quirk","vers":"1.4.1","deps":[],"cksum":"ed7007fee9afffbd31acc6f2d6f37fb0d250f55053b5b5208a167386fc78c280","features":{},"yanked":false,"pubtime":"2026-08-09T12:03:38Z"}
 {"name":"webkit2gtk-nvidia-quirk","vers":"1.4.2","deps":[],"cksum":"83370cb7711a31b42568d272020170a3363c15069704105ac6c5225d4f497db1","features":{},"yanked":false,"pubtime":"2026-08-15T13:35:06Z"}
+{"name":"webkit2gtk-nvidia-quirk","vers":"1.4.3","deps":[],"cksum":"346ca51979f591fd90693a1cd548c3ac482e665b1f736ea5bba6f2e7f2e6d18c","features":{},"yanked":false,"pubtime":"2026-08-17T21:54:56Z"}
