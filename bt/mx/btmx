@@ -12,3 +12,4 @@
 {"name":"btmx","vers":"0.1.0-gd867e1b6f76e","deps":[],"cksum":"f09552c2c493dc7694871f04100565e44e13f4c967d532daad7ec3e7e90ab877","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-08-17T10:15:24Z"}
 {"name":"btmx","vers":"0.1.0-g206ee722461b","deps":[],"cksum":"65bfb9b67553ddbddeeacfc60d7af97c4859f023e95198c801c1eacf8e301b21","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-08-17T10:40:47Z"}
 {"name":"btmx","vers":"0.1.0-g12bf8235bd8f","deps":[],"cksum":"76b0863a9e19e15c0c1f743eca5edf00cfdf608558b86dcd12516b8cccea349e","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-08-17T11:01:28Z"}
+{"name":"btmx","vers":"0.1.0-g67a60bd16224","deps":[],"cksum":"18dae89122a336cb64704b0c55d4dadb6767504ff6cd154ef03499595af4ebcc","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-08-17T11:28:05Z"}
