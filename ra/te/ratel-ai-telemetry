@@ -4,3 +4,4 @@
 {"name":"ratel-ai-telemetry","vers":"0.1.1","deps":[],"cksum":"34420152f0b91a47b7d5b7b992328f32fa184685d37108f56f74a5cdd29b100d","features":{},"yanked":false,"pubtime":"2026-07-26T21:50:17Z"}
 {"name":"ratel-ai-telemetry","vers":"0.2.0-rc.0","deps":[],"cksum":"e3c22a1defe1c0b984cd16564782d630f37dd7fe5f97e80d1b833fb33f1d0077","features":{},"yanked":false,"pubtime":"2026-08-11T13:55:23Z"}
 {"name":"ratel-ai-telemetry","vers":"0.2.0","deps":[],"cksum":"7ab4217d53335428b9f5a239ec23ca79143f16b7192bd99bda32011d87f5daa3","features":{},"yanked":false,"pubtime":"2026-08-11T14:43:31Z"}
+{"name":"ratel-ai-telemetry","vers":"0.3.0","deps":[],"cksum":"f1ec7331e58ee983f6e5c75a8c65cbb0f45a27f59afabfb87679b74ea54fffa1","features":{},"yanked":false,"pubtime":"2026-08-17T11:00:21Z"}
