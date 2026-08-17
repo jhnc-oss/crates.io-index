@@ -11,3 +11,4 @@
 {"name":"trqp","vers":"0.11.0","deps":[],"cksum":"c05235a7c84ea5855e09fca650ac0129dd7e35a01cbff223b68beba0e2368690","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-08-10T08:11:34Z"}
 {"name":"trqp","vers":"0.12.0","deps":[],"cksum":"c827e60e04b736e8cccdcc6cc7a90ec3e31af15a7229deeed1313bdf2c6565dd","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-08-14T14:18:46Z"}
 {"name":"trqp","vers":"0.13.0","deps":[],"cksum":"d9fedf8ef20573c17de78f7632b51ef1e98b816d4a56adef3eaa12a8754c48a5","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-08-14T14:38:29Z"}
+{"name":"trqp","vers":"0.14.0","deps":[],"cksum":"86cd7981f3a334f81844e5a47cc2cb03196b1c68396cb2036e569298d03f0eed","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-08-17T08:01:25Z"}
