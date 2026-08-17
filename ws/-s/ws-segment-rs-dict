@@ -1,0 +1,1 @@
+{"name":"ws-segment-rs-dict","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f71209d588c1c4c0e7184e001c4849b43951f1c5a3813ed836bf0a28d649ed4","features":{},"yanked":false,"pubtime":"2026-08-17T09:00:11Z"}
