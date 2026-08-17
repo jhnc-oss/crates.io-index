@@ -3,3 +3,4 @@
 {"name":"crisp-ast","vers":"1.6.0","deps":[],"cksum":"c814a0d1b78fd44071ca46b57712029e8caa051a54ab33ee72b542f3b9299cbd","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-15T12:54:51Z"}
 {"name":"crisp-ast","vers":"1.6.1","deps":[],"cksum":"b72cb0ec76eaa0cf012829ac792f6c4128e42e377d2c43cb310bd16bea8b0dec","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-15T14:30:59Z"}
 {"name":"crisp-ast","vers":"1.7.0","deps":[],"cksum":"8c02cae64a08398b26c698a54b25b245b3ae8bb0465bd46761754a2af7a4159c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-17T09:52:56Z"}
+{"name":"crisp-ast","vers":"1.7.1","deps":[],"cksum":"c2e1cd5c3b806f4fc43b78ecdf4e9b14d4c92aeaa91ee56ce85c998c0e9cbef0","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-17T12:51:06Z"}
