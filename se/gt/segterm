@@ -1,0 +1,1 @@
+{"name":"segterm","vers":"0.1.0","deps":[{"name":"limine","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f21fce754f761f7bf979d500e16ff701b18cfdf358c51f1d2c3b2f23881f05d","features":{},"yanked":false,"pubtime":"2026-08-17T08:49:04Z"}
