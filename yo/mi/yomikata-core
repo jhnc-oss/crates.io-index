@@ -1,1 +1,2 @@
 {"name":"yomikata-core","vers":"0.1.0","deps":[],"cksum":"88b379b958f49a1be8ce26abb2b6f6de82f5e199403b6af8f9512b4d5a1ea7d7","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-17T01:13:09Z"}
+{"name":"yomikata-core","vers":"0.1.1","deps":[],"cksum":"39e2d8563e7a341d8e48ea91b9a8f65e3c373eb0759905ef712afe251d397482","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-17T01:29:22Z"}
