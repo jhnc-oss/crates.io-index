@@ -1,1 +1,2 @@
 {"name":"bar-registry","vers":"0.1.0","deps":[],"cksum":"71d2e9de0de785d91977868027e47bdbbf57b31ed141a67bb93c48edfa7a163c","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-12T21:33:25Z"}
+{"name":"bar-registry","vers":"0.2.0","deps":[],"cksum":"5f5062803fe579870da9a4fb4068be29bbb3e2209fddf434f321090630b55292","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-17T16:45:32Z"}
