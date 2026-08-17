@@ -2,3 +2,4 @@
 {"name":"ppc","vers":"0.2.0","deps":[],"cksum":"6009ea4f16aa7a25a5d0516c335cf7d1210869d960e53973c7cab665ebda2cd6","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-16T02:53:05Z"}
 {"name":"ppc","vers":"0.3.0","deps":[],"cksum":"87d40ae627917451c3933cce67f6c8e0bc7f93fcabedd528f97acfbb965271b8","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-16T08:56:03Z"}
 {"name":"ppc","vers":"0.3.1","deps":[],"cksum":"f815c8257fce8ef79853cfa25dd23d361924e0cfbff07af11cfa295d3d26a23c","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-16T13:38:35Z"}
+{"name":"ppc","vers":"0.4.0","deps":[],"cksum":"71a947b9def1642a9ac9e1a0827c6574c10512165b2d7f50bf1403f933eb226d","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-17T14:31:54Z"}
