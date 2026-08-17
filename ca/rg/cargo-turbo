@@ -2,3 +2,4 @@
 {"name":"cargo-turbo","vers":"0.1.1","deps":[],"cksum":"ec818706b5e6f5ad65d91f910ffdc2e431e0023ee9c1aa6b7637b3b51b9bf3e8","features":{},"yanked":false,"pubtime":"2026-08-17T09:50:58Z"}
 {"name":"cargo-turbo","vers":"0.2.0","deps":[],"cksum":"606bfee2b68b6c964174e1aa7f240c39547002680cd6d66e7a319d02c659d659","features":{},"yanked":false,"pubtime":"2026-08-17T10:30:41Z"}
 {"name":"cargo-turbo","vers":"0.2.1","deps":[],"cksum":"9fdf290320a86ff8d390a0120868f69adab9383e31f949620642d935e94f95a6","features":{},"yanked":false,"pubtime":"2026-08-17T10:42:27Z"}
+{"name":"cargo-turbo","vers":"0.2.2","deps":[],"cksum":"185f33e784ab8aeb4fb92a535599cefd97e17418f9d6c2cb6f3368a37169d8b4","features":{},"yanked":false,"pubtime":"2026-08-17T10:54:44Z"}
