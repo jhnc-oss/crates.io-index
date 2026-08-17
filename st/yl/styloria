@@ -10,3 +10,4 @@
 {"name":"styloria","vers":"0.8.0","deps":[],"cksum":"c151cce06882bec353b5235a221fba31afe95e1dc7f404f8eed54eee167ad296","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-04T15:09:32Z"}
 {"name":"styloria","vers":"0.9.0","deps":[],"cksum":"d196311cb5f57744194eaf3e8a46858dac1b95ae3e9c59aa39761d1e23113f36","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-09T07:36:25Z"}
 {"name":"styloria","vers":"0.9.1","deps":[],"cksum":"eb5362a4cfcdf1672d4f3a076e9109d059d805628d73f5d875f96e100bcb2f74","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-17T00:08:25Z"}
+{"name":"styloria","vers":"0.10.0","deps":[],"cksum":"b42431c1fb9a70f9b2043059671880449190c1a06d74f934b18458f5c24c1f8d","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-17T17:13:22Z"}
