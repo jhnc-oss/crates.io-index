@@ -1,1 +1,0 @@
-{"name":"novel-segment-dict","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ae3a57d530eb05abf6aa97047ad49c919c269ad2b93812d45692fe88508d1bb","features":{},"yanked":true,"pubtime":"2026-08-17T08:49:51Z"}
