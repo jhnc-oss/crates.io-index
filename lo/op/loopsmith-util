@@ -1,3 +1,3 @@
-{"name":"loopsmith-util","vers":"0.1.1","deps":[],"cksum":"2268822dd22e745bc484a26d17f402d21dff2413b4b5a07e1dbc5b114d042715","features":{"testing":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-17T14:56:04Z"}
-{"name":"loopsmith-util","vers":"0.1.2","deps":[],"cksum":"a0fe1fb577179c5169ac14e64afe3a03fb2953658261aa6340cbb79ac8ac7355","features":{"testing":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-17T15:23:11Z"}
+{"name":"loopsmith-util","vers":"0.1.1","deps":[],"cksum":"2268822dd22e745bc484a26d17f402d21dff2413b4b5a07e1dbc5b114d042715","features":{"testing":[]},"yanked":true,"rust_version":"1.75","pubtime":"2026-08-17T14:56:04Z"}
+{"name":"loopsmith-util","vers":"0.1.2","deps":[],"cksum":"a0fe1fb577179c5169ac14e64afe3a03fb2953658261aa6340cbb79ac8ac7355","features":{"testing":[]},"yanked":true,"rust_version":"1.75","pubtime":"2026-08-17T15:23:11Z"}
 {"name":"loopsmith-util","vers":"0.1.3","deps":[],"cksum":"9ab97b0e2aaaeb2a9ee716842301fad0551a0b8f73e0f2bfc4cc3cee942cda99","features":{"testing":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-17T20:44:51Z"}
