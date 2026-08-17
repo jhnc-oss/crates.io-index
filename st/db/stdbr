@@ -1,0 +1,1 @@
+{"name":"stdbr","vers":"0.0.6","deps":[{"name":"stdbr-core","req":"^0.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e64b132c1bede46e0620a6af473ecb33f4388e209688fc9c89c984eb1159e52e","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-17T20:39:55Z"}
