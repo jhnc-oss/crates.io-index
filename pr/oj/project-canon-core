@@ -4,3 +4,4 @@
 {"name":"project-canon-core","vers":"0.2.0","deps":[],"cksum":"cd1d0b5184c71ebca32a38c58307f722931e9f4ab63bd164aa0d0b72cb6c5cd8","features":{},"yanked":false,"pubtime":"2026-08-16T15:43:45Z"}
 {"name":"project-canon-core","vers":"0.3.0","deps":[],"cksum":"7fb70e9e7605a4b156a412d6036bca3b4b6ea72f1ab8de16777645c67487cdf2","features":{},"yanked":false,"pubtime":"2026-08-16T17:39:19Z"}
 {"name":"project-canon-core","vers":"0.3.1","deps":[],"cksum":"299da6b7adde1ecb4a52db69af09cc867ce929eee4058b55dd3636e72d20b195","features":{},"yanked":false,"pubtime":"2026-08-17T06:16:02Z"}
+{"name":"project-canon-core","vers":"0.3.2","deps":[],"cksum":"9c1ec09f83a385a3cd1494a479924f0d5eca167418533bb76e8812c0f04cfbdd","features":{},"yanked":false,"pubtime":"2026-08-17T07:52:25Z"}
