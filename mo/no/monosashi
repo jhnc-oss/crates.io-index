@@ -15,3 +15,4 @@
 {"name":"monosashi","vers":"0.3.47","deps":[],"cksum":"7f2eb78c0099a4789813043f92066252ff57d97622c67a80b6027f90892b2924","features":{},"yanked":false,"pubtime":"2026-08-17T12:55:07Z"}
 {"name":"monosashi","vers":"0.3.48","deps":[],"cksum":"d19eb673cf3fa58011349686a6a708f919b6f7cb2c4b4372318d8dfb6c6ee6ab","features":{},"yanked":false,"pubtime":"2026-08-17T16:18:25Z"}
 {"name":"monosashi","vers":"0.3.49","deps":[],"cksum":"f7673561faf2d3243af3acc8076d2151b272703319aab6812ef9dadd3aa1c988","features":{},"yanked":false,"pubtime":"2026-08-17T18:02:25Z"}
+{"name":"monosashi","vers":"0.3.50","deps":[],"cksum":"a4af83c71712ebe76d6ccb25aa2600685a2039fabe976e622824afccf6e1ee28","features":{},"yanked":false,"pubtime":"2026-08-17T19:24:00Z"}
