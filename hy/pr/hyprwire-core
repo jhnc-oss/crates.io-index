@@ -8,3 +8,4 @@
 {"name":"hyprwire-core","vers":"0.4.4","deps":[],"cksum":"59b355b3c182b462e5d0f005873c2127290da6a05c71424df5cc711637682d6d","features":{},"yanked":false,"pubtime":"2026-07-16T10:22:06Z"}
 {"name":"hyprwire-core","vers":"0.5.0","deps":[],"cksum":"59e850238bfcfc1de9dfb9ee129b9f82f253b21381bb12655298db4a7e8553e2","features":{},"yanked":false,"pubtime":"2026-07-24T15:40:45Z"}
 {"name":"hyprwire-core","vers":"0.5.1","deps":[],"cksum":"cbed3858de0e63414aa82ba0049672b7f3edf23b40e9fa497929d8f4c749d62b","features":{},"yanked":false,"pubtime":"2026-07-28T17:04:49Z"}
+{"name":"hyprwire-core","vers":"0.5.2","deps":[],"cksum":"1a76bc1faef6e638086f116cdfc19e590232d7565f569e01fd9eb217ac86f35f","features":{},"yanked":false,"pubtime":"2026-08-17T19:19:35Z"}
