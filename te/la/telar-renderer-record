@@ -1,0 +1,1 @@
+{"name":"telar-renderer-record","vers":"0.1.4","deps":[{"name":"renderer-core","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"telar-renderer-core"}],"cksum":"9c1ab152ad8d14ae65f8d6d7ecd7f145bf18172ab4787e0f050d76e9da15f9eb","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-17T19:02:45Z"}
