@@ -1,0 +1,1 @@
+{"name":"ferroscope-mcap","vers":"0.1.0","deps":[{"name":"mcap","req":"^0.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bf797927decd42b08378f16074d2d93404374d1b9b32dece617b6a1cb31ca428","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-08-17T20:55:45Z"}
