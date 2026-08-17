@@ -16,3 +16,4 @@
 {"name":"ticktock","vers":"0.6.0","deps":[],"cksum":"e3917b082008b4d1d5e5afea5aa4606a54bb755fa323e255c5b4d49743bc38a2","features":{},"yanked":false,"pubtime":"2018-03-11T16:11:35Z"}
 {"name":"ticktock","vers":"0.7.0","deps":[],"cksum":"02875dbd5b96e54b7f5801f87be844824cb56eaf4329f2c7db7f9d89c1c062a0","features":{},"yanked":false,"pubtime":"2018-06-20T09:27:51Z"}
 {"name":"ticktock","vers":"0.8.0","deps":[],"cksum":"d226b8341a5d130e3446024468efab6d150ba656e086b793ac37a3d17669e626","features":{},"yanked":false,"pubtime":"2020-03-03T21:44:36Z"}
+{"name":"ticktock","vers":"0.8.1","deps":[],"cksum":"10a889cabe8c0ff9111f16538e243da5408d68157105ad4bc381c1d4b3dcbba7","features":{},"yanked":false,"pubtime":"2026-08-17T13:59:39Z"}
