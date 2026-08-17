@@ -7,3 +7,4 @@
 {"name":"cdll","vers":"0.4.2","deps":[],"cksum":"0b1952b242772c4989bc510d67f16695c81091ee102014011452cda4e0d3fbd4","features":{},"yanked":false,"pubtime":"2024-05-13T21:06:01Z"}
 {"name":"cdll","vers":"0.4.3","deps":[],"cksum":"9606c55d2590dae5b111ec8a9daddd3a9b679d24bcdf93dbf960d1b1db8d640f","features":{},"yanked":false,"pubtime":"2026-07-23T09:24:12Z"}
 {"name":"cdll","vers":"0.5.0","deps":[],"cksum":"6bafcc0dc590c6da6298efd6bd93744ba3dfd9ea059a08354ca82c7b8399fd67","features":{},"yanked":false,"pubtime":"2026-08-11T06:50:35Z"}
+{"name":"cdll","vers":"0.6.0","deps":[],"cksum":"d5ba8ee247574538871adb0d019921f3f08f60dd049e3d108c59c61e5f5b037a","features":{},"yanked":false,"pubtime":"2026-08-17T13:26:44Z"}
