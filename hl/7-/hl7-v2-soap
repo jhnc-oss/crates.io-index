@@ -1,0 +1,1 @@
+{"name":"hl7-v2-soap","vers":"0.1.0","deps":[{"name":"hl7-v2-xml-lite-helper","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ddc0de86c904f72d00b45931f8f342f87835d29a71897c2b8816f3c9c0e0dc7","features":{},"yanked":false,"pubtime":"2026-08-18T17:16:03Z"}
