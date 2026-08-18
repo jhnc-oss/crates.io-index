@@ -1,0 +1,1 @@
+{"name":"raw-ndk-sys","vers":"27.3.13750724","deps":[{"name":"bindgen","req":"=0.72.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ef748aa302999b1acd92f4db8e9aad619069ad9e4ec60aabd77382810451475c","features":{},"yanked":false,"pubtime":"2026-08-18T14:32:13Z"}
