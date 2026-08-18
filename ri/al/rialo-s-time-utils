@@ -29,3 +29,4 @@
 {"name":"rialo-s-time-utils","vers":"0.15.0-alpha.0","deps":[],"cksum":"ecc1611b9f88851b78bb219fb4d72b45a316a07849a9f74e952efcac08e048e4","features":{},"yanked":false,"pubtime":"2026-07-13T14:25:39Z"}
 {"name":"rialo-s-time-utils","vers":"0.16.0-alpha.0","deps":[],"cksum":"52df41ef99cd96759b732530b55f0bd06c24c507f0257a8cfe4700fb2eca984f","features":{},"yanked":false,"pubtime":"2026-07-20T12:59:26Z"}
 {"name":"rialo-s-time-utils","vers":"0.17.0-alpha.0","deps":[],"cksum":"8b34fbfe3bf76e8364f78ec69ad87f6c46453b30485c08d0c5bd1918283802ef","features":{},"yanked":false,"pubtime":"2026-07-27T10:36:43Z"}
+{"name":"rialo-s-time-utils","vers":"0.18.0-alpha.0","deps":[],"cksum":"029814858e03880c55aa04bab3c2ecea00f07f9baa2db7b1d84ffc6e0cfd86ec","features":{},"yanked":false,"pubtime":"2026-08-18T08:58:10Z"}
