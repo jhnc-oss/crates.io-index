@@ -1,1 +1,2 @@
 {"name":"dyn_trace_err","vers":"0.1.0","deps":[],"cksum":"fad41e0f295e3216d75efce3c75cec4cf31e5fdd37f521fa79ab67b9d7411b6e","features":{"all-trace":[],"default":["all-trace"],"my-trace":[],"no-trace":[]},"yanked":false,"pubtime":"2026-08-18T03:53:53Z"}
+{"name":"dyn_trace_err","vers":"0.1.1","deps":[],"cksum":"355ade262cd3f02c6a1efe1d192a7cb8d435ea016b4c7ed98a89e826f4f993a1","features":{"all-trace":[],"default":["all-trace"],"my-trace":[],"no-trace":[]},"yanked":false,"pubtime":"2026-08-18T04:26:42Z"}
