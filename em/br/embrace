@@ -1,0 +1,1 @@
+{"name":"embrace","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"07c17bbfe58ce44db035ca3793050edbdad2e29a6e9e93bb9847f4edba9acd89","features":{},"yanked":false,"pubtime":"2026-08-18T19:11:40Z"}
