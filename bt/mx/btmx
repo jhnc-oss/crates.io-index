@@ -27,3 +27,4 @@
 {"name":"btmx","vers":"0.1.0-g241f1dc6cf8c","deps":[],"cksum":"be0916682d83a0ac6c0844242b49ca22b4f12e103ffa1de1841c74b14049ee54","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-08-18T10:57:02Z"}
 {"name":"btmx","vers":"0.1.0-gda3074adf3f1","deps":[],"cksum":"438acf80e7173ef1357b34f8d085eb2849c22d20212112a96cafaef1aaf40d25","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-08-18T11:09:23Z"}
 {"name":"btmx","vers":"0.1.0-ged016494d8d1","deps":[],"cksum":"7aa8a4037c1ed556ce522ebeaabf0b8491948b0bffb9fa94255e88c39e98c468","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-08-18T11:52:50Z"}
+{"name":"btmx","vers":"0.1.0-gc13222f453b7","deps":[],"cksum":"2b6cc9f746df7425811972effc4082c9a17baae39c5c05845c59e929e3a6044e","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-08-18T12:07:04Z"}
