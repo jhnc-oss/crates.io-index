@@ -16,3 +16,4 @@
 {"name":"rill-handler-api","vers":"1.2.0-rc.1","deps":[],"cksum":"b1ec1144a1e876dd20170b06a93433f611660f2fe5df25566904cdcfb09d9b9f","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-08-15T22:23:40Z"}
 {"name":"rill-handler-api","vers":"1.2.0-rc.2","deps":[],"cksum":"250fedc341231796ed4a1b3437c18177994ecfd39991149cc5b49229aeb13b64","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-08-17T16:39:08Z"}
 {"name":"rill-handler-api","vers":"1.2.0-rc.3","deps":[],"cksum":"134536c8ac3b526958a24e00680e46df7e9a1eb11dba530e5f264b0ff0a8604d","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-08-17T20:21:25Z"}
+{"name":"rill-handler-api","vers":"1.2.0","deps":[],"cksum":"350519c85534ad537f972f012abb53553d712d69b0bac7ea3048deefd21f4a30","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-08-18T13:33:28Z"}
