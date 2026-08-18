@@ -5,3 +5,4 @@
 {"name":"fpp_util","vers":"3.3.4","deps":[],"cksum":"c46181480e2992a17545663b315e7607a9f74f50accf282c477650141d3c01e8","features":{},"yanked":false,"pubtime":"2026-08-13T16:54:50Z"}
 {"name":"fpp_util","vers":"3.3.5","deps":[],"cksum":"a2bbc0799f77a0d1d0be09d0ebe595c34017b85906854057f0bc158031c4a90d","features":{},"yanked":false,"pubtime":"2026-08-14T14:09:07Z"}
 {"name":"fpp_util","vers":"3.3.6","deps":[],"cksum":"ba70cf78bf6fc92250b20d52de6b61b2467a3fcba7e1c6980bfa38f9831cb33f","features":{},"yanked":false,"pubtime":"2026-08-15T02:29:36Z"}
+{"name":"fpp_util","vers":"3.3.7","deps":[],"cksum":"b79055342c44729bd4ac61e8c0e13c7cd4d1c26dc48e3bd22cdfe427c9df6d1b","features":{},"yanked":false,"pubtime":"2026-08-18T17:23:29Z"}
