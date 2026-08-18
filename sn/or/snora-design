@@ -24,3 +24,4 @@
 {"name":"snora-design","vers":"0.35.0","deps":[],"cksum":"0ea508e1ad75f80d36e81fc8bc033dea4c7a9fb681521bfa9d1ae9f18cd00e32","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-18T02:52:15Z"}
 {"name":"snora-design","vers":"0.36.0","deps":[],"cksum":"d3c635cb8e415ef6dad2104777a5ff5cda2a03614ffffadd10e45a0f6ae8e199","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-18T07:38:36Z"}
 {"name":"snora-design","vers":"0.36.1","deps":[],"cksum":"52ad74b9fd0aa3e02d558d195bc6c4fae359f8c12b901e8d0f51e34e503af101","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-18T08:27:23Z"}
+{"name":"snora-design","vers":"0.37.0","deps":[],"cksum":"d8078ef1b0d05eafb29c8c42d2c6adbf500d519a7f12b4bb0a2e6071ff74fa6a","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-18T10:22:11Z"}
