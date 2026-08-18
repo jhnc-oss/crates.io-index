@@ -10,3 +10,4 @@
 {"name":"mago-bytes","vers":"1.44.0","deps":[],"cksum":"3b5014007e697609a2bd0b88da5a5bd9fc29573abe6545f4b9fd3c921b173587","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-18T22:50:43Z"}
 {"name":"mago-bytes","vers":"1.45.0","deps":[],"cksum":"e6329438d19a648b379b553f4d39d3010a02009ac2207a0220394e32afc0311d","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-07-24T04:44:29Z"}
 {"name":"mago-bytes","vers":"1.46.0","deps":[],"cksum":"d721698a4c53bca4f56123bf538935ab7d4bc8b6560c6cd0acab947df2bfbd6c","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-05T22:31:23Z"}
+{"name":"mago-bytes","vers":"1.47.0","deps":[],"cksum":"a8e39e50c5e41c81982be116079b7856fb1523f0c903e5cff3743d6e0cec3d3e","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-18T14:45:00Z"}
