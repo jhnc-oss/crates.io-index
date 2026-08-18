@@ -1,0 +1,1 @@
+{"name":"targone","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3c6904b2e0ffac022f95dc5e748ebefb7ada7e1278a535ed054da29bbf77584d","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-08-18T11:16:41Z"}
