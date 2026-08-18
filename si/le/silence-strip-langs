@@ -7,3 +7,4 @@
 {"name":"silence-strip-langs","vers":"0.5.0","deps":[],"cksum":"9822c406411e9549f75661890d146e791e36915cd9b2fc710ce4c10ad9c7f0a8","features":{},"yanked":false,"pubtime":"2026-06-15T10:13:57Z"}
 {"name":"silence-strip-langs","vers":"0.6.0","deps":[],"cksum":"186070fef8152fac00aa65439e546e4b5e70487cb8dc43aa43d1eaadf69d860c","features":{},"yanked":false,"pubtime":"2026-06-27T00:49:54Z"}
 {"name":"silence-strip-langs","vers":"0.7.0","deps":[],"cksum":"f42b8c7cd698bd24a7c41f5056959a303fda5e81fe15dcfdefda633d5ec4d490","features":{},"yanked":false,"pubtime":"2026-07-01T14:08:49Z"}
+{"name":"silence-strip-langs","vers":"0.8.0","deps":[],"cksum":"f0050f10b6495ee6511fe6f29df371fd8d66248f7dba521dac1996c3b999ba54","features":{},"yanked":false,"pubtime":"2026-08-18T16:46:22Z"}
