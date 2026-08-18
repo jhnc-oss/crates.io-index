@@ -1,0 +1,1 @@
+{"name":"sim-text","vers":"0.1.0","deps":[{"name":"sim-kernel","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54576c76c154e9bddc4654a482d12521b0bc0d424805546efccd1cdcb4337ef8","features":{},"yanked":false,"pubtime":"2026-08-18T15:49:09Z"}
