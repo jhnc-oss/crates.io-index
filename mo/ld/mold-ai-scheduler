@@ -2,3 +2,4 @@
 {"name":"mold-ai-scheduler","vers":"0.22.1","deps":[],"cksum":"8ae4a5e05eb2eb479fb12abc0b479f1360281b5f6b01d21359972a916d579cb9","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-16T06:47:24Z"}
 {"name":"mold-ai-scheduler","vers":"0.22.2","deps":[],"cksum":"786447af4437902cd2ab7047898d3e0a4410450e3a494df55201a6b44d55c4a8","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-16T19:34:20Z"}
 {"name":"mold-ai-scheduler","vers":"0.22.3","deps":[],"cksum":"62a8e6d61bf964103a6579967feb3626d3a55ad010a9d789793f07636b117c58","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-17T08:02:39Z"}
+{"name":"mold-ai-scheduler","vers":"0.23.1","deps":[],"cksum":"5c76bf175072b0fa65ad3a144f92aedbb35820acbc45dfda5dc2719e4761280f","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-18T15:06:24Z"}
