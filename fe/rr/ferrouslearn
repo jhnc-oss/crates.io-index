@@ -4,3 +4,4 @@
 {"name":"FerrousLearn","vers":"0.1.4","deps":[],"cksum":"90e9ce834313a92c3c7453984b7574f895fef148ee27061a7fa9e8930ccdaaa2","features":{},"yanked":false,"pubtime":"2023-12-25T12:45:01Z"}
 {"name":"FerrousLearn","vers":"0.1.5","deps":[],"cksum":"b6a9ac587ae38bd8820aa1406ea73e5e1a7777c23081b7b87deb06b173c55393","features":{},"yanked":false,"pubtime":"2023-12-25T12:48:57Z"}
 {"name":"FerrousLearn","vers":"0.1.6","deps":[],"cksum":"15c884bd86f0f71ef8bfbf41a6ce4ee8af179380b7c69c2f5a7895501b29e549","features":{},"yanked":false,"pubtime":"2023-12-28T10:25:07Z"}
+{"name":"FerrousLearn","vers":"0.1.7","deps":[],"cksum":"c1ab12a9ef5d1d8a6c1fa80e055cb69addf435936103aac6e9e0760fa6f034cf","features":{},"yanked":false,"pubtime":"2026-08-18T06:58:46Z"}
