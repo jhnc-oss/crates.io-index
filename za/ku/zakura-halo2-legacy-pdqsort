@@ -1,1 +1,2 @@
 {"name":"zakura-halo2-legacy-pdqsort","vers":"0.0.0","deps":[],"cksum":"7d2b95bce31a09e11574e032c7bd6694e5d8463a4a4aadbd9044c324d1664a49","features":{"default":[]},"yanked":false,"rust_version":"1.90","pubtime":"2026-06-08T09:47:55Z"}
+{"name":"zakura-halo2-legacy-pdqsort","vers":"1.0.0-rc.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c7dc9de3579d54ea35e9d1982ce47e96901e7d7f2f3c2040dcd591952d6eeaa3","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-18T22:19:52Z"}
