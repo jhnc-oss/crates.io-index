@@ -1,0 +1,1 @@
+{"name":"unigram","vers":"0.1.0","deps":[{"name":"getrandom","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3dd40b04d4db935f6ad72b4826c2dca9eb0998eb6a463cf91e003b2afcd4da8","features":{},"yanked":false,"pubtime":"2026-08-18T04:15:25Z"}
