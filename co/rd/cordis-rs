@@ -14,3 +14,4 @@
 {"name":"cordis-rs","vers":"0.4.6","deps":[],"cksum":"de3a73e8c341b6a09140bc9ffb418c21524b68576285a46e6070031619f568b2","features":{"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-17T22:57:34Z"}
 {"name":"cordis-rs","vers":"0.4.7","deps":[],"cksum":"efefbab839b15e08cc0a81470442065b66e31e53d1762df1c129ec7f90c5c5f0","features":{"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-18T01:14:01Z"}
 {"name":"cordis-rs","vers":"0.4.8","deps":[],"cksum":"9d12887935961b0b4bda8402d0c4bceedf86344504d733ae1a22c051317c6c71","features":{"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-18T08:09:07Z"}
+{"name":"cordis-rs","vers":"0.4.9","deps":[],"cksum":"9e2b737c76a5665f31c777f7fb551315d055a3a24315afdd6b76c99047b1d282","features":{"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-18T08:36:28Z"}
