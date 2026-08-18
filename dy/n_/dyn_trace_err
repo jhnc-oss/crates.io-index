@@ -1,0 +1,1 @@
+{"name":"dyn_trace_err","vers":"0.1.0","deps":[],"cksum":"fad41e0f295e3216d75efce3c75cec4cf31e5fdd37f521fa79ab67b9d7411b6e","features":{"all-trace":[],"default":["all-trace"],"my-trace":[],"no-trace":[]},"yanked":false,"pubtime":"2026-08-18T03:53:53Z"}
