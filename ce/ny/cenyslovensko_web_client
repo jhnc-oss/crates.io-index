@@ -1,0 +1,1 @@
+{"name":"cenyslovensko_web_client","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.13.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f3d08583d8a5a21e84a653bee2b4c669100f561ea985dc00bc06e6f02cf876d","features":{},"yanked":false,"pubtime":"2026-08-18T19:36:06Z"}
