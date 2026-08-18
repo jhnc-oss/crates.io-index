@@ -1,0 +1,1 @@
+{"name":"tapid-store","vers":"0.0.1","deps":[{"name":"tapid-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff5406beb748b18fb516388434fb888dd404ffb54ca98cfecce7ee358075ec2c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-18T17:01:50Z"}
