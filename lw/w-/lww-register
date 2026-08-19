@@ -1,0 +1,1 @@
+{"name":"lww-register","vers":"0.3.0","deps":[{"name":"serde","req":"^1.0.192","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49ca2f32832fdf9c1c9d95f169d4516e8248d2314ed5c3b6d93df92c5dfd57af","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-19T09:07:53Z"}
