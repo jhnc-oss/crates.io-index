@@ -1,0 +1,1 @@
+{"name":"akar-search","vers":"0.1.0","deps":[{"name":"hashbrown","req":"^0.17.1","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77596292f750c9839642ef58ff1cc913ec13cf834756e0daf81ec98a3e03d220","features":{},"yanked":false,"pubtime":"2026-08-19T03:22:47Z"}
