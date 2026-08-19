@@ -22,3 +22,4 @@
 {"name":"camel-wit","vers":"0.27.0","deps":[],"cksum":"3f73066ba5fe04f67aa9f76d8fd4f63246c5263e1630104ed79e4958aaca46a1","features":{},"yanked":false,"pubtime":"2026-08-10T14:35:54Z"}
 {"name":"camel-wit","vers":"0.28.0","deps":[],"cksum":"ffc7ad7f2f104ada3c9887f97ed3e47b54a9192241c2d96b602cd2d09e173edf","features":{},"yanked":false,"pubtime":"2026-08-12T19:42:16Z"}
 {"name":"camel-wit","vers":"0.29.0","deps":[],"cksum":"1bee6a027390d08abef5eec9b7cd0a80a193ba8933b0937bcfe8acbaeb9c7631","features":{},"yanked":false,"pubtime":"2026-08-16T22:29:14Z"}
+{"name":"camel-wit","vers":"0.30.0","deps":[],"cksum":"4506ecdbb68d70b3acf7bf469d01bf582d831637ea4bcb900c8e6218d7f83eef","features":{},"yanked":false,"pubtime":"2026-08-19T18:59:29Z"}
