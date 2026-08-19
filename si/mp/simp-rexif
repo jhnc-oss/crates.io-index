@@ -1,0 +1,1 @@
+{"name":"simp-rexif","vers":"0.7.5","deps":[{"name":"glob","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"eb186fb702d3a8c0f9bb13806f6166c3476731c1afe59a43b573af24d8b72106","features":{},"yanked":false,"rust_version":"1.60","pubtime":"2026-08-19T20:40:28Z"}
