@@ -1,0 +1,1 @@
+{"name":"fxrs-workspace","vers":"0.0.3","deps":[{"name":"fx-core","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"fxrs-core"}],"cksum":"573a812457072ebcf16af3b2bf2a25f47017508cb2525d4ca8610de2d8198995","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-19T12:15:05Z"}
