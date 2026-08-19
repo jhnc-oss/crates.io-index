@@ -1,0 +1,1 @@
+{"name":"hl7-2-from-json-into-er7","vers":"0.4.1","deps":[{"name":"er7","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f79dc380147cb19885832b4deb7657fe383a93ed417ab4447e96c9a0b5e487d","features":{},"yanked":false,"pubtime":"2026-08-19T05:55:47Z"}
