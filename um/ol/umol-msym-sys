@@ -1,0 +1,1 @@
+{"name":"umol-msym-sys","vers":"0.6.0","deps":[{"name":"cc","req":"^1.2.60","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f66f53c82676ab87c285d9c648f64fb4fbcdaccae34b5181b2052afafdeb1ef8","features":{},"yanked":false,"links":"msym","rust_version":"1.87","pubtime":"2026-08-19T02:17:29Z"}
