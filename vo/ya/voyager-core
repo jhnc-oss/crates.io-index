@@ -6,3 +6,4 @@
 {"name":"voyager-core","vers":"0.2.1","deps":[],"cksum":"f2ef51e2d87149a2c79619c078a85d9e9ffba47b55f548672c6ab860d5f9ec86","features":{},"yanked":false,"pubtime":"2026-08-18T05:25:49Z"}
 {"name":"voyager-core","vers":"0.3.0","deps":[],"cksum":"ffbe6be7a3323d5dec36ae934eb23663d8b05a409dc0b2284f91457a9fe24524","features":{},"yanked":false,"pubtime":"2026-08-19T05:19:52Z"}
 {"name":"voyager-core","vers":"0.3.1","deps":[],"cksum":"cf70929ede809391868cb9c67d1f3502ded1ce0460f76b8406a7a7499b6de1bc","features":{},"yanked":false,"pubtime":"2026-08-19T06:36:03Z"}
+{"name":"voyager-core","vers":"0.3.2","deps":[],"cksum":"ad1d442a3c0c479c8968e7144bd405033ccc74dddd6729c980ccf7580e174770","features":{},"yanked":false,"pubtime":"2026-08-19T15:58:53Z"}
