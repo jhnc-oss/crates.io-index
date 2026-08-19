@@ -1,1 +1,0 @@
-{"name":"firmware","vers":"0.1.0","deps":[{"name":"xpanse-api","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdf4e46c0e81f5bdfe0bad9e1d234b88849262bc6503e09b6b2911bb1a1d64f9","features":{},"yanked":false,"pubtime":"2026-08-19T13:15:49Z"}
