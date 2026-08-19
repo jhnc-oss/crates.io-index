@@ -7,3 +7,4 @@
 {"name":"bind9-rs-core","vers":"0.1.6","deps":[],"cksum":"844e79feb9a8a5d028b0ddc97e3447dd1030ca1ef265658ac9b83f519417f8be","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-18T02:17:04Z"}
 {"name":"bind9-rs-core","vers":"0.1.7","deps":[],"cksum":"def3de79bf8da39aca8d6672c85c85859c8d5abc30b44ba6e2bc5a0ade08851a","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-18T12:07:57Z"}
 {"name":"bind9-rs-core","vers":"0.1.8","deps":[],"cksum":"3be03fa866e2448cbf7d64e6b308f0c3f8035b2d2574b877dfd43820f5173b05","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-19T21:51:30Z"}
+{"name":"bind9-rs-core","vers":"0.1.9","deps":[],"cksum":"f89f9afb55650e0e541a97d0b0aa265f5c50800bdd32c7eb3d9ec146ce9978be","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-19T23:19:59Z"}
