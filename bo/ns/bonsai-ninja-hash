@@ -2,3 +2,4 @@
 {"name":"bonsai-ninja-hash","vers":"0.2.0","deps":[],"cksum":"8c113d712b8998fde51508cf1724570eab9451a9f783631cdfd4394c973d5a91","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-17T15:23:54Z"}
 {"name":"bonsai-ninja-hash","vers":"0.2.1","deps":[],"cksum":"b2ada5326ebb26dce805060615c67fe4fbdbb395194d899d01053ee02f253c89","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-17T19:10:30Z"}
 {"name":"bonsai-ninja-hash","vers":"0.2.2","deps":[],"cksum":"4c978a73a46bf4e563f9cd66ff046521245dba16874768adb6a38eb5ba91e0f7","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-18T16:46:42Z"}
+{"name":"bonsai-ninja-hash","vers":"0.2.3","deps":[],"cksum":"aebf86d383b727a3ed591c73417962ab07ffd96d4cc5aee0dd7e25acaa588492","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-19T15:12:01Z"}
