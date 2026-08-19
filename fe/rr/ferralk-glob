@@ -1,0 +1,1 @@
+{"name":"ferralk-glob","vers":"0.1.2","deps":[{"name":"memchr","req":"^2.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67218de99e5cf68b1055dc156a372274bfe1fa0f53b0d9bad0a794ca77d92677","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-19T09:42:55Z"}
