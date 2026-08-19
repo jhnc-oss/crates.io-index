@@ -36,3 +36,4 @@
 {"name":"term-wm-render","vers":"0.9.27-alpha","deps":[],"cksum":"e2f3ddd646e323b9f5851a676daad68283a18d78a2329102df457adf6bf08636","features":{},"yanked":false,"pubtime":"2026-08-16T20:57:30Z"}
 {"name":"term-wm-render","vers":"0.9.28-alpha","deps":[],"cksum":"80b0dc39598fe2d9a470cf23f1a2158a1cb00ec73e98698a124d4b83a616e710","features":{},"yanked":false,"pubtime":"2026-08-17T22:17:14Z"}
 {"name":"term-wm-render","vers":"0.10.0-alpha","deps":[],"cksum":"d08363a0eebe5e8d90eddf4e6cd78582d26b34e910ec03d9fd487463a0aca31f","features":{},"yanked":false,"pubtime":"2026-08-19T01:17:03Z"}
+{"name":"term-wm-render","vers":"0.10.1-alpha","deps":[],"cksum":"84c51d6ce5bb69b250f9c364bd22f775a4b8e9ed29dfbbb51dc767758a1cbe3e","features":{},"yanked":false,"pubtime":"2026-08-19T20:13:20Z"}
