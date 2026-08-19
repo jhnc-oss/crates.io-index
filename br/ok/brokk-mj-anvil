@@ -1,0 +1,1 @@
+{"name":"brokk-mj-anvil","vers":"1.11.1","deps":[{"name":"mj-core","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"brokk-mj-core"}],"cksum":"3a62cd0ed8744bae74763c8713322ae0873846b6529873c0fa99065a7b6f840d","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-08-19T12:45:38Z"}
