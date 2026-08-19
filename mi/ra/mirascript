@@ -1,0 +1,1 @@
+{"name":"mirascript","vers":"0.1.87","deps":[{"name":"mirascript-vm","req":"=0.1.87","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5636a82972f8d0230f69efd04b2f941cd5f44a03f91a09d88c843aa7b1ed9754","features":{},"yanked":false,"pubtime":"2026-08-15T10:44:16Z"}

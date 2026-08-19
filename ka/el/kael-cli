@@ -1,0 +1,2 @@
+{"name":"kael-cli","vers":"0.3.0","deps":[],"cksum":"ed194ea95beb963d57b26b2dd2deba844bf2559ff0ddbd3921522ca172afc812","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-08-07T20:28:59Z"}
+{"name":"kael-cli","vers":"0.3.1","deps":[],"cksum":"399fecb24f0a3b4d5bd1846fa3ccadb9c5dc5ee53abd77311a6dc9d6da836e4c","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-08-12T18:09:07Z"}

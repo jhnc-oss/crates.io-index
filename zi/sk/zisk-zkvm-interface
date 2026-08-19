@@ -1,0 +1,1 @@
+{"name":"zisk-zkvm-interface","vers":"1.1.0-alpha","deps":[{"name":"bindgen","req":"^0.72","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2c5d7999bdac04dd84053c34946d18a1cc7b452b860d46f2025defe48a06c42d","features":{},"yanked":false,"pubtime":"2026-08-14T04:36:52Z"}

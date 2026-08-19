@@ -1,0 +1,1 @@
+{"name":"bar-root-resolve","vers":"0.2.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7deaeea72bd54b09be5aaf79051de8b83bf2e834bbb581cd98f015800ce6519d","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-17T16:46:12Z"}

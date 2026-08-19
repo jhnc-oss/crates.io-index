@@ -1,0 +1,1 @@
+{"name":"oxinav-core","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0bd90c351a7d0fecda0924f347b863cdc6608048f26e8ad21202539913a0020","features":{},"yanked":false,"pubtime":"2026-06-21T15:34:52Z"}

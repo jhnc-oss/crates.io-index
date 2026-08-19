@@ -1,0 +1,1 @@
+{"name":"ferroscope-phrase","vers":"0.1.0","deps":[{"name":"ferroscope-scene","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f95230cfacd913176d627e48d1f33151574889da08a98972848ac328444eeb20","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-08-19T01:13:48Z"}

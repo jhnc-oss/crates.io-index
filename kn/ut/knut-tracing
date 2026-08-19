@@ -1,0 +1,1 @@
+{"name":"knut-tracing","vers":"0.1.4","deps":[{"name":"tracing-subscriber","req":"^0.3","features":["env-filter","json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ddfec1f70cd2d5e3d5fb07f47628177ab4e340bac19a2917d6830f60664a1f2","features":{},"yanked":false,"pubtime":"2026-08-16T21:47:35Z"}

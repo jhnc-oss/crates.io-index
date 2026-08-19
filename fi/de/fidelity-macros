@@ -1,0 +1,1 @@
+{"name":"fidelity-macros","vers":"0.1.0","deps":[{"name":"fidelity-cipher","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6183f5058eb7b9f54256c8fd707345c80d64a3c49a99bfa334928b68097df10a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-17T03:07:46Z"}

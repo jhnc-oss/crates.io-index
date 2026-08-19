@@ -1,0 +1,1 @@
+{"name":"pyrng","vers":"0.1.0-alpha.1","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9460fecc6674ac33c94782ea3ef994e540c8a401bbad94903df7ff807b1b1003","features":{},"yanked":false,"pubtime":"2026-07-24T08:23:41Z"}

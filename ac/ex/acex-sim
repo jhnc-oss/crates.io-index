@@ -1,0 +1,1 @@
+{"name":"acex-sim","vers":"0.5.3","deps":[{"name":"acex-core","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afd28c0d2b70d70599f614dab672beb19a674f022222e6e13939d71a72148f54","features":{"alloc":["acex-core/alloc"],"default":[],"std":["alloc","acex-core/std"]},"yanked":false,"pubtime":"2026-08-17T17:26:58Z"}

@@ -1,0 +1,1 @@
+{"name":"fast-lio","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b6c76859155bac499af3072bdfc0e69f3aa1daeb9bc10c80d0cc75e66fad448","features":{},"yanked":false,"pubtime":"2026-08-17T09:26:08Z"}

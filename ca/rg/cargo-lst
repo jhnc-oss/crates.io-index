@@ -1,0 +1,1 @@
+{"name":"cargo-lst","vers":"0.1.0","deps":[{"name":"ignore","req":"^0.4.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76852cf461bd6532c023d9bad488accd00060f6b885c6ca17065ee8a1d93455b","features":{},"yanked":false,"pubtime":"2026-08-13T11:09:06Z"}

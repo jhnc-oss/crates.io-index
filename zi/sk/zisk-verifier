@@ -1,0 +1,1 @@
+{"name":"zisk-verifier","vers":"1.1.0-alpha","deps":[{"name":"proofman-verifier","req":"^1.1.0-alpha","features":["verify"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9ffde99de17184da25de7823ad37f57d8d5aaa75bc89335fc8e13ed8dc521627","features":{"default":[],"std":["proofman-verifier/std"]},"yanked":false,"pubtime":"2026-08-14T04:26:09Z"}

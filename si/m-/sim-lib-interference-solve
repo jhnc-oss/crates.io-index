@@ -1,0 +1,1 @@
+{"name":"sim-lib-interference-solve","vers":"0.1.0","deps":[{"name":"sim-lib-interference-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8baf4498bb8bbca2e099875489153191245f5c967d29e3cece178e98138cff90","features":{},"yanked":false,"pubtime":"2026-08-04T05:41:27Z"}
