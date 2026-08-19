@@ -1,0 +1,1 @@
+{"name":"arone","vers":"0.1.0","deps":[{"name":"quickcheck","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ceb5424537a03cd2846b5fef739cd3895d02949ae07a32b54cfa143b8323f8c4","features":{},"yanked":false,"pubtime":"2026-08-19T01:26:50Z"}
