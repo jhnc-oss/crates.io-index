@@ -1,0 +1,1 @@
+{"name":"sz-orm-go","vers":"4.9.0","deps":[{"name":"sz-orm-cabi","req":"^4.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"415980e8ddd4553cde93592a96fa7ad330853b31f61934c9d710537ed5c9fad6","features":{},"yanked":false,"pubtime":"2026-08-19T01:41:52Z"}
