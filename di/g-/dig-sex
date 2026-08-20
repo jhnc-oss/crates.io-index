@@ -1,0 +1,1 @@
+{"name":"dig-sex","vers":"0.2.1","deps":[{"name":"dig-store-cache","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2c229026507e54d3a0d28f5d11d3d6c02a604973aec3bbe61b89bbf7fbb07be","features":{},"yanked":false,"pubtime":"2026-08-20T07:21:14Z"}
