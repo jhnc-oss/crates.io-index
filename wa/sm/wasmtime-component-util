@@ -103,3 +103,4 @@
 {"name":"wasmtime-component-util","vers":"24.0.10","deps":[],"cksum":"dbc2cca0c46cca362bacb4f3e9ad9339dc709f0eebb63298d9354d08403c07e2","features":{},"yanked":false,"pubtime":"2026-06-15T16:57:27Z"}
 {"name":"wasmtime-component-util","vers":"24.0.11","deps":[],"cksum":"7a5674e84ab67cd9da2acc2c0842da196fc932ea0c8d0c26fe91b406242d9f1c","features":{},"yanked":false,"pubtime":"2026-06-24T18:11:03Z"}
 {"name":"wasmtime-component-util","vers":"24.0.12","deps":[],"cksum":"867d68d728c8da1a0dff766539d3b42f3d12f56c449a2eac36779a62ad07af1e","features":{},"yanked":false,"pubtime":"2026-07-31T15:28:58Z"}
+{"name":"wasmtime-component-util","vers":"24.0.13","deps":[],"cksum":"49287d042c35b5c5e9fe5731126464b81e7523dc17c7e5af75f04a54bb865592","features":{},"yanked":false,"pubtime":"2026-08-20T17:07:00Z"}
