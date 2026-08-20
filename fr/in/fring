@@ -10,3 +10,4 @@
 {"name":"fring","vers":"0.3.2","deps":[],"cksum":"446f58ccad0a8767b817ff858d7b11148503088a6daa4630a4aee3661d4e417d","features":{},"yanked":false,"pubtime":"2023-08-22T17:18:21Z"}
 {"name":"fring","vers":"0.3.3","deps":[],"cksum":"e06b84bb6b33dcf1df4068dcfac63524657282f91d846957568fbb6e671fa9ec","features":{},"yanked":false,"pubtime":"2023-08-28T14:56:01Z"}
 {"name":"fring","vers":"0.4.0","deps":[],"cksum":"b02d60f94c239eb9d2b98b1c031df38981aca7395a67cf6f4942c059f32fbf77","features":{},"yanked":false,"pubtime":"2026-03-10T12:32:12Z"}
+{"name":"fring","vers":"0.5.0","deps":[{"name":"portable-atomic","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a3816e27c06cdd5f6e3db774c418a7b5f69a9853aff417fc567ecf924ebcfc8c","features":{},"features2":{"portable-atomic":["dep:portable-atomic"]},"yanked":false,"pubtime":"2026-08-20T11:49:54Z","v":2}
