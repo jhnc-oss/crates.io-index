@@ -7,3 +7,4 @@
 {"name":"obeli-sk-tag-ptr","vers":"1.0.0-obeli-sk.7","deps":[],"cksum":"2ece24ad8393257ced609693a3acc6f68d1b09da2a99b0ace33592031d7fc05c","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-04-12T17:50:34Z"}
 {"name":"obeli-sk-tag-ptr","vers":"1.0.0-obeli-sk.8","deps":[],"cksum":"216c6db564f544e65120a17fd7e5176581763dc5f665705b47f4fe9a64cfb901","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-07-26T15:40:07Z"}
 {"name":"obeli-sk-tag-ptr","vers":"1.0.0-obeli-sk.9","deps":[],"cksum":"eb921a71a005b72170a16da7e5b9f11faa6447e989107585736b695eb2c57576","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-07-26T16:36:20Z"}
+{"name":"obeli-sk-tag-ptr","vers":"1.0.0-obeli-sk.10","deps":[],"cksum":"befbb5688e1fc2ff570d55e97900b221ef3c94080456743709c471aa54c69909","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-08-20T19:32:39Z"}
