@@ -1,2 +1,3 @@
 {"name":"dynamic-config-web-core","vers":"0.1.0","deps":[],"cksum":"dbf122a7a26f931f0a98c3e21a45b830c458dcba5e59aca195a33d740b3019f4","features":{},"yanked":false,"rust_version":"1.71","pubtime":"2026-08-17T21:42:43Z"}
 {"name":"dynamic-config-web-core","vers":"0.2.0","deps":[],"cksum":"1aef6e8c514aabe3047c4c070fbe8c33523487e711117567a4559c89f81330b0","features":{},"yanked":false,"rust_version":"1.71","pubtime":"2026-08-18T17:06:05Z"}
+{"name":"dynamic-config-web-core","vers":"0.3.0","deps":[],"cksum":"79d90c7e432cb7becfc52e4474cf19b5d393940eedadf34d154bb7c637b7e85b","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-20T05:49:22Z"}
