@@ -7,3 +7,4 @@
 {"name":"time-format","vers":"1.2.0","deps":[],"cksum":"d07502ede0f77d010d6415b08ec80ecaeadfe018a3d6ed2f999edc051f7d7339","features":{"bench":[],"default":[]},"yanked":false,"pubtime":"2025-05-20T06:45:56Z"}
 {"name":"time-format","vers":"1.2.1","deps":[],"cksum":"0a70bbfd9d497fe1c46d9a5051f03c73d253b14a9abf6645d32781592b719f9f","features":{"bench":[],"default":[]},"yanked":false,"pubtime":"2025-05-20T06:59:47Z"}
 {"name":"time-format","vers":"1.2.2","deps":[],"cksum":"caa08af685f978227b475da86d38312cd1acd5024338bf53a1ab9a799219507d","features":{"bench":[],"default":[]},"yanked":false,"pubtime":"2025-10-08T18:56:54Z"}
+{"name":"time-format","vers":"1.2.3","deps":[],"cksum":"fb54c799611991d3d4a66fee3ff17b9f600c2a0f8c0d34e8209dbd153ff0a87b","features":{"bench":[],"default":[]},"yanked":false,"pubtime":"2026-08-20T18:27:48Z"}
