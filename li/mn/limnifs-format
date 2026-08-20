@@ -1,1 +1,2 @@
 {"name":"limnifs-format","vers":"0.1.0","deps":[],"cksum":"33efa9b3bcf3718a2ab9464f301f2cefade731ff45fd2aec49ecfe447c16d20d","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-01T12:12:12Z"}
+{"name":"limnifs-format","vers":"0.2.50","deps":[],"cksum":"3a174cbb95f858faa4f33b7462c38cfa69e5f3432eb8bfd4a97c1ef63d94505f","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-20T10:38:32Z"}
