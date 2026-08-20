@@ -22,3 +22,4 @@
 {"name":"spg-tzif","vers":"7.38.6","deps":[],"cksum":"e903b510e91914f7b5f4d6101577e830aeb0ccbe9b0e09c778dc6f77ec820a68","features":{},"yanked":false,"pubtime":"2026-08-19T22:26:04Z"}
 {"name":"spg-tzif","vers":"7.38.7","deps":[],"cksum":"776bd48b682dd56d5270372150ccc6cd8ef5b2e7a64e0983cc21e3917596e9f0","features":{},"yanked":false,"pubtime":"2026-08-20T10:30:01Z"}
 {"name":"spg-tzif","vers":"7.38.8","deps":[],"cksum":"841eb0b05e8425fca0d72ed3ac2c7f10cbc3876862df307ed05a7013df19a9df","features":{},"yanked":false,"pubtime":"2026-08-20T14:45:54Z"}
+{"name":"spg-tzif","vers":"7.38.10","deps":[],"cksum":"ee7ed9646233e9b946f33ff642f768375e99a42ff5f44f4fcb6f11ef46101fae","features":{},"yanked":false,"pubtime":"2026-08-20T20:55:42Z"}
