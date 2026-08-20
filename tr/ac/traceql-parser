@@ -1,0 +1,1 @@
+{"name":"traceql-parser","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6805e1e61b6c41f5acc833877266e5076545146dccc6e0def94975b9afa4440d","features":{},"yanked":false,"pubtime":"2026-08-20T07:34:21Z"}
