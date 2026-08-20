@@ -1,0 +1,1 @@
+{"name":"repolish-md","vers":"0.1.0","deps":[{"name":"comrak","req":"^0.54","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c2e8decb5891b952fefadaa44a9acfe790ef2ca23b5525d5d57c4502af736d77","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-20T02:27:31Z"}
