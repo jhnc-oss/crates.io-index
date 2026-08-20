@@ -6,3 +6,4 @@
 {"name":"expanda-macros","vers":"0.3.1","deps":[],"cksum":"e26f2212ba694dcb57d58ce7ed4f074e9fbb23718b0768985b0d5faa56f048ff","features":{},"yanked":false,"pubtime":"2026-08-15T08:28:40Z"}
 {"name":"expanda-macros","vers":"0.4.0","deps":[],"cksum":"a8436809012a1eecd5b858cf9efd797b15ba9d55568de52ea80525cf790908bf","features":{},"yanked":false,"pubtime":"2026-08-20T05:45:20Z"}
 {"name":"expanda-macros","vers":"0.4.1","deps":[],"cksum":"8502ef7b40c844e92ba23ecf6bd39eff3ce27381bda50787984f1d7ea089fd77","features":{},"yanked":false,"pubtime":"2026-08-20T06:25:49Z"}
+{"name":"expanda-macros","vers":"0.4.2","deps":[],"cksum":"3c0c70a4472daeaa4e2354ffb75402e55be3261e155a7f6d4a093d82d73538f0","features":{},"yanked":false,"pubtime":"2026-08-20T06:45:49Z"}
