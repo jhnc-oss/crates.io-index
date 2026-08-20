@@ -1,0 +1,1 @@
+{"name":"tailfin-wire","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6650ee869494bf27951c461c50812b57a1c4be7eb9ac19a329bac24846333793","features":{},"yanked":false,"pubtime":"2026-08-20T01:31:21Z"}
