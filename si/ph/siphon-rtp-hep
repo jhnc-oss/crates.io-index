@@ -1,1 +1,0 @@
-{"name":"siphon-rtp-hep","vers":"0.2.0","deps":[{"name":"tokio","req":"^1.50","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ca15c1e7cede4660f8399a6165e285d1c7245226510a9d9f5fb5085518cf738","features":{},"yanked":true,"rust_version":"1.88","pubtime":"2026-08-20T11:18:18Z"}
