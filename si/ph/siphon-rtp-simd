@@ -1,1 +1,0 @@
-{"name":"siphon-rtp-simd","vers":"0.2.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7c29b03ca080d58c5636629fe70cc63c82fb56b4674a5b6aed6121d0d1f1b9ec","features":{},"yanked":true,"rust_version":"1.88","pubtime":"2026-08-20T11:16:17Z"}
