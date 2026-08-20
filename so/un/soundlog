@@ -17,3 +17,4 @@
 {"name":"soundlog","vers":"0.10.4","deps":[],"cksum":"07ac83d9c9df9479cacd2a6a08884733e9b3dc013211ba7921978244c95387a8","features":{},"yanked":false,"pubtime":"2026-03-09T06:40:43Z"}
 {"name":"soundlog","vers":"0.11.0","deps":[],"cksum":"40557558ac036c45a4fa49f839397221ab6e318f5edf44178b56bebfd587fbf8","features":{},"yanked":false,"pubtime":"2026-03-09T14:40:00Z"}
 {"name":"soundlog","vers":"0.12.0","deps":[],"cksum":"36f32da4637324965c673fcc21275b68f63073edf0f6a165cd0aa7e50dd62391","features":{},"yanked":false,"pubtime":"2026-03-12T01:42:32Z"}
+{"name":"soundlog","vers":"0.13.0","deps":[],"cksum":"a9ade4a795790a2444d2207a705e3db2d8cf38ab639c10d3ce2b8d5e3e238e01","features":{},"yanked":false,"pubtime":"2026-08-20T02:56:09Z"}
