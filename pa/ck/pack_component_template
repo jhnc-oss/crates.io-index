@@ -218,3 +218,4 @@
 {"name":"pack_component_template","vers":"1.2.0-dev.32243543054","deps":[],"cksum":"eea3ac882e0a94363bb83701f3fdf14c1901c6db4f893bab9f5b01e3d9492db6","features":{},"yanked":false,"pubtime":"2026-08-19T10:53:09Z"}
 {"name":"pack_component_template","vers":"1.2.0-dev.32254414142","deps":[],"cksum":"0e27729f455c0c3d2a2100f3dc0d702d8cd34b92140051179ffe24b7f6bb66ab","features":{},"yanked":false,"pubtime":"2026-08-19T13:24:19Z"}
 {"name":"pack_component_template","vers":"1.2.0-dev.32326434414","deps":[],"cksum":"820ede4c41459f2194aec2aeecefec745aa7594e7ee2179c339df901ff6d2382","features":{},"yanked":false,"pubtime":"2026-08-20T03:27:01Z"}
+{"name":"pack_component_template","vers":"1.2.0-dev.32335755053","deps":[],"cksum":"3dfce87fdc20b04badfb09cdc8d4f0c99e521600a806bd233fbae4babcd0607e","features":{},"yanked":false,"pubtime":"2026-08-20T06:10:43Z"}
