@@ -20,3 +20,4 @@
 {"name":"ecma402_traits","vers":"5.5.0","deps":[],"cksum":"767ca6bb3cfe55ffb15cd5f5a4c32d5b4089668a73b2cb20dc4440d9a6d64356","features":{},"yanked":false,"pubtime":"2026-03-24T20:50:47Z"}
 {"name":"ecma402_traits","vers":"5.6.0","deps":[],"cksum":"77dfa961e8d45a50294c42177f99d385d19050e26bc4bc01fbc815d123bc9a25","features":{},"yanked":false,"pubtime":"2026-03-24T23:52:47Z"}
 {"name":"ecma402_traits","vers":"5.7.0","deps":[],"cksum":"78e23faf2b7a35246e686255cf863ff50bfc2f6df675f76208288405000c8cc5","features":{},"yanked":false,"pubtime":"2026-07-06T18:13:49Z"}
+{"name":"ecma402_traits","vers":"5.8.0","deps":[],"cksum":"e91fed34a6db606289121e531200522fa2a6e80519066ea32129318af7aa7f25","features":{},"yanked":false,"pubtime":"2026-08-20T20:34:46Z"}
