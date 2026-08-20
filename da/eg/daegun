@@ -1,2 +1,2 @@
-{"name":"daegun","vers":"0.0.1","deps":[],"cksum":"9eece9a612101081a370b026cb05601daf7856cb7047b02c668b0e229b05bdcb","features":{},"yanked":false,"pubtime":"2026-07-30T17:39:35Z"}
+{"name":"daegun","vers":"0.0.1","deps":[],"cksum":"9eece9a612101081a370b026cb05601daf7856cb7047b02c668b0e229b05bdcb","features":{},"yanked":true,"pubtime":"2026-07-30T17:39:35Z"}
 {"name":"daegun","vers":"1.0.0","deps":[],"cksum":"251ae1b28a5902dfce40273c9c6a69ef17a6d7ef48ae581179c22fabd210b55b","features":{"capi":["threading"],"default":["std"],"std":[],"threading":["std"]},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-08-20T02:38:39Z"}
