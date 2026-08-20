@@ -24,3 +24,4 @@
 {"name":"amont-runtime","vers":"1.10.0","deps":[],"cksum":"dbfcfb1595869412285a6ef85acb1778454901bb1e0034e9c5a1a0ac175b5827","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-20T07:31:33Z"}
 {"name":"amont-runtime","vers":"1.11.0","deps":[],"cksum":"f002e8698428a72d71cf9c1e8e71e50005f5bf26063381cb2d88d3b302b00f84","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-20T08:34:01Z"}
 {"name":"amont-runtime","vers":"1.11.1","deps":[],"cksum":"66ac6f61f308a5ad9fcfe6a093e47f363995b81062522cee6f5c49a504e4afff","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-20T10:39:23Z"}
+{"name":"amont-runtime","vers":"1.12.0","deps":[],"cksum":"9253f91c0b9a84d2caedbc39f32956cb18dc12195b5b6762e70d1ea90a28f600","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-20T10:48:31Z"}
