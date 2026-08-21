@@ -1,0 +1,1 @@
+{"name":"lightweight-pdf-fonts","vers":"0.1.0","deps":[{"name":"skrifa","req":"^0.46","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4705cdcc23076e89deacc9c8ba7437eda6360af76d6427eb2db30f258c957b0e","features":{},"yanked":false,"pubtime":"2026-08-21T09:21:44Z"}
