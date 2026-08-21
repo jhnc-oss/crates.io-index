@@ -1,0 +1,1 @@
+{"name":"oxmera-autograd","vers":"0.0.1","deps":[{"name":"oxmera-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecd92a1328e12e947474f142f1d302a57f0317df9e7eb55d27f22396795ddd44","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-21T07:57:15Z"}
