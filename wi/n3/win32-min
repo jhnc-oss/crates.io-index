@@ -1,0 +1,1 @@
+{"name":"win32-min","vers":"0.1.0","deps":[],"cksum":"aa1c628d9f6772c90e09a283187f0d492fbbdf23ee01f0f9a8ef189085c6618f","features":{"default":[],"eventlog":[],"full":["security-token","services","lsa-auth","eventlog"],"lsa-auth":[],"security-token":[],"services":[]},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-21T10:17:57Z"}
