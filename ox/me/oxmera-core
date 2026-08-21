@@ -1,0 +1,1 @@
+{"name":"oxmera-core","vers":"0.0.1","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"994b00e1b570602fc21bfda008e0676f0e06708928fce6ce340a9745cfc905a1","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-21T07:47:05Z"}
