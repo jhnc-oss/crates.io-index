@@ -1,0 +1,1 @@
+{"name":"kafka-client-core","vers":"0.0.1","deps":[{"name":"zeroize","req":"^1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc0c7373c424b8c82e9614bd55dccc730b7c3dad5f3db200bff51ce8af8bef07","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-21T16:11:08Z"}
