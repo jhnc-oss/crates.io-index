@@ -2,3 +2,4 @@
 {"name":"fastapi-types","vers":"0.2.1","deps":[],"cksum":"450436a80f675d4ab6f0e3c556219e3c19da0a366bc0e44120834aa95316fdfe","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-03-22T04:13:33Z"}
 {"name":"fastapi-types","vers":"0.3.0","deps":[],"cksum":"7c3926f6e9e3f16fe0a02d06d37b2feebf9a210a04e32206a8fa623883704367","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-21T20:11:56Z"}
 {"name":"fastapi-types","vers":"0.3.1","deps":[],"cksum":"a614846493b09d528f0764a8c8d83d58ff6c26b5db707b62edbe630a353660dd","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-27T02:37:22Z"}
+{"name":"fastapi-types","vers":"0.4.0","deps":[],"cksum":"d3796f1650919c98d171349a32d9183ddb623b6ab5d913f309894c29e3fb0a3a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-21T01:31:48Z"}
