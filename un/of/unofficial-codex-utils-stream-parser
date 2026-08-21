@@ -1,0 +1,1 @@
+{"name":"unofficial-codex-utils-stream-parser","vers":"2026.8.0","deps":[{"name":"pretty_assertions","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c913688151fa5038f847201b89da85b469c720b463fd62db7a2e99a84e7e33da","features":{},"yanked":false,"pubtime":"2026-08-21T21:18:32Z"}
