@@ -1,0 +1,1 @@
+{"name":"oxmera-tensor","vers":"0.0.1","deps":[{"name":"oxmera-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed6a76ace62fcf33f02225a84fd7ac35e44ef0576a9ea622f8d839036fcc4afd","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-21T07:47:07Z"}
