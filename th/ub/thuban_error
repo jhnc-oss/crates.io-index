@@ -1,0 +1,1 @@
+{"name":"thuban_error","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54d10e522e75e79886d36d18ca51122c3b53903deb30bb42cf4ded093d2bc3f6","features":{},"yanked":false,"pubtime":"2026-08-21T04:21:57Z"}
