@@ -7,3 +7,4 @@
 {"name":"hc32f460_driver_sys","vers":"0.4.0","deps":[],"cksum":"85a666229994edbf46ecdf8ab1abfbbbe31d39b619f0aee30a260f21f9630b0e","features":{},"yanked":false,"pubtime":"2026-06-15T07:37:05Z"}
 {"name":"hc32f460_driver_sys","vers":"0.4.1","deps":[],"cksum":"c4498e5620eda41cac8ba32869a2b1bff38b25d35d06418e9014cfec64e964f7","features":{},"yanked":false,"pubtime":"2026-06-15T11:25:42Z"}
 {"name":"hc32f460_driver_sys","vers":"0.4.2","deps":[],"cksum":"17c6b8b124c5af8bfb5a2a35229e8aa9910b050780ce0303449a6d6293958bee","features":{},"yanked":false,"pubtime":"2026-06-18T04:09:20Z"}
+{"name":"hc32f460_driver_sys","vers":"0.4.3","deps":[],"cksum":"8858791b208c6c70d5477dbff62fbc47a164afeb879e3e7638e5f5b310e4ebf8","features":{},"yanked":false,"pubtime":"2026-08-21T04:42:11Z"}
