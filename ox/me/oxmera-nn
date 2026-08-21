@@ -1,0 +1,1 @@
+{"name":"oxmera-nn","vers":"0.0.1","deps":[{"name":"oxmera-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9df44217f4494f7b5eb293895543f3d4e3bb66b9b27da3bfb24de4c9d244fc4b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-21T08:07:18Z"}
