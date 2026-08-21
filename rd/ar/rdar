@@ -9,3 +9,4 @@
 {"name":"rdar","vers":"0.5.9","deps":[],"cksum":"a8379461b4d372569755cdf2460e56f6dbe0db107d5125de7813a92db4ed1f31","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-21T09:54:29Z"}
 {"name":"rdar","vers":"0.5.10","deps":[],"cksum":"2b990634ca4f514a0dbda3d5e373c8fb6d03ca597db6a78f2460498a738a1412","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-21T11:17:59Z"}
 {"name":"rdar","vers":"0.5.11","deps":[],"cksum":"0e509357adbeb9e7016545b996b5842ddfe110c527ab5e7175e9190d62db349e","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-21T11:49:10Z"}
+{"name":"rdar","vers":"0.5.12","deps":[],"cksum":"a6e0434bb9b8d860f1109e5ea974377e575213794cccbc73001e42b246d9b266","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-21T12:30:47Z"}
