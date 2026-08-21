@@ -1,0 +1,1 @@
+{"name":"libcstring","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.189","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c9cf5909ba6d8265bb30e9c4d6a98bc6aa39308249516d4e959a8638f5649be4","features":{},"yanked":false,"pubtime":"2026-08-21T22:00:18Z"}
