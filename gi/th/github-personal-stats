@@ -1,0 +1,1 @@
+{"name":"github-personal-stats","vers":"1.2.1","deps":[{"name":"github-personal-stats-core","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c0704884e4099b56efccfaca76efaae9ce97886f5238fadabd2af389fd7b507","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-21T05:22:15Z"}
