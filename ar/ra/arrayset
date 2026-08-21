@@ -19,3 +19,4 @@
 {"name":"arrayset","vers":"3.1.0","deps":[],"cksum":"2fd60c8957d2a7e7efe60eba6222b762786bec71d0cc41f52c37e73720b70bb1","features":{},"yanked":false,"pubtime":"2024-11-20T21:23:23Z"}
 {"name":"arrayset","vers":"3.1.1","deps":[],"cksum":"e497eb268943652c0dee0f03896708e282ce822b32ae4ea937c9e3496be14288","features":{},"yanked":false,"pubtime":"2024-11-21T02:48:16Z"}
 {"name":"arrayset","vers":"4.0.0","deps":[],"cksum":"0dc52f4ad96b776de5a555471cd0f1e83a4cdeaf3fd7588492c62375c38a7394","features":{},"yanked":false,"pubtime":"2026-08-21T14:23:29Z"}
+{"name":"arrayset","vers":"4.1.0","deps":[],"cksum":"9120eab571a5c8914cbedf758529aa2dba4c78f37fc285ce4610d8b054336929","features":{},"yanked":false,"pubtime":"2026-08-21T22:27:33Z"}
