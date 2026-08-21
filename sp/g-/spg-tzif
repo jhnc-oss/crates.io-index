@@ -25,3 +25,4 @@
 {"name":"spg-tzif","vers":"7.38.10","deps":[],"cksum":"ee7ed9646233e9b946f33ff642f768375e99a42ff5f44f4fcb6f11ef46101fae","features":{},"yanked":false,"pubtime":"2026-08-20T20:55:42Z"}
 {"name":"spg-tzif","vers":"7.38.11","deps":[],"cksum":"9604b5ba2916aea9c39fbd115e46a8e1960aaef41eda13d6880bb1c13a9e33cf","features":{},"yanked":false,"pubtime":"2026-08-20T23:31:09Z"}
 {"name":"spg-tzif","vers":"7.38.12","deps":[],"cksum":"d42d9c4044f446d04aacb55c3346655a757c0e0c405e0e9aa9d6728caf12daaa","features":{},"yanked":false,"pubtime":"2026-08-21T01:13:40Z"}
+{"name":"spg-tzif","vers":"7.38.13","deps":[],"cksum":"297d3de8bd5f24b739ee20dc6f609a5c7ffae52cad36363784bc67749a6f98fa","features":{},"yanked":false,"pubtime":"2026-08-21T08:33:46Z"}
