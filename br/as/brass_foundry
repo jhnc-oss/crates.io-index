@@ -7,3 +7,4 @@
 {"name":"brass_foundry","vers":"0.13.14","deps":[],"cksum":"7ec340d8debb6b5beedc265845dfb83f4d97560586597e4dda7ef752f13e6dd8","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-19T14:26:18Z"}
 {"name":"brass_foundry","vers":"0.13.15","deps":[],"cksum":"9dc690bae67b653ace1c9c0a5b8c66188d6568382389c6b378bfecd0dac54180","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-20T05:31:32Z"}
 {"name":"brass_foundry","vers":"0.13.16","deps":[],"cksum":"512925632851247e1894126e10207b2636ce759fbe6f4a11d5f4d2673141af1c","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-21T17:26:16Z"}
+{"name":"brass_foundry","vers":"0.13.18","deps":[],"cksum":"3a9b9ccc4853533ca714bbb5f35df962e8d3856a943d9387399511548d28fe01","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-21T17:32:15Z"}
