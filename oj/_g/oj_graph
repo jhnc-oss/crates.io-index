@@ -28,3 +28,4 @@
 {"name":"oj_graph","vers":"0.0.43","deps":[],"cksum":"3ed78ccc1c094084486983dad70fc3373da0e62345a0aad584ed65aac6dc05e2","features":{},"yanked":false,"pubtime":"2026-08-20T09:33:33Z"}
 {"name":"oj_graph","vers":"0.0.44","deps":[],"cksum":"127d36e85b450ea522febc0d024487b68f44b99633f0e6445646757d8851950f","features":{},"yanked":false,"pubtime":"2026-08-20T11:46:22Z"}
 {"name":"oj_graph","vers":"0.0.45","deps":[],"cksum":"efa98fd036c2e144ce064b223c98558de273d6f956b71cfd597ff4837f32ae56","features":{},"yanked":false,"pubtime":"2026-08-20T12:54:34Z"}
+{"name":"oj_graph","vers":"0.0.46","deps":[{"name":"proptest","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d1df08210ab5c1a5856caff5e0c80d5ed702f5146acdc6b0ce5c8e388d414ff2","features":{},"yanked":false,"pubtime":"2026-08-21T12:45:23Z"}
