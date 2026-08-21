@@ -1,0 +1,1 @@
+{"name":"oxmera-optim","vers":"0.0.1","deps":[{"name":"oxmera-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acde71eaca5bae0f98bb0286456077b775a2c0cb1b4fef354a66530502b35e02","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-21T08:17:20Z"}
