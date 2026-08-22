@@ -15,3 +15,4 @@
 {"name":"zilog_z80","vers":"1.0.0","deps":[],"cksum":"6e4f71fdd71f03e0d7762ddb5cb0af3ccfba429ce2e20d41e8752d02bc04b1b3","features":{},"yanked":false,"pubtime":"2026-08-15T13:42:56Z"}
 {"name":"zilog_z80","vers":"1.1.0","deps":[],"cksum":"f361bf5e0a426ccf6ea0d2281f10f16b814507f94198fbb63b49006bb09247ee","features":{},"yanked":false,"pubtime":"2026-08-21T15:35:34Z"}
 {"name":"zilog_z80","vers":"1.1.1","deps":[],"cksum":"7aa65f29d84d2fee742b41ca01a88f2325df9d51567cdcb3572158035f1b95ab","features":{},"yanked":false,"pubtime":"2026-08-22T13:23:35Z"}
+{"name":"zilog_z80","vers":"1.1.2","deps":[],"cksum":"a7ef24fe15218e69767e72c0cbc30e34c9d032253c91c5a82e6c1019e4808336","features":{},"yanked":false,"pubtime":"2026-08-22T16:51:12Z"}
