@@ -6,3 +6,4 @@
 {"name":"dicebear-schema","vers":"1.5.0-rc.1","deps":[],"cksum":"126dfaba7bb80e8aacb5b993b9bfde8d855352f4614fa18319efe4e6791979ee","features":{},"yanked":false,"pubtime":"2026-08-22T10:58:04Z"}
 {"name":"dicebear-schema","vers":"1.5.0-rc.2","deps":[],"cksum":"86457b26e7c1e3eee15b97ad6bd4553c616e1cf6f335c84a32da3f9cc2ec4c99","features":{},"yanked":false,"pubtime":"2026-08-22T11:05:22Z"}
 {"name":"dicebear-schema","vers":"1.5.0","deps":[],"cksum":"4c80c887c8c02a327a460c7a45e8ca3d20de86cc90071b00649182025aa8268f","features":{},"yanked":false,"pubtime":"2026-08-22T11:29:57Z"}
+{"name":"dicebear-schema","vers":"1.5.1","deps":[],"cksum":"36b01d84059a5a32c90c4d942644d27a65661fd937c57bc70228090db0ec5579","features":{},"yanked":false,"pubtime":"2026-08-22T17:53:33Z"}
