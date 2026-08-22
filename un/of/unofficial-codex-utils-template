@@ -1,1 +1,0 @@
-{"name":"unofficial-codex-utils-template","vers":"2026.8.0","deps":[{"name":"pretty_assertions","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e15e22e70dddf563bc4756c24ffc9464586bbffd61e6cf27c4393217d18ad402","features":{},"yanked":false,"pubtime":"2026-08-21T21:18:42Z"}
