@@ -3,3 +3,4 @@
 {"name":"struktura","vers":"0.3.0","deps":[],"cksum":"9ab3fa3b70068914ebbedd3f92d8801c3300e3a011e518bf4da2a89a26cc0172","features":{},"yanked":false,"pubtime":"2026-08-22T14:20:22Z"}
 {"name":"struktura","vers":"0.3.1","deps":[],"cksum":"4aadb4fdce0c8fa0f20e73d67b6c6b656c63dcc5ea519cae60ce5ec6e1ac8ac2","features":{},"yanked":false,"pubtime":"2026-08-22T14:38:14Z"}
 {"name":"struktura","vers":"0.3.2","deps":[],"cksum":"665416a63d87e35f2ed755f6adc9fb4e3cf612ce3bba15f81a07b3a3026e8ea6","features":{},"yanked":false,"pubtime":"2026-08-22T14:40:21Z"}
+{"name":"struktura","vers":"0.3.3","deps":[],"cksum":"62734eedc93e056e8d6c6e50f2ec0fdcafd8f06a3746d5cfe8883e25e02dc5aa","features":{},"yanked":false,"pubtime":"2026-08-22T14:43:07Z"}
