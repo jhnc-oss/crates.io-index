@@ -5,3 +5,4 @@
 {"name":"boxferry-model","vers":"0.5.0","deps":[],"cksum":"503beb58d7220a5b7d5423de585eb3dc41cb3cc156d2740259b1ab6e9cc67988","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-19T17:51:49Z"}
 {"name":"boxferry-model","vers":"0.5.1","deps":[],"cksum":"d6b4ae0520af011241a734234a15448cab5f03796bd2d5f14f66a8a5f91553a7","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-21T12:16:47Z"}
 {"name":"boxferry-model","vers":"0.6.0","deps":[],"cksum":"d665c84b9ec6b0c553f705615f185b806a7cb897f0671da9d42697cdf700d732","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-22T06:46:26Z"}
+{"name":"boxferry-model","vers":"0.7.0","deps":[],"cksum":"99f10d4e1a2bfc3208925f75d7b049b6621942dd7ba70494f3c3e96c06b1d6b4","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-22T12:32:02Z"}
