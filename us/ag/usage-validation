@@ -1,1 +1,2 @@
 {"name":"usage-validation","vers":"0.0.0","deps":[],"cksum":"40000d69be8963e87daa64577e511896f2558da60f5c192658442e8cb4bc4e1c","features":{},"yanked":false,"pubtime":"2026-08-22T01:54:47Z"}
+{"name":"usage-validation","vers":"5.1.0","deps":[{"name":"expr-lang","req":"^2.1.0","features":["regex"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1834943d37db4276e0e21b83226d7ec57ebdd7fe562376a6041bb8aae89c77ca","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-08-22T02:01:13Z"}
