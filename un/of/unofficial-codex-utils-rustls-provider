@@ -1,1 +1,0 @@
-{"name":"unofficial-codex-utils-rustls-provider","vers":"2026.8.0","deps":[{"name":"rustls","req":"^0.23","features":["ring","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9bf2a26d662afde937d526e605d9740f77a6f470cb22d8cb38ea39ec32f73f51","features":{},"yanked":false,"pubtime":"2026-08-21T15:39:13Z"}
