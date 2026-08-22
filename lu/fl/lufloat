@@ -1,3 +1,4 @@
 {"name":"lufloat","vers":"0.1.0","deps":[],"cksum":"492fe037c98c932ad07455cc7a9faeb4dfc0882d1e908e8b470b589406c2bec0","features":{},"yanked":false,"pubtime":"2026-08-22T01:15:31Z"}
 {"name":"lufloat","vers":"0.1.1","deps":[],"cksum":"9dc34d9671cc4e3e992eccb61ad58fed9621052355ad56471bd2d05dae90331a","features":{},"yanked":false,"pubtime":"2026-08-22T01:24:49Z"}
 {"name":"lufloat","vers":"0.1.2","deps":[],"cksum":"5a80bf71730aba8727ef54960f7becd76049bebd95f7e01ac9c6508775363c82","features":{},"yanked":false,"pubtime":"2026-08-22T01:41:52Z"}
+{"name":"lufloat","vers":"0.1.3","deps":[],"cksum":"f00f68f3e58a2f01c81f7f13d69f0bb879eca9b91efce7840ec614d877da816b","features":{},"yanked":false,"pubtime":"2026-08-22T15:49:24Z"}
