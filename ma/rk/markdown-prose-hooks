@@ -2,3 +2,4 @@
 {"name":"markdown-prose-hooks","vers":"0.0.2","deps":[],"cksum":"2d63f548dcd04513ed34cc2faed53d5e306b2dee1f7b1ab26657edbc4d781278","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-08-21T14:26:39Z"}
 {"name":"markdown-prose-hooks","vers":"0.1.0","deps":[],"cksum":"a49125e344f35a11b08972c1793b234354252ccb023f41ffb405032aa7c746ef","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-08-22T03:13:37Z"}
 {"name":"markdown-prose-hooks","vers":"0.1.1","deps":[],"cksum":"ea231fa54e8621d07c96276a1fa2d789b73d33450ad4dde7e8eb479f90e733a9","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-08-22T06:02:38Z"}
+{"name":"markdown-prose-hooks","vers":"0.1.2","deps":[],"cksum":"de7d69193af33f394446180b1c6510c1aa66248da04efd7e4a60286fe2c640a7","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-08-22T06:33:58Z"}
