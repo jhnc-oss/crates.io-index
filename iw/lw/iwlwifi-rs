@@ -1,4 +1,4 @@
 {"name":"iwlwifi-rs","vers":"0.1.0","deps":[],"cksum":"eb589c4e7cf0d2141f6a8c58cbb4950b833c1d0ef02910a291ff4f0f96e39f54","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-21T18:42:42Z"}
 {"name":"iwlwifi-rs","vers":"0.1.1","deps":[],"cksum":"d7365ae9b144d07b417e0387d771452eff568d1d6f00337459d9a0b33fa41172","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-21T22:52:16Z"}
 {"name":"iwlwifi-rs","vers":"0.1.2","deps":[],"cksum":"f4ab1aa060707ae111fdf451d7ede2f93c40910cf87820ecb902f720e6c069a7","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-21T23:31:25Z"}
-{"name":"iwlwifi-rs","vers":"0.1.4","deps":[],"cksum":"6e7a220d1369f35f083ceddf710c6e0c6437892dddad454aba157704607cde7e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-22T00:21:31Z"}
+{"name":"iwlwifi-rs","vers":"0.1.4","deps":[],"cksum":"6e7a220d1369f35f083ceddf710c6e0c6437892dddad454aba157704607cde7e","features":{},"yanked":true,"rust_version":"1.85","pubtime":"2026-08-22T00:21:31Z"}
