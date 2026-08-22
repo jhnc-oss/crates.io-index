@@ -1,1 +1,0 @@
-{"name":"unofficial-codex-utils-approval-presets","vers":"2026.8.0","deps":[{"name":"codex-protocol","req":"^2026.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"unofficial-codex-protocol"}],"cksum":"d2c2495e5b5fdace3e17b71326d2cbebde6b990d8fb0219afe91463a60f1c04d","features":{},"yanked":false,"pubtime":"2026-08-21T23:46:46Z"}
