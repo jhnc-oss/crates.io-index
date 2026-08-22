@@ -1,3 +1,4 @@
 {"name":"struktura","vers":"0.1.0","deps":[],"cksum":"7ffcbc351e28cf3eee5b1afe40548ebf2f4a94ce26d5ca02983d60ebc2f446e4","features":{},"yanked":false,"pubtime":"2026-08-22T13:17:26Z"}
 {"name":"struktura","vers":"0.2.0","deps":[],"cksum":"c677dee08f108b1bd786d45937a6e11d0da4acbaca3b9200c6602a182c8bc14c","features":{},"yanked":false,"pubtime":"2026-08-22T14:11:35Z"}
 {"name":"struktura","vers":"0.3.0","deps":[],"cksum":"9ab3fa3b70068914ebbedd3f92d8801c3300e3a011e518bf4da2a89a26cc0172","features":{},"yanked":false,"pubtime":"2026-08-22T14:20:22Z"}
+{"name":"struktura","vers":"0.3.1","deps":[],"cksum":"4aadb4fdce0c8fa0f20e73d67b6c6b656c63dcc5ea519cae60ce5ec6e1ac8ac2","features":{},"yanked":false,"pubtime":"2026-08-22T14:38:14Z"}
