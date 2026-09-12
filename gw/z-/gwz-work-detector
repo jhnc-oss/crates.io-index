@@ -1,0 +1,1 @@
+{"name":"gwz-work-detector","vers":"0.0.2","deps":[{"name":"gwz-repo-contract","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4222bcdfa2ae224f06fe05f09ce807efe2aef0d99b2b354d5d625e1ab78ba50b","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-12T22:06:00Z"}
