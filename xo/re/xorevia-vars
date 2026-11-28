@@ -1,0 +1,1 @@
+{"name":"xorevia-vars","vers":"0.0.1-alpha.2","deps":[{"name":"xorevia-core","req":"^0.0.1-alpha.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c06a13be0cb6ca1221c849824a85cf2d51c125516e4dc93dde6389084ee32a77","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-28T14:54:31Z"}
